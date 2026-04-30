@@ -1,6 +1,6 @@
 import styles from './index.module.css'
 import { keySoundResources } from '@/resources/soundResource'
-import { hintSoundsConfigAtom, keySoundsConfigAtom, pronunciationConfigAtom } from '@/store'
+import { hintSoundsConfigAtom, keySoundsConfigAtom, playModeConfigAtom, pronunciationConfigAtom } from '@/store'
 import type { SoundResource } from '@/typings'
 import { toFixedNumber } from '@/utils'
 import { playKeySoundResource } from '@/utils/sounds/keySounds'
@@ -17,6 +17,26 @@ export default function SoundSetting() {
   const [pronunciationConfig, setPronunciationConfig] = useAtom(pronunciationConfigAtom)
   const [keySoundsConfig, setKeySoundsConfig] = useAtom(keySoundsConfigAtom)
   const [hintSoundsConfig, setHintSoundsConfig] = useAtom(hintSoundsConfigAtom)
+  const [playModeConfig, setPlayModeConfig] = useAtom(playModeConfigAtom)
+
+  const onChangePlayRepeatTimes = useCallback(
+    (value: [number]) => {
+      setPlayModeConfig((prev) => ({ ...prev, repeatTimes: value[0] }))
+    },
+    [setPlayModeConfig],
+  )
+  const onChangePlayInterval = useCallback(
+    (value: [number]) => {
+      setPlayModeConfig((prev) => ({ ...prev, intervalMs: value[0] }))
+    },
+    [setPlayModeConfig],
+  )
+  const onTogglePlayReadTrans = useCallback(
+    (checked: boolean) => {
+      setPlayModeConfig((prev) => ({ ...prev, readTrans: checked }))
+    },
+    [setPlayModeConfig],
+  )
 
   const onTogglePronunciation = useCallback(
     (checked: boolean) => {
@@ -207,6 +227,56 @@ export default function SoundSetting() {
               </div>
             </div>
           )}
+
+          <div className={styles.section}>
+            <span className={styles.sectionLabel}>播放模式</span>
+            <div className={styles.switchBlock}>
+              <Switch checked={playModeConfig.readTrans} onChange={onTogglePlayReadTrans} className="switch-root">
+                <span aria-hidden="true" className="switch-thumb" />
+              </Switch>
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`朗读释义已${
+                playModeConfig.readTrans ? '开启' : '关闭'
+              }`}</span>
+            </div>
+            <div className={styles.block}>
+              <span className={styles.blockLabel}>朗读次数</span>
+              <div className="flex h-5 w-full items-center justify-between">
+                <Slider.Root
+                  defaultValue={[playModeConfig.repeatTimes]}
+                  max={5}
+                  min={1}
+                  step={1}
+                  className="slider"
+                  onValueChange={onChangePlayRepeatTimes}
+                >
+                  <Slider.Track>
+                    <Slider.Range />
+                  </Slider.Track>
+                  <Slider.Thumb />
+                </Slider.Root>
+                <span className="ml-4 w-10 text-xs font-normal text-gray-600">{`${playModeConfig.repeatTimes} 次`}</span>
+              </div>
+            </div>
+            <div className={styles.block}>
+              <span className={styles.blockLabel}>切换间隔</span>
+              <div className="flex h-5 w-full items-center justify-between">
+                <Slider.Root
+                  defaultValue={[playModeConfig.intervalMs]}
+                  max={5000}
+                  min={300}
+                  step={100}
+                  className="slider"
+                  onValueChange={onChangePlayInterval}
+                >
+                  <Slider.Track>
+                    <Slider.Range />
+                  </Slider.Track>
+                  <Slider.Thumb />
+                </Slider.Root>
+                <span className="ml-4 w-10 text-xs font-normal text-gray-600">{`${(playModeConfig.intervalMs / 1000).toFixed(1)}s`}</span>
+              </div>
+            </div>
+          </div>
 
           <div className={styles.section}>
             <span className={styles.sectionLabel}>按键音</span>
