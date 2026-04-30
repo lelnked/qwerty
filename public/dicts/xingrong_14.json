@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "young",
+    "trans": [
+      "年轻的"
+    ],
+    "usphone": "/jʌŋ/",
+    "ukphone": "/jʌŋ/"
+  },
+  {
+    "name": "I am young",
+    "trans": [
+      "我是年轻的"
+    ],
+    "usphone": "/aɪ/ /æm/ /jʌŋ/",
+    "ukphone": "/aɪ/ /æm/ /jʌŋ/"
+  },
+  {
+    "name": "I am not young",
+    "trans": [
+      "我是不年轻的"
+    ],
+    "usphone": "/aɪ/ /æm/ /nɑt/ /jʌŋ/",
+    "ukphone": "/aɪ/ /æm/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "I was young",
+    "trans": [
+      "我（过去）是年轻的"
+    ],
+    "usphone": "/aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "I was not young",
+    "trans": [
+      "我（过去）是不年轻的"
+    ],
+    "usphone": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/",
+    "ukphone": "/aɪ/ /wəz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "he is",
+    "trans": [
+      "他是"
+    ],
+    "usphone": "/hi/ /ɪz/",
+    "ukphone": "/hi/ /ɪz/"
+  },
+  {
+    "name": "he is young",
+    "trans": [
+      "他是年轻的"
+    ],
+    "usphone": "/hi/ /ɪz/ /jʌŋ/",
+    "ukphone": "/hi/ /ɪz/ /jʌŋ/"
+  },
+  {
+    "name": "he is not young",
+    "trans": [
+      "他是不年轻的"
+    ],
+    "usphone": "/hi/ /ɪz/ /nɑt/ /jʌŋ/",
+    "ukphone": "/hi/ /ɪz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "he was young",
+    "trans": [
+      "他（过去）是年轻的"
+    ],
+    "usphone": "/hi/ /wəz/ /jʌŋ/",
+    "ukphone": "/hi/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "he was not young",
+    "trans": [
+      "他（过去）是不年轻的"
+    ],
+    "usphone": "/hi/ /wəz/ /nɑt/ /jʌŋ/",
+    "ukphone": "/hi/ /wəz/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "we are",
+    "trans": [
+      "我们是"
+    ],
+    "usphone": "/wi/ /ɚ/",
+    "ukphone": "/wi/ /ɚ/"
+  },
+  {
+    "name": "we are young",
+    "trans": [
+      "我们是年轻的"
+    ],
+    "usphone": "/wi/ /ɚ/ /jʌŋ/",
+    "ukphone": "/wi/ /ɚ/ /jʌŋ/"
+  },
+  {
+    "name": "we are not young",
+    "trans": [
+      "我们是不年轻的"
+    ],
+    "usphone": "/wi/ /ɚ/ /nɑt/ /jʌŋ/",
+    "ukphone": "/wi/ /ɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "we were young",
+    "trans": [
+      "我们（过去）是年轻的"
+    ],
+    "usphone": "/wi/ /wɚ/ /jʌŋ/",
+    "ukphone": "/wi/ /wɚ/ /jʌŋ/"
+  },
+  {
+    "name": "we were not young",
+    "trans": [
+      "我们（过去）是不年轻的"
+    ],
+    "usphone": "/wi/ /wɚ/ /nɑt/ /jʌŋ/",
+    "ukphone": "/wi/ /wɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are young",
+    "trans": [
+      "你是年轻的"
+    ],
+    "usphone": "/ju/ /ɚ/ /jʌŋ/",
+    "ukphone": "/ju/ /ɚ/ /jʌŋ/"
+  },
+  {
+    "name": "you are not young",
+    "trans": [
+      "你是不年轻的"
+    ],
+    "usphone": "/ju/ /ɚ/ /nɑt/ /jʌŋ/",
+    "ukphone": "/ju/ /ɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "you were young",
+    "trans": [
+      "你（过去）是年轻的"
+    ],
+    "usphone": "/ju/ /wɚ/ /jʌŋ/",
+    "ukphone": "/ju/ /wɚ/ /jʌŋ/"
+  },
+  {
+    "name": "you were not young",
+    "trans": [
+      "你（过去）是不年轻的"
+    ],
+    "usphone": "/ju/ /wɚ/ /nɑt/ /jʌŋ/",
+    "ukphone": "/ju/ /wɚ/ /nɑt/ /jʌŋ/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "you were very young",
+    "trans": [
+      "你（过去）是非常年轻的"
+    ],
+    "usphone": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/",
+    "ukphone": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/"
+  },
+  {
+    "name": "to see",
+    "trans": [
+      "见到"
+    ],
+    "usphone": "/tə/ /si/",
+    "ukphone": "/tə/ /si/"
+  },
+  {
+    "name": "I saw you",
+    "trans": [
+      "我（过去）见到你"
+    ],
+    "usphone": "/aɪ/ /sɔ/ /ju/",
+    "ukphone": "/aɪ/ /sɔ/ /ju/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I saw you",
+    "trans": [
+      "当我（过去）见到你的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /sɔ/ /ju/",
+    "ukphone": "/wɛn/ /aɪ/ /sɔ/ /ju/"
+  },
+  {
+    "name": "first",
+    "trans": [
+      "第一次"
+    ],
+    "usphone": "/fɝst/",
+    "ukphone": "/fɝst/"
+  },
+  {
+    "name": "when I first saw you",
+    "trans": [
+      "当我第一次（过去）见到你的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+    "ukphone": "/wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+  },
+  {
+    "name": "you were very young when I first saw you",
+    "trans": [
+      "当我第一次（过去）见到你的时候你（过去）是非常年轻的"
+    ],
+    "usphone": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/",
+    "ukphone": "/ju/ /wɚ/ /ˈvɛri/ /jʌŋ/ /wɛn/ /aɪ/ /fɝst/ /sɔ/ /ju/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "an apple",
+    "trans": [
+      "一个苹果"
+    ],
+    "usphone": "/ən/ /'æpl/",
+    "ukphone": "/ən/ /'æpl/"
+  },
+  {
+    "name": "to eat an apple",
+    "trans": [
+      "吃一个苹果"
+    ],
+    "usphone": "/tə/ /it/ /ən/ /'æpl/",
+    "ukphone": "/tə/ /it/ /ən/ /'æpl/"
+  },
+  {
+    "name": "I want to eat an apple",
+    "trans": [
+      "我想要吃一个苹果"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "I want to eat an apple every day",
+    "trans": [
+      "我想要每天吃一个苹果"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I eat an apple every day",
+    "trans": [
+      "我每天吃一个苹果"
+    ],
+    "usphone": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /it/ /ən/ /'æpl/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "ate",
+    "trans": [
+      "吃了"
+    ],
+    "usphone": "/et/",
+    "ukphone": "/et/"
+  },
+  {
+    "name": "ate an apple",
+    "trans": [
+      "吃了一个苹果"
+    ],
+    "usphone": "/et/ /ən/ /'æpl/",
+    "ukphone": "/et/ /ən/ /'æpl/"
+  },
+  {
+    "name": "I ate an apple",
+    "trans": [
+      "我吃了一个苹果"
+    ],
+    "usphone": "/aɪ/ /et/ /ən/ /'æpl/",
+    "ukphone": "/aɪ/ /et/ /ən/ /'æpl/"
+  },
+  {
+    "name": "she ate an apple",
+    "trans": [
+      "她吃了一个苹果"
+    ],
+    "usphone": "/ʃi/ /et/ /ən/ /'æpl/",
+    "ukphone": "/ʃi/ /et/ /ən/ /'æpl/"
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/ə'ɡo/",
+    "ukphone": "/ə'ɡo/"
+  },
+  {
+    "name": "an hour",
+    "trans": [
+      "一小时"
+    ],
+    "usphone": "/ən/ /'aʊɚ/",
+    "ukphone": "/ən/ /'aʊɚ/"
+  },
+  {
+    "name": "an hour ago",
+    "trans": [
+      "在一小时之前"
+    ],
+    "usphone": "/ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "she ate an apple an hour ago",
+    "trans": [
+      "她在一小时之前吃了一个苹果"
+    ],
+    "usphone": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/ʃi/ /et/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "she didn't eat an apple an hour ago",
+    "trans": [
+      "她在一小时之前没吃一个苹果"
+    ],
+    "usphone": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/ʃi/ /dɪdnt/ /it/ /ən/ /'æpl/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "some water",
+    "trans": [
+      "一些水"
+    ],
+    "usphone": "/səm/ /'wɔtɚ/",
+    "ukphone": "/səm/ /'wɔtɚ/"
+  },
+  {
+    "name": "to drink some water",
+    "trans": [
+      "喝一些水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+    "ukphone": "/tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "name": "I want to drink some water",
+    "trans": [
+      "我想要喝一些水"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "name": "every morning",
+    "trans": [
+      "每天早上"
+    ],
+    "usphone": "/'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I want to drink some water every morning",
+    "trans": [
+      "我想要每天早上喝一些水"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I drink some water every morning",
+    "trans": [
+      "我每天早上喝一些水"
+    ],
+    "usphone": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /drɪŋk/ /səm/ /'wɔtɚ/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "drank",
+    "trans": [
+      "喝了"
+    ],
+    "usphone": "/dræŋk/",
+    "ukphone": "/dræŋk/"
+  },
+  {
+    "name": "I drank some water",
+    "trans": [
+      "我喝了一些水"
+    ],
+    "usphone": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/",
+    "ukphone": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "this morning",
+    "trans": [
+      "今天早上"
+    ],
+    "usphone": "/ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I drank some water this morning",
+    "trans": [
+      "我今天早上喝了一些水"
+    ],
+    "usphone": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /dræŋk/ /səm/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "any",
+    "trans": [
+      "任何"
+    ],
+    "usphone": "/'ɛni/",
+    "ukphone": "/'ɛni/"
+  },
+  {
+    "name": "I didn't drink any water this morning",
+    "trans": [
+      "我今天早上没喝任何水"
+    ],
+    "usphone": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /dɪdnt/ /drɪŋk/ /'ɛni/ /'wɔtɚ/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "he knew the answer",
+    "trans": [
+      "他（过去）知道答案"
+    ],
+    "usphone": "/hi/ /nju/ /ði/ /'ænsɚ/",
+    "ukphone": "/hi/ /nju/ /ði/ /'ænsɚ/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "he knew the answer to the question",
+    "trans": [
+      "他（过去）知道问题的答案"
+    ],
+    "usphone": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/hi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "already",
+    "trans": [
+      "已经"
+    ],
+    "usphone": "/ɔl'rɛdi/",
+    "ukphone": "/ɔl'rɛdi/"
+  },
+  {
+    "name": "he already knew the answer to the question",
+    "trans": [
+      "他已经知道问题的答案"
+    ],
+    "usphone": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "he didn't know the answer to the question",
+    "trans": [
+      "他（过去）不知道问题的答案"
+    ],
+    "usphone": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/hi/ /dɪdnt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "I forgot to tell you",
+    "trans": [
+      "我（过去）忘记告诉你"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/",
+    "ukphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/"
+  },
+  {
+    "name": "he already knew the answer to the question",
+    "trans": [
+      "他已经知道问题的答案"
+    ],
+    "usphone": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I forgot to tell you he already knew the answer to the question",
+    "trans": [
+      "我（过去）忘记告诉你他已经知道问题的答案"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /tɛl/ /ju/ /hi/ /ɔl'rɛdi/ /nju/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "job",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/dʒɑb/",
+    "ukphone": "/dʒɑb/"
+  },
+  {
+    "name": "my job",
+    "trans": [
+      "我的工作"
+    ],
+    "usphone": "/maɪ/ /dʒɑb/",
+    "ukphone": "/maɪ/ /dʒɑb/"
+  },
+  {
+    "name": "to lose",
+    "trans": [
+      "失去"
+    ],
+    "usphone": "/tə/ /luz/",
+    "ukphone": "/tə/ /luz/"
+  },
+  {
+    "name": "lost",
+    "trans": [
+      "失去了"
+    ],
+    "usphone": "/lɔst/",
+    "ukphone": "/lɔst/"
+  },
+  {
+    "name": "I lost my job",
+    "trans": [
+      "我失去了我的工作"
+    ],
+    "usphone": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/",
+    "ukphone": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/"
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/ə'ɡo/",
+    "ukphone": "/ə'ɡo/"
+  },
+  {
+    "name": "two years",
+    "trans": [
+      "两年"
+    ],
+    "usphone": "/tu/ /jɪrz/",
+    "ukphone": "/tu/ /jɪrz/"
+  },
+  {
+    "name": "two years ago",
+    "trans": [
+      "在两年之前"
+    ],
+    "usphone": "/tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "I lost my job two years ago",
+    "trans": [
+      "我在两年前失去了我的工作"
+    ],
+    "usphone": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /lɔst/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "I didn't lose my job two years ago",
+    "trans": [
+      "我在两年前没有失去我的工作"
+    ],
+    "usphone": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /dɪdnt/ /luz/ /maɪ/ /dʒɑb/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "left",
+    "trans": [
+      "离开了"
+    ],
+    "usphone": "/lɛft/",
+    "ukphone": "/lɛft/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "office",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "/'ɑfɪs/",
+    "ukphone": "/'ɑfɪs/"
+  },
+  {
+    "name": "her office",
+    "trans": [
+      "她的办公室"
+    ],
+    "usphone": "/hɚ/ /'ɑfɪs/",
+    "ukphone": "/hɚ/ /'ɑfɪs/"
+  },
+  {
+    "name": "I left her office",
+    "trans": [
+      "我离开了她的办公室"
+    ],
+    "usphone": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/",
+    "ukphone": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/"
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/ə'ɡo/",
+    "ukphone": "/ə'ɡo/"
+  },
+  {
+    "name": "an hour",
+    "trans": [
+      "一小时"
+    ],
+    "usphone": "/ən/ /'aʊɚ/",
+    "ukphone": "/ən/ /'aʊɚ/"
+  },
+  {
+    "name": "an hour ago",
+    "trans": [
+      "在一小时之前"
+    ],
+    "usphone": "/ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "I left her office an hour ago",
+    "trans": [
+      "我在一小时之前离开了她的办公室"
+    ],
+    "usphone": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /lɛft/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "I didn't leave her office an hour ago",
+    "trans": [
+      "我在一小时之前没有离开她的办公室"
+    ],
+    "usphone": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /dɪdnt/ /liv/ /hɚ/ /'ɑfɪs/ /ən/ /'aʊɚ/ /ə'ɡo/"
+  },
+  {
+    "name": "to sleep",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "/tə/ /slip/",
+    "ukphone": "/tə/ /slip/"
+  },
+  {
+    "name": "room",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "/rum/",
+    "ukphone": "/rum/"
+  },
+  {
+    "name": "my room",
+    "trans": [
+      "我的房间"
+    ],
+    "usphone": "/maɪ/ /rum/",
+    "ukphone": "/maɪ/ /rum/"
+  },
+  {
+    "name": "slept in my room",
+    "trans": [
+      "在我的房间（过去）睡觉"
+    ],
+    "usphone": "/slɛpt/ /ɪn/ /maɪ/ /rum/",
+    "ukphone": "/slɛpt/ /ɪn/ /maɪ/ /rum/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨晚"
+    ],
+    "usphone": "/læst/ /naɪt/",
+    "ukphone": "/læst/ /naɪt/"
+  },
+  {
+    "name": "she slept in my room last night",
+    "trans": [
+      "她昨晚睡在我的房间"
+    ],
+    "usphone": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+    "ukphone": "/ʃi/ /slɛpt/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "name": "she didn't sleep in my room last night",
+    "trans": [
+      "她昨晚没有睡在我的房间"
+    ],
+    "usphone": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+    "ukphone": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "name": "to understand",
+    "trans": [
+      "明白"
+    ],
+    "usphone": "/tə/ /ʌndɚ'stænd/",
+    "ukphone": "/tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you have to understand",
+    "trans": [
+      "你必须明白"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you understand",
+    "trans": [
+      "你明白"
+    ],
+    "usphone": "/ju/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you don't understand",
+    "trans": [
+      "你不明白"
+    ],
+    "usphone": "/ju/ /dont/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /dont/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you understood",
+    "trans": [
+      "你（过去）明白"
+    ],
+    "usphone": "/ju/ /ʌndɚˈstʊd/",
+    "ukphone": "/ju/ /ʌndɚˈstʊd/"
+  },
+  {
+    "name": "you didn't understand",
+    "trans": [
+      "你不（过去）明白"
+    ],
+    "usphone": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "told",
+    "trans": [
+      "告诉过"
+    ],
+    "usphone": "/told/",
+    "ukphone": "/told/"
+  },
+  {
+    "name": "I told you",
+    "trans": [
+      "我告诉过你"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/",
+    "ukphone": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "name": "she didn't sleep in my room last night",
+    "trans": [
+      "她昨晚没有睡在我的房间"
+    ],
+    "usphone": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+    "ukphone": "/ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "name": "I told you she didn't sleep in my room last night",
+    "trans": [
+      "我告诉过你她昨晚没有睡在我的房间"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "you didn't understand",
+    "trans": [
+      "你（过去）不明白"
+    ],
+    "usphone": "/ju/ /dɪdnt/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "but you didn't understand",
+    "trans": [
+      "但是你（过去）不明白"
+    ],
+    "usphone": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+    "ukphone": "/bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "I told you she didn't sleep in my room last night but you didn't understand",
+    "trans": [
+      "我告诉过你她昨晚没有睡在我的房间但是你（过去）不明白"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/",
+    "ukphone": "/aɪ/ /told/ /ju/ /ʃi/ /dɪdnt/ /slip/ /ɪn/ /maɪ/ /rum/ /læst/ /naɪt/ /bʌt/ /ju/ /dɪdnt/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "a house",
+    "trans": [
+      "一个房子"
+    ],
+    "usphone": "/ə/ /haʊs/",
+    "ukphone": "/ə/ /haʊs/"
+  },
+  {
+    "name": "to buy a house",
+    "trans": [
+      "买一个房子"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "I want to buy a house",
+    "trans": [
+      "我想要买一个房子"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "bought",
+    "trans": [
+      "买了"
+    ],
+    "usphone": "/bɔt/",
+    "ukphone": "/bɔt/"
+  },
+  {
+    "name": "I bought a house",
+    "trans": [
+      "我买了一个房子"
+    ],
+    "usphone": "/aɪ/ /bɔt/ /ə/ /haʊs/",
+    "ukphone": "/aɪ/ /bɔt/ /ə/ /haʊs/"
+  },
+  {
+    "name": "ago",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/ə'ɡo/",
+    "ukphone": "/ə'ɡo/"
+  },
+  {
+    "name": "two years",
+    "trans": [
+      "两年"
+    ],
+    "usphone": "/tu/ /jɪrz/",
+    "ukphone": "/tu/ /jɪrz/"
+  },
+  {
+    "name": "two years ago",
+    "trans": [
+      "在两年之前"
+    ],
+    "usphone": "/tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "I bought a house two years ago",
+    "trans": [
+      "我在两年之前买了一个房子"
+    ],
+    "usphone": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "I didn't buy a house two years ago",
+    "trans": [
+      "我在两年之前没有买一个房子"
+    ],
+    "usphone": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "he bought a house two years ago",
+    "trans": [
+      "他在两年之前买了一个房子"
+    ],
+    "usphone": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "he didn't buy a house two years ago",
+    "trans": [
+      "他在两年之前没有买一个房子"
+    ],
+    "usphone": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/hi/ /dɪdnt/ /baɪ/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "to understand",
+    "trans": [
+      "明白"
+    ],
+    "usphone": "/tə/ /ʌndɚ'stænd/",
+    "ukphone": "/tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you have to understand",
+    "trans": [
+      "你必须明白"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/"
+  },
+  {
+    "name": "you have to understand I bought a house two years ago",
+    "trans": [
+      "你必须明白我在两年之前买了一个房子"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ʌndɚ'stænd/ /aɪ/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "to wash",
+    "trans": [
+      "洗"
+    ],
+    "usphone": "/tə/ /wɔʃ/",
+    "ukphone": "/tə/ /wɔʃ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "face",
+    "trans": [
+      "脸"
+    ],
+    "usphone": "/fes/",
+    "ukphone": "/fes/"
+  },
+  {
+    "name": "my face",
+    "trans": [
+      "我的脸"
+    ],
+    "usphone": "/maɪ/ /fes/",
+    "ukphone": "/maɪ/ /fes/"
+  },
+  {
+    "name": "to wash my face",
+    "trans": [
+      "洗我的脸"
+    ],
+    "usphone": "/tə/ /wɔʃ/ /maɪ/ /fes/",
+    "ukphone": "/tə/ /wɔʃ/ /maɪ/ /fes/"
+  },
+  {
+    "name": "I need to wash my face",
+    "trans": [
+      "我需要洗我的脸"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /wɔʃ/ /maɪ/ /fes/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "I need to wash my face every day",
+    "trans": [
+      "我需要每天洗我的脸"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /wɑʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I wash my face every day",
+    "trans": [
+      "我每天洗我的脸"
+    ],
+    "usphone": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /wɔʃ/ /maɪ/ /fes/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "washed",
+    "trans": [
+      "洗了"
+    ],
+    "usphone": "/wɔʃt/",
+    "ukphone": "/wɔʃt/"
+  },
+  {
+    "name": "I washed my face",
+    "trans": [
+      "我洗了我的脸"
+    ],
+    "usphone": "/aɪ/ /wɔʃt/ /maɪ/ /fes/",
+    "ukphone": "/aɪ/ /wɔʃt/ /maɪ/ /fes/"
+  },
+  {
+    "name": "this morning",
+    "trans": [
+      "今天早上"
+    ],
+    "usphone": "/ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I washed my face this morning",
+    "trans": [
+      "我今天早上洗了我的脸"
+    ],
+    "usphone": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I told you",
+    "trans": [
+      "我告诉过你"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/",
+    "ukphone": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "name": "I told you I washed my face this morning",
+    "trans": [
+      "我告诉过你我今天早上洗了我的脸"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /told/ /ju/ /aɪ/ /wɔʃt/ /maɪ/ /fes/ /ðɪs/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话给"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call him",
+    "trans": [
+      "打电话给他"
+    ],
+    "usphone": "/tə/ /kɔl/ /hɪm/",
+    "ukphone": "/tə/ /kɔl/ /hɪm/"
+  },
+  {
+    "name": "I need to call him",
+    "trans": [
+      "我需要打电话给他"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /kɔl/ /hɪm/"
+  },
+  {
+    "name": "I call him",
+    "trans": [
+      "我打电话给他"
+    ],
+    "usphone": "/aɪ/ /kɔl/ /hɪm/",
+    "ukphone": "/aɪ/ /kɔl/ /hɪm/"
+  },
+  {
+    "name": "called",
+    "trans": [
+      "打了电话给"
+    ],
+    "usphone": "/kɔld/",
+    "ukphone": "/kɔld/"
+  },
+  {
+    "name": "I called him",
+    "trans": [
+      "我打了电话给他"
+    ],
+    "usphone": "/aɪ/ /kɔld/ /hɪm/",
+    "ukphone": "/aɪ/ /kɔld/ /hɪm/"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨晚"
+    ],
+    "usphone": "/læst/ /naɪt/",
+    "ukphone": "/læst/ /naɪt/"
+  },
+  {
+    "name": "I called him last night",
+    "trans": [
+      "我昨晚打了电话给他"
+    ],
+    "usphone": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/"
+  },
+  {
+    "name": "he told me",
+    "trans": [
+      "他告诉我"
+    ],
+    "usphone": "/hi/ /told/ /mi/",
+    "ukphone": "/hi/ /told/ /mi/"
+  },
+  {
+    "name": "he bought a house two years ago",
+    "trans": [
+      "他两年前买了一个房子"
+    ],
+    "usphone": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "he told me he bought a house two years ago",
+    "trans": [
+      "他告诉我他两年前买了一个房子"
+    ],
+    "usphone": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  },
+  {
+    "name": "I called him last night and he told me he bought a house two years ago",
+    "trans": [
+      "我昨晚打了电话给他而且他告诉我他在两年之前买了一个房子"
+    ],
+    "usphone": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/",
+    "ukphone": "/aɪ/ /kɔld/ /hɪm/ /læst/ /naɪt/ /ənd/ /hi/ /told/ /mi/ /hi/ /bɔt/ /ə/ /haʊs/ /tu/ /jɪrz/ /ə'ɡo/"
+  }
+]

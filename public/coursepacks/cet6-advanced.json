@@ -1,0 +1,25 @@
+{
+  "id": "cet6-advanced",
+  "title": "六级进阶冲刺",
+  "description": "面向已通过 CET-4 的学习者，覆盖六级核心词汇。",
+  "cover": "",
+  "isFree": true,
+  "courses": [
+    {
+      "id": "cet6-0",
+      "title": "第 1 章：六级开篇",
+      "description": "CET-6 词库第 1 章",
+      "dictId": "cet6",
+      "chapter": 0,
+      "coursePackId": "cet6-advanced"
+    },
+    {
+      "id": "cet6-1",
+      "title": "第 2 章：词汇拓展",
+      "description": "CET-6 词库第 2 章",
+      "dictId": "cet6",
+      "chapter": 1,
+      "coursePackId": "cet6-advanced"
+    }
+  ]
+}

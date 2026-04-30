@@ -26,7 +26,7 @@ import { useImmerReducer } from 'use-immer'
 const App: React.FC = () => {
   const [state, dispatch] = useImmerReducer(typingReducer, structuredClone(initialState))
   const [isLoading, setIsLoading] = useState<boolean>(true)
-  const { words } = useWordList()
+  const { words, isAllMastered } = useWordList()
 
   const [currentDictId, setCurrentDictId] = useAtom(currentDictIdAtom)
   const setCurrentChapter = useSetAtom(currentChapterAtom)
@@ -74,8 +74,12 @@ const App: React.FC = () => {
   }, [dispatch])
 
   useEffect(() => {
-    state.chapterData.words?.length > 0 ? setIsLoading(false) : setIsLoading(true)
-  }, [state.chapterData.words])
+    if (state.chapterData.words?.length > 0 || isAllMastered) {
+      setIsLoading(false)
+    } else {
+      setIsLoading(true)
+    }
+  }, [state.chapterData.words, isAllMastered])
 
   useEffect(() => {
     if (!state.isTyping) {
@@ -150,7 +154,19 @@ const App: React.FC = () => {
         <div className="container mx-auto flex h-full flex-1 flex-col items-center justify-center pb-5">
           <div className="container relative mx-auto flex h-full flex-col items-center">
             <div className="container flex flex-grow items-center justify-center">
-              {isLoading ? (
+              {isAllMastered ? (
+                <div className="flex flex-col items-center justify-center gap-4 px-6 text-center">
+                  <p className="text-lg text-gray-600 dark:text-gray-300">
+                    该章节内容已全部加入生词本，可前往生词本查看
+                  </p>
+                  <a
+                    href="/new-words"
+                    className="rounded-xl bg-indigo-500 px-4 py-2 text-sm font-bold text-white hover:bg-indigo-600"
+                  >
+                    打开生词本
+                  </a>
+                </div>
+              ) : isLoading ? (
                 <div className="flex flex-col items-center justify-center ">
                   <div
                     className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid  border-indigo-400 border-r-transparent align-[-0.125em] motion-reduce:animate-[spin_1.5s_linear_infinite]"

@@ -1,0 +1,1762 @@
+[
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "to stay",
+    "trans": [
+      "待着；留下"
+    ],
+    "usphone": "/tə/ /ste/",
+    "ukphone": "/tə/ /ste/"
+  },
+  {
+    "name": "I want to stay",
+    "trans": [
+      "我想要待着"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ste/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ste/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "I want to stay here",
+    "trans": [
+      "我想要待在这里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I want to stay here with you",
+    "trans": [
+      "我想要和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I don't want to stay here with you",
+    "trans": [
+      "我不想和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "计划；打算"
+    ],
+    "usphone": "/plæn/",
+    "ukphone": "/plæn/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to stay here",
+    "trans": [
+      "我打算待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I plan to stay here with you",
+    "trans": [
+      "我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I don't plan to stay here with you",
+    "trans": [
+      "我不打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "want to know",
+    "trans": [
+      "想要知道"
+    ],
+    "usphone": "/wɑnt/ /tə/ /no/",
+    "ukphone": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "they want to know",
+    "trans": [
+      "他们想要知道"
+    ],
+    "usphone": "/ðe/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/ðe/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是；仅仅"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "they just want to know",
+    "trans": [
+      "他们只是想要知道"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "they just want to know if I plan to stay here with you",
+    "trans": [
+      "他们只是想要知道是否我打算和你一起待在这里"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "they just want to know the reason",
+    "trans": [
+      "他们只是想要知道原因"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "they just want to know the reason why I don't plan to stay here with you",
+    "trans": [
+      "他们只是想要知道原因为什么我不打算和你一起待在这里"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "you plan",
+    "trans": [
+      "你打算"
+    ],
+    "usphone": "/ju/ /plæn/",
+    "ukphone": "/ju/ /plæn/"
+  },
+  {
+    "name": "you plan to stay here",
+    "trans": [
+      "你打算待在这里"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我一起"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "you plan to stay here with me",
+    "trans": [
+      "你打算和我一起待在这里"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "name": "you don't plan to stay here with me",
+    "trans": [
+      "你不打算和我一起待在这里"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "name": "with him",
+    "trans": [
+      "和他一起"
+    ],
+    "usphone": "/wɪð/ /hɪm/",
+    "ukphone": "/wɪð/ /hɪm/"
+  },
+  {
+    "name": "you plan to stay here with him",
+    "trans": [
+      "你打算和他一起待在这里"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/ju/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "you don't plan to stay here with him",
+    "trans": [
+      "你不打算和他一起待在这里"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we plan to stay here with him",
+    "trans": [
+      "我们打算和他一起待在这里"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/wi/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "we don't plan to stay here with him",
+    "trans": [
+      "我们不打算和他一起待在这里"
+    ],
+    "usphone": "/wi/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/wi/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they plan to stay here with him",
+    "trans": [
+      "他们打算和他一起待在这里"
+    ],
+    "usphone": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "they don't plan to stay here with him",
+    "trans": [
+      "他们不打算和他一起待在这里"
+    ],
+    "usphone": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/ /him/",
+    "ukphone": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/ /him/"
+  },
+  {
+    "name": "with us",
+    "trans": [
+      "和我们一起"
+    ],
+    "usphone": "/wɪð/ /ʌs/",
+    "ukphone": "/wɪð/ /ʌs/"
+  },
+  {
+    "name": "they plan to stay here with us",
+    "trans": [
+      "他们打算和我们一起待在这里"
+    ],
+    "usphone": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/ðe/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "they don't plan to stay here with us",
+    "trans": [
+      "他们不打算和我们一起待在这里"
+    ],
+    "usphone": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/ðe/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "he plans",
+    "trans": [
+      "他打算"
+    ],
+    "usphone": "/hi/ /plænz/",
+    "ukphone": "/hi/ /plænz/"
+  },
+  {
+    "name": "he plans to stay here with us",
+    "trans": [
+      "他打算和我们一起待在这里"
+    ],
+    "usphone": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "he doesn't plan to stay here with us",
+    "trans": [
+      "他不打算和我们一起待在这里"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "with them",
+    "trans": [
+      "和他们一起"
+    ],
+    "usphone": "/wɪð/ /ðəm/",
+    "ukphone": "/wɪð/ /ðəm/"
+  },
+  {
+    "name": "he plans to stay here with them",
+    "trans": [
+      "他打算和他们一起待在这里"
+    ],
+    "usphone": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/hi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "he doesn't plan to stay here with them",
+    "trans": [
+      "他不打算和他们一起待在这里"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "she plans",
+    "trans": [
+      "她打算"
+    ],
+    "usphone": "/ʃi/ /plænz/",
+    "ukphone": "/ʃi/ /plænz/"
+  },
+  {
+    "name": "she plans to stay here with them",
+    "trans": [
+      "她打算和他们一起待在这里"
+    ],
+    "usphone": "/ʃi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/ʃi/ /plænz/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "she doesn't plan to stay here with them",
+    "trans": [
+      "她不打算和他们一起待在这里"
+    ],
+    "usphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "Xingrong plans",
+    "trans": [
+      "星荣打算"
+    ],
+    "usphone": "/plænz/",
+    "ukphone": "/plænz/"
+  },
+  {
+    "name": "Xingrong plans to stay here with Xiaoyueliang",
+    "trans": [
+      "星荣打算和小月亮待在这里"
+    ],
+    "usphone": "/plænz/ /tə/ /ste/ /hɪr/ /wɪð/",
+    "ukphone": "/plænz/ /tə/ /ste/ /hɪr/ /wɪð/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want to leave",
+    "trans": [
+      "我想要离开"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /liv/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /liv/"
+  },
+  {
+    "name": "I don't want to leave",
+    "trans": [
+      "我不想离开"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /liv/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /liv/"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "打算；计划"
+    ],
+    "usphone": "/plæn/",
+    "ukphone": "/plæn/"
+  },
+  {
+    "name": "I plan to leave",
+    "trans": [
+      "我打算离开"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /liv/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /liv/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "I plan to leave here",
+    "trans": [
+      "我打算离开这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "I plan to leave here tomorrow",
+    "trans": [
+      "我打算明天离开这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "I plan to leave here tomorrow night",
+    "trans": [
+      "我打算明天晚上离开这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+  },
+  {
+    "name": "I don't plan to leave here tomorrow night",
+    "trans": [
+      "我不打算明天晚上离开这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /liv/ /hɪr/ /tə'mɔro/ /naɪt/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "the city",
+    "trans": [
+      "这座城市"
+    ],
+    "usphone": "/ðə/ /'sɪti/",
+    "ukphone": "/ðə/ /'sɪti/"
+  },
+  {
+    "name": "to leave the city",
+    "trans": [
+      "离开这座城市"
+    ],
+    "usphone": "/tə/ /liv/ /ðə/ /'sɪti/",
+    "ukphone": "/tə/ /liv/ /ðə/ /'sɪti/"
+  },
+  {
+    "name": "you plan",
+    "trans": [
+      "你打算"
+    ],
+    "usphone": "/ju/ /plæn/",
+    "ukphone": "/ju/ /plæn/"
+  },
+  {
+    "name": "you plan to leave the city",
+    "trans": [
+      "你打算离开这座城市"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/",
+    "ukphone": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "周；星期"
+    ],
+    "usphone": "/wik/",
+    "ukphone": "/wik/"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "下周"
+    ],
+    "usphone": "/nɛkst/ /wik/",
+    "ukphone": "/nɛkst/ /wik/"
+  },
+  {
+    "name": "you plan to leave the city next week",
+    "trans": [
+      "你打算下周离开这座城市"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/",
+    "ukphone": "/ju/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "you don't plan to leave the city next week",
+    "trans": [
+      "你不打算下周离开这座城市"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /liv/ /ðə/ /'sɪti/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "she plans",
+    "trans": [
+      "她打算"
+    ],
+    "usphone": "/ʃi/ /plænz/",
+    "ukphone": "/ʃi/ /plænz/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "the country",
+    "trans": [
+      "这个国家"
+    ],
+    "usphone": "/ðə/ /'kʌntri/",
+    "ukphone": "/ðə/ /'kʌntri/"
+  },
+  {
+    "name": "to leave the country",
+    "trans": [
+      "离开这个国家"
+    ],
+    "usphone": "/tə/ /liv/ /ðə/ /'kʌntri/",
+    "ukphone": "/tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "name": "she plans to leave the country",
+    "trans": [
+      "她打算离开这个国家"
+    ],
+    "usphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/",
+    "ukphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "month",
+    "trans": [
+      "月"
+    ],
+    "usphone": "/mʌnθ/",
+    "ukphone": "/mʌnθ/"
+  },
+  {
+    "name": "next month",
+    "trans": [
+      "下个月"
+    ],
+    "usphone": "/nɛkst/ /mʌnθ/",
+    "ukphone": "/nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "she plans to leave the country next month",
+    "trans": [
+      "她打算下个月离开这个国家"
+    ],
+    "usphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+    "ukphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "she doesn't plan to leave the country next month",
+    "trans": [
+      "她不打算下个月离开这个国家"
+    ],
+    "usphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+    "ukphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "we plan",
+    "trans": [
+      "我们打算"
+    ],
+    "usphone": "/wi/ /plæn/",
+    "ukphone": "/wi/ /plæn/"
+  },
+  {
+    "name": "to leave here",
+    "trans": [
+      "离开这里"
+    ],
+    "usphone": "/tə/ /liv/ /hɪr/",
+    "ukphone": "/tə/ /liv/ /hɪr/"
+  },
+  {
+    "name": "we plan to leave here",
+    "trans": [
+      "我们打算离开这里"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/",
+    "ukphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "name": "we don't plan to leave here",
+    "trans": [
+      "我们不打算离开这里"
+    ],
+    "usphone": "/wi/ /dont/ /plæn/ /tə/ /liv/ /hɪr/",
+    "ukphone": "/wi/ /dont/ /plæn/ /tə/ /liv/ /hɪr/"
+  },
+  {
+    "name": "early",
+    "trans": [
+      "早点"
+    ],
+    "usphone": "/ˈɚli/",
+    "ukphone": "/ˈɚli/"
+  },
+  {
+    "name": "we plan to leave here early",
+    "trans": [
+      "我们打算早点离开这里"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /ˈɚli/",
+    "ukphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /ˈɚli/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as early as possible",
+    "trans": [
+      "尽早；尽可能地早"
+    ],
+    "usphone": "/əz/ /ˈɚli/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "we plan to leave here as early as possible",
+    "trans": [
+      "我们打算尽早离开这里"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /əz/ /ˈɚli/ /əz/ /'pɑsəbl/",
+    "ukphone": "/wi/ /plæn/ /tə/ /liv/ /hɪr/ /əz/ /ˈɚli/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to pay the bill",
+    "trans": [
+      "我需要支付账单"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I don't need to pay the bill",
+    "trans": [
+      "我不需要支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to pay the bill",
+    "trans": [
+      "我打算支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for you",
+    "trans": [
+      "为你"
+    ],
+    "usphone": "/fɝ/ /ju/",
+    "ukphone": "/fɝ/ /ju/"
+  },
+  {
+    "name": "I plan to pay the bill for you",
+    "trans": [
+      "我打算为你支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "name": "I don't plan to pay the bill for you",
+    "trans": [
+      "我不打算为你支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "name": "you plan to pay the bill",
+    "trans": [
+      "你打算支付账单"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "为我"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "you plan to pay the bill for me",
+    "trans": [
+      "你打算为我支付账单"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "you don't plan to pay the bill for me",
+    "trans": [
+      "你不打算为我支付账单"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I want to know if you plan to pay the bill for me",
+    "trans": [
+      "我想要知道是否你打算为我支付账单"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "he plans",
+    "trans": [
+      "他打算"
+    ],
+    "usphone": "/hi/ /plænz/",
+    "ukphone": "/hi/ /plænz/"
+  },
+  {
+    "name": "he plans to pay the bill for me",
+    "trans": [
+      "他打算为我支付账单"
+    ],
+    "usphone": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "he doesn't plan to pay the bill for me",
+    "trans": [
+      "他不打算为我支付账单"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "for him",
+    "trans": [
+      "为他"
+    ],
+    "usphone": "/fɝ/ /hɪm/",
+    "ukphone": "/fɝ/ /hɪm/"
+  },
+  {
+    "name": "I plan to pay the bill for him",
+    "trans": [
+      "我打算为他支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "name": "I don't plan to pay the bill for him",
+    "trans": [
+      "我不打算为他支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is important",
+    "trans": [
+      "这件事是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very important",
+    "trans": [
+      "这件事是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because it is very important",
+    "trans": [
+      "因为这件事是非常重要的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I plan to pay the bill for him because it is very important",
+    "trans": [
+      "我打算为他支付账单因为这件事是非常重要的"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I need to do it",
+    "trans": [
+      "我需要做这件事"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "and I need to do it",
+    "trans": [
+      "而且我需要做这件事"
+    ],
+    "usphone": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I plan to pay the bill for him because it is very important and I need to do it",
+    "trans": [
+      "我打算为他支付账单因为这件事是非常重要的而且我需要做这件事"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "for her",
+    "trans": [
+      "为她"
+    ],
+    "usphone": "/fɝ/ /hɚ/",
+    "ukphone": "/fɝ/ /hɚ/"
+  },
+  {
+    "name": "he plans to pay the bill for her",
+    "trans": [
+      "他打算为她支付账单"
+    ],
+    "usphone": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+    "ukphone": "/hi/ /plænz/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "name": "he doesn't plan to pay the bill for her",
+    "trans": [
+      "他不打算为她支付账单"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+    "ukphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "name": "we plan",
+    "trans": [
+      "我们打算"
+    ],
+    "usphone": "/wi/ /plæn/",
+    "ukphone": "/wi/ /plæn/"
+  },
+  {
+    "name": "we plan to pay the bill for her",
+    "trans": [
+      "我们打算为她支付账单"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+    "ukphone": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "name": "we don't plan to pay the bill for her",
+    "trans": [
+      "我们不打算为她支付账单"
+    ],
+    "usphone": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/",
+    "ukphone": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɚ/"
+  },
+  {
+    "name": "for them",
+    "trans": [
+      "为他们"
+    ],
+    "usphone": "/fɝ/ /ðəm/",
+    "ukphone": "/fɝ/ /ðəm/"
+  },
+  {
+    "name": "we plan to pay the bill for them",
+    "trans": [
+      "我们打算为他们支付账单"
+    ],
+    "usphone": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+    "ukphone": "/wi/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "name": "we don't plan to pay the bill for them",
+    "trans": [
+      "我们不打算为他们支付账单"
+    ],
+    "usphone": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+    "ukphone": "/wi/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "name": "to travel",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/tə/ /'trævl/",
+    "ukphone": "/tə/ /'trævl/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "to travel the world",
+    "trans": [
+      "周游世界"
+    ],
+    "usphone": "/tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to travel the world",
+    "trans": [
+      "我打算周游世界"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I plan to travel the world with you",
+    "trans": [
+      "我打算和你一起周游世界"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "next year",
+    "trans": [
+      "明年"
+    ],
+    "usphone": "/nɛkst/ /jɪr/",
+    "ukphone": "/nɛkst/ /jɪr/"
+  },
+  {
+    "name": "I plan to travel the world with you next year",
+    "trans": [
+      "我打算明年和你一起周游世界"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "I don't plan to travel the world with you next year",
+    "trans": [
+      "我不打算明年和你一起周游世界"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /ju/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我一起"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "you plan to travel the world with me next year",
+    "trans": [
+      "你打算明年和我一起周游世界"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/",
+    "ukphone": "/ju/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "you don't plan to travel the world with me next year",
+    "trans": [
+      "你不打算明年和我一起周游世界"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /mi/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "he plans",
+    "trans": [
+      "他打算"
+    ],
+    "usphone": "/hi/ /plænz/",
+    "ukphone": "/hi/ /plænz/"
+  },
+  {
+    "name": "with her",
+    "trans": [
+      "和她一起"
+    ],
+    "usphone": "/wɪð/ /hɚ/",
+    "ukphone": "/wɪð/ /hɚ/"
+  },
+  {
+    "name": "he plans to travel the world with her next year",
+    "trans": [
+      "他打算明年和她一起周游世界"
+    ],
+    "usphone": "/hi/ /plænz/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/",
+    "ukphone": "/hi/ /plænz/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "he doesn't plan to travel the world with her next year",
+    "trans": [
+      "他不打算明年和她一起周游世界"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/",
+    "ukphone": "/hi/ /ˈdʌznt/ /plæn/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /nɛkst/ /jɪr/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "would like",
+    "trans": [
+      "愿意；委婉地想要"
+    ],
+    "usphone": "/wʊd/ /laɪk/",
+    "ukphone": "/wʊd/ /laɪk/"
+  },
+  {
+    "name": "to stay",
+    "trans": [
+      "待着；留下"
+    ],
+    "usphone": "/tə/ /ste/",
+    "ukphone": "/tə/ /ste/"
+  },
+  {
+    "name": "to stay here",
+    "trans": [
+      "待在这里"
+    ],
+    "usphone": "/tə/ /ste/ /hɪr/",
+    "ukphone": "/tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "I would like to stay here",
+    "trans": [
+      "我愿意待在这里"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I would like to stay here with you",
+    "trans": [
+      "我愿意和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I would not like to stay here with you",
+    "trans": [
+      "我不愿意和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我一起"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "you would like to stay here with me",
+    "trans": [
+      "你愿意和我一起待在这里"
+    ],
+    "usphone": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "name": "you would not like to stay here with me",
+    "trans": [
+      "你不愿意和我一起待在这里"
+    ],
+    "usphone": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /mi/"
+  },
+  {
+    "name": "with him",
+    "trans": [
+      "和他一起"
+    ],
+    "usphone": "/wɪð/ /hɪm/",
+    "ukphone": "/wɪð/ /hɪm/"
+  },
+  {
+    "name": "you would like to stay here with him",
+    "trans": [
+      "你愿意和他一起待在这里"
+    ],
+    "usphone": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/ju/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "you would not like to stay here with him",
+    "trans": [
+      "你不愿意和他一起待在这里"
+    ],
+    "usphone": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/ju/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "we would like to stay here with him",
+    "trans": [
+      "我们愿意和他一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "we would not like to stay here with him",
+    "trans": [
+      "我们不愿意和他一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/",
+    "ukphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "with her",
+    "trans": [
+      "和她一起"
+    ],
+    "usphone": "/wɪð/ /hɚ/",
+    "ukphone": "/wɪð/ /hɚ/"
+  },
+  {
+    "name": "we would like to stay here with her",
+    "trans": [
+      "我们愿意和她一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+    "ukphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "we would not like to stay here with her",
+    "trans": [
+      "我们不愿意和她一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+    "ukphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "with them",
+    "trans": [
+      "和他们一起"
+    ],
+    "usphone": "/wɪð/ /ðəm/",
+    "ukphone": "/wɪð/ /ðəm/"
+  },
+  {
+    "name": "we would like to stay here with them",
+    "trans": [
+      "我们愿意和他们一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/wi/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "we would not like to stay here with them",
+    "trans": [
+      "我们不愿意和他们一起待在这里"
+    ],
+    "usphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/",
+    "ukphone": "/wi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "they would like to stay here with her",
+    "trans": [
+      "他们愿意和她一起待在这里"
+    ],
+    "usphone": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+    "ukphone": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "they would not like to stay here with her",
+    "trans": [
+      "他们不愿意和她一起待在这里"
+    ],
+    "usphone": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/",
+    "ukphone": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "with us",
+    "trans": [
+      "和我们一起"
+    ],
+    "usphone": "/wɪð/ /ʌs/",
+    "ukphone": "/wɪð/ /ʌs/"
+  },
+  {
+    "name": "they would like to stay here with us",
+    "trans": [
+      "他们愿意和我们一起待在这里"
+    ],
+    "usphone": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/ðe/ /wʊd/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "they would not like to stay here with us",
+    "trans": [
+      "他们不愿意和我们一起待在这里"
+    ],
+    "usphone": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/",
+    "ukphone": "/ðe/ /wʊd/ /nɑt/ /laɪk/ /tə/ /ste/ /hɪr/ /wɪð/ /ʌs/"
+  },
+  {
+    "name": "to travel",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/tə/ /'trævl/",
+    "ukphone": "/tə/ /'trævl/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "to travel the world",
+    "trans": [
+      "环游世界"
+    ],
+    "usphone": "/tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "I would like to travel the world",
+    "trans": [
+      "我愿意环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "with her",
+    "trans": [
+      "和她一起"
+    ],
+    "usphone": "/wɪð/ /hɚ/",
+    "ukphone": "/wɪð/ /hɚ/"
+  },
+  {
+    "name": "I would like to travel the world with her",
+    "trans": [
+      "我愿意和她一起环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "I would not like to travel the world with her",
+    "trans": [
+      "我不愿意和她一起环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to stay here",
+    "trans": [
+      "我打算待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I plan to stay here with you",
+    "trans": [
+      "我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because I plan to stay here with you",
+    "trans": [
+      "因为我打算和你一起待在这里"
+    ],
+    "usphone": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I would not like to travel the world with her because I plan to stay here with you",
+    "trans": [
+      "我不愿意和她一起环游世界因为我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she would like to travel the world",
+    "trans": [
+      "她愿意环游世界"
+    ],
+    "usphone": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "with him",
+    "trans": [
+      "和他一起"
+    ],
+    "usphone": "/wɪð/ /hɪm/",
+    "ukphone": "/wɪð/ /hɪm/"
+  },
+  {
+    "name": "she would like to travel the world with him",
+    "trans": [
+      "她愿意和他一起环游世界"
+    ],
+    "usphone": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/",
+    "ukphone": "/ʃi/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "she would not like to travel the world with him",
+    "trans": [
+      "她不愿意和他一起环游世界"
+    ],
+    "usphone": "/ʃi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/",
+    "ukphone": "/ʃi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɪm/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I would like to pay the bill",
+    "trans": [
+      "我愿意支付账单"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for them",
+    "trans": [
+      "为他们"
+    ],
+    "usphone": "/fɝ/ /ðəm/",
+    "ukphone": "/fɝ/ /ðəm/"
+  },
+  {
+    "name": "I would like to pay the bill for them",
+    "trans": [
+      "我愿意为他们支付账单"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "name": "I would not like to pay the bill for them",
+    "trans": [
+      "我不愿意为他们支付账单"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ðəm/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he would like to pay the bill",
+    "trans": [
+      "他愿意支付账单"
+    ],
+    "usphone": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for us",
+    "trans": [
+      "为我们"
+    ],
+    "usphone": "/fɝ/ /ʌs/",
+    "ukphone": "/fɝ/ /ʌs/"
+  },
+  {
+    "name": "he would like to pay the bill for us",
+    "trans": [
+      "他愿意为我们支付账单"
+    ],
+    "usphone": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/",
+    "ukphone": "/hi/ /wʊd/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+  },
+  {
+    "name": "he would not like to pay the bill for us",
+    "trans": [
+      "他不愿意为我们支付账单"
+    ],
+    "usphone": "/hi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/",
+    "ukphone": "/hi/ /wʊd/ /nɑt/ /laɪk/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ʌs/"
+  }
+]

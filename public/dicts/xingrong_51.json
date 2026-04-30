@@ -1,0 +1,1162 @@
+[
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "mistake",
+    "trans": [
+      "错误"
+    ],
+    "usphone": "/mɪ'stek/",
+    "ukphone": "/mɪ'stek/"
+  },
+  {
+    "name": "to make a mistake",
+    "trans": [
+      "产生一个错误"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /mɪ'stek/",
+    "ukphone": "/tə/ /mek/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "I make a mistake",
+    "trans": [
+      "我产生一个错误"
+    ],
+    "usphone": "/aɪ/ /mek/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /mek/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "made",
+    "trans": [
+      "产生（过去分词）"
+    ],
+    "usphone": "/med/",
+    "ukphone": "/med/"
+  },
+  {
+    "name": "I have made a mistake",
+    "trans": [
+      "我（已经）犯了一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /med/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /hæv/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "I have not made a mistake",
+    "trans": [
+      "我没有犯过一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /nɑt/ /med/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /hæv/ /nɑt/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never made a mistake",
+    "trans": [
+      "我从来没有犯过一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生命"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "in my life",
+    "trans": [
+      "在我的生命中"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "I have never made a mistake in my life",
+    "trans": [
+      "我在我的生命中从来没有犯过一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/ /ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "I have never made a mistake",
+    "trans": [
+      "我从来没有犯过一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "ever",
+    "trans": [
+      "曾经"
+    ],
+    "usphone": "/'ɛvɚ/",
+    "ukphone": "/'ɛvɚ/"
+  },
+  {
+    "name": "I have ever made a mistake",
+    "trans": [
+      "我曾经犯过一个错误"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/ /ə/ /mɪ'stek/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/ /ə/ /mɪ'stek/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "the biggest",
+    "trans": [
+      "最大的"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/",
+    "ukphone": "/ðə/ /'bɪgɪst/"
+  },
+  {
+    "name": "the biggest mistake",
+    "trans": [
+      "最大的错误"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/ /mɪ'stek/",
+    "ukphone": "/ðə/ /'bɪgɪst/ /mɪ'stek/"
+  },
+  {
+    "name": "I have ever made",
+    "trans": [
+      "我曾经犯过的"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "the biggest mistake I have ever made",
+    "trans": [
+      "我曾经犯过的最大的错误"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "that was",
+    "trans": [
+      "那是"
+    ],
+    "usphone": "/ðæt/ /wəz/",
+    "ukphone": "/ðæt/ /wəz/"
+  },
+  {
+    "name": "that was the biggest mistake I have ever made",
+    "trans": [
+      "那是我曾经犯过的最大的错误"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "in my life",
+    "trans": [
+      "在我的生命中"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "that was the biggest mistake I have ever made in my life",
+    "trans": [
+      "那是我在我的生命中曾经犯过的最大的错误"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/ /ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /mɪ'stek/ /aɪ/ /hæv/ /'ɛvɚ/ /med/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "挑战"
+    ],
+    "usphone": "/'tʃælɪndʒ/",
+    "ukphone": "/'tʃælɪndʒ/"
+  },
+  {
+    "name": "the biggest",
+    "trans": [
+      "最大的"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/",
+    "ukphone": "/ðə/ /'bɪgɪst/"
+  },
+  {
+    "name": "the biggest challenge",
+    "trans": [
+      "最大的挑战"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/",
+    "ukphone": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "to face",
+    "trans": [
+      "面对"
+    ],
+    "usphone": "/tə/ /fes/",
+    "ukphone": "/tə/ /fes/"
+  },
+  {
+    "name": "faced",
+    "trans": [
+      "面对（过去分词）"
+    ],
+    "usphone": "/fest/",
+    "ukphone": "/fest/"
+  },
+  {
+    "name": "I have ever faced",
+    "trans": [
+      "我曾经面对"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "name": "the biggest challenge I have ever faced",
+    "trans": [
+      "我曾经面对的最大的挑战"
+    ],
+    "usphone": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+    "ukphone": "/ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "name": "that was",
+    "trans": [
+      "那是"
+    ],
+    "usphone": "/ðæt/ /wəz/",
+    "ukphone": "/ðæt/ /wəz/"
+  },
+  {
+    "name": "that was the biggest challenge I have ever faced",
+    "trans": [
+      "那是我曾经面对的最大的挑战"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /'bɪgɪst/ /'tʃælɪndʒ/ /aɪ/ /hæv/ /'ɛvɚ/ /fest/"
+  },
+  {
+    "name": "strong",
+    "trans": [
+      "强壮的"
+    ],
+    "usphone": "/strɔŋ/",
+    "ukphone": "/strɔŋ/"
+  },
+  {
+    "name": "the strongest",
+    "trans": [
+      "最强壮的"
+    ],
+    "usphone": "/ðə/ /'strɔŋgəst/",
+    "ukphone": "/ðə/ /'strɔŋgəst/"
+  },
+  {
+    "name": "man",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/mæn/",
+    "ukphone": "/mæn/"
+  },
+  {
+    "name": "the strongest man",
+    "trans": [
+      "最强壮的人"
+    ],
+    "usphone": "/ðə/ /'strɔŋgəst/ /mæn/",
+    "ukphone": "/ðə/ /'strɔŋgəst/ /mæn/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "见到"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "met",
+    "trans": [
+      "见到（过去分词）"
+    ],
+    "usphone": "/mɛt/",
+    "ukphone": "/mɛt/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever met",
+    "trans": [
+      "我曾经见过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "I have ever met before",
+    "trans": [
+      "我之前曾经见过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "name": "the strongest man I have ever met before",
+    "trans": [
+      "我之前曾经见过的最强壮的人"
+    ],
+    "usphone": "/ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+    "ukphone": "/ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are the strongest man I have ever met before",
+    "trans": [
+      "你是我之前曾经见过的最强壮的人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /'strɔŋgəst/ /mæn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /bɪ'fɔr/"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "漂亮的"
+    ],
+    "usphone": "/'bjʊtəfəl/",
+    "ukphone": "/'bjʊtəfəl/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most beautiful",
+    "trans": [
+      "最漂亮的"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "woman",
+    "trans": [
+      "女人"
+    ],
+    "usphone": "/'wʊmən/",
+    "ukphone": "/'wʊmən/"
+  },
+  {
+    "name": "the most beautiful woman",
+    "trans": [
+      "最漂亮的女人"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "认识"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "known",
+    "trans": [
+      "认识（过去分词）"
+    ],
+    "usphone": "/non/",
+    "ukphone": "/non/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever known",
+    "trans": [
+      "我曾经认识"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "the most beautiful woman I have ever known",
+    "trans": [
+      "我曾经认识的最漂亮的女人"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are the most beautiful woman I have ever known",
+    "trans": [
+      "你是我曾经认识的最漂亮的女人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /'wʊmən/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "story",
+    "trans": [
+      "故事"
+    ],
+    "usphone": "/'stɔri/",
+    "ukphone": "/'stɔri/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "good story",
+    "trans": [
+      "好的故事"
+    ],
+    "usphone": "/ɡʊd/ /'stɔri/",
+    "ukphone": "/ɡʊd/ /'stɔri/"
+  },
+  {
+    "name": "the best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/ðə/ /bɛst/",
+    "ukphone": "/ðə/ /bɛst/"
+  },
+  {
+    "name": "the best story",
+    "trans": [
+      "最好的故事"
+    ],
+    "usphone": "/ðə/ /bɛst/ /'stɔri/",
+    "ukphone": "/ðə/ /bɛst/ /'stɔri/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听到"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "heard",
+    "trans": [
+      "听到（过去分词）"
+    ],
+    "usphone": "/hɚd/",
+    "ukphone": "/hɚd/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever heard",
+    "trans": [
+      "我曾经听到"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "name": "the best story I have ever heard",
+    "trans": [
+      "我曾经听到的最好的故事"
+    ],
+    "usphone": "/ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+    "ukphone": "/ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the best story I have ever heard",
+    "trans": [
+      "这是我曾经听到的最好的故事"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /'stɔri/ /aɪ/ /hæv/ /'ɛvɚ/ /hɚd/"
+  },
+  {
+    "name": "funny",
+    "trans": [
+      "好笑的"
+    ],
+    "usphone": "/'fʌni/",
+    "ukphone": "/'fʌni/"
+  },
+  {
+    "name": "the funniest",
+    "trans": [
+      "最好笑的"
+    ],
+    "usphone": "/ðə/ /ˈfʌniəst/",
+    "ukphone": "/ðə/ /ˈfʌniəst/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "事情"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "the funniest thing",
+    "trans": [
+      "最好笑的事情"
+    ],
+    "usphone": "/ðə/ /ˈfʌniəst/ /θɪŋ/",
+    "ukphone": "/ðə/ /ˈfʌniəst/ /θɪŋ/"
+  },
+  {
+    "name": "to see",
+    "trans": [
+      "看到"
+    ],
+    "usphone": "/tə/ /si/",
+    "ukphone": "/tə/ /si/"
+  },
+  {
+    "name": "seen",
+    "trans": [
+      "看到（过去分词）"
+    ],
+    "usphone": "/sin/",
+    "ukphone": "/sin/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever seen",
+    "trans": [
+      "我曾经看到"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "name": "the funniest thing I have ever seen",
+    "trans": [
+      "我曾经看到的最好笑的事情"
+    ],
+    "usphone": "/ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+    "ukphone": "/ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "name": "that was",
+    "trans": [
+      "那是"
+    ],
+    "usphone": "/ðæt/ /wəz/",
+    "ukphone": "/ðæt/ /wəz/"
+  },
+  {
+    "name": "that was the funniest thing I have ever seen",
+    "trans": [
+      "那是我曾经看到的最好笑的事情"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /ˈfʌniəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "name": "stupid",
+    "trans": [
+      "愚蠢的"
+    ],
+    "usphone": "/'stupɪd/",
+    "ukphone": "/'stupɪd/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "事情"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "stupid thing",
+    "trans": [
+      "愚蠢的事情"
+    ],
+    "usphone": "/'stupɪd/ /θɪŋ/",
+    "ukphone": "/'stupɪd/ /θɪŋ/"
+  },
+  {
+    "name": "the stupidest thing",
+    "trans": [
+      "最愚蠢的事情"
+    ],
+    "usphone": "/ðə/ /ˈstupɪdəst/ /θɪŋ/",
+    "ukphone": "/ðə/ /ˈstupɪdəst/ /θɪŋ/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "done",
+    "trans": [
+      "做（过去分词）"
+    ],
+    "usphone": "/dʌn/",
+    "ukphone": "/dʌn/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever done",
+    "trans": [
+      "我曾经做过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "name": "the stupidest thing I have ever done",
+    "trans": [
+      "我曾经做过的最愚蠢的事情"
+    ],
+    "usphone": "/ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+    "ukphone": "/ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "name": "that was",
+    "trans": [
+      "那是"
+    ],
+    "usphone": "/ðæt/ /wəz/",
+    "ukphone": "/ðæt/ /wəz/"
+  },
+  {
+    "name": "that was the stupidest thing I have ever done",
+    "trans": [
+      "那是我曾经做过的最愚蠢的事情"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /ˈstupɪdəst/ /θɪŋ/ /aɪ/ /hæv/ /'ɛvɚ/ /dʌn/"
+  },
+  {
+    "name": "stubborn",
+    "trans": [
+      "固执的"
+    ],
+    "usphone": "/ˈstʌbɚn/",
+    "ukphone": "/ˈstʌbɚn/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most stubborn",
+    "trans": [
+      "最固执的"
+    ],
+    "usphone": "/ðə/ /most/ /ˈstʌbɚn/",
+    "ukphone": "/ðə/ /most/ /ˈstʌbɚn/"
+  },
+  {
+    "name": "person",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pɝsn/",
+    "ukphone": "/'pɝsn/"
+  },
+  {
+    "name": "the most stubborn person",
+    "trans": [
+      "最固执的人"
+    ],
+    "usphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/",
+    "ukphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "见到"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "met",
+    "trans": [
+      "见到（过去分词）"
+    ],
+    "usphone": "/mɛt/",
+    "ukphone": "/mɛt/"
+  },
+  {
+    "name": "I have ever met",
+    "trans": [
+      "我曾经见过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "name": "the most stubborn person I have ever met",
+    "trans": [
+      "我曾经见过的最固执的人"
+    ],
+    "usphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/",
+    "ukphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/"
+  },
+  {
+    "name": "in my life",
+    "trans": [
+      "在我的生命中"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "the most stubborn person I have ever met in my life",
+    "trans": [
+      "在我的生命中我曾经见过的最固执的人"
+    ],
+    "usphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are the most stubborn person I have ever met in my life",
+    "trans": [
+      "你是我在我的生命中曾经见过的最固执的人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /ˈstʌbɚn/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /mɛt/ /ɪn/ /maɪ/ /laɪf/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/dɪ'sɪʒn/",
+    "ukphone": "/dɪ'sɪʒn/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make a decision",
+    "trans": [
+      "做决定"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+    "ukphone": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "important decision",
+    "trans": [
+      "重要的决定"
+    ],
+    "usphone": "/ɪm'pɔrtnt/ /dɪ'sɪʒn/",
+    "ukphone": "/ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most important decision",
+    "trans": [
+      "最重要的决定"
+    ],
+    "usphone": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/",
+    "ukphone": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "made",
+    "trans": [
+      "做（过去分词）"
+    ],
+    "usphone": "/med/",
+    "ukphone": "/med/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经......"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever made",
+    "trans": [
+      "我曾经做过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "the most important decision I have ever made",
+    "trans": [
+      "我曾经做过的最重要的决定"
+    ],
+    "usphone": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the most important decision I have ever made",
+    "trans": [
+      "这是我曾经做过的最重要的决定"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪm'pɔrtnt/ /dɪ'sɪʒn/ /aɪ/ /hæv/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "漂亮的"
+    ],
+    "usphone": "/'bjʊtəfəl/",
+    "ukphone": "/'bjʊtəfəl/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most beautiful",
+    "trans": [
+      "最漂亮的"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "place",
+    "trans": [
+      "地方"
+    ],
+    "usphone": "/ples/",
+    "ukphone": "/ples/"
+  },
+  {
+    "name": "the most beautiful place",
+    "trans": [
+      "最漂亮的地方"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/ /ples/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/ /ples/"
+  },
+  {
+    "name": "to visit",
+    "trans": [
+      "参观"
+    ],
+    "usphone": "/tə/ /'vɪzɪt/",
+    "ukphone": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "name": "visited",
+    "trans": [
+      "参观（过去分词）"
+    ],
+    "usphone": "/'vɪzɪtɪd/",
+    "ukphone": "/'vɪzɪtɪd/"
+  },
+  {
+    "name": "I have ever visited",
+    "trans": [
+      "我曾经参观过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "the most beautiful place I have ever visited",
+    "trans": [
+      "我曾经参观过的最漂亮的地方"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the most beautiful place I have ever visited",
+    "trans": [
+      "这是我曾经参观过的最漂亮的地方"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'bjʊtəfəl/ /ples/ /aɪ/ /hæv/ /'ɛvɚ/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "movie",
+    "trans": [
+      "电影"
+    ],
+    "usphone": "/'muvi/",
+    "ukphone": "/'muvi/"
+  },
+  {
+    "name": "to watch a movie",
+    "trans": [
+      "看电影"
+    ],
+    "usphone": "/tə/ /wɑtʃ/ /ə/ /'muvi/",
+    "ukphone": "/tə/ /wɑtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "name": "scary",
+    "trans": [
+      "恐怖的"
+    ],
+    "usphone": "/ˈskɛri/",
+    "ukphone": "/ˈskɛri/"
+  },
+  {
+    "name": "scary movie",
+    "trans": [
+      "恐怖的电影"
+    ],
+    "usphone": "/ˈskɛri/ /'muvi/",
+    "ukphone": "/ˈskɛri/ /'muvi/"
+  },
+  {
+    "name": "the scariest",
+    "trans": [
+      "最恐怖的"
+    ],
+    "usphone": "/ðə/ /ˈskɛriəst/",
+    "ukphone": "/ðə/ /ˈskɛriəst/"
+  },
+  {
+    "name": "the scariest movie",
+    "trans": [
+      "最恐怖的电影"
+    ],
+    "usphone": "/ðə/ /ˈskɛriəst/ /'muvi/",
+    "ukphone": "/ðə/ /ˈskɛriəst/ /'muvi/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "watched",
+    "trans": [
+      "看（过去分词）"
+    ],
+    "usphone": "/wɑtʃt/",
+    "ukphone": "/wɑtʃt/"
+  },
+  {
+    "name": "I have ever watched",
+    "trans": [
+      "我曾经看过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  },
+  {
+    "name": "the scariest movie I have ever watched",
+    "trans": [
+      "我曾经看过的最恐怖的电影"
+    ],
+    "usphone": "/ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+    "ukphone": "/ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  },
+  {
+    "name": "that was",
+    "trans": [
+      "那是"
+    ],
+    "usphone": "/ðæt/ /wəz/",
+    "ukphone": "/ðæt/ /wəz/"
+  },
+  {
+    "name": "that was the scariest movie I have ever watched",
+    "trans": [
+      "那是我曾经看过的最恐怖的电影"
+    ],
+    "usphone": "/ðæt/ /wəz/ /ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/",
+    "ukphone": "/ðæt/ /wəz/ /ðə/ /ˈskɛriəst/ /'muvi/ /aɪ/ /hæv/ /'ɛvɚ/ /wɑtʃt/"
+  }
+]

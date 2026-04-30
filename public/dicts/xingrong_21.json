@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "to pay",
+    "trans": [
+      "支付；付出"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意力"
+    ],
+    "usphone": "/ə'tɛnʃən/",
+    "ukphone": "/ə'tɛnʃən/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you need to pay attention",
+    "trans": [
+      "你需要注意"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/",
+    "ukphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "question",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'kwɛstʃən/",
+    "ukphone": "/'kwɛstʃən/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "this question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to pay attention",
+    "trans": [
+      "注意"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "to pay attention to this question",
+    "trans": [
+      "注意这个问题"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you need to pay attention to this question",
+    "trans": [
+      "你需要注意这个问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't need to pay attention to this question",
+    "trans": [
+      "你不需要注意这个问题"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "you needed to pay attention to this question",
+    "trans": [
+      "你(过去)需要注意这个问题"
+    ],
+    "usphone": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ju/ /nidɪd/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "you didn't need to pay attention to this question",
+    "trans": [
+      "你(过去)不需要注意这个问题"
+    ],
+    "usphone": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ju/ /ˈdɪdnt/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "you need to pay attention to this question",
+    "trans": [
+      "你需要注意这个问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/",
+    "ukphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /'kwɛstʃən/"
+  },
+  {
+    "name": "information",
+    "trans": [
+      "信息"
+    ],
+    "usphone": "/ɪnfɚ'meʃən/",
+    "ukphone": "/ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "this information",
+    "trans": [
+      "这个信息"
+    ],
+    "usphone": "/ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "you need to pay attention to this information",
+    "trans": [
+      "你需要注意这个信息"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /nid/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "you pay attention to this information",
+    "trans": [
+      "你注意这个信息"
+    ],
+    "usphone": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't pay attention to this information",
+    "trans": [
+      "你没有注意这个信息"
+    ],
+    "usphone": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /dont/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意力"
+    ],
+    "usphone": "/ə'tɛnʃən/",
+    "ukphone": "/ə'tɛnʃən/"
+  },
+  {
+    "name": "you paid attention to this information",
+    "trans": [
+      "你(过去)注意这个信息"
+    ],
+    "usphone": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /ped/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "you didn't pay attention to this information",
+    "trans": [
+      "你(过去)没有注意这个信息"
+    ],
+    "usphone": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /ˈdɪdnt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "you should",
+    "trans": [
+      "你应该"
+    ],
+    "usphone": "/ju/ /ʃʊd/",
+    "ukphone": "/ju/ /ʃʊd/"
+  },
+  {
+    "name": "you should pay attention to this information",
+    "trans": [
+      "你应该注意这个信息"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /ʃʊd/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "you should not",
+    "trans": [
+      "你不应该"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /nɑt/",
+    "ukphone": "/ju/ /ʃʊd/ /nɑt/"
+  },
+  {
+    "name": "you should not pay attention to this information",
+    "trans": [
+      "你不应该注意这个信息"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /ʃʊd/ /nɑt/ /pe/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "paying",
+    "trans": [
+      "支付；付出(ing形式)"
+    ],
+    "usphone": "/peɪŋ/",
+    "ukphone": "/peɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be paying",
+    "trans": [
+      "正在付出"
+    ],
+    "usphone": "/bi/ /peɪŋ/",
+    "ukphone": "/bi/ /peɪŋ/"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意力"
+    ],
+    "usphone": "/ə'tɛnʃən/",
+    "ukphone": "/ə'tɛnʃən/"
+  },
+  {
+    "name": "be paying attention",
+    "trans": [
+      "正在注意(付出注意力)"
+    ],
+    "usphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+    "ukphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "information",
+    "trans": [
+      "信息"
+    ],
+    "usphone": "/ɪnfɚ'meʃən/",
+    "ukphone": "/ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "this information",
+    "trans": [
+      "这个信息"
+    ],
+    "usphone": "/ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "be paying attention to this information",
+    "trans": [
+      "正在注意这个信息"
+    ],
+    "usphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are paying attention to this information",
+    "trans": [
+      "你(现在)正在注意这个信息"
+    ],
+    "usphone": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/ju/ /ɚ/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am paying attention to this information",
+    "trans": [
+      "我(现在)正在注意这个信息"
+    ],
+    "usphone": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/aɪ/ /æm/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is paying attention to this information",
+    "trans": [
+      "他(现在)正在注意这个信息"
+    ],
+    "usphone": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/hi/ /ɪz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/nɑt/",
+    "ukphone": "/nɑt/"
+  },
+  {
+    "name": "he is not paying attention to this information",
+    "trans": [
+      "他(现在)没有正在注意这个信息"
+    ],
+    "usphone": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/hi/ /ɪz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "he was paying attention to this information",
+    "trans": [
+      "他(过去)正在注意这个信息"
+    ],
+    "usphone": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/hi/ /wəz/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/nɑt/",
+    "ukphone": "/nɑt/"
+  },
+  {
+    "name": "he was not paying attention to this information",
+    "trans": [
+      "他(过去)没有正在注意这个信息"
+    ],
+    "usphone": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "/'jɛstɚde/",
+    "ukphone": "/'jɛstɚde/"
+  },
+  {
+    "name": "at this time",
+    "trans": [
+      "在这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "name": "at this time yesterday",
+    "trans": [
+      "在昨天这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "name": "he was not paying attention to this information at this time yesterday",
+    "trans": [
+      "他在昨天这个时候没有注意到这个信息"
+    ],
+    "usphone": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/",
+    "ukphone": "/hi/ /wəz/ /nɑt/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /'jɛstɚde/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be paying attention",
+    "trans": [
+      "正在注意(付出注意力)"
+    ],
+    "usphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/",
+    "ukphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "be paying attention to this information",
+    "trans": [
+      "正在注意这个信息"
+    ],
+    "usphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "he will",
+    "trans": [
+      "他将会"
+    ],
+    "usphone": "/hi/ /wɪl/",
+    "ukphone": "/hi/ /wɪl/"
+  },
+  {
+    "name": "he will be paying attention to this information",
+    "trans": [
+      "他将会正在注意这个信息"
+    ],
+    "usphone": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/",
+    "ukphone": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "at this time",
+    "trans": [
+      "在这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "name": "at this time tomorrow",
+    "trans": [
+      "在明天这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "name": "he will be paying attention to this information at this time tomorrow",
+    "trans": [
+      "他在明天这个时候将会正在注意这个信息"
+    ],
+    "usphone": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+    "ukphone": "/hi/ /wɪl/ /bi/ /peɪŋ/ /ə'tɛnʃən/ /tə/ /ðɪs/ /ɪnfɚ'meʃən/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "name": "the detail",
+    "trans": [
+      "细节"
+    ],
+    "usphone": "/ðə/ /ˈditel/",
+    "ukphone": "/ðə/ /ˈditel/"
+  },
+  {
+    "name": "the details",
+    "trans": [
+      "细节(复数)"
+    ],
+    "usphone": "/ðə/ /ˈditelz/",
+    "ukphone": "/ðə/ /ˈditelz/"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "所有的"
+    ],
+    "usphone": "/ɔl/",
+    "ukphone": "/ɔl/"
+  },
+  {
+    "name": "all the details",
+    "trans": [
+      "所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付；付出"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意力"
+    ],
+    "usphone": "/ə'tɛnʃən/",
+    "ukphone": "/ə'tɛnʃən/"
+  },
+  {
+    "name": "to pay attention",
+    "trans": [
+      "注意(付出注意力)"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "to pay attention to all the details",
+    "trans": [
+      "注意所有的细节"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "it is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very important",
+    "trans": [
+      "它是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is very important to pay attention to all the details",
+    "trans": [
+      "注意所有的细节(它)是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /tə/ /pe/ /ə'tɛnʃən/ /tə/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "to discuss",
+    "trans": [
+      "讨论"
+    ],
+    "usphone": "/tə/ /dɪ'skʌs/",
+    "ukphone": "/tə/ /dɪ'skʌs/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某件事情"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "to discuss something",
+    "trans": [
+      "讨论某件事情"
+    ],
+    "usphone": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+    "ukphone": "/tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要(直接地)"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "would like",
+    "trans": [
+      "愿意;想要(委婉地)"
+    ],
+    "usphone": "/wʊd/ /laɪk/",
+    "ukphone": "/wʊd/ /laɪk/"
+  },
+  {
+    "name": "I would like",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/"
+  },
+  {
+    "name": "I would like to discuss something",
+    "trans": [
+      "我想要讨论某件事情"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "something important",
+    "trans": [
+      "重要的某件事情"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I would like to discuss something important",
+    "trans": [
+      "我想要讨论重要的某件事情"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I would like to discuss something important with you",
+    "trans": [
+      "我想要和你一起讨论重要的某件事情"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/ /wɪð/ /ju/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we would like to discuss something important",
+    "trans": [
+      "我们想要讨论重要的某件事情"
+    ],
+    "usphone": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/wi/ /wʊd/ /laɪk/ /tə/ /dɪ'skʌs/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "we discuss",
+    "trans": [
+      "我们讨论"
+    ],
+    "usphone": "/wi/ /dɪ'skʌs/",
+    "ukphone": "/wi/ /dɪ'skʌs/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kən/",
+    "ukphone": "/kən/"
+  },
+  {
+    "name": "we can discuss",
+    "trans": [
+      "我们可以讨论"
+    ],
+    "usphone": "/wi/ /kən/ /dɪ'skʌs/",
+    "ukphone": "/wi/ /kən/ /dɪ'skʌs/"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "所有的"
+    ],
+    "usphone": "/ɔl/",
+    "ukphone": "/ɔl/"
+  },
+  {
+    "name": "the details",
+    "trans": [
+      "细节(复数)"
+    ],
+    "usphone": "/ðə/ /ˈditelz/",
+    "ukphone": "/ðə/ /ˈditelz/"
+  },
+  {
+    "name": "all the details",
+    "trans": [
+      "所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "we can discuss all the details",
+    "trans": [
+      "我们可以讨论所有的细节"
+    ],
+    "usphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "the plan",
+    "trans": [
+      "这个计划"
+    ],
+    "usphone": "/ðə/ /plæn/",
+    "ukphone": "/ðə/ /plæn/"
+  },
+  {
+    "name": "all the details",
+    "trans": [
+      "所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/"
+  },
+  {
+    "name": "all the details of the plan",
+    "trans": [
+      "这个计划的所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "we can discuss all the details of the plan",
+    "trans": [
+      "我们可以讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we can discuss all the details of the plan together",
+    "trans": [
+      "我们可以一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /kən/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "we will discuss all the details of the plan together",
+    "trans": [
+      "我们将会一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "tomorrow morning",
+    "trans": [
+      "明天早上"
+    ],
+    "usphone": "/tə'mɔro/ /'mɔrnɪŋ/",
+    "ukphone": "/tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "we will discuss all the details of the plan together tomorrow morning",
+    "trans": [
+      "我们明天早上将会一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/",
+    "ukphone": "/wi/ /wɪl/ /dɪ'skʌs/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "discussing",
+    "trans": [
+      "讨论(ing形式)"
+    ],
+    "usphone": "/dɪ'skʌsɪŋ/",
+    "ukphone": "/dɪ'skʌsɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be discussing",
+    "trans": [
+      "正在讨论"
+    ],
+    "usphone": "/bi/ /dɪ'skʌsɪŋ/",
+    "ukphone": "/bi/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "name": "all the details of the plan",
+    "trans": [
+      "这个计划的所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "be discussing all the details of the plan",
+    "trans": [
+      "正在讨论这个计划的所有细节"
+    ],
+    "usphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "be discussing all the details of the plan together",
+    "trans": [
+      "正在一起讨论这个计划的所有细节"
+    ],
+    "usphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we are discussing",
+    "trans": [
+      "我们(现在)正在讨论"
+    ],
+    "usphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "name": "all the details of the plan",
+    "trans": [
+      "这个计划的所有的细节"
+    ],
+    "usphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "we are discussing all the details of the plan",
+    "trans": [
+      "我们(现在)正在讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/",
+    "ukphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we are discussing all the details of the plan together",
+    "trans": [
+      "我们(现在)正在一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /ɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we were discussing all the details of the plan together",
+    "trans": [
+      "我们(过去)正在一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɚ/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be discussing",
+    "trans": [
+      "正在讨论"
+    ],
+    "usphone": "/bi/ /dɪ'skʌsɪŋ/",
+    "ukphone": "/bi/ /dɪ'skʌsɪŋ/"
+  },
+  {
+    "name": "be discussing all the details of the plan together",
+    "trans": [
+      "正在一起讨论这个计划的所有细节"
+    ],
+    "usphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we will",
+    "trans": [
+      "我们将会"
+    ],
+    "usphone": "/wi/ /wɪl/",
+    "ukphone": "/wi/ /wɪl/"
+  },
+  {
+    "name": "we will be discussing all the details of the plan together",
+    "trans": [
+      "我们将会正在一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "at this time",
+    "trans": [
+      "在这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/"
+  },
+  {
+    "name": "at this time tomorrow",
+    "trans": [
+      "在明天这个时候"
+    ],
+    "usphone": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+    "ukphone": "/ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  },
+  {
+    "name": "we will be discussing all the details of the plan together at this time tomorrow",
+    "trans": [
+      "我们在明天这个时候将会正在一起讨论这个计划的所有的细节"
+    ],
+    "usphone": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/",
+    "ukphone": "/wi/ /wɪl/ /bi/ /dɪ'skʌsɪŋ/ /ɔl/ /ðə/ /ˈditelz/ /əv/ /ðə/ /plæn/ /tə'ɡɛðɚ/ /ət/ /ðɪs/ /taɪm/ /tə'mɔro/"
+  }
+]

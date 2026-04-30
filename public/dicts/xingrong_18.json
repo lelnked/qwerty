@@ -1,0 +1,930 @@
+[
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "eggs",
+    "trans": [
+      "鸡蛋"
+    ],
+    "usphone": "/ɛgz/",
+    "ukphone": "/ɛgz/"
+  },
+  {
+    "name": "to eat eggs",
+    "trans": [
+      "吃鸡蛋"
+    ],
+    "usphone": "/tə/ /it/ /ɛgz/",
+    "ukphone": "/tə/ /it/ /ɛgz/"
+  },
+  {
+    "name": "eating",
+    "trans": [
+      "正在吃"
+    ],
+    "usphone": "/'itɪŋ/",
+    "ukphone": "/'itɪŋ/"
+  },
+  {
+    "name": "eating eggs",
+    "trans": [
+      "正在吃鸡蛋"
+    ],
+    "usphone": "/'itɪŋ/ /ɛgz/",
+    "ukphone": "/'itɪŋ/ /ɛgz/"
+  },
+  {
+    "name": "I am",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "I am Xingrong",
+    "trans": [
+      "我是星荣"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "eating eggs",
+    "trans": [
+      "正在吃鸡蛋"
+    ],
+    "usphone": "/'itɪŋ/ /ɛgz/",
+    "ukphone": "/'itɪŋ/ /ɛgz/"
+  },
+  {
+    "name": "I am eating eggs",
+    "trans": [
+      "我正在吃鸡蛋"
+    ],
+    "usphone": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/",
+    "ukphone": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/"
+  },
+  {
+    "name": "the kitchen",
+    "trans": [
+      "厨房"
+    ],
+    "usphone": "/ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "in the kitchen",
+    "trans": [
+      "在厨房里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "I am eating eggs in the kitchen",
+    "trans": [
+      "我在厨房里（现在）正在吃鸡蛋"
+    ],
+    "usphone": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/aɪ/ /æm/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "I was eating eggs in the kitchen",
+    "trans": [
+      "我在厨房里（过去）正在吃鸡蛋"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "you are eating eggs in the kitchen",
+    "trans": [
+      "你在厨房里（现在）正在吃鸡蛋"
+    ],
+    "usphone": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ju/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "you were eating eggs in the kitchen",
+    "trans": [
+      "你在厨房里（过去）正在吃鸡蛋"
+    ],
+    "usphone": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ju/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they are eating eggs in the kitchen",
+    "trans": [
+      "他们在厨房里（现在）正在吃鸡蛋"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðe/ /ɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "they were eating eggs in the kitchen",
+    "trans": [
+      "他们在厨房里（过去）正在吃鸡蛋"
+    ],
+    "usphone": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðe/ /wɚ/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "tea",
+    "trans": [
+      "茶"
+    ],
+    "usphone": "/ti/",
+    "ukphone": "/ti/"
+  },
+  {
+    "name": "to drink tea",
+    "trans": [
+      "喝茶"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /ti/",
+    "ukphone": "/tə/ /drɪŋk/ /ti/"
+  },
+  {
+    "name": "drinking",
+    "trans": [
+      "正在喝"
+    ],
+    "usphone": "/'drɪŋkɪŋ/",
+    "ukphone": "/'drɪŋkɪŋ/"
+  },
+  {
+    "name": "drinking tea",
+    "trans": [
+      "正在喝茶"
+    ],
+    "usphone": "/'drɪŋkɪŋ/ /ti/",
+    "ukphone": "/'drɪŋkɪŋ/ /ti/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they are drinking tea",
+    "trans": [
+      "他们（现在）正在喝茶"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/",
+    "ukphone": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/"
+  },
+  {
+    "name": "the garden",
+    "trans": [
+      "花园"
+    ],
+    "usphone": "/ðə/ /ˈɡɑrdn/",
+    "ukphone": "/ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "name": "in the garden",
+    "trans": [
+      "在花园里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /ˈɡɑrdn/",
+    "ukphone": "/ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "name": "they are drinking tea in the garden",
+    "trans": [
+      "他们在花园里（现在）正在喝茶"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+    "ukphone": "/ðe/ /ɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "name": "tea",
+    "trans": [
+      "茶"
+    ],
+    "usphone": "/tiː/",
+    "ukphone": "/tiː/"
+  },
+  {
+    "name": "they were drinking tea in the garden",
+    "trans": [
+      "他们在花园里（过去）正在喝茶"
+    ],
+    "usphone": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/",
+    "ukphone": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/"
+  },
+  {
+    "name": "I was eating eggs in the kitchen",
+    "trans": [
+      "我在厨房里（过去）正在吃鸡蛋"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "they were drinking tea in the garden while I was eating eggs in the kitchen",
+    "trans": [
+      "他们在花园里（过去）正在喝茶与此同时我在厨房里（过去）正在吃鸡蛋"
+    ],
+    "usphone": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðe/ /wɚ/ /'drɪŋkɪŋ/ /ti/ /ɪn/ /ðə/ /ˈɡɑrdn/ /waɪl/ /aɪ/ /wəz/ /'itɪŋ/ /ɛgz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "to teach",
+    "trans": [
+      "教"
+    ],
+    "usphone": "/tə/ /titʃ/",
+    "ukphone": "/tə/ /titʃ/"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/ʌs/",
+    "ukphone": "/ʌs/"
+  },
+  {
+    "name": "to teach us",
+    "trans": [
+      "教我们"
+    ],
+    "usphone": "/tə/ /titʃ/ /ʌs/",
+    "ukphone": "/tə/ /titʃ/ /ʌs/"
+  },
+  {
+    "name": "teaching",
+    "trans": [
+      "正在教"
+    ],
+    "usphone": "/'titʃɪŋ/",
+    "ukphone": "/'titʃɪŋ/"
+  },
+  {
+    "name": "teaching us",
+    "trans": [
+      "正在教我们"
+    ],
+    "usphone": "/'titʃɪŋ/ /ʌs/",
+    "ukphone": "/'titʃɪŋ/ /ʌs/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to speak English",
+    "trans": [
+      "说英语"
+    ],
+    "usphone": "/tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to speak English",
+    "trans": [
+      "如何说英语"
+    ],
+    "usphone": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "teaching us how to speak English",
+    "trans": [
+      "正在教我们如何说英语"
+    ],
+    "usphone": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "Xingrong is teaching us how to speak English",
+    "trans": [
+      "星荣正在教我们如何说英语"
+    ],
+    "usphone": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ɪz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "Xingrong was teaching us how to speak English",
+    "trans": [
+      "星荣（过去）正在教我们如何说英语"
+    ],
+    "usphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to learn English",
+    "trans": [
+      "学习英语"
+    ],
+    "usphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "learning",
+    "trans": [
+      "正在学习"
+    ],
+    "usphone": "/'lɝnɪŋ/",
+    "ukphone": "/'lɝnɪŋ/"
+  },
+  {
+    "name": "learning English",
+    "trans": [
+      "正在学习英语"
+    ],
+    "usphone": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "I am learning English",
+    "trans": [
+      "我正在学习英语"
+    ],
+    "usphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "videos",
+    "trans": [
+      "视频"
+    ],
+    "usphone": "/'vɪdɪoz/",
+    "ukphone": "/'vɪdɪoz/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his videos",
+    "trans": [
+      "他的视频"
+    ],
+    "usphone": "/hɪz/ /'vɪdɪoz/",
+    "ukphone": "/hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "观看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "to watch his videos",
+    "trans": [
+      "观看他的视频"
+    ],
+    "usphone": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/tə/ /wɑtʃ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "watching",
+    "trans": [
+      "正在观看"
+    ],
+    "usphone": "/'wɑtʃɪŋ/",
+    "ukphone": "/'wɑtʃɪŋ/"
+  },
+  {
+    "name": "watching his videos",
+    "trans": [
+      "正在观看他的视频"
+    ],
+    "usphone": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过......的方式"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by watching his videos",
+    "trans": [
+      "通过观看他的视频的方式"
+    ],
+    "usphone": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "I am learning English",
+    "trans": [
+      "我正在学习英语"
+    ],
+    "usphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "I am learning English by watching his videos",
+    "trans": [
+      "我正在通过观看他的视频的方式学习英语"
+    ],
+    "usphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/aɪ/ /æm/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "I was learning English by watching his videos",
+    "trans": [
+      "我（过去）正在通过观看他的视频的方式学习英语"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "Xingrong was teaching us how to speak English",
+    "trans": [
+      "星荣（过去）正在教我们如何说英语"
+    ],
+    "usphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "Xingrong was teaching us how to speak English while I was learning English by watching his videos",
+    "trans": [
+      "星荣（过去）正在教我们如何说英语与此同时我（过去）正在通过观看他的视频的方式学习英语"
+    ],
+    "usphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/",
+    "ukphone": "/wəz/ /'titʃɪŋ/ /ʌs/ /haʊ/ /tə/ /spik/ /ˈɪŋɡlɪʃ/ /waɪl/ /aɪ/ /wəz/ /'lɝnɪŋ/ /ˈɪŋɡlɪʃ/ /baɪ/ /'wɑtʃɪŋ/ /hɪz/ /'vɪdɪoz/"
+  },
+  {
+    "name": "to walk",
+    "trans": [
+      "走路"
+    ],
+    "usphone": "/tə/ /wɔk/",
+    "ukphone": "/tə/ /wɔk/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "to walk home",
+    "trans": [
+      "走路回家"
+    ],
+    "usphone": "/tə/ /wɔk/ /hom/",
+    "ukphone": "/tə/ /wɔk/ /hom/"
+  },
+  {
+    "name": "school",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "/skul/",
+    "ukphone": "/skul/"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从"
+    ],
+    "usphone": "/frʌm/",
+    "ukphone": "/frʌm/"
+  },
+  {
+    "name": "from school",
+    "trans": [
+      "从学校"
+    ],
+    "usphone": "/frʌm/ /skul/",
+    "ukphone": "/frʌm/ /skul/"
+  },
+  {
+    "name": "to walk home from school",
+    "trans": [
+      "从学校走路回家"
+    ],
+    "usphone": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/tə/ /wɔk/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "walking home from school",
+    "trans": [
+      "正在从学校走路回家"
+    ],
+    "usphone": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "I am walking home from school",
+    "trans": [
+      "我正在从学校走路回家"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/aɪ/ /æm/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "I was walking home from school",
+    "trans": [
+      "我（过去）正在从学校走路回家"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "老的"
+    ],
+    "usphone": "/old/",
+    "ukphone": "/old/"
+  },
+  {
+    "name": "an old friend",
+    "trans": [
+      "一个老朋友"
+    ],
+    "usphone": "/ən/ /old/ /frɛnd/",
+    "ukphone": "/ən/ /old/ /frɛnd/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "遇见"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "to meet an old friend",
+    "trans": [
+      "遇见一个老朋友"
+    ],
+    "usphone": "/tə/ /mit/ /ən/ /old/ /frɛnd/",
+    "ukphone": "/tə/ /mit/ /ən/ /old/ /frɛnd/"
+  },
+  {
+    "name": "I met an old friend",
+    "trans": [
+      "我（过去）遇见一个老朋友"
+    ],
+    "usphone": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/",
+    "ukphone": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/"
+  },
+  {
+    "name": "I was walking home from school",
+    "trans": [
+      "我（过去）正在从学校走路回家"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I was walking home from school",
+    "trans": [
+      "当我（过去）正在从学校走路回家的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "I met an old friend when I was walking home from school",
+    "trans": [
+      "当我（过去）正在从学校走路回家的时候我（过去）遇见一个老朋友"
+    ],
+    "usphone": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/",
+    "ukphone": "/aɪ/ /mɛt/ /ən/ /old/ /frɛnd/ /wɛn/ /aɪ/ /wəz/ /'wɔkɪŋ/ /hom/ /frʌm/ /skul/"
+  },
+  {
+    "name": "to sleep",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "/tə/ /slip/",
+    "ukphone": "/tə/ /slip/"
+  },
+  {
+    "name": "the bedroom",
+    "trans": [
+      "卧室"
+    ],
+    "usphone": "/ðə/ /'bɛdrum/",
+    "ukphone": "/ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "in the bedroom",
+    "trans": [
+      "在卧室里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "to sleep in the bedroom",
+    "trans": [
+      "在卧室里睡觉"
+    ],
+    "usphone": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/tə/ /slip/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "sleeping",
+    "trans": [
+      "正在睡觉"
+    ],
+    "usphone": "/ˈslipɪŋ/",
+    "ukphone": "/ˈslipɪŋ/"
+  },
+  {
+    "name": "sleeping in the bedroom",
+    "trans": [
+      "正在在卧室里睡觉"
+    ],
+    "usphone": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "I am sleeping in the bedroom",
+    "trans": [
+      "我正在在卧室里睡觉"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/aɪ/ /æm/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "I was sleeping in the bedroom",
+    "trans": [
+      "我（过去）正在在卧室里睡觉"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call me",
+    "trans": [
+      "打电话给我"
+    ],
+    "usphone": "/tə/ /kɔl/ /mi/",
+    "ukphone": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she called me",
+    "trans": [
+      "她（过去）打电话给我"
+    ],
+    "usphone": "/ʃi/ /kɔld/ /mi/",
+    "ukphone": "/ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when she called me",
+    "trans": [
+      "当她（过去）打电话给我的时候"
+    ],
+    "usphone": "/wɛn/ /ʃi/ /kɔld/ /mi/",
+    "ukphone": "/wɛn/ /ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "name": "I was sleeping in the bedroom",
+    "trans": [
+      "我（过去）正在在卧室里睡觉"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "I was sleeping in the bedroom when she called me",
+    "trans": [
+      "当她打电话给我的时候我（过去）正在在卧室里睡觉"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/",
+    "ukphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/ /wɛn/ /ʃi/ /kɔld/ /mi/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "the piano",
+    "trans": [
+      "钢琴"
+    ],
+    "usphone": "/ðə/ /pɪ'æno/",
+    "ukphone": "/ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "to play the piano",
+    "trans": [
+      "弹钢琴"
+    ],
+    "usphone": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+    "ukphone": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "playing",
+    "trans": [
+      "正在玩"
+    ],
+    "usphone": "/pleɪŋ/",
+    "ukphone": "/pleɪŋ/"
+  },
+  {
+    "name": "playing the piano",
+    "trans": [
+      "正在弹钢琴"
+    ],
+    "usphone": "/pleɪŋ/ /ðə/ /pɪ'æno/",
+    "ukphone": "/pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "she is playing the piano",
+    "trans": [
+      "她正在弹钢琴"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+    "ukphone": "/ʃi/ /ɪz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "she was playing the piano",
+    "trans": [
+      "她（过去）正在弹钢琴"
+    ],
+    "usphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/",
+    "ukphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "the living room",
+    "trans": [
+      "起居室；客厅"
+    ],
+    "usphone": "/ðə/ /'lɪvɪŋ/ /rum/",
+    "ukphone": "/ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "name": "in the living room",
+    "trans": [
+      "在客厅"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+    "ukphone": "/ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "name": "she was playing the piano in the living room",
+    "trans": [
+      "她（过去）正在在客厅弹钢琴"
+    ],
+    "usphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/",
+    "ukphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "I was sleeping in the bedroom",
+    "trans": [
+      "我（过去）正在在卧室里睡觉"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  },
+  {
+    "name": "she was playing the piano in the living room while I was sleeping in the bedroom",
+    "trans": [
+      "她（过去）正在在客厅弹钢琴与此同时我（过去）正在在卧室里睡觉"
+    ],
+    "usphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/",
+    "ukphone": "/ʃi/ /wəz/ /pleɪŋ/ /ðə/ /pɪ'æno/ /ɪn/ /ðə/ /'lɪvɪŋ/ /rum/ /waɪl/ /aɪ/ /wəz/ /ˈslipɪŋ/ /ɪn/ /ðə/ /'bɛdrum/"
+  }
+]

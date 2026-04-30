@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "to hand",
+    "trans": [
+      "递给"
+    ],
+    "usphone": "/tə/ /hænd/",
+    "ukphone": "/tə/ /hænd/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；牵"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my hand",
+    "trans": [
+      "我的手"
+    ],
+    "usphone": "/maɪ/ /hænd/",
+    "ukphone": "/maɪ/ /hænd/"
+  },
+  {
+    "name": "to hold my hand",
+    "trans": [
+      "牵我的手"
+    ],
+    "usphone": "/tə/ /hold/ /maɪ/ /hænd/",
+    "ukphone": "/tə/ /hold/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "to hold my hand",
+    "trans": [
+      "牵我的手"
+    ],
+    "usphone": "/tə/ /hold/ /maɪ/ /hænd/",
+    "ukphone": "/tə/ /hold/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "I want you to hold my hand",
+    "trans": [
+      "我想要你牵我的手"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hold/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；牵"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "holding",
+    "trans": [
+      "牵（ing形式）"
+    ],
+    "usphone": "/'holdɪŋ/",
+    "ukphone": "/'holdɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be holding",
+    "trans": [
+      "正在牵着"
+    ],
+    "usphone": "/bi/ /'holdɪŋ/",
+    "ukphone": "/bi/ /'holdɪŋ/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am holding",
+    "trans": [
+      "我（现在）正在牵着"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your hand",
+    "trans": [
+      "你的手"
+    ],
+    "usphone": "/jʊr/ /hænd/",
+    "ukphone": "/jʊr/ /hænd/"
+  },
+  {
+    "name": "I am holding your hand",
+    "trans": [
+      "我（现在）正在牵着你的手"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /jʊr/ /hænd/"
+  },
+  {
+    "name": "knife",
+    "trans": [
+      "刀"
+    ],
+    "usphone": "/naɪf/",
+    "ukphone": "/naɪf/"
+  },
+  {
+    "name": "I am holding",
+    "trans": [
+      "我（现在）正在握着"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/"
+  },
+  {
+    "name": "I am holding a knife",
+    "trans": [
+      "我（现在）正在握着一把刀"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+  },
+  {
+    "name": "my hand",
+    "trans": [
+      "我的手"
+    ],
+    "usphone": "/maɪ/ /hænd/",
+    "ukphone": "/maɪ/ /hænd/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "in my hand",
+    "trans": [
+      "在我的手里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /hænd/",
+    "ukphone": "/ɪn/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "I am holding a knife in my hand",
+    "trans": [
+      "我（现在）正在在我的手里握着一把刀"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "right",
+    "trans": [
+      "右"
+    ],
+    "usphone": "/raɪt/",
+    "ukphone": "/raɪt/"
+  },
+  {
+    "name": "right hand",
+    "trans": [
+      "右手"
+    ],
+    "usphone": "/raɪt/ /hænd/",
+    "ukphone": "/raɪt/ /hænd/"
+  },
+  {
+    "name": "in my right hand",
+    "trans": [
+      "在我的右手里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /raɪt/ /hænd/",
+    "ukphone": "/ɪn/ /maɪ/ /raɪt/ /hænd/"
+  },
+  {
+    "name": "I am holding a knife",
+    "trans": [
+      "我（现在）正在握着一把刀"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/"
+  },
+  {
+    "name": "I am holding a knife in my right hand",
+    "trans": [
+      "我（现在）正在在我的右手里握着一把刀"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /naɪf/ /ɪn/ /maɪ/ /raɪt/ /hænd/"
+  },
+  {
+    "name": "fork",
+    "trans": [
+      "叉子"
+    ],
+    "usphone": "/fɔrk/",
+    "ukphone": "/fɔrk/"
+  },
+  {
+    "name": "I am holding",
+    "trans": [
+      "我（现在）正在握着"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/"
+  },
+  {
+    "name": "I am holding a fork",
+    "trans": [
+      "我（现在）正在握着一把叉子"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+  },
+  {
+    "name": "in my hand",
+    "trans": [
+      "在我的手里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /hænd/",
+    "ukphone": "/ɪn/ /maɪ/ /hænd/"
+  },
+  {
+    "name": "left",
+    "trans": [
+      "左"
+    ],
+    "usphone": "/lɛft/",
+    "ukphone": "/lɛft/"
+  },
+  {
+    "name": "in my left hand",
+    "trans": [
+      "在我的左手里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /lɛft/ /hænd/",
+    "ukphone": "/ɪn/ /maɪ/ /lɛft/ /hænd/"
+  },
+  {
+    "name": "I am holding a fork",
+    "trans": [
+      "我（现在）正在握着一把叉子"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/"
+  },
+  {
+    "name": "I am holding a fork in my left hand",
+    "trans": [
+      "我（现在）正在在我的左手里握着一把叉子"
+    ],
+    "usphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/",
+    "ukphone": "/aɪ/ /æm/ /'holdɪŋ/ /ə/ /fɔrk/ /ɪn/ /maɪ/ /lɛft/ /hænd/"
+  },
+  {
+    "name": "people",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pipl/",
+    "ukphone": "/'pipl/"
+  },
+  {
+    "name": "four",
+    "trans": [
+      "四个"
+    ],
+    "usphone": "/fɔr/",
+    "ukphone": "/fɔr/"
+  },
+  {
+    "name": "four people",
+    "trans": [
+      "四个人"
+    ],
+    "usphone": "/fɔr/ /'pipl/",
+    "ukphone": "/fɔr/ /'pipl/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "汽车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "this car",
+    "trans": [
+      "这辆车"
+    ],
+    "usphone": "/ðɪs/ /kɑr/",
+    "ukphone": "/ðɪs/ /kɑr/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；容纳"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "to hold four people",
+    "trans": [
+      "容纳四个人"
+    ],
+    "usphone": "/tə/ /hold/ /fɔr/ /'pipl/",
+    "ukphone": "/tə/ /hold/ /fɔr/ /'pipl/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "this car can hold four people",
+    "trans": [
+      "这辆汽车可以容纳四个人"
+    ],
+    "usphone": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/",
+    "ukphone": "/ðɪs/ /kɑr/ /kæn/ /hold/ /fɔr/ /'pipl/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "this car can't hold four people",
+    "trans": [
+      "这辆汽车不可以容纳四个人"
+    ],
+    "usphone": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/",
+    "ukphone": "/ðɪs/ /kɑr/ /kænt/ /hold/ /fɔr/ /'pipl/"
+  },
+  {
+    "name": "people",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pipl/",
+    "ukphone": "/'pipl/"
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "十个"
+    ],
+    "usphone": "/tɛn/",
+    "ukphone": "/tɛn/"
+  },
+  {
+    "name": "ten people",
+    "trans": [
+      "十个人"
+    ],
+    "usphone": "/tɛn/ /'pipl/",
+    "ukphone": "/tɛn/ /'pipl/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；容纳"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "to hold ten people",
+    "trans": [
+      "容纳十个人"
+    ],
+    "usphone": "/tə/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/tə/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "room",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "/rum/",
+    "ukphone": "/rum/"
+  },
+  {
+    "name": "this room",
+    "trans": [
+      "这个房间"
+    ],
+    "usphone": "/ðɪs/ /rum/",
+    "ukphone": "/ðɪs/ /rum/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "this room can hold ten people",
+    "trans": [
+      "这个房间可以容纳十个人"
+    ],
+    "usphone": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/ðɪs/ /rum/ /kæn/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "this room can't hold ten people",
+    "trans": [
+      "这个房间不可以容纳十个人"
+    ],
+    "usphone": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/ðɪs/ /rum/ /kænt/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "this room",
+    "trans": [
+      "这个房间"
+    ],
+    "usphone": "/ðɪs/ /rum/",
+    "ukphone": "/ðɪs/ /rum/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "is",
+    "trans": [
+      "是"
+    ],
+    "usphone": "/ɪz/",
+    "ukphone": "/ɪz/"
+  },
+  {
+    "name": "this room is big",
+    "trans": [
+      "这个房间是大的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+  },
+  {
+    "name": "to hold ten people",
+    "trans": [
+      "容纳十个人"
+    ],
+    "usphone": "/tə/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/tə/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "enough to hold ten people",
+    "trans": [
+      "足够容纳十个人"
+    ],
+    "usphone": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "this room is big",
+    "trans": [
+      "这个房间是大的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+  },
+  {
+    "name": "this room is big enough to hold ten people",
+    "trans": [
+      "这个房间是大的（大到）足够容纳十个人"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /tɛn/ /'pipl/"
+  },
+  {
+    "name": "this room is big enough",
+    "trans": [
+      "这个房间是足够大的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/ʌs/",
+    "ukphone": "/ʌs/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "对......来说"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "for us",
+    "trans": [
+      "对我们来说"
+    ],
+    "usphone": "/fɝ/ /ʌs/",
+    "ukphone": "/fɝ/ /ʌs/"
+  },
+  {
+    "name": "this room is big enough for us",
+    "trans": [
+      "这个房间是足够大的对我们来说"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /fɝ/ /ʌs/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "遇见；碰面"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "meeting",
+    "trans": [
+      "碰面（ing形式）"
+    ],
+    "usphone": "/'mitɪŋ/",
+    "ukphone": "/'mitɪŋ/"
+  },
+  {
+    "name": "meeting",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "/'mitɪŋ/",
+    "ukphone": "/'mitɪŋ/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；容纳；举行"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "to hold a meeting",
+    "trans": [
+      "举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we decide",
+    "trans": [
+      "我们决定"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/",
+    "ukphone": "/wi/ /dɪ'saɪd/"
+  },
+  {
+    "name": "we decide to hold a meeting",
+    "trans": [
+      "我们决定举行一次会议"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "this room",
+    "trans": [
+      "这个房间"
+    ],
+    "usphone": "/ðɪs/ /rum/",
+    "ukphone": "/ðɪs/ /rum/"
+  },
+  {
+    "name": "in this room",
+    "trans": [
+      "在这个房间里"
+    ],
+    "usphone": "/ɪn/ /ðɪs/ /rum/",
+    "ukphone": "/ɪn/ /ðɪs/ /rum/"
+  },
+  {
+    "name": "we decide to hold a meeting in this room",
+    "trans": [
+      "我们决定在这个房间里举行一次会议"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "tomorrow morning",
+    "trans": [
+      "明天早上"
+    ],
+    "usphone": "/tə'mɔro/ /'mɔrnɪŋ/",
+    "ukphone": "/tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "we decide to hold a meeting in this room tomorrow morning",
+    "trans": [
+      "我们决定明天早上在这个房间里举行一次会议"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "we will hold a meeting",
+    "trans": [
+      "我们将会举行一次会议"
+    ],
+    "usphone": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "we will hold a meeting in this room tomorrow morning",
+    "trans": [
+      "明天早上我们将会在这个房间里举行一次会议"
+    ],
+    "usphone": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/",
+    "ukphone": "/wi/ /wɪl/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /tə'mɔro/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "this room",
+    "trans": [
+      "这个房间"
+    ],
+    "usphone": "/ðɪs/ /rum/",
+    "ukphone": "/ðɪs/ /rum/"
+  },
+  {
+    "name": "this room is big",
+    "trans": [
+      "这个房间是大的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "to hold a meeting",
+    "trans": [
+      "举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "enough to hold a meeting",
+    "trans": [
+      "足够举行一次会议"
+    ],
+    "usphone": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "this room is big enough to hold a meeting",
+    "trans": [
+      "这个房间是大的（大到）足够举行一次会议"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "this room is big enough",
+    "trans": [
+      "这个房间是足够大的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /bɪɡ/ /ɪ'nʌf/"
+  },
+  {
+    "name": "small",
+    "trans": [
+      "小的"
+    ],
+    "usphone": "/smɔl/",
+    "ukphone": "/smɔl/"
+  },
+  {
+    "name": "this room is small",
+    "trans": [
+      "这个房间是小的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /smɔl/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /smɔl/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "this room is very small",
+    "trans": [
+      "这个房间是非常小的"
+    ],
+    "usphone": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+    "ukphone": "/ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because this room is very small",
+    "trans": [
+      "因为这个房间是非常小的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+    "ukphone": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+  },
+  {
+    "name": "meeting",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "/'mitɪŋ/",
+    "ukphone": "/'mitɪŋ/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；容纳；举行"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "to hold a meeting",
+    "trans": [
+      "举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "this room",
+    "trans": [
+      "这个房间"
+    ],
+    "usphone": "/ðɪs/ /rum/",
+    "ukphone": "/ðɪs/ /rum/"
+  },
+  {
+    "name": "in this room",
+    "trans": [
+      "在这个房间里"
+    ],
+    "usphone": "/ɪn/ /ðɪs/ /rum/",
+    "ukphone": "/ɪn/ /ðɪs/ /rum/"
+  },
+  {
+    "name": "to hold a meeting in this room",
+    "trans": [
+      "在这个房间里举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+  },
+  {
+    "name": "impossible",
+    "trans": [
+      "不可能的"
+    ],
+    "usphone": "/ɪm'pɑsəbl/",
+    "ukphone": "/ɪm'pɑsəbl/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；这件事情"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "it is impossible",
+    "trans": [
+      "它是不可能的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "name": "it is impossible to hold a meeting in this room",
+    "trans": [
+      "在这个房间里举行一次会议是不可能的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/"
+  },
+  {
+    "name": "because this room is very small",
+    "trans": [
+      "因为这个房间是非常小的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+    "ukphone": "/bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+  },
+  {
+    "name": "it is impossible to hold a meeting in this room because this room is very small",
+    "trans": [
+      "在这个房间里举行一次会议是不可能的因为这个房间是非常小的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /hold/ /ə/ /'mitɪŋ/ /ɪn/ /ðɪs/ /rum/ /bɪ'kɔz/ /ðɪs/ /rum/ /ɪz/ /ˈvɛri/ /smɔl/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "握；容纳；举行"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "to hold a meeting",
+    "trans": [
+      "举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they decided",
+    "trans": [
+      "他们（过去）决定"
+    ],
+    "usphone": "/ðe/ /dɪ'saɪdɪd/",
+    "ukphone": "/ðe/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "they decided to hold a meeting",
+    "trans": [
+      "他们（过去）决定举行一次会议"
+    ],
+    "usphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "face",
+    "trans": [
+      "脸"
+    ],
+    "usphone": "/fes/",
+    "ukphone": "/fes/"
+  },
+  {
+    "name": "to face",
+    "trans": [
+      "面对"
+    ],
+    "usphone": "/tə/ /fes/",
+    "ukphone": "/tə/ /fes/"
+  },
+  {
+    "name": "facing",
+    "trans": [
+      "面对(ing形式)"
+    ],
+    "usphone": "/'fesɪŋ/",
+    "ukphone": "/'fesɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be facing",
+    "trans": [
+      "正在面对"
+    ],
+    "usphone": "/bi/ /'fesɪŋ/",
+    "ukphone": "/bi/ /'fesɪŋ/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they are facing",
+    "trans": [
+      "他们(现在)正在面对"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem they are facing",
+    "trans": [
+      "他们(现在)正在面对的那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɔlv/",
+    "ukphone": "/tə/ /sɔlv/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决那个问题"
+    ],
+    "usphone": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to solve the problem they are facing",
+    "trans": [
+      "解决他们（现在）正在面对的那个问题"
+    ],
+    "usphone": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to solve the problem they are facing",
+    "trans": [
+      "如何解决他们（现在）正在面对的那个问题"
+    ],
+    "usphone": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "to discuss",
+    "trans": [
+      "讨论"
+    ],
+    "usphone": "/tə/ /dɪ'skʌs/",
+    "ukphone": "/tə/ /dɪ'skʌs/"
+  },
+  {
+    "name": "to discuss how to solve the problem they are facing",
+    "trans": [
+      "讨论如何解决他们（现在）正在面对的那个问题"
+    ],
+    "usphone": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "to hold a meeting",
+    "trans": [
+      "举行一次会议"
+    ],
+    "usphone": "/tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "they decided",
+    "trans": [
+      "他们（过去）决定"
+    ],
+    "usphone": "/ðe/ /dɪ'saɪdɪd/",
+    "ukphone": "/ðe/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "they decided to hold a meeting",
+    "trans": [
+      "他们（过去）决定举行一次会议"
+    ],
+    "usphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/",
+    "ukphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/"
+  },
+  {
+    "name": "they decided to hold a meeting to discuss how to solve the problem they are facing",
+    "trans": [
+      "他们（过去）决定举行一次会议讨论如何解决他们（现在）正在面对的那个问题"
+    ],
+    "usphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðe/ /dɪ'saɪdɪd/ /tə/ /hold/ /ə/ /'mitɪŋ/ /tə/ /dɪ'skʌs/ /haʊ/ /tə/ /sɔlv/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  }
+]

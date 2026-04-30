@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "把手"
+    ],
+    "usphone": "/'hændl/",
+    "ukphone": "/'hændl/"
+  },
+  {
+    "name": "door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/dɔr/",
+    "ukphone": "/dɔr/"
+  },
+  {
+    "name": "door handle",
+    "trans": [
+      "门把手"
+    ],
+    "usphone": "/dɔr/ /'hændl/",
+    "ukphone": "/dɔr/ /'hændl/"
+  },
+  {
+    "name": "knife",
+    "trans": [
+      "刀"
+    ],
+    "usphone": "/naɪf/",
+    "ukphone": "/naɪf/"
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "把手"
+    ],
+    "usphone": "/'hændl/",
+    "ukphone": "/'hændl/"
+  },
+  {
+    "name": "knife handle",
+    "trans": [
+      "刀柄"
+    ],
+    "usphone": "/naɪf/ /'hændl/",
+    "ukphone": "/naɪf/ /'hændl/"
+  },
+  {
+    "name": "handle",
+    "trans": [
+      "把手"
+    ],
+    "usphone": "/'hændl/",
+    "ukphone": "/'hændl/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "machine",
+    "trans": [
+      "机器"
+    ],
+    "usphone": "/mə'ʃin/",
+    "ukphone": "/mə'ʃin/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "this machine",
+    "trans": [
+      "这台机器"
+    ],
+    "usphone": "/ðɪs/ /mə'ʃin/",
+    "ukphone": "/ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "to handle this machine",
+    "trans": [
+      "操作这台机器"
+    ],
+    "usphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "I know how to handle this machine",
+    "trans": [
+      "我知道如何操作这台机器"
+    ],
+    "usphone": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "I don't know",
+    "trans": [
+      "我不知道"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/",
+    "ukphone": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "name": "I don't know how to handle this machine",
+    "trans": [
+      "我不知道如何操作这台机器"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "to handle this machine",
+    "trans": [
+      "操作这台机器"
+    ],
+    "usphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "I can handle this machine",
+    "trans": [
+      "我可以操作这台机器"
+    ],
+    "usphone": "/aɪ/ /kæn/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /kæn/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "I can't",
+    "trans": [
+      "我不可以"
+    ],
+    "usphone": "/aɪ/ /kænt/",
+    "ukphone": "/aɪ/ /kænt/"
+  },
+  {
+    "name": "to handle this machine",
+    "trans": [
+      "操作这台机器"
+    ],
+    "usphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/tə/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "I can't handle this machine",
+    "trans": [
+      "我不可以操作这台机器"
+    ],
+    "usphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "alone",
+    "trans": [
+      "单独"
+    ],
+    "usphone": "/ə'lon/",
+    "ukphone": "/ə'lon/"
+  },
+  {
+    "name": "I can't handle this machine alone",
+    "trans": [
+      "我不可以单独操作这台机器"
+    ],
+    "usphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /ə'lon/",
+    "ukphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /ə'lon/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "self",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "/sɛlf/",
+    "ukphone": "/sɛlf/"
+  },
+  {
+    "name": "myself",
+    "trans": [
+      "我自己一个人"
+    ],
+    "usphone": "/maɪ'sɛlf/",
+    "ukphone": "/maɪ'sɛlf/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过......的方式"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by myself",
+    "trans": [
+      "通过我自己一个人的方式"
+    ],
+    "usphone": "/baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I can't handle this machine",
+    "trans": [
+      "我不可以操作这台机器"
+    ],
+    "usphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "I can't handle this machine by myself",
+    "trans": [
+      "我不可以一个人操作这台机器"
+    ],
+    "usphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "self",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "/sɛlf/",
+    "ukphone": "/sɛlf/"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "你自己一个人"
+    ],
+    "usphone": "/jɔr'sɛlf/",
+    "ukphone": "/jɔr'sɛlf/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过......的方式"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by yourself",
+    "trans": [
+      "通过你自己一个人的方式"
+    ],
+    "usphone": "/baɪ/ /jɔr'sɛlf/",
+    "ukphone": "/baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you can't handle this machine by yourself",
+    "trans": [
+      "你不可以一个人操作这台机器"
+    ],
+    "usphone": "/ju/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /jɔr'sɛlf/",
+    "ukphone": "/ju/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "herself",
+    "trans": [
+      "她自己一个人"
+    ],
+    "usphone": "/hɝ'sɛlf/",
+    "ukphone": "/hɝ'sɛlf/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she can't handle this machine by herself",
+    "trans": [
+      "她不可以一个人操作这台机器"
+    ],
+    "usphone": "/ʃi/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /hɝ'sɛlf/",
+    "ukphone": "/ʃi/ /kænt/ /'hændl/ /ðɪs/ /mə'ʃin/ /baɪ/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "handling",
+    "trans": [
+      "操作(ing形式)"
+    ],
+    "usphone": "/'hændlɪŋ/",
+    "ukphone": "/'hændlɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be handling",
+    "trans": [
+      "正在操作"
+    ],
+    "usphone": "/bi/ /'hændlɪŋ/",
+    "ukphone": "/bi/ /'hændlɪŋ/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am handling",
+    "trans": [
+      "我(现在)正在操作"
+    ],
+    "usphone": "/aɪ/ /æm/ /'hændlɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'hændlɪŋ/"
+  },
+  {
+    "name": "this machine",
+    "trans": [
+      "这台机器"
+    ],
+    "usphone": "/ðɪs/ /mə'ʃin/",
+    "ukphone": "/ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "I am handling this machine",
+    "trans": [
+      "我(现在)正在操作这台机器"
+    ],
+    "usphone": "/aɪ/ /æm/ /'hændlɪŋ/ /ðɪs/ /mə'ʃin/",
+    "ukphone": "/aɪ/ /æm/ /'hændlɪŋ/ /ðɪs/ /mə'ʃin/"
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'prɑbləm/",
+    "ukphone": "/'prɑbləm/"
+  },
+  {
+    "name": "this problem",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðɪs/ /'prɑbləm/",
+    "ukphone": "/ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作；处理"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "to handle this problem",
+    "trans": [
+      "处理这个问题"
+    ],
+    "usphone": "/tə/ /'hændl/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "I know how to handle this problem",
+    "trans": [
+      "我知道如何处理这个问题"
+    ],
+    "usphone": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "I don't know",
+    "trans": [
+      "我不知道"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/",
+    "ukphone": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "name": "I don't know how to handle this problem",
+    "trans": [
+      "我不知道如何处理这个问题"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "self",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "/sɛlf/",
+    "ukphone": "/sɛlf/"
+  },
+  {
+    "name": "myself",
+    "trans": [
+      "我自己一个人"
+    ],
+    "usphone": "/maɪ'sɛlf/",
+    "ukphone": "/maɪ'sɛlf/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过......的方式"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by myself",
+    "trans": [
+      "通过我自己一个人的方式"
+    ],
+    "usphone": "/baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I don't know how to handle this problem",
+    "trans": [
+      "我不知道如何处理这个问题"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "I don't know how to handle this problem by myself",
+    "trans": [
+      "我不知道如何一个人处理这个问题"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/ /baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /ðɪs/ /'prɑbləm/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作；处理"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "handling",
+    "trans": [
+      "处理(ing形式)"
+    ],
+    "usphone": "/'hændlɪŋ/",
+    "ukphone": "/'hændlɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be handling",
+    "trans": [
+      "正在处理"
+    ],
+    "usphone": "/bi/ /'hændlɪŋ/",
+    "ukphone": "/bi/ /'hændlɪŋ/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they are handling",
+    "trans": [
+      "他们(现在)正在处理"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'hændlɪŋ/",
+    "ukphone": "/ðe/ /ɚ/ /'hændlɪŋ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "they are handling the problem",
+    "trans": [
+      "他们(现在)正在处理那个问题"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/",
+    "ukphone": "/ðe/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the police",
+    "trans": [
+      "警察"
+    ],
+    "usphone": "/ðə/ /pə'lis/",
+    "ukphone": "/ðə/ /pə'lis/"
+  },
+  {
+    "name": "the police are handling the problem",
+    "trans": [
+      "警察(现在)正在处理那个问题"
+    ],
+    "usphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "face",
+    "trans": [
+      "脸"
+    ],
+    "usphone": "/fes/",
+    "ukphone": "/fes/"
+  },
+  {
+    "name": "to face",
+    "trans": [
+      "面对"
+    ],
+    "usphone": "/tə/ /fes/",
+    "ukphone": "/tə/ /fes/"
+  },
+  {
+    "name": "facing",
+    "trans": [
+      "面对(ing形式)"
+    ],
+    "usphone": "/'fesɪŋ/",
+    "ukphone": "/'fesɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be facing",
+    "trans": [
+      "正在面对"
+    ],
+    "usphone": "/bi/ /'fesɪŋ/",
+    "ukphone": "/bi/ /'fesɪŋ/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they are facing",
+    "trans": [
+      "他们(现在)正在面对"
+    ],
+    "usphone": "/ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem they are facing",
+    "trans": [
+      "他们(现在)正在面对的那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "the police are handling the problem",
+    "trans": [
+      "警察(现在)正在处理那个问题"
+    ],
+    "usphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the police are handling the problem they are facing",
+    "trans": [
+      "警察(现在)正在处理他们(现在)正在面对的那个问题"
+    ],
+    "usphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðə/ /pə'lis/ /ɚ/ /'hændlɪŋ/ /ðə/ /'prɑbləm/ /ðe/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "challenge",
+    "trans": [
+      "挑战"
+    ],
+    "usphone": "/'tʃælɪndʒ/",
+    "ukphone": "/'tʃælɪndʒ/"
+  },
+  {
+    "name": "challenges",
+    "trans": [
+      "挑战(复数)"
+    ],
+    "usphone": "/ˈtʃælɪndʒɪz/",
+    "ukphone": "/ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作；处理；应对"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "to handle challenges",
+    "trans": [
+      "应对挑战"
+    ],
+    "usphone": "/tə/ /'hændl/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/tə/ /'hændl/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "life's",
+    "trans": [
+      "生活的"
+    ],
+    "usphone": "/laɪfs/",
+    "ukphone": "/laɪfs/"
+  },
+  {
+    "name": "life's challenges",
+    "trans": [
+      "生活的挑战"
+    ],
+    "usphone": "/laɪfs/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作；处理；应对"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "to handle life's challenges",
+    "trans": [
+      "应对生活的挑战"
+    ],
+    "usphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "I don't know",
+    "trans": [
+      "我不知道"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/",
+    "ukphone": "/aɪ/ /dont/ /no/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "I don't know how to handle life's challenges",
+    "trans": [
+      "我不知道如何应对生活的挑战"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "by myself",
+    "trans": [
+      "我自己一个人"
+    ],
+    "usphone": "/baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I don't know how to handle life's challenges by myself",
+    "trans": [
+      "我不知道如何一个人应对生活的挑战"
+    ],
+    "usphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /baɪ/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /dont/ /no/ /haʊ/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /baɪ/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "force",
+    "trans": [
+      "力量"
+    ],
+    "usphone": "/fɔrs/",
+    "ukphone": "/fɔrs/"
+  },
+  {
+    "name": "to force",
+    "trans": [
+      "强迫"
+    ],
+    "usphone": "/tə/ /fɔrs/",
+    "ukphone": "/tə/ /fɔrs/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "self",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "/sɛlf/",
+    "ukphone": "/sɛlf/"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "你自己"
+    ],
+    "usphone": "/jɔr'sɛlf/",
+    "ukphone": "/jɔr'sɛlf/"
+  },
+  {
+    "name": "to force yourself",
+    "trans": [
+      "强迫你自己"
+    ],
+    "usphone": "/tə/ /fɔrs/ /jɔr'sɛlf/",
+    "ukphone": "/tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't need",
+    "trans": [
+      "你不需要"
+    ],
+    "usphone": "/ju/ /dont/ /nid/",
+    "ukphone": "/ju/ /dont/ /nid/"
+  },
+  {
+    "name": "you don't need to force yourself",
+    "trans": [
+      "你不需要强迫你自己"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "challenges",
+    "trans": [
+      "挑战(复数)"
+    ],
+    "usphone": "/ˈtʃælɪndʒɪz/",
+    "ukphone": "/ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "life's challenges",
+    "trans": [
+      "生活的挑战"
+    ],
+    "usphone": "/laɪfs/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "to handle",
+    "trans": [
+      "操作；处理；应对"
+    ],
+    "usphone": "/tə/ /'hændl/",
+    "ukphone": "/tə/ /'hændl/"
+  },
+  {
+    "name": "to handle life's challenges",
+    "trans": [
+      "应对生活的挑战"
+    ],
+    "usphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/",
+    "ukphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/"
+  },
+  {
+    "name": "alone",
+    "trans": [
+      "独自"
+    ],
+    "usphone": "/ə'lon/",
+    "ukphone": "/ə'lon/"
+  },
+  {
+    "name": "to handle life's challenges alone",
+    "trans": [
+      "独自应对生活的挑战"
+    ],
+    "usphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/",
+    "ukphone": "/tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+  },
+  {
+    "name": "you don't need to force yourself",
+    "trans": [
+      "你不需要强迫你自己"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "you don't need to force yourself to handle life's challenges alone",
+    "trans": [
+      "你不需要强迫你自己独自应对生活的挑战"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /fɔrs/ /jɔr'sɛlf/ /tə/ /'hændl/ /laɪfs/ /ˈtʃælɪndʒɪz/ /ə'lon/"
+  }
+]

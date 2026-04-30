@@ -1,0 +1,1018 @@
+[
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "to go out",
+    "trans": [
+      "去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "at",
+    "trans": [
+      "在"
+    ],
+    "usphone": "/ət/",
+    "ukphone": "/ət/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "to go out at night",
+    "trans": [
+      "在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我一起"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "to go out at night with me",
+    "trans": [
+      "和我一起在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /mi/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /mi/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "without",
+    "trans": [
+      "不和......一起"
+    ],
+    "usphone": "/wɪ'θaʊt/",
+    "ukphone": "/wɪ'θaʊt/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "without me",
+    "trans": [
+      "不和我一起"
+    ],
+    "usphone": "/wɪ'θaʊt/ /mi/",
+    "ukphone": "/wɪ'θaʊt/ /mi/"
+  },
+  {
+    "name": "to go out at night without me",
+    "trans": [
+      "不和我一起在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /mi/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /mi/"
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "父母"
+    ],
+    "usphone": "/'pɛrənts/",
+    "ukphone": "/'pɛrənts/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your parents",
+    "trans": [
+      "你的父母"
+    ],
+    "usphone": "/jʊr/ /'pɛrənts/",
+    "ukphone": "/jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with your parents",
+    "trans": [
+      "和你的父母一起"
+    ],
+    "usphone": "/wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "to go out at night",
+    "trans": [
+      "在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to go out at night with your parents",
+    "trans": [
+      "和你的父母一起在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "you can go out at night with your parents",
+    "trans": [
+      "你可以和你父母一起在晚上去外面"
+    ],
+    "usphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "without",
+    "trans": [
+      "不和......一起"
+    ],
+    "usphone": "/wɪ'θaʊt/",
+    "ukphone": "/wɪ'θaʊt/"
+  },
+  {
+    "name": "without your parents",
+    "trans": [
+      "不和你的父母一起"
+    ],
+    "usphone": "/wɪ'θaʊt/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/wɪ'θaʊt/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "to go out at night without your parents",
+    "trans": [
+      "不和你的父母一起在晚上去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪ'θaʊt/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "you can't",
+    "trans": [
+      "你不可以"
+    ],
+    "usphone": "/ju/ /kænt/",
+    "ukphone": "/ju/ /kænt/"
+  },
+  {
+    "name": "you can't go out at night without your parents",
+    "trans": [
+      "你不可以不和你的父母一起在晚上去外面"
+    ],
+    "usphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "adult",
+    "trans": [
+      "成年人"
+    ],
+    "usphone": "/əˈdʌlt/",
+    "ukphone": "/əˈdʌlt/"
+  },
+  {
+    "name": "an adult",
+    "trans": [
+      "一个成年人"
+    ],
+    "usphone": "/ən/ /əˈdʌlt/",
+    "ukphone": "/ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "I am",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "I am an adult",
+    "trans": [
+      "我是一个成年人"
+    ],
+    "usphone": "/aɪ/ /æm/ /ən/ /əˈdʌlt/",
+    "ukphone": "/aɪ/ /æm/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are an adult",
+    "trans": [
+      "你是一个成年人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "you are not an adult",
+    "trans": [
+      "你不是一个成年人"
+    ],
+    "usphone": "/ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you are not an adult",
+    "trans": [
+      "如果你不是一个成年人"
+    ],
+    "usphone": "/ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "you can't go out at night without your parents",
+    "trans": [
+      "你不可以不和你的父母一起在晚上去外面"
+    ],
+    "usphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "you can't go out at night without your parents if you are not an adult",
+    "trans": [
+      "你不可以不和你的父母一起在晚上去外面如果你不是一个成年人"
+    ],
+    "usphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ju/ /kænt/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /nɑt/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "you can go out at night without your parents",
+    "trans": [
+      "你可以不和你的父母一起在晚上去外面"
+    ],
+    "usphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/",
+    "ukphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/"
+  },
+  {
+    "name": "you are an adult",
+    "trans": [
+      "你是一个成年人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "if you are an adult",
+    "trans": [
+      "如果你是一个成年人"
+    ],
+    "usphone": "/ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "you can go out at night without your parents if you are an adult",
+    "trans": [
+      "你可以不和你的父母一起在晚上去外面如果你是一个成年人"
+    ],
+    "usphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/",
+    "ukphone": "/ju/ /kæn/ /ɡo/ /aʊt/ /ət/ /naɪt/ /wɪð/ /jʊr/ /'pɛrənts/ /ɪf/ /ju/ /ɚ/ /ən/ /əˈdʌlt/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶；开车"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "you can drive",
+    "trans": [
+      "你可以开车"
+    ],
+    "usphone": "/ju/ /kæn/ /draɪv/",
+    "ukphone": "/ju/ /kæn/ /draɪv/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "you can't drive",
+    "trans": [
+      "你不可以开车"
+    ],
+    "usphone": "/ju/ /kænt/ /draɪv/",
+    "ukphone": "/ju/ /kænt/ /draɪv/"
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "驾驶员"
+    ],
+    "usphone": "/'draɪvɚ/",
+    "ukphone": "/'draɪvɚ/"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "执照"
+    ],
+    "usphone": "/'laɪsns/",
+    "ukphone": "/'laɪsns/"
+  },
+  {
+    "name": "driver's license",
+    "trans": [
+      "驾照"
+    ],
+    "usphone": "/'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "a driver's license",
+    "trans": [
+      "一个驾照"
+    ],
+    "usphone": "/ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "without",
+    "trans": [
+      "不和......在一起；没有......"
+    ],
+    "usphone": "/wɪ'θaʊt/",
+    "ukphone": "/wɪ'θaʊt/"
+  },
+  {
+    "name": "without a driver's license",
+    "trans": [
+      "没有一个驾照"
+    ],
+    "usphone": "/wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "you can't drive without a driver's license",
+    "trans": [
+      "没有一个驾照你不可以开车"
+    ],
+    "usphone": "/ju/ /kænt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ju/ /kænt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "should not",
+    "trans": [
+      "不应该"
+    ],
+    "usphone": "/ʃʊd/ /nɑt/",
+    "ukphone": "/ʃʊd/ /nɑt/"
+  },
+  {
+    "name": "you should not drive without a driver's license",
+    "trans": [
+      "没有一个驾照你不应该开车"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /nɑt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ju/ /ʃʊd/ /nɑt/ /draɪv/ /wɪ'θaʊt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "老的"
+    ],
+    "usphone": "/old/",
+    "ukphone": "/old/"
+  },
+  {
+    "name": "old friend",
+    "trans": [
+      "老朋友"
+    ],
+    "usphone": "/old/ /frɛnd/",
+    "ukphone": "/old/ /frɛnd/"
+  },
+  {
+    "name": "an old friend",
+    "trans": [
+      "一个老朋友"
+    ],
+    "usphone": "/ən/ /old/ /frɛnd/",
+    "ukphone": "/ən/ /old/ /frɛnd/"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "老的；年龄大的"
+    ],
+    "usphone": "/old/",
+    "ukphone": "/old/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is old",
+    "trans": [
+      "她是年龄大的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/",
+    "ukphone": "/ʃi/ /ɪz/ /old/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "she is old enough",
+    "trans": [
+      "她是足够年龄大的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/",
+    "ukphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "开车"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "she is old enough to drive",
+    "trans": [
+      "她是年龄大的足够开车"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+    "ukphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/nɑt/",
+    "ukphone": "/nɑt/"
+  },
+  {
+    "name": "she is not old enough to drive",
+    "trans": [
+      "她不是年龄大的足够开车"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+    "ukphone": "/ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "name": "to think",
+    "trans": [
+      "认为"
+    ],
+    "usphone": "/tə/ /θɪŋk/",
+    "ukphone": "/tə/ /θɪŋk/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think she is not old enough to drive",
+    "trans": [
+      "我认为她年龄不够开车"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /θɪŋk/ /ʃi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I don't think she is old enough to drive",
+    "trans": [
+      "我不认为她足够年龄开车"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /draɪv/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "self",
+    "trans": [
+      "自己"
+    ],
+    "usphone": "/sɛlf/",
+    "ukphone": "/sɛlf/"
+  },
+  {
+    "name": "herself",
+    "trans": [
+      "她自己"
+    ],
+    "usphone": "/hɝ'sɛlf/",
+    "ukphone": "/hɝ'sɛlf/"
+  },
+  {
+    "name": "for herself",
+    "trans": [
+      "为了她自己"
+    ],
+    "usphone": "/fɝ/ /hɝ'sɛlf/",
+    "ukphone": "/fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide for herself",
+    "trans": [
+      "为了她自己决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "she is old",
+    "trans": [
+      "她是年龄大的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/",
+    "ukphone": "/ʃi/ /ɪz/ /old/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "she is old enough",
+    "trans": [
+      "她是足够年龄大的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/",
+    "ukphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "she is old enough to decide",
+    "trans": [
+      "她是年龄大的足够决定"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/",
+    "ukphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide for herself",
+    "trans": [
+      "为了她自己决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "she is old enough to decide for herself",
+    "trans": [
+      "她是年龄大的足够为了她自己决定"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/",
+    "ukphone": "/ʃi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /dɪ'saɪd/ /fɝ/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "to go out",
+    "trans": [
+      "去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to go out",
+    "trans": [
+      "我想要去外面"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "to go home",
+    "trans": [
+      "去家"
+    ],
+    "usphone": "/tə/ /ɡo/ /hom/",
+    "ukphone": "/tə/ /ɡo/ /hom/"
+  },
+  {
+    "name": "I want to go home",
+    "trans": [
+      "我想要去家"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /hom/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /hom/"
+  },
+  {
+    "name": "school",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "/skul/",
+    "ukphone": "/skul/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "to go to school",
+    "trans": [
+      "去上学"
+    ],
+    "usphone": "/tə/ /ɡo/ /tə/ /skul/",
+    "ukphone": "/tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to go to school",
+    "trans": [
+      "我想去上学"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /tə/ /skul/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "老的；年龄大的"
+    ],
+    "usphone": "/old/",
+    "ukphone": "/old/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is old",
+    "trans": [
+      "他是年龄大的"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/",
+    "ukphone": "/hi/ /ɪz/ /old/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "he is old enough",
+    "trans": [
+      "他是足够年龄大的"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "to go to school",
+    "trans": [
+      "去上学"
+    ],
+    "usphone": "/tə/ /ɡo/ /tə/ /skul/",
+    "ukphone": "/tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "name": "he is old enough to go to school",
+    "trans": [
+      "他是年龄大的足够去上学"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "alcohol",
+    "trans": [
+      "酒"
+    ],
+    "usphone": "/'ælkəhɔl/",
+    "ukphone": "/'ælkəhɔl/"
+  },
+  {
+    "name": "to buy alcohol",
+    "trans": [
+      "买酒"
+    ],
+    "usphone": "/tə/ /baɪ/ /'ælkəhɔl/",
+    "ukphone": "/tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "name": "he is old enough",
+    "trans": [
+      "他是足够年龄大的"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/nɑt/",
+    "ukphone": "/nɑt/"
+  },
+  {
+    "name": "he is not old enough",
+    "trans": [
+      "他不是足够年龄大的"
+    ],
+    "usphone": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/",
+    "ukphone": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "he is not old enough to buy alcohol",
+    "trans": [
+      "他不是年龄大的足够去买酒"
+    ],
+    "usphone": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+    "ukphone": "/hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but he is not old enough to buy alcohol",
+    "trans": [
+      "但是他不是年龄大的足够去买酒"
+    ],
+    "usphone": "/bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+    "ukphone": "/bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "name": "he is old enough to go to school",
+    "trans": [
+      "他是年龄大的足够去上学"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/"
+  },
+  {
+    "name": "he is old enough to go to school but he is not old enough to buy alcohol",
+    "trans": [
+      "他是年龄大的足够去上学但是他不是年龄大的足够去买酒"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /hi/ /ɪz/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  },
+  {
+    "name": "he is old enough to go to school but not old enough to buy alcohol",
+    "trans": [
+      "他是年龄大的足够去上学但是不是年龄大的足够去买酒"
+    ],
+    "usphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/",
+    "ukphone": "/hi/ /ɪz/ /old/ /ɪ'nʌf/ /tə/ /ɡo/ /tə/ /skul/ /bʌt/ /nɑt/ /old/ /ɪ'nʌf/ /tə/ /baɪ/ /'ælkəhɔl/"
+  }
+]

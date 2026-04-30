@@ -1,0 +1,1114 @@
+[
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more important",
+    "trans": [
+      "更重要的"
+    ],
+    "usphone": "/mɔr/ /ɪm'pɔrtnt/",
+    "ukphone": "/mɔr/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "difficult",
+    "trans": [
+      "困难的"
+    ],
+    "usphone": "/'dɪfɪkəlt/",
+    "ukphone": "/'dɪfɪkəlt/"
+  },
+  {
+    "name": "Chinese",
+    "trans": [
+      "中文"
+    ],
+    "usphone": "/tʃaɪˈniz/",
+    "ukphone": "/tʃaɪˈniz/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "Chinese is more difficult than English",
+    "trans": [
+      "中文比英文是更难的"
+    ],
+    "usphone": "/tʃaɪˈniz/ /ɪz/ /mɔr/ /'dɪfɪkəlt/ /ðæn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tʃaɪˈniz/ /ɪz/ /mɔr/ /'dɪfɪkəlt/ /ðæn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "more difficult",
+    "trans": [
+      "更困难的"
+    ],
+    "usphone": "/mɔr/ /'dɪfɪkəlt/",
+    "ukphone": "/mɔr/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most difficult",
+    "trans": [
+      "最困难的"
+    ],
+    "usphone": "/ðə/ /most/ /'dɪfɪkəlt/",
+    "ukphone": "/ðə/ /most/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "language",
+    "trans": [
+      "语言"
+    ],
+    "usphone": "/'læŋɡwɪdʒ/",
+    "ukphone": "/'læŋɡwɪdʒ/"
+  },
+  {
+    "name": "the most difficult language",
+    "trans": [
+      "最难的语言"
+    ],
+    "usphone": "/ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/",
+    "ukphone": "/ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/"
+  },
+  {
+    "name": "Chinese",
+    "trans": [
+      "中文"
+    ],
+    "usphone": "/tʃaɪˈniz/",
+    "ukphone": "/tʃaɪˈniz/"
+  },
+  {
+    "name": "Chinese is the most difficult language",
+    "trans": [
+      "中文是最难的语言"
+    ],
+    "usphone": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/",
+    "ukphone": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "Chinese is the most difficult language in the world",
+    "trans": [
+      "中文是世界上最难的语言"
+    ],
+    "usphone": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/tʃaɪˈniz/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'læŋɡwɪdʒ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'prɑbləm/",
+    "ukphone": "/'prɑbləm/"
+  },
+  {
+    "name": "the most difficult",
+    "trans": [
+      "最困难的"
+    ],
+    "usphone": "/ðə/ /most/ /'dɪfɪkəlt/",
+    "ukphone": "/ðə/ /most/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "the most difficult problem",
+    "trans": [
+      "最困难的问题"
+    ],
+    "usphone": "/ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/",
+    "ukphone": "/ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/"
+  },
+  {
+    "name": "this is the most difficult problem",
+    "trans": [
+      "这是最困难的问题"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "this is the most difficult problem in the world",
+    "trans": [
+      "这是在世界上最困难的问题"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /'dɪfɪkəlt/ /'prɑbləm/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ],
+    "usphone": "/ˈdendʒərəs/",
+    "ukphone": "/ˈdendʒərəs/"
+  },
+  {
+    "name": "the most dangerous",
+    "trans": [
+      "最危险的"
+    ],
+    "usphone": "/ðə/ /most/ /ˈdendʒərəs/",
+    "ukphone": "/ðə/ /most/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "man",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/mæn/",
+    "ukphone": "/mæn/"
+  },
+  {
+    "name": "the most dangerous man",
+    "trans": [
+      "最危险的人"
+    ],
+    "usphone": "/ðə/ /most/ /ˈdendʒərəs/ /mæn/",
+    "ukphone": "/ðə/ /most/ /ˈdendʒərəs/ /mæn/"
+  },
+  {
+    "name": "he is the most dangerous man",
+    "trans": [
+      "他是最危险的人"
+    ],
+    "usphone": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/",
+    "ukphone": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "he is the most dangerous man in the world",
+    "trans": [
+      "他是在世界上最危险的人"
+    ],
+    "usphone": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/hi/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /mæn/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "they are",
+    "trans": [
+      "他们是"
+    ],
+    "usphone": "/ðe/ /ɚ/",
+    "ukphone": "/ðe/ /ɚ/"
+  },
+  {
+    "name": "they are dangerous",
+    "trans": [
+      "他们是危险的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈdendʒərəs/",
+    "ukphone": "/ðe/ /ɚ/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "to think",
+    "trans": [
+      "以为"
+    ],
+    "usphone": "/tə/ /θɪŋk/",
+    "ukphone": "/tə/ /θɪŋk/"
+  },
+  {
+    "name": "you think",
+    "trans": [
+      "你以为"
+    ],
+    "usphone": "/ju/ /θɪŋk/",
+    "ukphone": "/ju/ /θɪŋk/"
+  },
+  {
+    "name": "you think they are dangerous",
+    "trans": [
+      "你以为他们是危险的"
+    ],
+    "usphone": "/ju/ /θɪŋk/ /ðe/ /ɚ/ /ˈdendʒərəs/",
+    "ukphone": "/ju/ /θɪŋk/ /ðe/ /ɚ/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more dangerous",
+    "trans": [
+      "更危险的"
+    ],
+    "usphone": "/mɔr/ /ˈdendʒərəs/",
+    "ukphone": "/mɔr/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "they are more dangerous",
+    "trans": [
+      "他们是更危险的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/",
+    "ukphone": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "you think",
+    "trans": [
+      "你以为"
+    ],
+    "usphone": "/ju/ /θɪŋk/",
+    "ukphone": "/ju/ /θɪŋk/"
+  },
+  {
+    "name": "than you think",
+    "trans": [
+      "比你以为"
+    ],
+    "usphone": "/ðæn/ /ju/ /θɪŋk/",
+    "ukphone": "/ðæn/ /ju/ /θɪŋk/"
+  },
+  {
+    "name": "they are more dangerous than you think",
+    "trans": [
+      "他们是比你以为的更危险的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/ /ðæn/ /ju/ /θɪŋk/",
+    "ukphone": "/ðe/ /ɚ/ /mɔr/ /ˈdendʒərəs/ /ðæn/ /ju/ /θɪŋk/"
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "宝贵的"
+    ],
+    "usphone": "/'væljuəbl/",
+    "ukphone": "/'væljuəbl/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most valuable",
+    "trans": [
+      "最宝贵的"
+    ],
+    "usphone": "/ðə/ /most/ /'væljuəbl/",
+    "ukphone": "/ðə/ /most/ /'væljuəbl/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "the most valuable thing",
+    "trans": [
+      "最宝贵的东西"
+    ],
+    "usphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+    "ukphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "time is the most valuable thing",
+    "trans": [
+      "时间是最宝贵的东西"
+    ],
+    "usphone": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+    "ukphone": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/"
+  },
+  {
+    "name": "to have",
+    "trans": [
+      "拥有"
+    ],
+    "usphone": "/tə/ /hæv/",
+    "ukphone": "/tə/ /hæv/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we have",
+    "trans": [
+      "我们拥有"
+    ],
+    "usphone": "/wi/ /hæv/",
+    "ukphone": "/wi/ /hæv/"
+  },
+  {
+    "name": "the thing",
+    "trans": [
+      "那个东西"
+    ],
+    "usphone": "/ðə/ /θɪŋ/",
+    "ukphone": "/ðə/ /θɪŋ/"
+  },
+  {
+    "name": "we have the thing",
+    "trans": [
+      "我们拥有那个东西"
+    ],
+    "usphone": "/wi/ /hæv/ /ðə/ /θɪŋ/",
+    "ukphone": "/wi/ /hæv/ /ðə/ /θɪŋ/"
+  },
+  {
+    "name": "the thing we have",
+    "trans": [
+      "我们拥有的那个东西"
+    ],
+    "usphone": "/ðə/ /θɪŋ/ /wi/ /hæv/",
+    "ukphone": "/ðə/ /θɪŋ/ /wi/ /hæv/"
+  },
+  {
+    "name": "the most valuable thing",
+    "trans": [
+      "最宝贵的东西"
+    ],
+    "usphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/",
+    "ukphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/"
+  },
+  {
+    "name": "the most valuable thing we have",
+    "trans": [
+      "我们拥有的最宝贵的东西"
+    ],
+    "usphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/",
+    "ukphone": "/ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/"
+  },
+  {
+    "name": "time is the most valuable thing we have",
+    "trans": [
+      "时间是我们拥有的最宝贵的东西"
+    ],
+    "usphone": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/",
+    "ukphone": "/taɪm/ /ɪz/ /ðə/ /most/ /'væljuəbl/ /θɪŋ/ /wi/ /hæv/"
+  },
+  {
+    "name": "valuable",
+    "trans": [
+      "宝贵的"
+    ],
+    "usphone": "/'væljuəbl/",
+    "ukphone": "/'væljuəbl/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more valuable",
+    "trans": [
+      "更宝贵的"
+    ],
+    "usphone": "/mɔr/ /'væljuəbl/",
+    "ukphone": "/mɔr/ /'væljuəbl/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "time is more valuable",
+    "trans": [
+      "时间是更宝贵的"
+    ],
+    "usphone": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/",
+    "ukphone": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "金钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "than money",
+    "trans": [
+      "比金钱"
+    ],
+    "usphone": "/ðæn/ /ˈmʌni/",
+    "ukphone": "/ðæn/ /ˈmʌni/"
+  },
+  {
+    "name": "time is more valuable than money",
+    "trans": [
+      "时间比金钱是更宝贵的"
+    ],
+    "usphone": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/ /ðæn/ /ˈmʌni/",
+    "ukphone": "/taɪm/ /ɪz/ /mɔr/ /'væljuəbl/ /ðæn/ /ˈmʌni/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "a new car",
+    "trans": [
+      "一辆新车"
+    ],
+    "usphone": "/ə/ /nu/ /kɑr/",
+    "ukphone": "/ə/ /nu/ /kɑr/"
+  },
+  {
+    "name": "expensive",
+    "trans": [
+      "昂贵的"
+    ],
+    "usphone": "/ɪk'spɛnsɪv/",
+    "ukphone": "/ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "a new car is expensive",
+    "trans": [
+      "一辆新车是昂贵的"
+    ],
+    "usphone": "/ə/ /nu/ /kɑr/ /ɪz/ /ɪk'spɛnsɪv/",
+    "ukphone": "/ə/ /nu/ /kɑr/ /ɪz/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more expensive",
+    "trans": [
+      "更贵的"
+    ],
+    "usphone": "/mɔr/ /ɪk'spɛnsɪv/",
+    "ukphone": "/mɔr/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "a new car is more expensive",
+    "trans": [
+      "一辆新车是更贵的"
+    ],
+    "usphone": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/",
+    "ukphone": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "used",
+    "trans": [
+      "用过的"
+    ],
+    "usphone": "/juzd/",
+    "ukphone": "/juzd/"
+  },
+  {
+    "name": "a used car",
+    "trans": [
+      "一辆旧车"
+    ],
+    "usphone": "/ə/ /juzd/ /kɑr/",
+    "ukphone": "/ə/ /juzd/ /kɑr/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "than a used car",
+    "trans": [
+      "比一辆旧车"
+    ],
+    "usphone": "/ðæn/ /ə/ /juzd/ /kɑr/",
+    "ukphone": "/ðæn/ /ə/ /juzd/ /kɑr/"
+  },
+  {
+    "name": "a new car is more expensive than a used car",
+    "trans": [
+      "一辆新车比一辆旧车是更贵的"
+    ],
+    "usphone": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/ /ðæn/ /ə/ /juzd/ /kɑr/",
+    "ukphone": "/ə/ /nu/ /kɑr/ /ɪz/ /mɔr/ /ɪk'spɛnsɪv/ /ðæn/ /ə/ /juzd/ /kɑr/"
+  },
+  {
+    "name": "expensive",
+    "trans": [
+      "昂贵的"
+    ],
+    "usphone": "/ɪk'spɛnsɪv/",
+    "ukphone": "/ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "gift",
+    "trans": [
+      "礼物"
+    ],
+    "usphone": "/ɡɪft/",
+    "ukphone": "/ɡɪft/"
+  },
+  {
+    "name": "the gift is expensive",
+    "trans": [
+      "这个礼物是昂贵的"
+    ],
+    "usphone": "/ðə/ /ɡɪft/ /ɪz/ /ɪk'spɛnsɪv/",
+    "ukphone": "/ðə/ /ɡɪft/ /ɪz/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most expensive",
+    "trans": [
+      "最贵的"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "gift",
+    "trans": [
+      "礼物"
+    ],
+    "usphone": "/ɡɪft/",
+    "ukphone": "/ɡɪft/"
+  },
+  {
+    "name": "the most expensive gift",
+    "trans": [
+      "最贵的礼物"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kən/",
+    "ukphone": "/ju/ /kən/"
+  },
+  {
+    "name": "you can find",
+    "trans": [
+      "你可以找到"
+    ],
+    "usphone": "/ju/ /kən/ /faɪnd/",
+    "ukphone": "/ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "you can find the most expensive gift",
+    "trans": [
+      "你可以找到最贵的礼物"
+    ],
+    "usphone": "/ju/ /kən/ /faɪnd/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/",
+    "ukphone": "/ju/ /kən/ /faɪnd/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/"
+  },
+  {
+    "name": "the most expensive gift you can find",
+    "trans": [
+      "你可以找到的最贵的礼物"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "you should",
+    "trans": [
+      "你应该"
+    ],
+    "usphone": "/ju/ /ʃʊd/",
+    "ukphone": "/ju/ /ʃʊd/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "you should buy",
+    "trans": [
+      "你应该买"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /baɪ/",
+    "ukphone": "/ju/ /ʃʊd/ /baɪ/"
+  },
+  {
+    "name": "the most expensive gift you can find",
+    "trans": [
+      "你可以找到的最贵的礼物"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "you should buy the most expensive gift you can find",
+    "trans": [
+      "你应该买你可以找到的最贵的礼物"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /baɪ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+    "ukphone": "/ju/ /ʃʊd/ /baɪ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "your daughter",
+    "trans": [
+      "你的女儿"
+    ],
+    "usphone": "/jʊr/ /'dɔtɚ/",
+    "ukphone": "/jʊr/ /'dɔtɚ/"
+  },
+  {
+    "name": "you should buy",
+    "trans": [
+      "你应该买"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /baɪ/",
+    "ukphone": "/ju/ /ʃʊd/ /baɪ/"
+  },
+  {
+    "name": "you should buy your daughter",
+    "trans": [
+      "你应该买给你的女儿"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/",
+    "ukphone": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/"
+  },
+  {
+    "name": "the most expensive gift you can find",
+    "trans": [
+      "你可以找到的最贵的礼物"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "you should buy your daughter the most expensive gift you can find",
+    "trans": [
+      "你应该买给你的女儿你可以找到的最贵的礼物"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/",
+    "ukphone": "/ju/ /ʃʊd/ /baɪ/ /jʊr/ /'dɔtɚ/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ɡɪft/ /ju/ /kən/ /faɪnd/"
+  },
+  {
+    "name": "the most expensive",
+    "trans": [
+      "最贵的"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/"
+  },
+  {
+    "name": "hotel",
+    "trans": [
+      "旅馆"
+    ],
+    "usphone": "/ho'tɛl/",
+    "ukphone": "/ho'tɛl/"
+  },
+  {
+    "name": "the most expensive hotel",
+    "trans": [
+      "最贵的旅馆"
+    ],
+    "usphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/",
+    "ukphone": "/ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/"
+  },
+  {
+    "name": "this is the most expensive hotel",
+    "trans": [
+      "这是最贵的旅馆"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/"
+  },
+  {
+    "name": "the city",
+    "trans": [
+      "这个城市"
+    ],
+    "usphone": "/ðə/ /'sɪti/",
+    "ukphone": "/ðə/ /'sɪti/"
+  },
+  {
+    "name": "in the city",
+    "trans": [
+      "在这个城市里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'sɪti/",
+    "ukphone": "/ɪn/ /ðə/ /'sɪti/"
+  },
+  {
+    "name": "this is the most expensive hotel in the city",
+    "trans": [
+      "这是在这个城市里最贵的旅馆"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/ /ɪn/ /ðə/ /'sɪti/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ɪk'spɛnsɪv/ /ho'tɛl/ /ɪn/ /ðə/ /'sɪti/"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "漂亮的"
+    ],
+    "usphone": "/'bjʊtəfəl/",
+    "ukphone": "/'bjʊtəfəl/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most beautiful",
+    "trans": [
+      "最漂亮的"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "girl",
+    "trans": [
+      "女孩"
+    ],
+    "usphone": "/ɡɝl/",
+    "ukphone": "/ɡɝl/"
+  },
+  {
+    "name": "the most beautiful girl",
+    "trans": [
+      "最漂亮的女孩"
+    ],
+    "usphone": "/ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/",
+    "ukphone": "/ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are the most beautiful girl",
+    "trans": [
+      "你是最漂亮的女孩"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/ /C40/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/ /C40/"
+  },
+  {
+    "name": "you are the most beautiful girl in the world",
+    "trans": [
+      "你是世界上最漂亮的女孩"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "漂亮的"
+    ],
+    "usphone": "/'bjʊtəfəl/",
+    "ukphone": "/'bjʊtəfəl/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more beautiful",
+    "trans": [
+      "更漂亮的"
+    ],
+    "usphone": "/mɔr/ /'bjʊtəfəl/",
+    "ukphone": "/mɔr/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are more beautiful",
+    "trans": [
+      "你是更漂亮的"
+    ],
+    "usphone": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/",
+    "ukphone": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "to smile",
+    "trans": [
+      "笑"
+    ],
+    "usphone": "/tə/ /smaɪl/",
+    "ukphone": "/tə/ /smaɪl/"
+  },
+  {
+    "name": "you smile",
+    "trans": [
+      "你笑"
+    ],
+    "usphone": "/ju/ /smaɪl/",
+    "ukphone": "/ju/ /smaɪl/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you smile",
+    "trans": [
+      "当你笑的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/wɛn/ /ju/ /smaɪl/"
+  },
+  {
+    "name": "you are more beautiful when you smile",
+    "trans": [
+      "当你笑的时候你是更漂亮的"
+    ],
+    "usphone": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/ju/ /ɚ/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/"
+  },
+  {
+    "name": "to look",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /lʊk/",
+    "ukphone": "/tə/ /lʊk/"
+  },
+  {
+    "name": "you look more beautiful",
+    "trans": [
+      "你看起来更漂亮"
+    ],
+    "usphone": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/",
+    "ukphone": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/"
+  },
+  {
+    "name": "when you smile",
+    "trans": [
+      "当你笑的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/wɛn/ /ju/ /smaɪl/"
+  },
+  {
+    "name": "you look more beautiful when you smile",
+    "trans": [
+      "你看起来是更漂亮的当你笑的时候"
+    ],
+    "usphone": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but you look more beautiful when you smile",
+    "trans": [
+      "但是你看起来是更漂亮的当你笑的时候"
+    ],
+    "usphone": "/bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/"
+  },
+  {
+    "name": "you are the most beautiful girl in the world",
+    "trans": [
+      "你是世界上最漂亮的女孩"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "you are the most beautiful girl in the world but you look more beautiful when you smile",
+    "trans": [
+      "你是世界上最漂亮的女孩但是当你笑的时候你看起来是更漂亮的"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/ /bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /most/ /'bjʊtəfəl/ /ɡɝl/ /ɪn/ /ðə/ /wɝld/ /bʌt/ /ju/ /lʊk/ /mɔr/ /'bjʊtəfəl/ /wɛn/ /ju/ /smaɪl/"
+  }
+]

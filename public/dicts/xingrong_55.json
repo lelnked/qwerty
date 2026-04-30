@@ -1,0 +1,1018 @@
+[
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɔlv/",
+    "ukphone": "/tə/ /sɔlv/"
+  },
+  {
+    "name": "solved",
+    "trans": [
+      "解决(ed形式)"
+    ],
+    "usphone": "/sɔlvd/",
+    "ukphone": "/sɔlvd/"
+  },
+  {
+    "name": "be solved",
+    "trans": [
+      "被解决"
+    ],
+    "usphone": "/bi/ /sɔlvd/",
+    "ukphone": "/bi/ /sɔlvd/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem is solved",
+    "trans": [
+      "那个问题被解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/",
+    "ukphone": "/ðə/ /'prɑbləm/ /ɪz/ /sɔlvd/"
+  },
+  {
+    "name": "has been solved",
+    "trans": [
+      "(已经)被解决"
+    ],
+    "usphone": "/hæz/ /bɪn/ /sɔlvd/",
+    "ukphone": "/hæz/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "name": "the problem has been solved",
+    "trans": [
+      "那个问题(已经)被解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/",
+    "ukphone": "/ðə/ /'prɑbləm/ /hæz/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "name": "had been solved",
+    "trans": [
+      "(过去已经)被解决"
+    ],
+    "usphone": "/hæd/ /bɪn/ /sɔlvd/",
+    "ukphone": "/hæd/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "name": "the problem had been solved",
+    "trans": [
+      "那个问题(过去已经)被解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/",
+    "ukphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/"
+  },
+  {
+    "name": "by him",
+    "trans": [
+      "通过他"
+    ],
+    "usphone": "/baɪ/ /hɪm/",
+    "ukphone": "/baɪ/ /hɪm/"
+  },
+  {
+    "name": "the problem had been solved by him",
+    "trans": [
+      "那个问题(过去已经)通过他被解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+    "ukphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "else",
+    "trans": [
+      "其他"
+    ],
+    "usphone": "/ɛls/",
+    "ukphone": "/ɛls/"
+  },
+  {
+    "name": "anyone",
+    "trans": [
+      "任何人"
+    ],
+    "usphone": "/'ɛnɪwʌn/",
+    "ukphone": "/'ɛnɪwʌn/"
+  },
+  {
+    "name": "anyone else",
+    "trans": [
+      "其他任何人"
+    ],
+    "usphone": "/'ɛnɪwʌn/ /ɛls/",
+    "ukphone": "/'ɛnɪwʌn/ /ɛls/"
+  },
+  {
+    "name": "to notice",
+    "trans": [
+      "注意到"
+    ],
+    "usphone": "/tə/ /ˈnotɪs/",
+    "ukphone": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "name": "noticed",
+    "trans": [
+      "注意到(过去)"
+    ],
+    "usphone": "/ˈnotɪst/",
+    "ukphone": "/ˈnotɪst/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "noticed it",
+    "trans": [
+      "注意到(过去)它"
+    ],
+    "usphone": "/ˈnotɪst/ /ɪt/",
+    "ukphone": "/ˈnotɪst/ /ɪt/"
+  },
+  {
+    "name": "anyone else noticed it",
+    "trans": [
+      "其他任何人注意到(过去)它"
+    ],
+    "usphone": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+    "ukphone": "/'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before anyone else noticed it",
+    "trans": [
+      "在其他任何人注意到(过去)它之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+    "ukphone": "/bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "name": "the problem had been solved by him",
+    "trans": [
+      "那个问题(过去已经)被他解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/",
+    "ukphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "the problem had been solved by him before anyone else noticed it",
+    "trans": [
+      "在其他任何人注意到(过去)它之前那个问题(过去已经)被他解决"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/",
+    "ukphone": "/ðə/ /'prɑbləm/ /hæd/ /bɪn/ /sɔlvd/ /baɪ/ /hɪm/ /bɪ'fɔr/ /'ɛnɪwʌn/ /ɛls/ /ˈnotɪst/ /ɪt/"
+  },
+  {
+    "name": "to paint",
+    "trans": [
+      "粉刷"
+    ],
+    "usphone": "/tə/ /pent/",
+    "ukphone": "/tə/ /pent/"
+  },
+  {
+    "name": "painted",
+    "trans": [
+      "粉刷(ed形式)"
+    ],
+    "usphone": "/ˈpentɪd/",
+    "ukphone": "/ˈpentɪd/"
+  },
+  {
+    "name": "be painted",
+    "trans": [
+      "被粉刷"
+    ],
+    "usphone": "/bi/ /ˈpentɪd/",
+    "ukphone": "/bi/ /ˈpentɪd/"
+  },
+  {
+    "name": "has been painted",
+    "trans": [
+      "(已经)被粉刷"
+    ],
+    "usphone": "/hæz/ /bɪn/ /ˈpentɪd/",
+    "ukphone": "/hæz/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "name": "had been painted",
+    "trans": [
+      "(过去已经)被粉刷"
+    ],
+    "usphone": "/hæd/ /bɪn/ /ˈpentɪd/",
+    "ukphone": "/hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "name": "the house",
+    "trans": [
+      "那个房子"
+    ],
+    "usphone": "/ðə/ /haʊs/",
+    "ukphone": "/ðə/ /haʊs/"
+  },
+  {
+    "name": "the house had been painted",
+    "trans": [
+      "那个房子(过去已经)被粉刷"
+    ],
+    "usphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+    "ukphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "name": "to move",
+    "trans": [
+      "搬"
+    ],
+    "usphone": "/tə/ /muv/",
+    "ukphone": "/tə/ /muv/"
+  },
+  {
+    "name": "moved",
+    "trans": [
+      "搬(过去)"
+    ],
+    "usphone": "/muvd/",
+    "ukphone": "/muvd/"
+  },
+  {
+    "name": "they moved",
+    "trans": [
+      "他们搬(过去)"
+    ],
+    "usphone": "/ðe/ /muvd/",
+    "ukphone": "/ðe/ /muvd/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "往里面"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "they moved in",
+    "trans": [
+      "他们搬(过去)进去"
+    ],
+    "usphone": "/ðe/ /muvd/ /ɪn/",
+    "ukphone": "/ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before they moved in",
+    "trans": [
+      "在他们搬(过去)进去之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+    "ukphone": "/bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "name": "the house had been painted",
+    "trans": [
+      "那个房子(过去已经)被粉刷"
+    ],
+    "usphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/",
+    "ukphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/"
+  },
+  {
+    "name": "the house had been painted before they moved in",
+    "trans": [
+      "在他们搬(过去)进去之前那个房子(过去已经)被粉刷"
+    ],
+    "usphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/",
+    "ukphone": "/ðə/ /haʊs/ /hæd/ /bɪn/ /ˈpentɪd/ /bɪ'fɔr/ /ðe/ /muvd/ /ɪn/"
+  },
+  {
+    "name": "to build",
+    "trans": [
+      "建造"
+    ],
+    "usphone": "/tə/ /bɪld/",
+    "ukphone": "/tə/ /bɪld/"
+  },
+  {
+    "name": "building",
+    "trans": [
+      "建筑物"
+    ],
+    "usphone": "/'bɪldɪŋ/",
+    "ukphone": "/'bɪldɪŋ/"
+  },
+  {
+    "name": "the building",
+    "trans": [
+      "那个建筑物"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/"
+  },
+  {
+    "name": "to evacuate",
+    "trans": [
+      "疏散"
+    ],
+    "usphone": "/tə/ /ɪˈvækjuet/",
+    "ukphone": "/tə/ /ɪˈvækjuet/"
+  },
+  {
+    "name": "evacuated",
+    "trans": [
+      "疏散(ed形式)"
+    ],
+    "usphone": "/ɪˈvækjuetɪd/",
+    "ukphone": "/ɪˈvækjuetɪd/"
+  },
+  {
+    "name": "be evacuated",
+    "trans": [
+      "被疏散"
+    ],
+    "usphone": "/bi/ /ɪˈvækjuetɪd/",
+    "ukphone": "/bi/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "name": "had been evacuated",
+    "trans": [
+      "(过去已经)被疏散"
+    ],
+    "usphone": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+    "ukphone": "/hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "name": "the building had been evacuated",
+    "trans": [
+      "那个建筑物(过去已经)被疏散"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "name": "fire",
+    "trans": [
+      "火"
+    ],
+    "usphone": "/ˈfaɪər/",
+    "ukphone": "/ˈfaɪər/"
+  },
+  {
+    "name": "to spread",
+    "trans": [
+      "蔓延"
+    ],
+    "usphone": "/tə/ /sprɛd/",
+    "ukphone": "/tə/ /sprɛd/"
+  },
+  {
+    "name": "spread",
+    "trans": [
+      "蔓延(过去)"
+    ],
+    "usphone": "/sprɛd/",
+    "ukphone": "/sprɛd/"
+  },
+  {
+    "name": "the fire spread",
+    "trans": [
+      "火势蔓延(过去)"
+    ],
+    "usphone": "/ðə/ /ˈfaɪər/ /sprɛd/",
+    "ukphone": "/ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the fire spread",
+    "trans": [
+      "在火势蔓延(过去)之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "name": "the building had been evacuated",
+    "trans": [
+      "那个建筑物(过去已经)被疏散"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/"
+  },
+  {
+    "name": "the building had been evacuated before the fire spread",
+    "trans": [
+      "在火势蔓延(过去)之前那个建筑物(过去已经)被疏散"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /ɪˈvækjuetɪd/ /bɪ'fɔr/ /ðə/ /ˈfaɪər/ /sprɛd/"
+  },
+  {
+    "name": "to park",
+    "trans": [
+      "停车"
+    ],
+    "usphone": "/tə/ /pɑrk/",
+    "ukphone": "/tə/ /pɑrk/"
+  },
+  {
+    "name": "parked",
+    "trans": [
+      "停车(ed形式)"
+    ],
+    "usphone": "/pɑrkt/",
+    "ukphone": "/pɑrkt/"
+  },
+  {
+    "name": "had been parked",
+    "trans": [
+      "(过去已经)被停"
+    ],
+    "usphone": "/hæd/ /bɪn/ /pɑrkt/",
+    "ukphone": "/hæd/ /bɪn/ /pɑrkt/"
+  },
+  {
+    "name": "the car",
+    "trans": [
+      "那辆车"
+    ],
+    "usphone": "/ðə/ /kɑr/",
+    "ukphone": "/ðə/ /kɑr/"
+  },
+  {
+    "name": "the car had been parked",
+    "trans": [
+      "那辆车(过去已经)被停"
+    ],
+    "usphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/",
+    "ukphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/"
+  },
+  {
+    "name": "garage",
+    "trans": [
+      "车库"
+    ],
+    "usphone": "/ɡəˈrɑʒ/",
+    "ukphone": "/ɡəˈrɑʒ/"
+  },
+  {
+    "name": "in the garage",
+    "trans": [
+      "在车库里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /ɡəˈrɑʒ/",
+    "ukphone": "/ɪn/ /ðə/ /ɡəˈrɑʒ/"
+  },
+  {
+    "name": "the car had been parked in the garage",
+    "trans": [
+      "那辆车(过去已经)被停在车库里"
+    ],
+    "usphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/",
+    "ukphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/"
+  },
+  {
+    "name": "storm",
+    "trans": [
+      "暴风雨"
+    ],
+    "usphone": "/stɔrm/",
+    "ukphone": "/stɔrm/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the storm",
+    "trans": [
+      "在暴风雨之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /stɔrm/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /stɔrm/"
+  },
+  {
+    "name": "the car had been parked in the garage before the storm",
+    "trans": [
+      "在暴风雨之前那辆车(过去已经)被停在车库里"
+    ],
+    "usphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/",
+    "ukphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /pɑrkt/ /ɪn/ /ðə/ /ɡəˈrɑʒ/ /bɪ'fɔr/ /ðə/ /stɔrm/"
+  },
+  {
+    "name": "to constructe",
+    "trans": [
+      "建造"
+    ],
+    "usphone": "/tə/ /kənˈstrʌkt/",
+    "ukphone": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "name": "constructed",
+    "trans": [
+      "建造(ed形式)"
+    ],
+    "usphone": "/kənˈstrʌktɪd/",
+    "ukphone": "/kənˈstrʌktɪd/"
+  },
+  {
+    "name": "be constructed",
+    "trans": [
+      "被建造"
+    ],
+    "usphone": "/bi/ /kənˈstrʌktɪd/",
+    "ukphone": "/bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "had been constructed",
+    "trans": [
+      "(过去已经)被建造"
+    ],
+    "usphone": "/hæd/ /bɪn/ /kənˈstrʌktɪd/",
+    "ukphone": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the bridge",
+    "trans": [
+      "那座桥"
+    ],
+    "usphone": "/ðə/ /brɪdʒ/",
+    "ukphone": "/ðə/ /brɪdʒ/"
+  },
+  {
+    "name": "the bridge had been constructed",
+    "trans": [
+      "那座桥(过去已经)被建造"
+    ],
+    "usphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+    "ukphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "rain",
+    "trans": [
+      "雨"
+    ],
+    "usphone": "/ren/",
+    "ukphone": "/ren/"
+  },
+  {
+    "name": "rainy",
+    "trans": [
+      "多雨的"
+    ],
+    "usphone": "/'reni/",
+    "ukphone": "/'reni/"
+  },
+  {
+    "name": "season",
+    "trans": [
+      "季节"
+    ],
+    "usphone": "/'sizn/",
+    "ukphone": "/'sizn/"
+  },
+  {
+    "name": "rainy season",
+    "trans": [
+      "雨季"
+    ],
+    "usphone": "/'reni/ /'sizn/",
+    "ukphone": "/'reni/ /'sizn/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the rainy season",
+    "trans": [
+      "在雨季之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+  },
+  {
+    "name": "the bridge had been constructed",
+    "trans": [
+      "那座桥(过去已经)被建造"
+    ],
+    "usphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/",
+    "ukphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the bridge had been constructed before the rainy season",
+    "trans": [
+      "在雨季之前那座桥(过去已经)被建造"
+    ],
+    "usphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/",
+    "ukphone": "/ðə/ /brɪdʒ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /bɪ'fɔr/ /ðə/ /'reni/ /'sizn/"
+  },
+  {
+    "name": "to correct",
+    "trans": [
+      "纠正"
+    ],
+    "usphone": "/tə/ /kə'rɛkt/",
+    "ukphone": "/tə/ /kə'rɛkt/"
+  },
+  {
+    "name": "corrected",
+    "trans": [
+      "纠正(ed形式)"
+    ],
+    "usphone": "/kə'rɛktɪd/",
+    "ukphone": "/kə'rɛktɪd/"
+  },
+  {
+    "name": "be corrected",
+    "trans": [
+      "被纠正"
+    ],
+    "usphone": "/bi/ /kə'rɛktɪd/",
+    "ukphone": "/bi/ /kə'rɛktɪd/"
+  },
+  {
+    "name": "had been corrected",
+    "trans": [
+      "(过去已经)被纠正"
+    ],
+    "usphone": "/hæd/ /bɪn/ /kə'rɛktɪd/",
+    "ukphone": "/hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "name": "error",
+    "trans": [
+      "错误"
+    ],
+    "usphone": "/ˈɛrər/",
+    "ukphone": "/ˈɛrər/"
+  },
+  {
+    "name": "the error had been corrected",
+    "trans": [
+      "那个错误(过去已经)被纠正"
+    ],
+    "usphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+    "ukphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "name": "to submit",
+    "trans": [
+      "提交"
+    ],
+    "usphone": "/tə/ /səbˈmɪt/",
+    "ukphone": "/tə/ /səbˈmɪt/"
+  },
+  {
+    "name": "submitted",
+    "trans": [
+      "提交(ed形式)"
+    ],
+    "usphone": "/səbˈmɪtɪd/",
+    "ukphone": "/səbˈmɪtɪd/"
+  },
+  {
+    "name": "be submitted",
+    "trans": [
+      "被提交"
+    ],
+    "usphone": "/bi/ /səbˈmɪtɪd/",
+    "ukphone": "/bi/ /səbˈmɪtɪd/"
+  },
+  {
+    "name": "report",
+    "trans": [
+      "报告"
+    ],
+    "usphone": "/rɪ'pɔrt/",
+    "ukphone": "/rɪ'pɔrt/"
+  },
+  {
+    "name": "the report was submitted",
+    "trans": [
+      "那个报告(过去)被提交"
+    ],
+    "usphone": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+    "ukphone": "/ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the report was submitted",
+    "trans": [
+      "在那个报告(过去)被提交之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "name": "the error had been corrected",
+    "trans": [
+      "那个错误(过去已经)被纠正"
+    ],
+    "usphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/",
+    "ukphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/"
+  },
+  {
+    "name": "the error had been corrected before the report was submitted",
+    "trans": [
+      "在那个报告(过去)被提交之前那个错误(过去已经)被纠正"
+    ],
+    "usphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/",
+    "ukphone": "/ði/ /ˈɛrər/ /hæd/ /bɪn/ /kə'rɛktɪd/ /bɪ'fɔr/ /ðə/ /rɪ'pɔrt/ /wəz/ /səbˈmɪtɪd/"
+  },
+  {
+    "name": "to sell",
+    "trans": [
+      "卖"
+    ],
+    "usphone": "/tə/ /sɛl/",
+    "ukphone": "/tə/ /sɛl/"
+  },
+  {
+    "name": "to sell out",
+    "trans": [
+      "卖光"
+    ],
+    "usphone": "/tə/ /sɛl/ /aʊt/",
+    "ukphone": "/tə/ /sɛl/ /aʊt/"
+  },
+  {
+    "name": "sold out",
+    "trans": [
+      "卖光(ed形式)"
+    ],
+    "usphone": "/sold/ /aʊt/",
+    "ukphone": "/sold/ /aʊt/"
+  },
+  {
+    "name": "be sold out",
+    "trans": [
+      "被卖光"
+    ],
+    "usphone": "/bi/ /sold/ /aʊt/",
+    "ukphone": "/bi/ /sold/ /aʊt/"
+  },
+  {
+    "name": "had been sold out",
+    "trans": [
+      "(过去已经)被卖光了"
+    ],
+    "usphone": "/hæd/ /bɪn/ /sold/ /aʊt/",
+    "ukphone": "/hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "name": "ticket",
+    "trans": [
+      "票"
+    ],
+    "usphone": "/'tɪkɪt/",
+    "ukphone": "/'tɪkɪt/"
+  },
+  {
+    "name": "the tickets",
+    "trans": [
+      "那些票"
+    ],
+    "usphone": "/ðə/ /'tɪkɪts/",
+    "ukphone": "/ðə/ /'tɪkɪts/"
+  },
+  {
+    "name": "the tickets had been sold out",
+    "trans": [
+      "那些票(过去已经)被卖光了"
+    ],
+    "usphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+    "ukphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "name": "to arrive",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ə'raɪv/",
+    "ukphone": "/tə/ /ə'raɪv/"
+  },
+  {
+    "name": "arrived",
+    "trans": [
+      "达到(过去)"
+    ],
+    "usphone": "/ə'raɪvd/",
+    "ukphone": "/ə'raɪvd/"
+  },
+  {
+    "name": "we arrived",
+    "trans": [
+      "我们到达(过去)"
+    ],
+    "usphone": "/wi/ /ə'raɪvd/",
+    "ukphone": "/wi/ /ə'raɪvd/"
+  },
+  {
+    "name": "the time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/ðə/ /taɪm/",
+    "ukphone": "/ðə/ /taɪm/"
+  },
+  {
+    "name": "the time we arrived",
+    "trans": [
+      "我们到达(过去)的时间"
+    ],
+    "usphone": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+    "ukphone": "/ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "name": "by the time we arrived",
+    "trans": [
+      "在我们到达(过去)的时间"
+    ],
+    "usphone": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+    "ukphone": "/baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "name": "the tickets had been sold out",
+    "trans": [
+      "那些票(过去已经)被卖光了"
+    ],
+    "usphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/",
+    "ukphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/"
+  },
+  {
+    "name": "the tickets had been sold out by the time we arrived",
+    "trans": [
+      "在我们到达(过去)的时间那些票(过去已经)被卖光了"
+    ],
+    "usphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/",
+    "ukphone": "/ðə/ /'tɪkɪts/ /hæd/ /bɪn/ /sold/ /aʊt/ /baɪ/ /ðə/ /taɪm/ /wi/ /ə'raɪvd/"
+  },
+  {
+    "name": "to change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tə/ /tʃendʒ/",
+    "ukphone": "/tə/ /tʃendʒ/"
+  },
+  {
+    "name": "changed",
+    "trans": [
+      "改变(ed形式)"
+    ],
+    "usphone": "/tʃendʒd/",
+    "ukphone": "/tʃendʒd/"
+  },
+  {
+    "name": "be changed",
+    "trans": [
+      "被改变"
+    ],
+    "usphone": "/bi/ /tʃendʒd/",
+    "ukphone": "/bi/ /tʃendʒd/"
+  },
+  {
+    "name": "had been changed",
+    "trans": [
+      "(过去已经)被改变"
+    ],
+    "usphone": "/hæd/ /bɪn/ /tʃendʒd/",
+    "ukphone": "/hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "name": "password",
+    "trans": [
+      "密码"
+    ],
+    "usphone": "/ˈpæswɝd/",
+    "ukphone": "/ˈpæswɝd/"
+  },
+  {
+    "name": "the password had been changed",
+    "trans": [
+      "那个密码(过去已经)被改变"
+    ],
+    "usphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+    "ukphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "name": "to hack",
+    "trans": [
+      "非法入侵"
+    ],
+    "usphone": "/tə/ /hæk/",
+    "ukphone": "/tə/ /hæk/"
+  },
+  {
+    "name": "hacked",
+    "trans": [
+      "非法入侵(ed形式)"
+    ],
+    "usphone": "/hækt/",
+    "ukphone": "/hækt/"
+  },
+  {
+    "name": "be hacked",
+    "trans": [
+      "被非法入侵"
+    ],
+    "usphone": "/bi/ /hækt/",
+    "ukphone": "/bi/ /hækt/"
+  },
+  {
+    "name": "system",
+    "trans": [
+      "系统"
+    ],
+    "usphone": "/ˈsɪstəm/",
+    "ukphone": "/ˈsɪstəm/"
+  },
+  {
+    "name": "the system was hacked",
+    "trans": [
+      "系统被(过去)非法入侵"
+    ],
+    "usphone": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+    "ukphone": "/ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the system was hacked",
+    "trans": [
+      "在系统被(过去)非法入侵之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  },
+  {
+    "name": "the password had been changed",
+    "trans": [
+      "那个密码(过去已经)被改变"
+    ],
+    "usphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/",
+    "ukphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/"
+  },
+  {
+    "name": "the password had been changed before the system was hacked",
+    "trans": [
+      "在系统被(过去)非法入侵之前那个密码(过去已经)被改变"
+    ],
+    "usphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/",
+    "ukphone": "/ðə/ /ˈpæswɝd/ /hæd/ /bɪn/ /tʃendʒd/ /bɪ'fɔr/ /ðə/ /ˈsɪstəm/ /wəz/ /hækt/"
+  }
+]

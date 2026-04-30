@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "smart",
+    "trans": [
+      "聪明的"
+    ],
+    "usphone": "/smɑrt/",
+    "ukphone": "/smɑrt/"
+  },
+  {
+    "name": "person",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pɝsn/",
+    "ukphone": "/'pɝsn/"
+  },
+  {
+    "name": "smart person",
+    "trans": [
+      "聪明的人"
+    ],
+    "usphone": "/smɑrt/ /'pɝsn/",
+    "ukphone": "/smɑrt/ /'pɝsn/"
+  },
+  {
+    "name": "the smartest",
+    "trans": [
+      "最聪明的"
+    ],
+    "usphone": "/ðə/ /'smɑrtɪst/",
+    "ukphone": "/ðə/ /'smɑrtɪst/"
+  },
+  {
+    "name": "the smartest person",
+    "trans": [
+      "最聪明的人"
+    ],
+    "usphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/",
+    "ukphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "认识"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "known",
+    "trans": [
+      "认识(ed形式)"
+    ],
+    "usphone": "/non/",
+    "ukphone": "/non/"
+  },
+  {
+    "name": "I have ever",
+    "trans": [
+      "我曾经..."
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/"
+  },
+  {
+    "name": "I have ever known",
+    "trans": [
+      "我曾经认识"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "the smartest person",
+    "trans": [
+      "最聪明的人"
+    ],
+    "usphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/",
+    "ukphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/"
+  },
+  {
+    "name": "the smartest person I have ever known",
+    "trans": [
+      "我曾经认识的最聪明的人"
+    ],
+    "usphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "she is",
+    "trans": [
+      "她是"
+    ],
+    "usphone": "/ʃi/ /ɪz/",
+    "ukphone": "/ʃi/ /ɪz/"
+  },
+  {
+    "name": "she is the smartest person I have ever known",
+    "trans": [
+      "她是我曾经认识的最聪明的人"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/ʃi/ /ɪz/ /ðə/ /'smɑrtɪst/ /'pɝsn/ /aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "I have ever known",
+    "trans": [
+      "我曾经知道"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/",
+    "ukphone": "/aɪ/ /hæv/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "he has ever known",
+    "trans": [
+      "他曾经知道"
+    ],
+    "usphone": "/hi/ /hæz/ /'ɛvɚ/ /non/",
+    "ukphone": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "animal",
+    "trans": [
+      "动物"
+    ],
+    "usphone": "/'ænɪml/",
+    "ukphone": "/'ænɪml/"
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ],
+    "usphone": "/ˈdendʒərəs/",
+    "ukphone": "/ˈdendʒərəs/"
+  },
+  {
+    "name": "dangerous animal",
+    "trans": [
+      "危险的动物"
+    ],
+    "usphone": "/ˈdendʒərəs/ /'ænɪml/",
+    "ukphone": "/ˈdendʒərəs/ /'ænɪml/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most dangerous",
+    "trans": [
+      "最危险的"
+    ],
+    "usphone": "/ðə/ /most/ /ˈdendʒərəs/",
+    "ukphone": "/ðə/ /most/ /ˈdendʒərəs/"
+  },
+  {
+    "name": "the most dangerous animal",
+    "trans": [
+      "最危险的动物"
+    ],
+    "usphone": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/",
+    "ukphone": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/"
+  },
+  {
+    "name": "he has ever known",
+    "trans": [
+      "他曾经知道"
+    ],
+    "usphone": "/hi/ /hæz/ /'ɛvɚ/ /non/",
+    "ukphone": "/hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "the most dangerous animal he has ever known",
+    "trans": [
+      "他曾经知道的最危险的动物"
+    ],
+    "usphone": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/",
+    "ukphone": "/ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the most dangerous animal he has ever known",
+    "trans": [
+      "这是他曾经知道的最危险的动物"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈdendʒərəs/ /'ænɪml/ /hi/ /hæz/ /'ɛvɚ/ /non/"
+  },
+  {
+    "name": "he has ever",
+    "trans": [
+      "他曾经..."
+    ],
+    "usphone": "/hi/ /hæz/ /'ɛvɚ/",
+    "ukphone": "/hi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "name": "she has ever",
+    "trans": [
+      "她曾经..."
+    ],
+    "usphone": "/ʃi/ /hæz/ /'ɛvɚ/",
+    "ukphone": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "建议"
+    ],
+    "usphone": "/əd'vaɪs/",
+    "ukphone": "/əd'vaɪs/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "good advice",
+    "trans": [
+      "好的建议"
+    ],
+    "usphone": "/ɡʊd/ /əd'vaɪs/",
+    "ukphone": "/ɡʊd/ /əd'vaɪs/"
+  },
+  {
+    "name": "the best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/ðə/ /bɛst/",
+    "ukphone": "/ðə/ /bɛst/"
+  },
+  {
+    "name": "the best advice",
+    "trans": [
+      "最好的建议"
+    ],
+    "usphone": "/ðə/ /bɛst/ /əd'vaɪs/",
+    "ukphone": "/ðə/ /bɛst/ /əd'vaɪs/"
+  },
+  {
+    "name": "to give",
+    "trans": [
+      "给"
+    ],
+    "usphone": "/tə/ /ɡɪv/",
+    "ukphone": "/tə/ /ɡɪv/"
+  },
+  {
+    "name": "given",
+    "trans": [
+      "给(ed形式)"
+    ],
+    "usphone": "/ˈɡɪvn/",
+    "ukphone": "/ˈɡɪvn/"
+  },
+  {
+    "name": "she has ever",
+    "trans": [
+      "她曾经..."
+    ],
+    "usphone": "/ʃi/ /hæz/ /'ɛvɚ/",
+    "ukphone": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "name": "she has ever given",
+    "trans": [
+      "她曾经给"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/",
+    "ukphone": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "she has ever given me",
+    "trans": [
+      "她曾经给我"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+    "ukphone": "/ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "name": "the best advice",
+    "trans": [
+      "最好的建议"
+    ],
+    "usphone": "/ðə/ /bɛst/ /əd'vaɪs/",
+    "ukphone": "/ðə/ /bɛst/ /əd'vaɪs/"
+  },
+  {
+    "name": "the best advice she has ever given me",
+    "trans": [
+      "她曾经给我的最好的建议"
+    ],
+    "usphone": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+    "ukphone": "/ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the best advice she has ever given me",
+    "trans": [
+      "这是她曾经给我的最好的建议"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /bɛst/ /əd'vaɪs/ /ʃi/ /hæz/ /'ɛvɚ/ /ˈɡɪvn/ /mi/"
+  },
+  {
+    "name": "she has ever",
+    "trans": [
+      "她曾经..."
+    ],
+    "usphone": "/ʃi/ /hæz/ /'ɛvɚ/",
+    "ukphone": "/ʃi/ /hæz/ /'ɛvɚ/"
+  },
+  {
+    "name": "Xingrong has ever",
+    "trans": [
+      "星荣曾经..."
+    ],
+    "usphone": "/hæz/ /'ɛvɚ/",
+    "ukphone": "/hæz/ /'ɛvɚ/"
+  },
+  {
+    "name": "to design",
+    "trans": [
+      "设计"
+    ],
+    "usphone": "/tə/ /dɪˈzaɪn/",
+    "ukphone": "/tə/ /dɪˈzaɪn/"
+  },
+  {
+    "name": "designed",
+    "trans": [
+      "设计(ed形式)"
+    ],
+    "usphone": "/dɪˈzaɪnd/",
+    "ukphone": "/dɪˈzaɪnd/"
+  },
+  {
+    "name": "Xingrong has ever designed",
+    "trans": [
+      "星荣曾经设计"
+    ],
+    "usphone": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+    "ukphone": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "name": "to challenge",
+    "trans": [
+      "挑战"
+    ],
+    "usphone": "/tə/ /'tʃælɪndʒ/",
+    "ukphone": "/tə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "challenging",
+    "trans": [
+      "有挑战性的"
+    ],
+    "usphone": "/ˈtʃælɪndʒɪŋ/",
+    "ukphone": "/ˈtʃælɪndʒɪŋ/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most challenging",
+    "trans": [
+      "最有挑战性的"
+    ],
+    "usphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/",
+    "ukphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/kɔrs/",
+    "ukphone": "/kɔrs/"
+  },
+  {
+    "name": "the most challenging course",
+    "trans": [
+      "最有挑战性的课程"
+    ],
+    "usphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/",
+    "ukphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/"
+  },
+  {
+    "name": "Xingrong has ever designed",
+    "trans": [
+      "星荣曾经设计"
+    ],
+    "usphone": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+    "ukphone": "/hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "name": "the most challenging course Xingrong has ever designed",
+    "trans": [
+      "星荣曾经设计的最有挑战性的课程"
+    ],
+    "usphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+    "ukphone": "/ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is the most challenging course Xingrong has ever designed",
+    "trans": [
+      "这是星荣曾经设计的最有挑战性的课程"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/",
+    "ukphone": "/ðɪs/ /ɪz/ /ðə/ /most/ /ˈtʃælɪndʒɪŋ/ /kɔrs/ /hæz/ /'ɛvɚ/ /dɪˈzaɪnd/"
+  },
+  {
+    "name": "Xingrong has designed",
+    "trans": [
+      "星荣(已经)设计"
+    ],
+    "usphone": "/hæz/ /dɪˈzaɪnd/",
+    "ukphone": "/hæz/ /dɪˈzaɪnd/"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/kɔrs/",
+    "ukphone": "/kɔrs/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "English course",
+    "trans": [
+      "英文课程"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /kɔrs/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /kɔrs/"
+  },
+  {
+    "name": "several",
+    "trans": [
+      "多个"
+    ],
+    "usphone": "/'sɛvrəl/",
+    "ukphone": "/'sɛvrəl/"
+  },
+  {
+    "name": "several English courses",
+    "trans": [
+      "多个英文课程"
+    ],
+    "usphone": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/",
+    "ukphone": "/'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+  },
+  {
+    "name": "Xingrong has designed several English courses",
+    "trans": [
+      "星荣(已经)设计了多个英文课程"
+    ],
+    "usphone": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/",
+    "ukphone": "/hæz/ /dɪˈzaɪnd/ /'sɛvrəl/ /ˈɪŋɡlɪʃ/ /kɔrsɪz/"
+  },
+  {
+    "name": "to visit",
+    "trans": [
+      "访问"
+    ],
+    "usphone": "/tə/ /'vɪzɪt/",
+    "ukphone": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "name": "visited",
+    "trans": [
+      "访问(ed形式)"
+    ],
+    "usphone": "/'vɪzɪtɪd/",
+    "ukphone": "/'vɪzɪtɪd/"
+  },
+  {
+    "name": "she has visited",
+    "trans": [
+      "她(已经)访问"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/",
+    "ukphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "France",
+    "trans": [
+      "法国"
+    ],
+    "usphone": "/fræns/",
+    "ukphone": "/fræns/"
+  },
+  {
+    "name": "she has visited France",
+    "trans": [
+      "她(已经)访问过法国"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/",
+    "ukphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "次"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "three times",
+    "trans": [
+      "三次"
+    ],
+    "usphone": "/θri/ /taɪmz/",
+    "ukphone": "/θri/ /taɪmz/"
+  },
+  {
+    "name": "she has visited France three times",
+    "trans": [
+      "她(已经)访问过法国三次"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/",
+    "ukphone": "/ʃi/ /hæz/ /'vɪzɪtɪd/ /fræns/ /θri/ /taɪmz/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "finished",
+    "trans": [
+      "完成(ed形式)"
+    ],
+    "usphone": "/'fɪnɪʃt/",
+    "ukphone": "/'fɪnɪʃt/"
+  },
+  {
+    "name": "they have finished",
+    "trans": [
+      "他们(已经)完成"
+    ],
+    "usphone": "/ðe/ /hæv/ /'fɪnɪʃt/",
+    "ukphone": "/ðe/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "project",
+    "trans": [
+      "项目"
+    ],
+    "usphone": "/ˈprɑdʒɛkt/",
+    "ukphone": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "their project",
+    "trans": [
+      "他们的项目"
+    ],
+    "usphone": "/ðɛr/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ðɛr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "they have finished their project",
+    "trans": [
+      "他们(已经)完成了他们的项目"
+    ],
+    "usphone": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ðe/ /hæv/ /'fɪnɪʃt/ /ðɛr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "we have finished our project",
+    "trans": [
+      "我们(已经)完成了我们的项目"
+    ],
+    "usphone": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "I have finished my project",
+    "trans": [
+      "我(已经)完成了我的项目"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "you have finished your project",
+    "trans": [
+      "你(已经)完成了你的项目"
+    ],
+    "usphone": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ju/ /hæv/ /'fɪnɪʃt/ /jʊr/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "he has finished his project",
+    "trans": [
+      "他(已经)完成了他的项目"
+    ],
+    "usphone": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/",
+    "ukphone": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "she has finished her project",
+    "trans": [
+      "她(已经)完成了她的项目"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "Xingrong has finished his project",
+    "trans": [
+      "星荣(已经)完成了他的项目"
+    ],
+    "usphone": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/",
+    "ukphone": "/hæz/ /'fɪnɪʃt/ /hɪz/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "it has finished its project",
+    "trans": [
+      "它(已经)完成了它的项目"
+    ],
+    "usphone": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ɪt/ /hæz/ /'fɪnɪʃt/ /ɪts/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "she has finished her project",
+    "trans": [
+      "她(已经)完成了她的项目"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "she has finished her homework",
+    "trans": [
+      "她(已经)完成了她的家庭作业"
+    ],
+    "usphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+    "ukphone": "/ʃi/ /hæz/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "she had finished her homework",
+    "trans": [
+      "她(过去已经)完成了她的家庭作业"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+    "ukphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "to go out",
+    "trans": [
+      "去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "to go out to play",
+    "trans": [
+      "去外面玩"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "name": "she goes out to play",
+    "trans": [
+      "她去外面玩"
+    ],
+    "usphone": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/",
+    "ukphone": "/ʃi/ /ɡoz/ /aʊt/ /tə/ /ple/ /(过去)去 went/ /wɛnt/"
+  },
+  {
+    "name": "she went out to play",
+    "trans": [
+      "她(过去)去外面玩"
+    ],
+    "usphone": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+    "ukphone": "/ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在...之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before she went out to play",
+    "trans": [
+      "在她(过去)去外面玩之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+    "ukphone": "/bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "name": "she had finished her homework",
+    "trans": [
+      "她(过去已经)完成了她的家庭作业"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/",
+    "ukphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "she had finished her homework before she went out to play",
+    "trans": [
+      "在她(过去)去外面玩之前，她(过去已经)完成了她的家庭作业"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/",
+    "ukphone": "/ʃi/ /hæd/ /'fɪnɪʃt/ /hɚ/ /'homwɝk/ /bɪ'fɔr/ /ʃi/ /wɛnt/ /aʊt/ /tə/ /ple/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "left",
+    "trans": [
+      "离开(ed形式)"
+    ],
+    "usphone": "/lɛft/",
+    "ukphone": "/lɛft/"
+  },
+  {
+    "name": "they had left",
+    "trans": [
+      "他们(过去已经)离开"
+    ],
+    "usphone": "/ðe/ /hæd/ /lɛft/",
+    "ukphone": "/ðe/ /hæd/ /lɛft/"
+  },
+  {
+    "name": "party",
+    "trans": [
+      "派对"
+    ],
+    "usphone": "/'pɑrti/",
+    "ukphone": "/'pɑrti/"
+  },
+  {
+    "name": "they had left the party",
+    "trans": [
+      "他们(过去已经)离开了那个派对"
+    ],
+    "usphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/",
+    "ukphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "to arrive",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/",
+    "ukphone": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+  },
+  {
+    "name": "I arrived",
+    "trans": [
+      "我(过去)到达"
+    ],
+    "usphone": "/aɪ/ /ə'raɪvd/",
+    "ukphone": "/aɪ/ /ə'raɪvd/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在...之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before I arrived",
+    "trans": [
+      "在我(过去)到达之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/",
+    "ukphone": "/bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+  },
+  {
+    "name": "they had left the party",
+    "trans": [
+      "他们(过去已经)离开了那个派对"
+    ],
+    "usphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/",
+    "ukphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "they had left the party before I arrived",
+    "trans": [
+      "在我(过去)到达之前他们(过去已经)离开了那个派对"
+    ],
+    "usphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/",
+    "ukphone": "/ðe/ /hæd/ /lɛft/ /ðə/ /'pɑrti/ /bɪ'fɔr/ /aɪ/ /ə'raɪvd/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "eaten",
+    "trans": [
+      "吃(ed形式)"
+    ],
+    "usphone": "/'itn/",
+    "ukphone": "/'itn/"
+  },
+  {
+    "name": "she had eaten",
+    "trans": [
+      "她(过去已经)吃"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'itn/",
+    "ukphone": "/ʃi/ /hæd/ /'itn/"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚饭"
+    ],
+    "usphone": "/'dɪnɚ/",
+    "ukphone": "/'dɪnɚ/"
+  },
+  {
+    "name": "she had eaten dinner",
+    "trans": [
+      "她(过去已经)吃了晚饭"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/",
+    "ukphone": "/ʃi/ /hæd/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "name": "already",
+    "trans": [
+      "已经"
+    ],
+    "usphone": "/ɔl'rɛdi/",
+    "ukphone": "/ɔl'rɛdi/"
+  },
+  {
+    "name": "she had already eaten dinner",
+    "trans": [
+      "她(过去)已经吃了晚饭"
+    ],
+    "usphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/",
+    "ukphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "name": "to arrive",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/",
+    "ukphone": "/tə/ /ə'raɪv/ /(过去)到达 arrived/ /ə'raɪvd/"
+  },
+  {
+    "name": "I arrived",
+    "trans": [
+      "我(过去)到达"
+    ],
+    "usphone": "/aɪ/ /ə'raɪvd/",
+    "ukphone": "/aɪ/ /ə'raɪvd/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "I arrived home",
+    "trans": [
+      "我(过去)到达家"
+    ],
+    "usphone": "/aɪ/ /ə'raɪvd/ /hom/",
+    "ukphone": "/aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当...的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I arrived home",
+    "trans": [
+      "当我(过去)到达家的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/",
+    "ukphone": "/wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "name": "she had already eaten dinner",
+    "trans": [
+      "她(过去)已经吃了晚饭"
+    ],
+    "usphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/",
+    "ukphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/"
+  },
+  {
+    "name": "she had already eaten dinner when I arrived home",
+    "trans": [
+      "当我(过去)到达家的时候她(过去)已经吃了晚饭"
+    ],
+    "usphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/",
+    "ukphone": "/ʃi/ /hæd/ /ɔl'rɛdi/ /'itn/ /'dɪnɚ/ /wɛn/ /aɪ/ /ə'raɪvd/ /hom/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "read",
+    "trans": [
+      "阅读(ed形式)"
+    ],
+    "usphone": "/rɛd/",
+    "ukphone": "/rɛd/"
+  },
+  {
+    "name": "I had read",
+    "trans": [
+      "我(过去已经)阅读"
+    ],
+    "usphone": "/aɪ/ /hæd/ /rɛd/",
+    "ukphone": "/aɪ/ /hæd/ /rɛd/"
+  },
+  {
+    "name": "the book",
+    "trans": [
+      "那本书"
+    ],
+    "usphone": "/ðə/ /bʊk/",
+    "ukphone": "/ðə/ /bʊk/"
+  },
+  {
+    "name": "I had read the book",
+    "trans": [
+      "我(过去已经)阅读过那本书"
+    ],
+    "usphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/",
+    "ukphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+  },
+  {
+    "name": "to adapt",
+    "trans": [
+      "改编"
+    ],
+    "usphone": "/tə/ /əˈdæpt/",
+    "ukphone": "/tə/ /əˈdæpt/"
+  },
+  {
+    "name": "adaptation",
+    "trans": [
+      "改编"
+    ],
+    "usphone": "/ˌædæpˈteʃn/",
+    "ukphone": "/ˌædæpˈteʃn/"
+  },
+  {
+    "name": "the movie",
+    "trans": [
+      "那个电影"
+    ],
+    "usphone": "/ðə/ /'muvi/",
+    "ukphone": "/ðə/ /'muvi/"
+  },
+  {
+    "name": "the movie adaptation",
+    "trans": [
+      "那个电影改编"
+    ],
+    "usphone": "/ðə/ /'muvi/ /ˌædæpˈteʃn/",
+    "ukphone": "/ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "watched",
+    "trans": [
+      "(过去)看 "
+    ],
+    "usphone": "/wɑtʃt/",
+    "ukphone": "/wɑtʃt/"
+  },
+  {
+    "name": "watched the movie adaptation",
+    "trans": [
+      "(过去)看那个电影改编"
+    ],
+    "usphone": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+    "ukphone": "/wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "name": "I watched the movie adaptation",
+    "trans": [
+      "我(过去)看那个电影改编"
+    ],
+    "usphone": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+    "ukphone": "/aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在...之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before I watched the movie adaptation",
+    "trans": [
+      "在我(过去)看那个电影改编之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+    "ukphone": "/bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  },
+  {
+    "name": "I had read the book",
+    "trans": [
+      "我(过去已经)阅读过那本书"
+    ],
+    "usphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/",
+    "ukphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/"
+  },
+  {
+    "name": "I had read the book before I watched the movie adaptation",
+    "trans": [
+      "在我(过去)看那个电影改编之前我(过去已经)阅读过那本书"
+    ],
+    "usphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/",
+    "ukphone": "/aɪ/ /hæd/ /rɛd/ /ðə/ /bʊk/ /bɪ'fɔr/ /aɪ/ /wɑtʃt/ /ðə/ /'muvi/ /ˌædæpˈteʃn/"
+  }
+]

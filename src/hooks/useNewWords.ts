@@ -12,7 +12,7 @@ export function useNewWords() {
   const addNewWord = useCallback(
     async (word: Word) => {
       try {
-        const exists = await db.newWords.where('word').equals(word.name).first()
+        const exists = await db.newWords.where('word').equalsIgnoreCase(word.name).first()
         if (exists) {
           toast('该单词已在生词本中', { icon: '📖' })
           return
@@ -32,7 +32,7 @@ export function useNewWords() {
 
   const removeNewWord = useCallback(async (wordName: string) => {
     try {
-      await db.newWords.where('word').equals(wordName).delete()
+      await db.newWords.where('word').equalsIgnoreCase(wordName).delete()
       toast.success('已从生词本移除')
     } catch (error) {
       console.error('移除生词失败', error)

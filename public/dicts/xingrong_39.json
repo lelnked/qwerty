@@ -1,0 +1,1466 @@
+[
+  {
+    "name": "to wash",
+    "trans": [
+      "清洗"
+    ],
+    "usphone": "/tə/ /wɔʃ/",
+    "ukphone": "/tə/ /wɔʃ/"
+  },
+  {
+    "name": "washed",
+    "trans": [
+      "清洗（过去分词）"
+    ],
+    "usphone": "/wɔʃt/",
+    "ukphone": "/wɔʃt/"
+  },
+  {
+    "name": "be washed",
+    "trans": [
+      "被清洗了"
+    ],
+    "usphone": "/bi/ /wɔʃt/",
+    "ukphone": "/bi/ /wɔʃt/"
+  },
+  {
+    "name": "the car",
+    "trans": [
+      "这辆车"
+    ],
+    "usphone": "/ðə/ /kɑr/",
+    "ukphone": "/ðə/ /kɑr/"
+  },
+  {
+    "name": "the car is washed",
+    "trans": [
+      "这辆车被清洗了"
+    ],
+    "usphone": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/",
+    "ukphone": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by him",
+    "trans": [
+      "通过他"
+    ],
+    "usphone": "/baɪ/ /hɪm/",
+    "ukphone": "/baɪ/ /hɪm/"
+  },
+  {
+    "name": "the car is washed by him",
+    "trans": [
+      "这辆车通过他被清洗了"
+    ],
+    "usphone": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/",
+    "ukphone": "/ðə/ /kɑr/ /ɪz/ /wɔʃt/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "the car was washed by him",
+    "trans": [
+      "这辆车（过去）被他清洗了"
+    ],
+    "usphone": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/",
+    "ukphone": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "/'jɛstɚde/",
+    "ukphone": "/'jɛstɚde/"
+  },
+  {
+    "name": "the car was washed by him yesterday",
+    "trans": [
+      "这辆车昨天被他清洗了"
+    ],
+    "usphone": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/",
+    "ukphone": "/ðə/ /kɑr/ /wəz/ /wɔʃt/ /baɪ/ /hɪm/ /'jɛstɚde/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "answered",
+    "trans": [
+      "回答（过去分词）"
+    ],
+    "usphone": "/'ænsɚd/",
+    "ukphone": "/'ænsɚd/"
+  },
+  {
+    "name": "be answered",
+    "trans": [
+      "被回答了"
+    ],
+    "usphone": "/bi/ /'ænsɚd/",
+    "ukphone": "/bi/ /'ænsɚd/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the question is answered",
+    "trans": [
+      "这个问题被回答了"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/"
+  },
+  {
+    "name": "the student",
+    "trans": [
+      "那个学生"
+    ],
+    "usphone": "/ðə/ /'studnt/",
+    "ukphone": "/ðə/ /'studnt/"
+  },
+  {
+    "name": "by the student",
+    "trans": [
+      "通过那个学生"
+    ],
+    "usphone": "/baɪ/ /ðə/ /'studnt/",
+    "ukphone": "/baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "name": "the question is answered by the student",
+    "trans": [
+      "这个问题被那个学生回答了"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "name": "the question was answered by the student",
+    "trans": [
+      "这个问题（过去）被那个学生回答了"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /wəz/ /'ænsɚd/ /baɪ/ /ðə/ /'studnt/"
+  },
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɑlv/",
+    "ukphone": "/tə/ /sɑlv/"
+  },
+  {
+    "name": "solved",
+    "trans": [
+      "解决（过去分词）"
+    ],
+    "usphone": "/sɑlvd/",
+    "ukphone": "/sɑlvd/"
+  },
+  {
+    "name": "be solved",
+    "trans": [
+      "被解决了"
+    ],
+    "usphone": "/bi/ /sɑlvd/",
+    "ukphone": "/bi/ /sɑlvd/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem is solved",
+    "trans": [
+      "那个问题被解决了"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/",
+    "ukphone": "/ðə/ /'prɑbləm/ /ɪz/ /sɑlvd/"
+  },
+  {
+    "name": "the problem was solved",
+    "trans": [
+      "那个问题（过去）被解决了"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/",
+    "ukphone": "/ðə/ /'prɑbləm/ /wəz/ /sɑlvd/"
+  },
+  {
+    "name": "urgent",
+    "trans": [
+      "紧急"
+    ],
+    "usphone": "/'ɝdʒənt/",
+    "ukphone": "/'ɝdʒənt/"
+  },
+  {
+    "name": "the urgent problem",
+    "trans": [
+      "那个紧急的问题"
+    ],
+    "usphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/"
+  },
+  {
+    "name": "the urgent problem was solved",
+    "trans": [
+      "那个紧急的问题（过去）被解决了"
+    ],
+    "usphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/",
+    "ukphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðəm/",
+    "ukphone": "/ðəm/"
+  },
+  {
+    "name": "by them",
+    "trans": [
+      "通过他们"
+    ],
+    "usphone": "/baɪ/ /ðəm/",
+    "ukphone": "/baɪ/ /ðəm/"
+  },
+  {
+    "name": "the urgent problem was solved by them",
+    "trans": [
+      "那个紧急的问题（过去）被他们解决了"
+    ],
+    "usphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/",
+    "ukphone": "/ðə/ /'ɝdʒənt/ /'prɑbləm/ /wəz/ /sɑlvd/ /baɪ/ /ðəm/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "told",
+    "trans": [
+      "告诉（过去分词）"
+    ],
+    "usphone": "/told/",
+    "ukphone": "/told/"
+  },
+  {
+    "name": "be told",
+    "trans": [
+      "被告诉"
+    ],
+    "usphone": "/bi/ /told/",
+    "ukphone": "/bi/ /told/"
+  },
+  {
+    "name": "story",
+    "trans": [
+      "故事"
+    ],
+    "usphone": "/'stɔri/",
+    "ukphone": "/'stɔri/"
+  },
+  {
+    "name": "the story",
+    "trans": [
+      "这个故事"
+    ],
+    "usphone": "/ðə/ /'stɔri/",
+    "ukphone": "/ðə/ /'stɔri/"
+  },
+  {
+    "name": "the story is told",
+    "trans": [
+      "这个故事被讲述"
+    ],
+    "usphone": "/ðə/ /'stɔri/ /ɪz/ /told/",
+    "ukphone": "/ðə/ /'stɔri/ /ɪz/ /told/"
+  },
+  {
+    "name": "the story was told",
+    "trans": [
+      "这个故事（过去）被讲述"
+    ],
+    "usphone": "/ðə/ /'stɔri/ /wəz/ /told/",
+    "ukphone": "/ðə/ /'stɔri/ /wəz/ /told/"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "父亲"
+    ],
+    "usphone": "/'fɑðɚ/",
+    "ukphone": "/'fɑðɚ/"
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "爷爷"
+    ],
+    "usphone": "/'grænfɑðɚ/",
+    "ukphone": "/'grænfɑðɚ/"
+  },
+  {
+    "name": "my grandfather",
+    "trans": [
+      "我的爷爷"
+    ],
+    "usphone": "/maɪ/ /'grænfɑðɚ/",
+    "ukphone": "/maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "name": "by my grandfather",
+    "trans": [
+      "通过我的爷爷"
+    ],
+    "usphone": "/baɪ/ /maɪ/ /'grænfɑðɚ/",
+    "ukphone": "/baɪ/ /maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "name": "the story was told by my grandfather",
+    "trans": [
+      "这个故事（过去）被我的爷爷讲述"
+    ],
+    "usphone": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/",
+    "ukphone": "/ðə/ /'stɔri/ /wəz/ /told/ /baɪ/ /maɪ/ /'grænfɑðɚ/"
+  },
+  {
+    "name": "be told",
+    "trans": [
+      "被告诉"
+    ],
+    "usphone": "/bi/ /told/",
+    "ukphone": "/bi/ /told/"
+  },
+  {
+    "name": "she was told",
+    "trans": [
+      "她（过去）被告诉"
+    ],
+    "usphone": "/ʃi/ /wəz/ /told/",
+    "ukphone": "/ʃi/ /wəz/ /told/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "水"
+    ],
+    "usphone": "/'wɔtɚ/",
+    "ukphone": "/'wɔtɚ/"
+  },
+  {
+    "name": "to drink water",
+    "trans": [
+      "喝水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /'wɔtɚ/",
+    "ukphone": "/tə/ /drɪŋk/ /'wɔtɚ/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更多"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "to drink more water",
+    "trans": [
+      "喝更多的水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+    "ukphone": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "name": "she was told",
+    "trans": [
+      "她（过去）被告诉"
+    ],
+    "usphone": "/ʃi/ /wəz/ /told/",
+    "ukphone": "/ʃi/ /wəz/ /told/"
+  },
+  {
+    "name": "she was told to drink more water",
+    "trans": [
+      "她（过去）被告诉喝更多的水"
+    ],
+    "usphone": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+    "ukphone": "/ʃi/ /wəz/ /told/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "name": "the doctor",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "/ðə/ /'dɑktɚ/",
+    "ukphone": "/ðə/ /'dɑktɚ/"
+  },
+  {
+    "name": "by the doctor",
+    "trans": [
+      "通过医生"
+    ],
+    "usphone": "/baɪ/ /ðə/ /'dɑktɚ/",
+    "ukphone": "/baɪ/ /ðə/ /'dɑktɚ/"
+  },
+  {
+    "name": "she was told by the doctor",
+    "trans": [
+      "她被医生告诉"
+    ],
+    "usphone": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/",
+    "ukphone": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/"
+  },
+  {
+    "name": "to drink more water",
+    "trans": [
+      "喝更多的水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+    "ukphone": "/tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "name": "she was told by the doctor to drink more water",
+    "trans": [
+      "她（过去）被医生告诉喝更多的水"
+    ],
+    "usphone": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/",
+    "ukphone": "/ʃi/ /wəz/ /told/ /baɪ/ /ðə/ /'dɑktɚ/ /tə/ /drɪŋk/ /mɔr/ /'wɔtɚ/"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "水"
+    ],
+    "usphone": "/'wɔtɚ/",
+    "ukphone": "/'wɔtɚ/"
+  },
+  {
+    "name": "to water",
+    "trans": [
+      "浇水"
+    ],
+    "usphone": "/tə/ /'wɔtɚ/",
+    "ukphone": "/tə/ /'wɔtɚ/"
+  },
+  {
+    "name": "watered",
+    "trans": [
+      "浇水（过去分词）"
+    ],
+    "usphone": "/'wɔtɚd/",
+    "ukphone": "/'wɔtɚd/"
+  },
+  {
+    "name": "be watered",
+    "trans": [
+      "被浇水"
+    ],
+    "usphone": "/bi/ /'wɔtɚd/",
+    "ukphone": "/bi/ /'wɔtɚd/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "will be watered",
+    "trans": [
+      "将会被浇水"
+    ],
+    "usphone": "/wɪl/ /bi/ /'wɔtɚd/",
+    "ukphone": "/wɪl/ /bi/ /'wɔtɚd/"
+  },
+  {
+    "name": "flower",
+    "trans": [
+      "花"
+    ],
+    "usphone": "/'flaʊɚ/",
+    "ukphone": "/'flaʊɚ/"
+  },
+  {
+    "name": "the flowers",
+    "trans": [
+      "这些花"
+    ],
+    "usphone": "/ðə/ /'flaʊɚz/",
+    "ukphone": "/ðə/ /'flaʊɚz/"
+  },
+  {
+    "name": "the flowers will be watered",
+    "trans": [
+      "这些花将会被浇水"
+    ],
+    "usphone": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/",
+    "ukphone": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "by me",
+    "trans": [
+      "通过我"
+    ],
+    "usphone": "/baɪ/ /mi/",
+    "ukphone": "/baɪ/ /mi/"
+  },
+  {
+    "name": "the flowers will be watered by me",
+    "trans": [
+      "这些花将会被我浇水"
+    ],
+    "usphone": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/",
+    "ukphone": "/ðə/ /'flaʊɚz/ /wɪl/ /bi/ /'wɔtɚd/ /baɪ/ /mi/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "speaker",
+    "trans": [
+      "演讲者"
+    ],
+    "usphone": "/'spikɚ/",
+    "ukphone": "/'spikɚ/"
+  },
+  {
+    "name": "the speaker",
+    "trans": [
+      "那个演讲者"
+    ],
+    "usphone": "/ðə/ /'spikɚ/",
+    "ukphone": "/ðə/ /'spikɚ/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "invited",
+    "trans": [
+      "邀请（过去分词）"
+    ],
+    "usphone": "/ɪn'vaɪtɪd/",
+    "ukphone": "/ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "be invited",
+    "trans": [
+      "被邀请"
+    ],
+    "usphone": "/bi/ /ɪn'vaɪtɪd/",
+    "ukphone": "/bi/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "the speaker is invited",
+    "trans": [
+      "那个演讲者被邀请了"
+    ],
+    "usphone": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/",
+    "ukphone": "/ðə/ /'spikɚ/ /ɪz/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "the speaker was invited",
+    "trans": [
+      "那个演讲者（过去）被邀请了"
+    ],
+    "usphone": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/",
+    "ukphone": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "by them",
+    "trans": [
+      "通过他们"
+    ],
+    "usphone": "/baɪ/ /ðəm/",
+    "ukphone": "/baɪ/ /ðəm/"
+  },
+  {
+    "name": "the speaker was invited by them",
+    "trans": [
+      "那个演讲者（过去）被他们邀请了"
+    ],
+    "usphone": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/",
+    "ukphone": "/ðə/ /'spikɚ/ /wəz/ /ɪn'vaɪtɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "invitation",
+    "trans": [
+      "邀请（名词）"
+    ],
+    "usphone": "/ɪnvɪ'teʃən/",
+    "ukphone": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "accepted",
+    "trans": [
+      "接受（过去分词）"
+    ],
+    "usphone": "/ək'sɛptɪd/",
+    "ukphone": "/ək'sɛptɪd/"
+  },
+  {
+    "name": "be accepted",
+    "trans": [
+      "被接受了"
+    ],
+    "usphone": "/bi/ /ək'sɛptɪd/",
+    "ukphone": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation is accepted",
+    "trans": [
+      "那个邀请被接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation was accepted",
+    "trans": [
+      "那个邀请（过去）被接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "by them",
+    "trans": [
+      "通过他们"
+    ],
+    "usphone": "/baɪ/ /ðəm/",
+    "ukphone": "/baɪ/ /ðəm/"
+  },
+  {
+    "name": "the invitation was accepted by them",
+    "trans": [
+      "那个邀请（过去）被他们接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "name": "to join",
+    "trans": [
+      "加入"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/",
+    "ukphone": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "name": "team",
+    "trans": [
+      "团队"
+    ],
+    "usphone": "/tim/",
+    "ukphone": "/tim/"
+  },
+  {
+    "name": "our team",
+    "trans": [
+      "我们的团队"
+    ],
+    "usphone": "/'aʊɚ/ /tim/",
+    "ukphone": "/'aʊɚ/ /tim/"
+  },
+  {
+    "name": "to join our team",
+    "trans": [
+      "加入我们的团队"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "the invitation to join our team",
+    "trans": [
+      "加入我们团队的那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "be accepted",
+    "trans": [
+      "被接受了"
+    ],
+    "usphone": "/bi/ /ək'sɛptɪd/",
+    "ukphone": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation to join our team was accepted",
+    "trans": [
+      "加入我们团队的那个邀请（过去）被接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "by them",
+    "trans": [
+      "通过他们"
+    ],
+    "usphone": "/baɪ/ /ðəm/",
+    "ukphone": "/baɪ/ /ðəm/"
+  },
+  {
+    "name": "the invitation to join our team was accepted by them",
+    "trans": [
+      "加入我们团队的那个邀请（过去）被他们接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðəm/"
+  },
+  {
+    "name": "be accepted",
+    "trans": [
+      "被接受"
+    ],
+    "usphone": "/bi/ /ək'sɛptɪd/",
+    "ukphone": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "will be accepted",
+    "trans": [
+      "将会被接受"
+    ],
+    "usphone": "/wɪl/ /bi/ /ək'sɛptɪd/",
+    "ukphone": "/wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the challenge",
+    "trans": [
+      "那个挑战"
+    ],
+    "usphone": "/ðə/ /ˈtʃælɪndʒ/",
+    "ukphone": "/ðə/ /ˈtʃælɪndʒ/"
+  },
+  {
+    "name": "the challenge will be accepted",
+    "trans": [
+      "那个挑战将会被接受"
+    ],
+    "usphone": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/",
+    "ukphone": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "by us",
+    "trans": [
+      "通过我们"
+    ],
+    "usphone": "/baɪ/ /ʌs/",
+    "ukphone": "/baɪ/ /ʌs/"
+  },
+  {
+    "name": "the challenge will be accepted by us",
+    "trans": [
+      "那个挑战将会被我们接受"
+    ],
+    "usphone": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/",
+    "ukphone": "/ðə/ /ˈtʃælɪndʒ/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ʌs/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "finished",
+    "trans": [
+      "完成（过去分词）"
+    ],
+    "usphone": "/'fɪnɪʃt/",
+    "ukphone": "/'fɪnɪʃt/"
+  },
+  {
+    "name": "be finished",
+    "trans": [
+      "被完成"
+    ],
+    "usphone": "/bi/ /'fɪnɪʃt/",
+    "ukphone": "/bi/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "should be finished",
+    "trans": [
+      "应该被完成"
+    ],
+    "usphone": "/ʃʊd/ /bi/ /'fɪnɪʃt/",
+    "ukphone": "/ʃʊd/ /bi/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "the homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/ðə/ /'homwɝk/",
+    "ukphone": "/ðə/ /'homwɝk/"
+  },
+  {
+    "name": "the homework should be finished",
+    "trans": [
+      "家庭作业应该被完成"
+    ],
+    "usphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/",
+    "ukphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "by you",
+    "trans": [
+      "通过你"
+    ],
+    "usphone": "/baɪ/ /ju/",
+    "ukphone": "/baɪ/ /ju/"
+  },
+  {
+    "name": "the homework should be finished by you",
+    "trans": [
+      "家庭作业应该被你完成"
+    ],
+    "usphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/",
+    "ukphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚饭"
+    ],
+    "usphone": "/'dɪnɚ/",
+    "ukphone": "/'dɪnɚ/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before dinner",
+    "trans": [
+      "在晚饭之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /'dɪnɚ/",
+    "ukphone": "/bɪ'fɔr/ /'dɪnɚ/"
+  },
+  {
+    "name": "the homework should be finished by you before dinner",
+    "trans": [
+      "家庭作业应该在晚饭之前被你完成"
+    ],
+    "usphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/",
+    "ukphone": "/ðə/ /'homwɝk/ /ʃʊd/ /bi/ /'fɪnɪʃt/ /baɪ/ /ju/ /bɪ'fɔr/ /'dɪnɚ/"
+  },
+  {
+    "name": "to cook",
+    "trans": [
+      "烹饪；做饭"
+    ],
+    "usphone": "/tə/ /kʊk/",
+    "ukphone": "/tə/ /kʊk/"
+  },
+  {
+    "name": "cooked",
+    "trans": [
+      "烹饪（过去分词）"
+    ],
+    "usphone": "/kʊkt/",
+    "ukphone": "/kʊkt/"
+  },
+  {
+    "name": "be cooked",
+    "trans": [
+      "被烹饪"
+    ],
+    "usphone": "/bi/ /kʊkt/",
+    "ukphone": "/bi/ /kʊkt/"
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "母亲"
+    ],
+    "usphone": "/'mʌðɚ/",
+    "ukphone": "/'mʌðɚ/"
+  },
+  {
+    "name": "my mother",
+    "trans": [
+      "我的母亲"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/",
+    "ukphone": "/maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "by my mother",
+    "trans": [
+      "通过我的母亲"
+    ],
+    "usphone": "/baɪ/ /maɪ/ /'mʌðɚ/",
+    "ukphone": "/baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "be cooked by my mother",
+    "trans": [
+      "被我妈烹饪"
+    ],
+    "usphone": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+    "ukphone": "/bi/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚饭"
+    ],
+    "usphone": "/'dɪnɚ/",
+    "ukphone": "/'dɪnɚ/"
+  },
+  {
+    "name": "the dinner",
+    "trans": [
+      "这顿晚饭"
+    ],
+    "usphone": "/ðə/ /'dɪnɚ/",
+    "ukphone": "/ðə/ /'dɪnɚ/"
+  },
+  {
+    "name": "the dinner is cooked by my mother",
+    "trans": [
+      "这顿晚饭是被我妈做的"
+    ],
+    "usphone": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+    "ukphone": "/ðə/ /'dɪnɚ/ /ɪz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "the dinner was cooked by my mother",
+    "trans": [
+      "这顿晚饭（过去）是被我妈做的"
+    ],
+    "usphone": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/",
+    "ukphone": "/ðə/ /'dɪnɚ/ /wəz/ /kʊkt/ /baɪ/ /maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "to break",
+    "trans": [
+      "打破"
+    ],
+    "usphone": "/tə/ /brek/",
+    "ukphone": "/tə/ /brek/"
+  },
+  {
+    "name": "broken",
+    "trans": [
+      "打破（过去分词）"
+    ],
+    "usphone": "/'brokən/",
+    "ukphone": "/'brokən/"
+  },
+  {
+    "name": "be broken",
+    "trans": [
+      "被打破"
+    ],
+    "usphone": "/bi/ /'brokən/",
+    "ukphone": "/bi/ /'brokən/"
+  },
+  {
+    "name": "window",
+    "trans": [
+      "窗户"
+    ],
+    "usphone": "/'wɪndo/",
+    "ukphone": "/'wɪndo/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "那个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "the window is broken",
+    "trans": [
+      "那个窗户被打破了"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/",
+    "ukphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+  },
+  {
+    "name": "stone",
+    "trans": [
+      "石头"
+    ],
+    "usphone": "/ston/",
+    "ukphone": "/ston/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by a stone",
+    "trans": [
+      "通过一个石头"
+    ],
+    "usphone": "/baɪ/ /ə/ /ston/",
+    "ukphone": "/baɪ/ /ə/ /ston/"
+  },
+  {
+    "name": "the window is broken by a stone",
+    "trans": [
+      "那个窗户被一个石头打破了"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/",
+    "ukphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/ /baɪ/ /ə/ /ston/"
+  },
+  {
+    "name": "the window was broken by a stone",
+    "trans": [
+      "那个窗户（过去）被一个石头打破了"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/",
+    "ukphone": "/ðə/ /'wɪndo/ /wəz/ /'brokən/ /baɪ/ /ə/ /ston/"
+  },
+  {
+    "name": "to close",
+    "trans": [
+      "关闭"
+    ],
+    "usphone": "/tə/ /kloz/",
+    "ukphone": "/tə/ /kloz/"
+  },
+  {
+    "name": "closed",
+    "trans": [
+      "关闭（过去分词）"
+    ],
+    "usphone": "/klozd/",
+    "ukphone": "/klozd/"
+  },
+  {
+    "name": "be closed",
+    "trans": [
+      "被关闭"
+    ],
+    "usphone": "/bi/ /klozd/",
+    "ukphone": "/bi/ /klozd/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "will be closed",
+    "trans": [
+      "将会被关闭"
+    ],
+    "usphone": "/wɪl/ /bi/ /klozd/",
+    "ukphone": "/wɪl/ /bi/ /klozd/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "那个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "the window will be closed",
+    "trans": [
+      "那个窗户将会被关闭"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/",
+    "ukphone": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/"
+  },
+  {
+    "name": "by me",
+    "trans": [
+      "通过我"
+    ],
+    "usphone": "/baɪ/ /mi/",
+    "ukphone": "/baɪ/ /mi/"
+  },
+  {
+    "name": "the window will be closed by me",
+    "trans": [
+      "那个窗户将会被我关闭"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/",
+    "ukphone": "/ðə/ /'wɪndo/ /wɪl/ /bi/ /klozd/ /baɪ/ /mi/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "kept",
+    "trans": [
+      "保持（过去分词）"
+    ],
+    "usphone": "/kɛpt/",
+    "ukphone": "/kɛpt/"
+  },
+  {
+    "name": "be kept",
+    "trans": [
+      "被保持"
+    ],
+    "usphone": "/bi/ /kɛpt/",
+    "ukphone": "/bi/ /kɛpt/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "will be kept",
+    "trans": [
+      "将会被保持"
+    ],
+    "usphone": "/wɪl/ /bi/ /kɛpt/",
+    "ukphone": "/wɪl/ /bi/ /kɛpt/"
+  },
+  {
+    "name": "secret",
+    "trans": [
+      "秘密"
+    ],
+    "usphone": "/'sikrət/",
+    "ukphone": "/'sikrət/"
+  },
+  {
+    "name": "the secret",
+    "trans": [
+      "这个秘密"
+    ],
+    "usphone": "/ðə/ /'sikrət/",
+    "ukphone": "/ðə/ /'sikrət/"
+  },
+  {
+    "name": "the secret will be kept",
+    "trans": [
+      "这个秘密将会被保持"
+    ],
+    "usphone": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/",
+    "ukphone": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/"
+  },
+  {
+    "name": "by him",
+    "trans": [
+      "通过他"
+    ],
+    "usphone": "/baɪ/ /hɪm/",
+    "ukphone": "/baɪ/ /hɪm/"
+  },
+  {
+    "name": "the secret will be kept by him",
+    "trans": [
+      "这个秘密将会被他保持"
+    ],
+    "usphone": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/",
+    "ukphone": "/ðə/ /'sikrət/ /wɪl/ /bi/ /kɛpt/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "保存；拯救"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "saved",
+    "trans": [
+      "拯救（过去分词）"
+    ],
+    "usphone": "/sevd/",
+    "ukphone": "/sevd/"
+  },
+  {
+    "name": "be saved",
+    "trans": [
+      "被拯救"
+    ],
+    "usphone": "/bi/ /sevd/",
+    "ukphone": "/bi/ /sevd/"
+  },
+  {
+    "name": "will be saved",
+    "trans": [
+      "将会被拯救"
+    ],
+    "usphone": "/wɪl/ /bi/ /sevd/",
+    "ukphone": "/wɪl/ /bi/ /sevd/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "the world will be saved",
+    "trans": [
+      "世界将会被拯救"
+    ],
+    "usphone": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/",
+    "ukphone": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/"
+  },
+  {
+    "name": "by them",
+    "trans": [
+      "通过他们"
+    ],
+    "usphone": "/baɪ/ /ðəm/",
+    "ukphone": "/baɪ/ /ðəm/"
+  },
+  {
+    "name": "the world will be saved by them",
+    "trans": [
+      "世界将会被他们拯救"
+    ],
+    "usphone": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/",
+    "ukphone": "/ðə/ /wɝld/ /wɪl/ /bi/ /sevd/ /baɪ/ /ðəm/"
+  },
+  {
+    "name": "foot",
+    "trans": [
+      "脚"
+    ],
+    "usphone": "/fʊt/",
+    "ukphone": "/fʊt/"
+  },
+  {
+    "name": "ball",
+    "trans": [
+      "球"
+    ],
+    "usphone": "/bɔl/",
+    "ukphone": "/bɔl/"
+  },
+  {
+    "name": "football",
+    "trans": [
+      "足球"
+    ],
+    "usphone": "/'fʊtbɔl/",
+    "ukphone": "/'fʊtbɔl/"
+  },
+  {
+    "name": "match",
+    "trans": [
+      "比赛"
+    ],
+    "usphone": "/mætʃ/",
+    "ukphone": "/mætʃ/"
+  },
+  {
+    "name": "football match",
+    "trans": [
+      "足球比赛"
+    ],
+    "usphone": "/'fʊtbɔl/ /mætʃ/",
+    "ukphone": "/'fʊtbɔl/ /mætʃ/"
+  },
+  {
+    "name": "the football match",
+    "trans": [
+      "那场足球比赛"
+    ],
+    "usphone": "/ðə/ /'fʊtbɔl/ /mætʃ/",
+    "ukphone": "/ðə/ /'fʊtbɔl/ /mætʃ/"
+  },
+  {
+    "name": "to hold",
+    "trans": [
+      "举行"
+    ],
+    "usphone": "/tə/ /hold/",
+    "ukphone": "/tə/ /hold/"
+  },
+  {
+    "name": "held",
+    "trans": [
+      "举行（过去分词）"
+    ],
+    "usphone": "/hɛld/",
+    "ukphone": "/hɛld/"
+  },
+  {
+    "name": "be held",
+    "trans": [
+      "被举行"
+    ],
+    "usphone": "/bi/ /hɛld/",
+    "ukphone": "/bi/ /hɛld/"
+  },
+  {
+    "name": "will be held",
+    "trans": [
+      "将会被举行"
+    ],
+    "usphone": "/wɪl/ /bi/ /hɛld/",
+    "ukphone": "/wɪl/ /bi/ /hɛld/"
+  },
+  {
+    "name": "the football match will be held",
+    "trans": [
+      "那场足球比赛将会被举行"
+    ],
+    "usphone": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/",
+    "ukphone": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "the football match will be held tomorrow",
+    "trans": [
+      "那场足球比赛明天将会被举行"
+    ],
+    "usphone": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/",
+    "ukphone": "/ðə/ /'fʊtbɔl/ /mætʃ/ /wɪl/ /bi/ /hɛld/ /tə'mɔro/"
+  }
+]

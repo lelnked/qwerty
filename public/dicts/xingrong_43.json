@@ -1,0 +1,1138 @@
+[
+  {
+    "name": "to lock",
+    "trans": [
+      "锁"
+    ],
+    "usphone": "/tə/ /lɑk/",
+    "ukphone": "/tə/ /lɑk/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to forget to lock the door",
+    "trans": [
+      "忘记锁门"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "forgetting to lock the door",
+    "trans": [
+      "忘记锁门(ing形式)"
+    ],
+    "usphone": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to admit",
+    "trans": [
+      "承认"
+    ],
+    "usphone": "/tə/ /ədˈmɪt/",
+    "ukphone": "/tə/ /ədˈmɪt/"
+  },
+  {
+    "name": "they admit",
+    "trans": [
+      "他们承认"
+    ],
+    "usphone": "/ðe/ /ədˈmɪt/",
+    "ukphone": "/ðe/ /ədˈmɪt/"
+  },
+  {
+    "name": "they admitted",
+    "trans": [
+      "他们(过去)承认"
+    ],
+    "usphone": "/ðe/ /ədˈmɪtɪd/",
+    "ukphone": "/ðe/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "they admitted forgetting to lock the door",
+    "trans": [
+      "他们(过去)承认忘记锁门"
+    ],
+    "usphone": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ðe/ /ədˈmɪtɪd/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "light",
+    "trans": [
+      "灯"
+    ],
+    "usphone": "/laɪt/",
+    "ukphone": "/laɪt/"
+  },
+  {
+    "name": "red",
+    "trans": [
+      "红色"
+    ],
+    "usphone": "/rɛd/",
+    "ukphone": "/rɛd/"
+  },
+  {
+    "name": "a red light",
+    "trans": [
+      "一个红灯"
+    ],
+    "usphone": "/ə/ /rɛd/ /laɪt/",
+    "ukphone": "/ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "name": "to run",
+    "trans": [
+      "跑"
+    ],
+    "usphone": "/tə/ /rʌn/",
+    "ukphone": "/tə/ /rʌn/"
+  },
+  {
+    "name": "to run a red light",
+    "trans": [
+      "闯一个红灯"
+    ],
+    "usphone": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/",
+    "ukphone": "/tə/ /rʌn/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "name": "running a red light",
+    "trans": [
+      "闯一个红灯(ing形式)"
+    ],
+    "usphone": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+    "ukphone": "/'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "the driver",
+    "trans": [
+      "司机"
+    ],
+    "usphone": "/ðə/ /'draɪvɚ/",
+    "ukphone": "/ðə/ /'draɪvɚ/"
+  },
+  {
+    "name": "the driver admitted",
+    "trans": [
+      "司机(过去)承认"
+    ],
+    "usphone": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/",
+    "ukphone": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "the driver admitted running a red light",
+    "trans": [
+      "司机(过去)承认闯一个红灯"
+    ],
+    "usphone": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/",
+    "ukphone": "/ðə/ /'draɪvɚ/ /ədˈmɪtɪd/ /'rʌnɪŋ/ /ə/ /rɛd/ /laɪt/"
+  },
+  {
+    "name": "the answers",
+    "trans": [
+      "答案"
+    ],
+    "usphone": "/ði/ /'ænsɚz/",
+    "ukphone": "/ði/ /'ænsɚz/"
+  },
+  {
+    "name": "to copy",
+    "trans": [
+      "复制"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/",
+    "ukphone": "/tə/ /ˈkɑpɪ/"
+  },
+  {
+    "name": "to copy the answers",
+    "trans": [
+      "抄答案"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/",
+    "ukphone": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/"
+  },
+  {
+    "name": "classmate",
+    "trans": [
+      "同学"
+    ],
+    "usphone": "/'klæsmet/",
+    "ukphone": "/'klæsmet/"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从......那里"
+    ],
+    "usphone": "/frʌm/",
+    "ukphone": "/frʌm/"
+  },
+  {
+    "name": "from a classmate",
+    "trans": [
+      "从一个同学那里"
+    ],
+    "usphone": "/frʌm/ /ə/ /'klæsmet/",
+    "ukphone": "/frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "name": "to copy the answers from a classmate",
+    "trans": [
+      "从一个同学那里抄答案"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+    "ukphone": "/tə/ /ˈkɑpɪ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "name": "copying the answers from a classmate",
+    "trans": [
+      "从一个同学那里抄答案(ing形式)"
+    ],
+    "usphone": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+    "ukphone": "/ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "name": "the student",
+    "trans": [
+      "那个学生"
+    ],
+    "usphone": "/ðə/ /'studnt/",
+    "ukphone": "/ðə/ /'studnt/"
+  },
+  {
+    "name": "the student admitted",
+    "trans": [
+      "那个学生(过去)承认"
+    ],
+    "usphone": "/ðə/ /'studnt/ /ədˈmɪtɪd/",
+    "ukphone": "/ðə/ /'studnt/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "the student admitted copying the answers from a classmate",
+    "trans": [
+      "那个学生(过去)承认从一个同学那里抄答案"
+    ],
+    "usphone": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/",
+    "ukphone": "/ðə/ /'studnt/ /ədˈmɪtɪd/ /ˈkɑpɪɪŋ/ /ði/ /'ænsɚz/ /frʌm/ /ə/ /'klæsmet/"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "迟到的"
+    ],
+    "usphone": "/let/",
+    "ukphone": "/let/"
+  },
+  {
+    "name": "she is late",
+    "trans": [
+      "她是迟到的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /let/",
+    "ukphone": "/ʃi/ /ɪz/ /let/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "碰面；见到"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "meeting",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "/'mitɪŋ/",
+    "ukphone": "/'mitɪŋ/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了；对于"
+    ],
+    "usphone": "/fɚ/",
+    "ukphone": "/fɚ/"
+  },
+  {
+    "name": "for the meeting",
+    "trans": [
+      "对于这个会议"
+    ],
+    "usphone": "/fɚ/ /ðə/ /'mitɪŋ/",
+    "ukphone": "/fɚ/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "name": "she is late for the meeting",
+    "trans": [
+      "她是迟到的对于这个会议"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/",
+    "ukphone": "/ʃi/ /ɪz/ /let/ /fɚ/ /ðə/ /'mitɪŋ/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "being",
+    "trans": [
+      "是(ing形式)"
+    ],
+    "usphone": "/ˈbiɪŋ/",
+    "ukphone": "/ˈbiɪŋ/"
+  },
+  {
+    "name": "she admitted being late for the meeting",
+    "trans": [
+      "她(过去)承认是迟到的对于这个会议"
+    ],
+    "usphone": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/",
+    "ukphone": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /let/ /fɚ/ /ðə/ /'mitɪŋ/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "speaking",
+    "trans": [
+      "演讲"
+    ],
+    "usphone": "/'spikɪŋ/",
+    "ukphone": "/'spikɪŋ/"
+  },
+  {
+    "name": "public",
+    "trans": [
+      "公开的"
+    ],
+    "usphone": "/ˈpʌblɪk/",
+    "ukphone": "/ˈpʌblɪk/"
+  },
+  {
+    "name": "public speaking",
+    "trans": [
+      "公开演讲"
+    ],
+    "usphone": "/ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "afraid",
+    "trans": [
+      "害怕的"
+    ],
+    "usphone": "/ə'fred/",
+    "ukphone": "/ə'fred/"
+  },
+  {
+    "name": "she is afraid",
+    "trans": [
+      "她是害怕的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ə'fred/",
+    "ukphone": "/ʃi/ /ɪz/ /ə'fred/"
+  },
+  {
+    "name": "she is afraid of public speaking",
+    "trans": [
+      "她害怕公开演讲"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/ʃi/ /ɪz/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "being",
+    "trans": [
+      "是(ing形式)"
+    ],
+    "usphone": "/ˈbiɪŋ/",
+    "ukphone": "/ˈbiɪŋ/"
+  },
+  {
+    "name": "she admitted",
+    "trans": [
+      "她(过去)承认"
+    ],
+    "usphone": "/ʃi/ /ədˈmɪtɪd/",
+    "ukphone": "/ʃi/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "she admitted being afraid of public speaking",
+    "trans": [
+      "她(过去)承认害怕公开演讲"
+    ],
+    "usphone": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/ʃi/ /ədˈmɪtɪd/ /ˈbiɪŋ/ /ə'fred/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "food",
+    "trans": [
+      "食物"
+    ],
+    "usphone": "/fud/",
+    "ukphone": "/fud/"
+  },
+  {
+    "name": "junk",
+    "trans": [
+      "垃圾"
+    ],
+    "usphone": "/dʒʌŋk/",
+    "ukphone": "/dʒʌŋk/"
+  },
+  {
+    "name": "junk food",
+    "trans": [
+      "垃圾食物"
+    ],
+    "usphone": "/dʒʌŋk/ /fud/",
+    "ukphone": "/dʒʌŋk/ /fud/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "to eat junk food",
+    "trans": [
+      "吃垃圾食物"
+    ],
+    "usphone": "/tə/ /it/ /dʒʌŋk/ /fud/",
+    "ukphone": "/tə/ /it/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "name": "eating junk food",
+    "trans": [
+      "吃垃圾食物(ing形式)"
+    ],
+    "usphone": "/'itɪŋ/ /dʒʌŋk/ /fud/",
+    "ukphone": "/'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "name": "to avoid",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/",
+    "ukphone": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "name": "she avoids",
+    "trans": [
+      "她避免"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdz/",
+    "ukphone": "/ʃi/ /əˈvɔɪdz/"
+  },
+  {
+    "name": "she avoids eating junk food",
+    "trans": [
+      "她避免吃垃圾食物"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+    "ukphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "style",
+    "trans": [
+      "方式"
+    ],
+    "usphone": "/staɪl/",
+    "ukphone": "/staɪl/"
+  },
+  {
+    "name": "lifestyle",
+    "trans": [
+      "生活方式"
+    ],
+    "usphone": "/'laɪfstaɪl/",
+    "ukphone": "/'laɪfstaɪl/"
+  },
+  {
+    "name": "healthy",
+    "trans": [
+      "健康的"
+    ],
+    "usphone": "/'hɛlθi/",
+    "ukphone": "/'hɛlθi/"
+  },
+  {
+    "name": "a healthy lifestyle",
+    "trans": [
+      "一个健康的生活方式"
+    ],
+    "usphone": "/ə/ /'hɛlθi/ /'laɪfstaɪl/",
+    "ukphone": "/ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "name": "to maintain",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /menˈten/",
+    "ukphone": "/tə/ /menˈten/"
+  },
+  {
+    "name": "to maintain a healthy lifestyle",
+    "trans": [
+      "保持一个健康的生活方式"
+    ],
+    "usphone": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+    "ukphone": "/tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "name": "she avoids eating junk food",
+    "trans": [
+      "她避免吃垃圾食物"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/",
+    "ukphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/"
+  },
+  {
+    "name": "she avoids eating junk food to maintain a healthy lifestyle",
+    "trans": [
+      "她避免吃垃圾食物来保持一个健康的生活方式"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/",
+    "ukphone": "/ʃi/ /əˈvɔɪdz/ /'itɪŋ/ /dʒʌŋk/ /fud/ /tə/ /menˈten/ /ə/ /'hɛlθi/ /'laɪfstaɪl/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to tell the truth",
+    "trans": [
+      "告诉事实"
+    ],
+    "usphone": "/tə/ /tɛl/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /tɛl/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "telling the truth",
+    "trans": [
+      "告诉事实(ing形式)"
+    ],
+    "usphone": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+    "ukphone": "/ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "to avoid",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/",
+    "ukphone": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "name": "she avoided",
+    "trans": [
+      "她(过去)避免"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdɪd/",
+    "ukphone": "/ʃi/ /əˈvɔɪdɪd/"
+  },
+  {
+    "name": "she avoided telling the truth",
+    "trans": [
+      "她(过去)避免告诉事实"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+    "ukphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "to lie",
+    "trans": [
+      "说谎"
+    ],
+    "usphone": "/tə/ /laɪ/",
+    "ukphone": "/tə/ /laɪ/"
+  },
+  {
+    "name": "lying",
+    "trans": [
+      "说谎(ing形式)"
+    ],
+    "usphone": "/'laɪɪŋ/",
+    "ukphone": "/'laɪɪŋ/"
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "父母"
+    ],
+    "usphone": "/'pɛrənts/",
+    "ukphone": "/'pɛrənts/"
+  },
+  {
+    "name": "her parents",
+    "trans": [
+      "她的父母"
+    ],
+    "usphone": "/hɚ/ /'pɛrənts/",
+    "ukphone": "/hɚ/ /'pɛrənts/"
+  },
+  {
+    "name": "lying to her parents",
+    "trans": [
+      "向她的父母说谎(ing形式)"
+    ],
+    "usphone": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+    "ukphone": "/'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by lying to her parents",
+    "trans": [
+      "通过向她的父母说谎"
+    ],
+    "usphone": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+    "ukphone": "/baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "name": "she avoided telling the truth",
+    "trans": [
+      "她(过去)避免告诉事实"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/",
+    "ukphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "she avoided telling the truth by lying to her parents",
+    "trans": [
+      "她通过向她的父母说谎来(过去)避免告诉事实"
+    ],
+    "usphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/",
+    "ukphone": "/ʃi/ /əˈvɔɪdɪd/ /ˈtɛlɪŋ/ /ðə/ /trʊθ/ /baɪ/ /'laɪɪŋ/ /tə/ /hɚ/ /'pɛrənts/"
+  },
+  {
+    "name": "to hurt",
+    "trans": [
+      "伤害"
+    ],
+    "usphone": "/tə/ /hɝt/",
+    "ukphone": "/tə/ /hɝt/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "to hurt her",
+    "trans": [
+      "伤害她"
+    ],
+    "usphone": "/tə/ /hɝt/ /hɚ/",
+    "ukphone": "/tə/ /hɝt/ /hɚ/"
+  },
+  {
+    "name": "hurting her",
+    "trans": [
+      "伤害她(ing形式)"
+    ],
+    "usphone": "/ˈhɝtɪŋ/ /hɚ/",
+    "ukphone": "/ˈhɝtɪŋ/ /hɚ/"
+  },
+  {
+    "name": "to avoid",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/",
+    "ukphone": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "name": "I avoided",
+    "trans": [
+      "我(过去)避免"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/"
+  },
+  {
+    "name": "I avoided hurting her",
+    "trans": [
+      "我(过去)避免伤害她"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "silent",
+    "trans": [
+      "沉默"
+    ],
+    "usphone": "/'saɪlənt/",
+    "ukphone": "/'saɪlənt/"
+  },
+  {
+    "name": "to keep silent",
+    "trans": [
+      "保持沉默"
+    ],
+    "usphone": "/tə/ /kip/ /'saɪlənt/",
+    "ukphone": "/tə/ /kip/ /'saɪlənt/"
+  },
+  {
+    "name": "keeping silent",
+    "trans": [
+      "保持沉默(ing形式)"
+    ],
+    "usphone": "/'kipɪŋ/ /'saɪlənt/",
+    "ukphone": "/'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by keeping silent",
+    "trans": [
+      "通过保持沉默"
+    ],
+    "usphone": "/baɪ/ /'kipɪŋ/ /'saɪlənt/",
+    "ukphone": "/baɪ/ /'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "name": "I avoided hurting her by keeping silent",
+    "trans": [
+      "我通过保持沉默来(过去)避免伤害她"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈhɝtɪŋ/ /hɚ/ /baɪ/ /'kipɪŋ/ /'saɪlənt/"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "迟到的"
+    ],
+    "usphone": "/let/",
+    "ukphone": "/let/"
+  },
+  {
+    "name": "I am late",
+    "trans": [
+      "我是迟到的"
+    ],
+    "usphone": "/aɪ/ /æm/ /let/",
+    "ukphone": "/aɪ/ /æm/ /let/"
+  },
+  {
+    "name": "being",
+    "trans": [
+      "是(ing形式)"
+    ],
+    "usphone": "/ˈbiɪŋ/",
+    "ukphone": "/ˈbiɪŋ/"
+  },
+  {
+    "name": "I avoided being late",
+    "trans": [
+      "我(过去)避免迟到"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+  },
+  {
+    "name": "taxi",
+    "trans": [
+      "出租车"
+    ],
+    "usphone": "/'tæksi/",
+    "ukphone": "/'tæksi/"
+  },
+  {
+    "name": "to take",
+    "trans": [
+      "乘坐"
+    ],
+    "usphone": "/tə/ /tek/",
+    "ukphone": "/tə/ /tek/"
+  },
+  {
+    "name": "to take a taxi",
+    "trans": [
+      "乘坐一辆出租车"
+    ],
+    "usphone": "/tə/ /tek/ /ə/ /'tæksi/",
+    "ukphone": "/tə/ /tek/ /ə/ /'tæksi/"
+  },
+  {
+    "name": "taking a taxi",
+    "trans": [
+      "乘坐一辆出租车(ing形式)"
+    ],
+    "usphone": "/ˈtekɪŋ/ /ə/ /'tæksi/",
+    "ukphone": "/ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by taking a taxi",
+    "trans": [
+      "通过乘坐一辆出租车"
+    ],
+    "usphone": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+    "ukphone": "/baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "name": "I avoided being late",
+    "trans": [
+      "我(过去)避免迟到"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/"
+  },
+  {
+    "name": "I avoided being late by taking a taxi",
+    "trans": [
+      "我通过乘坐一辆出租车来(过去)避免迟到"
+    ],
+    "usphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/",
+    "ukphone": "/aɪ/ /əˈvɔɪdɪd/ /ˈbiɪŋ/ /let/ /baɪ/ /ˈtekɪŋ/ /ə/ /'tæksi/"
+  },
+  {
+    "name": "to avoid",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/",
+    "ukphone": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "name": "he avoids",
+    "trans": [
+      "他避免"
+    ],
+    "usphone": "/hi/ /əˈvɔɪdz/",
+    "ukphone": "/hi/ /əˈvɔɪdz/"
+  },
+  {
+    "name": "to smoke",
+    "trans": [
+      "抽烟"
+    ],
+    "usphone": "/tə/ /smok/",
+    "ukphone": "/tə/ /smok/"
+  },
+  {
+    "name": "smoking",
+    "trans": [
+      "抽烟(ing形式)"
+    ],
+    "usphone": "/'smokɪŋ/",
+    "ukphone": "/'smokɪŋ/"
+  },
+  {
+    "name": "he avoids smoking",
+    "trans": [
+      "他避免抽烟"
+    ],
+    "usphone": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/",
+    "ukphone": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/"
+  },
+  {
+    "name": "healthy",
+    "trans": [
+      "健康的"
+    ],
+    "usphone": "/'hɛlθi/",
+    "ukphone": "/'hɛlθi/"
+  },
+  {
+    "name": "health",
+    "trans": [
+      "健康"
+    ],
+    "usphone": "/hɛlθ/",
+    "ukphone": "/hɛlθ/"
+  },
+  {
+    "name": "his health",
+    "trans": [
+      "他的健康"
+    ],
+    "usphone": "/hɪz/ /hɛlθ/",
+    "ukphone": "/hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "to protect",
+    "trans": [
+      "保护"
+    ],
+    "usphone": "/tə/ /prə'tɛkt/",
+    "ukphone": "/tə/ /prə'tɛkt/"
+  },
+  {
+    "name": "to protect his health",
+    "trans": [
+      "保护他的健康"
+    ],
+    "usphone": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+    "ukphone": "/tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "he avoids smoking to protect his health",
+    "trans": [
+      "他避免抽烟来保护他的健康"
+    ],
+    "usphone": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/",
+    "ukphone": "/hi/ /əˈvɔɪdz/ /'smokɪŋ/ /tə/ /prə'tɛkt/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "lie",
+    "trans": [
+      "谎言"
+    ],
+    "usphone": "/laɪ/",
+    "ukphone": "/laɪ/"
+  },
+  {
+    "name": "a lie",
+    "trans": [
+      "一个谎言"
+    ],
+    "usphone": "/ə/ /laɪ/",
+    "ukphone": "/ə/ /laɪ/"
+  },
+  {
+    "name": "white",
+    "trans": [
+      "白色的"
+    ],
+    "usphone": "/waɪt/",
+    "ukphone": "/waɪt/"
+  },
+  {
+    "name": "a white lie",
+    "trans": [
+      "一个善意的谎言"
+    ],
+    "usphone": "/ə/ /waɪt/ /laɪ/",
+    "ukphone": "/ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "to tell a white lie",
+    "trans": [
+      "说一个善意的谎言"
+    ],
+    "usphone": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/",
+    "ukphone": "/tə/ /tɛl/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "name": "telling a white lie",
+    "trans": [
+      "说一个善意的谎言(ing形式)"
+    ],
+    "usphone": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+    "ukphone": "/ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "name": "to admit",
+    "trans": [
+      "承认"
+    ],
+    "usphone": "/tə/ /ədˈmɪt/",
+    "ukphone": "/tə/ /ədˈmɪt/"
+  },
+  {
+    "name": "he admitted",
+    "trans": [
+      "他(过去)承认"
+    ],
+    "usphone": "/hi/ /ədˈmɪtɪd/",
+    "ukphone": "/hi/ /ədˈmɪtɪd/"
+  },
+  {
+    "name": "he admitted telling a white lie",
+    "trans": [
+      "他(过去)承认说一个善意的谎言(ing形式)"
+    ],
+    "usphone": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+    "ukphone": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "name": "to feel",
+    "trans": [
+      "感觉"
+    ],
+    "usphone": "/tə/ /fil/",
+    "ukphone": "/tə/ /fil/"
+  },
+  {
+    "name": "feelings",
+    "trans": [
+      "感情"
+    ],
+    "usphone": "/'filɪŋz/",
+    "ukphone": "/'filɪŋz/"
+  },
+  {
+    "name": "someone",
+    "trans": [
+      "某个人"
+    ],
+    "usphone": "/'sʌmwʌn/",
+    "ukphone": "/'sʌmwʌn/"
+  },
+  {
+    "name": "someone's feelings",
+    "trans": [
+      "某个人的感情"
+    ],
+    "usphone": "/'sʌmwʌnz/ /'filɪŋz/",
+    "ukphone": "/'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "name": "to hurt",
+    "trans": [
+      "伤害"
+    ],
+    "usphone": "/tə/ /hɝt/",
+    "ukphone": "/tə/ /hɝt/"
+  },
+  {
+    "name": "to hurt someone's feelings",
+    "trans": [
+      "伤害某个人的感情"
+    ],
+    "usphone": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/",
+    "ukphone": "/tə/ /hɝt/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "name": "hurting someone's feelings",
+    "trans": [
+      "伤害某个人的感情(ing形式)"
+    ],
+    "usphone": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+    "ukphone": "/ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "name": "to avoid",
+    "trans": [
+      "避免"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/",
+    "ukphone": "/tə/ /əˈvɔɪd/"
+  },
+  {
+    "name": "to avoid hurting someone's feelings",
+    "trans": [
+      "避免伤害某个人的感情"
+    ],
+    "usphone": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+    "ukphone": "/tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  },
+  {
+    "name": "he admitted telling a white lie",
+    "trans": [
+      "他(过去)承认说一个善意的谎言"
+    ],
+    "usphone": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/",
+    "ukphone": "/hi/ /ədˈmɪtɪd/ /ˈtɛlɪŋ/ /ə/ /waɪt/ /laɪ/"
+  },
+  {
+    "name": "he admitted telling a white lie to avoid hurting someone's feelings",
+    "trans": [
+      "他(过去)承认说一个善意的谎言来避免伤害某个人的感情"
+    ],
+    "usphone": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/",
+    "ukphone": "/hi/ /ədˈmɪtɪd/ /tə/ /ədˈmɪt/ /tə/ /əˈvɔɪd/ /ˈhɝtɪŋ/ /'sʌmwʌnz/ /'filɪŋz/"
+  }
+]

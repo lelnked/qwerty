@@ -1,0 +1,970 @@
+[
+  {
+    "name": "to notice",
+    "trans": [
+      "注意到；察觉到"
+    ],
+    "usphone": "/tə/ /ˈnotɪs/",
+    "ukphone": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "name": "you will",
+    "trans": [
+      "你将会"
+    ],
+    "usphone": "/ju/ /wɪl/",
+    "ukphone": "/ju/ /wɪl/"
+  },
+  {
+    "name": "you will notice",
+    "trans": [
+      "你将会注意到"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "you will notice that",
+    "trans": [
+      "你将会注意到那个"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "付出"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "注意力"
+    ],
+    "usphone": "/ə'tɛnʃən/",
+    "ukphone": "/ə'tɛnʃən/"
+  },
+  {
+    "name": "to pay attention",
+    "trans": [
+      "付出注意力"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "to pay attention to",
+    "trans": [
+      "付出注意力在......"
+    ],
+    "usphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/",
+    "ukphone": "/tə/ /pe/ /ə'tɛnʃən/ /tə/"
+  },
+  {
+    "name": "close",
+    "trans": [
+      "密切的"
+    ],
+    "usphone": "/kloz/",
+    "ukphone": "/kloz/"
+  },
+  {
+    "name": "to pay close attention",
+    "trans": [
+      "密切关注"
+    ],
+    "usphone": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/tə/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "you pay close attention",
+    "trans": [
+      "你密切关注"
+    ],
+    "usphone": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you pay close attention",
+    "trans": [
+      "如果你密切关注"
+    ],
+    "usphone": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "you will notice that if you pay close attention",
+    "trans": [
+      "你将会注意到那个如果你密切关注"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "不同之处"
+    ],
+    "usphone": "/'dɪfrəns/",
+    "ukphone": "/'dɪfrəns/"
+  },
+  {
+    "name": "many",
+    "trans": [
+      "很多"
+    ],
+    "usphone": "/'mɛni/",
+    "ukphone": "/'mɛni/"
+  },
+  {
+    "name": "many differences",
+    "trans": [
+      "很多不同之处"
+    ],
+    "usphone": "/'mɛni/ /'dɪfrənsɪz/",
+    "ukphone": "/'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "name": "there are",
+    "trans": [
+      "存在（复数）"
+    ],
+    "usphone": "/ðɛr/ /ɚ/",
+    "ukphone": "/ðɛr/ /ɚ/"
+  },
+  {
+    "name": "there are many differences",
+    "trans": [
+      "存在很多不同之处"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/",
+    "ukphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "name": "American",
+    "trans": [
+      "美国的"
+    ],
+    "usphone": "/ə'mɛrikən/",
+    "ukphone": "/ə'mɛrikən/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "American English",
+    "trans": [
+      "美式英语"
+    ],
+    "usphone": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "British",
+    "trans": [
+      "英国的"
+    ],
+    "usphone": "/'brɪtɪʃ/",
+    "ukphone": "/'brɪtɪʃ/"
+  },
+  {
+    "name": "British English",
+    "trans": [
+      "英式英语"
+    ],
+    "usphone": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "American English and British English",
+    "trans": [
+      "美式英语和英式英语"
+    ],
+    "usphone": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between American English and British English",
+    "trans": [
+      "在美式英语和英式英语之间"
+    ],
+    "usphone": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "there are many differences",
+    "trans": [
+      "存在很多不同之处"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/",
+    "ukphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/"
+  },
+  {
+    "name": "there are many differences between American English and British English",
+    "trans": [
+      "在美式英语和英式英语之间存在很多不同之处"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "you will notice",
+    "trans": [
+      "你将会注意到"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/"
+  },
+  {
+    "name": "you will notice that",
+    "trans": [
+      "你将会注意到那个"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "name": "you will notice that there are many differences between American English and British English",
+    "trans": [
+      "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "if you pay close attention",
+    "trans": [
+      "如果你密切关注"
+    ],
+    "usphone": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "you will notice that there are many differences between American English and British English if you pay close attention",
+    "trans": [
+      "你将会注意到（那个）在美式英语和英式英语之间存在很多不同之处如果你密切关注"
+    ],
+    "usphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/",
+    "ukphone": "/ju/ /wɪl/ /ˈnotɪs/ /ðæt/ /ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənsɪz/ /bɪ'twin/ /ə'mɛrikən/ /ˈɪŋɡlɪʃ/ /ənd/ /'brɪtɪʃ/ /ˈɪŋɡlɪʃ/ /ɪf/ /ju/ /pe/ /kloz/ /ə'tɛnʃən/"
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "不同之处"
+    ],
+    "usphone": "/'dɪfrəns/",
+    "ukphone": "/'dɪfrəns/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are different",
+    "trans": [
+      "你是不同的"
+    ],
+    "usphone": "/ju/ /ɚ/ /'dɪfrənt/",
+    "ukphone": "/ju/ /ɚ/ /'dɪfrənt/"
+  },
+  {
+    "name": "to pretend",
+    "trans": [
+      "假装"
+    ],
+    "usphone": "/tə/ /prɪˈtɛnd/",
+    "ukphone": "/tə/ /prɪˈtɛnd/"
+  },
+  {
+    "name": "you pretend to be different",
+    "trans": [
+      "你假装是不同的"
+    ],
+    "usphone": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+    "ukphone": "/ju/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need to pretend to be different",
+    "trans": [
+      "你需要假装是不同的"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+    "ukphone": "/ju/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't need to pretend to be different",
+    "trans": [
+      "你不需要假装是不同的"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "name": "innocent",
+    "trans": [
+      "无辜的"
+    ],
+    "usphone": "/ˈɪnəsnt/",
+    "ukphone": "/ˈɪnəsnt/"
+  },
+  {
+    "name": "you don't need to pretend to be innocent",
+    "trans": [
+      "你不需要假装是无辜的"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ˈɪnəsnt/"
+  },
+  {
+    "name": "I don't want",
+    "trans": [
+      "我不想"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/"
+  },
+  {
+    "name": "I don't want to pretend to be different",
+    "trans": [
+      "我不想假装是不同的"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /'dɪfrənt/"
+  },
+  {
+    "name": "the person",
+    "trans": [
+      "那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/",
+    "ukphone": "/ðə/ /'pɝsn/"
+  },
+  {
+    "name": "I don't want to pretend to be the person",
+    "trans": [
+      "我不想假装是那个人"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "doctor",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "/'dɑktɚ/",
+    "ukphone": "/'dɑktɚ/"
+  },
+  {
+    "name": "she is a doctor",
+    "trans": [
+      "她是一名医生"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/",
+    "ukphone": "/ʃi/ /ɪz/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "name": "she wants",
+    "trans": [
+      "她想要"
+    ],
+    "usphone": "/ʃi/ /wɑnts/",
+    "ukphone": "/ʃi/ /wɑnts/"
+  },
+  {
+    "name": "she wants to be a doctor",
+    "trans": [
+      "她想要成为一名医生"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /bi/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "name": "the person",
+    "trans": [
+      "那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/",
+    "ukphone": "/ðə/ /'pɝsn/"
+  },
+  {
+    "name": "she wants to be the person",
+    "trans": [
+      "她想要成为那个人"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "she wants me to be the person",
+    "trans": [
+      "她想要我成为那个人"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/",
+    "ukphone": "/ʃi/ /wɑnts/ /mi/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "the person she wants me to be",
+    "trans": [
+      "她想要我成为的那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/",
+    "ukphone": "/ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+  },
+  {
+    "name": "I don't want to pretend to be the person",
+    "trans": [
+      "我不想假装是那个人"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "I don't want to pretend to be the person she wants me to be",
+    "trans": [
+      "我不想假装是她想要我成为的那个人"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /prɪˈtɛnd/ /tə/ /bi/ /ðə/ /'pɝsn/ /ʃi/ /wɑnts/ /mi/ /tə/ /bi/"
+  },
+  {
+    "name": "to pretend",
+    "trans": [
+      "假装"
+    ],
+    "usphone": "/tə/ /prɪˈtɛnd/",
+    "ukphone": "/tə/ /prɪˈtɛnd/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you don't need",
+    "trans": [
+      "你不需要"
+    ],
+    "usphone": "/ju/ /dont/ /nid/",
+    "ukphone": "/ju/ /dont/ /nid/"
+  },
+  {
+    "name": "you don't need to pretend",
+    "trans": [
+      "你不需要假装"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "you don't need to pretend that",
+    "trans": [
+      "你不需要假装（那个）"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/"
+  },
+  {
+    "name": "to notice",
+    "trans": [
+      "注意到；察觉到"
+    ],
+    "usphone": "/tə/ /ˈnotɪs/",
+    "ukphone": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "name": "you notice",
+    "trans": [
+      "你注意到"
+    ],
+    "usphone": "/ju/ /ˈnotɪs/",
+    "ukphone": "/ju/ /ˈnotɪs/"
+  },
+  {
+    "name": "you noticed",
+    "trans": [
+      "你（过去）注意到"
+    ],
+    "usphone": "/ju/ /ˈnotɪst/",
+    "ukphone": "/ju/ /ˈnotɪst/"
+  },
+  {
+    "name": "you didn't notice",
+    "trans": [
+      "你（过去）没有注意到"
+    ],
+    "usphone": "/ju/ /ˈdɪdnt/ /ˈnotɪs/",
+    "ukphone": "/ju/ /ˈdɪdnt/ /ˈnotɪs/"
+  },
+  {
+    "name": "you don't need to pretend that you didn't notice",
+    "trans": [
+      "你不需要假装（那个）你（过去）没有注意到"
+    ],
+    "usphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/",
+    "ukphone": "/ju/ /dont/ /nid/ /tə/ /prɪˈtɛnd/ /ðæt/ /ju/ /ˈdɪdnt/ /ˈnotɪs/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "it is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "it is more important",
+    "trans": [
+      "它是更重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "anything",
+    "trans": [
+      "任何事情"
+    ],
+    "usphone": "/’ɛnɪθɪŋ/",
+    "ukphone": "/’ɛnɪθɪŋ/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "than anything",
+    "trans": [
+      "比任何事情"
+    ],
+    "usphone": "/ðæn/ /’ɛnɪθɪŋ/",
+    "ukphone": "/ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "name": "it is more important than anything",
+    "trans": [
+      "它是比任何事情更重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/",
+    "ukphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "name": "else",
+    "trans": [
+      "其他的"
+    ],
+    "usphone": "/ɛls/",
+    "ukphone": "/ɛls/"
+  },
+  {
+    "name": "anything else",
+    "trans": [
+      "其他的任何事情"
+    ],
+    "usphone": "/’ɛnɪθɪŋ/ /ɛls/",
+    "ukphone": "/’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "name": "it is more important than anything else",
+    "trans": [
+      "它是比其他的任何事情更重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/",
+    "ukphone": "/ɪt/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭"
+    ],
+    "usphone": "/ˈfæməli/",
+    "ukphone": "/ˈfæməli/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "than family",
+    "trans": [
+      "比家庭"
+    ],
+    "usphone": "/ðæn/ /ˈfæməli/",
+    "ukphone": "/ðæn/ /ˈfæməli/"
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "没有东西"
+    ],
+    "usphone": "/'nʌθɪŋ/",
+    "ukphone": "/'nʌθɪŋ/"
+  },
+  {
+    "name": "nothing is more important than family",
+    "trans": [
+      "没有东西比家庭是更重要的"
+    ],
+    "usphone": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/",
+    "ukphone": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈfæməli/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "ship",
+    "trans": [
+      "船"
+    ],
+    "usphone": "/ʃɪp/",
+    "ukphone": "/ʃɪp/"
+  },
+  {
+    "name": "friendship",
+    "trans": [
+      "友谊"
+    ],
+    "usphone": "/ˈfrɛndʃɪp/",
+    "ukphone": "/ˈfrɛndʃɪp/"
+  },
+  {
+    "name": "our",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "/'aʊɚ/",
+    "ukphone": "/'aʊɚ/"
+  },
+  {
+    "name": "our friendship",
+    "trans": [
+      "我们的友谊"
+    ],
+    "usphone": "/'aʊɚ/ /ˈfrɛndʃɪp/",
+    "ukphone": "/'aʊɚ/ /ˈfrɛndʃɪp/"
+  },
+  {
+    "name": "nothing is more important than our friendship",
+    "trans": [
+      "没有东西比我们的友谊是更重要的"
+    ],
+    "usphone": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/",
+    "ukphone": "/'nʌθɪŋ/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /'aʊɚ/ /ˈfrɛndʃɪp/"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭"
+    ],
+    "usphone": "/ˈfæməli/",
+    "ukphone": "/ˈfæməli/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my family",
+    "trans": [
+      "我的家庭"
+    ],
+    "usphone": "/maɪ/ /ˈfæməli/",
+    "ukphone": "/maɪ/ /ˈfæməli/"
+  },
+  {
+    "name": "anything",
+    "trans": [
+      "任何事情"
+    ],
+    "usphone": "/’ɛnɪθɪŋ/",
+    "ukphone": "/’ɛnɪθɪŋ/"
+  },
+  {
+    "name": "my family is more important than anything",
+    "trans": [
+      "我的家庭比任何事情是更重要的"
+    ],
+    "usphone": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/",
+    "ukphone": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/"
+  },
+  {
+    "name": "else",
+    "trans": [
+      "其他的"
+    ],
+    "usphone": "/ɛls/",
+    "ukphone": "/ɛls/"
+  },
+  {
+    "name": "my family is more important than anything else",
+    "trans": [
+      "我的家庭比其他的任何事情是更重要的"
+    ],
+    "usphone": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/",
+    "ukphone": "/maɪ/ /ˈfæməli/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /’ɛnɪθɪŋ/ /ɛls/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活；生命"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "man",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/mæn/",
+    "ukphone": "/mæn/"
+  },
+  {
+    "name": "man's life",
+    "trans": [
+      "人的生命"
+    ],
+    "usphone": "/mænz/ /laɪf/",
+    "ukphone": "/mænz/ /laɪf/"
+  },
+  {
+    "name": "a man's life",
+    "trans": [
+      "一个人的生命"
+    ],
+    "usphone": "/ə/ /mænz/ /laɪf/",
+    "ukphone": "/ə/ /mænz/ /laɪf/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "金钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "a man's life is more important than money",
+    "trans": [
+      "一个人的生命比金钱是更重要的"
+    ],
+    "usphone": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/",
+    "ukphone": "/ə/ /mænz/ /laɪf/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /ˈmʌni/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you do",
+    "trans": [
+      "你做"
+    ],
+    "usphone": "/ju/ /du/",
+    "ukphone": "/ju/ /du/"
+  },
+  {
+    "name": "the thing",
+    "trans": [
+      "那件事情"
+    ],
+    "usphone": "/ðə/ /θɪŋ/",
+    "ukphone": "/ðə/ /θɪŋ/"
+  },
+  {
+    "name": "the thing you do",
+    "trans": [
+      "你做的那件事情"
+    ],
+    "usphone": "/ðə/ /θɪŋ/ /ju/ /du/",
+    "ukphone": "/ðə/ /θɪŋ/ /ju/ /du/"
+  },
+  {
+    "name": "what you do",
+    "trans": [
+      "你做的内容"
+    ],
+    "usphone": "/wɑt/ /ju/ /du/",
+    "ukphone": "/wɑt/ /ju/ /du/"
+  },
+  {
+    "name": "to say",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /seɪ/",
+    "ukphone": "/tə/ /seɪ/"
+  },
+  {
+    "name": "you say",
+    "trans": [
+      "你说"
+    ],
+    "usphone": "/ju/ /seɪ/",
+    "ukphone": "/ju/ /seɪ/"
+  },
+  {
+    "name": "what you say",
+    "trans": [
+      "你说的内容"
+    ],
+    "usphone": "/wɑt/ /ju/ /seɪ/",
+    "ukphone": "/wɑt/ /ju/ /seɪ/"
+  },
+  {
+    "name": "what you do is more important than what you say",
+    "trans": [
+      "你做的内容比你说的内容是更重要的"
+    ],
+    "usphone": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /seɪ/",
+    "ukphone": "/wɑt/ /ju/ /du/ /ɪz/ /mɔr/ /ɪm'pɔrtnt/ /ðæn/ /wɑt/ /ju/ /seɪ/"
+  }
+]

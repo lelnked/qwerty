@@ -1,0 +1,1186 @@
+[
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "the book",
+    "trans": [
+      "这本书"
+    ],
+    "usphone": "/ðə/ /bʊk/",
+    "ukphone": "/ðə/ /bʊk/"
+  },
+  {
+    "name": "to read the book",
+    "trans": [
+      "阅读这本书"
+    ],
+    "usphone": "/tə/ /rid/ /ðə/ /bʊk/",
+    "ukphone": "/tə/ /rid/ /ðə/ /bʊk/"
+  },
+  {
+    "name": "reading the book",
+    "trans": [
+      "阅读这本书(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/ /ðə/ /bʊk/",
+    "ukphone": "/'ridɪŋ/ /ðə/ /bʊk/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "he finishes",
+    "trans": [
+      "他完成"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃɪz/",
+    "ukphone": "/hi/ /'fɪnɪʃɪz/"
+  },
+  {
+    "name": "he finished",
+    "trans": [
+      "他(过去)完成"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/",
+    "ukphone": "/hi/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "he finished reading the book",
+    "trans": [
+      "他(过去)完成阅读这本书"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/",
+    "ukphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "天"
+    ],
+    "usphone": "/de/",
+    "ukphone": "/de/"
+  },
+  {
+    "name": "one day",
+    "trans": [
+      "一天"
+    ],
+    "usphone": "/wʌn/ /de/",
+    "ukphone": "/wʌn/ /de/"
+  },
+  {
+    "name": "in one day",
+    "trans": [
+      "在一天内"
+    ],
+    "usphone": "/ɪn/ /wʌn/ /de/",
+    "ukphone": "/ɪn/ /wʌn/ /de/"
+  },
+  {
+    "name": "he finished reading the book in one day",
+    "trans": [
+      "他在一天内完成了阅读这本书"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /de/",
+    "ukphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /de/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "in one night",
+    "trans": [
+      "在一个晚上内"
+    ],
+    "usphone": "/ɪn/ /wʌn/ /naɪt/",
+    "ukphone": "/ɪn/ /wʌn/ /naɪt/"
+  },
+  {
+    "name": "he finished reading the book in one night",
+    "trans": [
+      "他在一个晚上内完成了阅读这本书"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /naɪt/",
+    "ukphone": "/hi/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /bʊk/ /ɪn/ /wʌn/ /naɪt/"
+  },
+  {
+    "name": "to wash",
+    "trans": [
+      "洗"
+    ],
+    "usphone": "/tə/ /wɔʃ/",
+    "ukphone": "/tə/ /wɔʃ/"
+  },
+  {
+    "name": "dish",
+    "trans": [
+      "碟"
+    ],
+    "usphone": "/dɪʃ/",
+    "ukphone": "/dɪʃ/"
+  },
+  {
+    "name": "the dishes",
+    "trans": [
+      "那些碗碟"
+    ],
+    "usphone": "/ðə/ /dɪʃɪz/",
+    "ukphone": "/ðə/ /dɪʃɪz/"
+  },
+  {
+    "name": "to wash the dishes",
+    "trans": [
+      "洗那些碗碟"
+    ],
+    "usphone": "/tə/ /wɔʃ/ /ðə/ /dɪʃɪz/",
+    "ukphone": "/tə/ /wɔʃ/ /ðə/ /dɪʃɪz/"
+  },
+  {
+    "name": "washing the dishes",
+    "trans": [
+      "洗那些碗碟(ing形式)"
+    ],
+    "usphone": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/",
+    "ukphone": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚饭"
+    ],
+    "usphone": "/'dɪnɚ/",
+    "ukphone": "/'dɪnɚ/"
+  },
+  {
+    "name": "after",
+    "trans": [
+      "在......之后"
+    ],
+    "usphone": "/'æftɚ/",
+    "ukphone": "/'æftɚ/"
+  },
+  {
+    "name": "after dinner",
+    "trans": [
+      "在晚饭之后"
+    ],
+    "usphone": "/'æftɚ/ /'dɪnɚ/",
+    "ukphone": "/'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "name": "washing the dishes after dinner",
+    "trans": [
+      "在晚饭之后洗那些碗碟(ing形式)"
+    ],
+    "usphone": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/",
+    "ukphone": "/'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "name": "he finished",
+    "trans": [
+      "他(过去)完成"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/",
+    "ukphone": "/hi/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "he finished washing the dishes after dinner",
+    "trans": [
+      "他在晚饭之后完成了洗碗"
+    ],
+    "usphone": "/hi/ /'fɪnɪʃt/ /'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/",
+    "ukphone": "/hi/ /'fɪnɪʃt/ /'wɑʃɪŋ/ /ðə/ /dɪʃɪz/ /'æftɚ/ /'dɪnɚ/"
+  },
+  {
+    "name": "to paint",
+    "trans": [
+      "作画"
+    ],
+    "usphone": "/tə/ /pent/",
+    "ukphone": "/tə/ /pent/"
+  },
+  {
+    "name": "the wall",
+    "trans": [
+      "墙"
+    ],
+    "usphone": "/ðə/ /wɔl/",
+    "ukphone": "/ðə/ /wɔl/"
+  },
+  {
+    "name": "to paint the wall",
+    "trans": [
+      "刷墙"
+    ],
+    "usphone": "/tə/ /pent/ /ðə/ /wɔl/",
+    "ukphone": "/tə/ /pent/ /ðə/ /wɔl/"
+  },
+  {
+    "name": "painting the wall",
+    "trans": [
+      "刷墙(ing形式)"
+    ],
+    "usphone": "/'pentɪŋ/ /ðə/ /wɔl/",
+    "ukphone": "/'pentɪŋ/ /ðə/ /wɔl/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "they finish",
+    "trans": [
+      "他们完成"
+    ],
+    "usphone": "/ðe/ /'fɪnɪʃ/",
+    "ukphone": "/ðe/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "they finished",
+    "trans": [
+      "他们(过去)完成"
+    ],
+    "usphone": "/ðe/ /'fɪnɪʃt/",
+    "ukphone": "/ðe/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "they finished painting the wall",
+    "trans": [
+      "他们完成了刷墙"
+    ],
+    "usphone": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/",
+    "ukphone": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/"
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "太阳"
+    ],
+    "usphone": "/sʌn/",
+    "ukphone": "/sʌn/"
+  },
+  {
+    "name": "sunset",
+    "trans": [
+      "日落"
+    ],
+    "usphone": "/'sʌnsɛt/",
+    "ukphone": "/'sʌnsɛt/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before sunset",
+    "trans": [
+      "在日落之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "they finished painting the wall before sunset",
+    "trans": [
+      "他们在落日之前完成了刷墙"
+    ],
+    "usphone": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/ðe/ /'fɪnɪʃt/ /'pentɪŋ/ /ðə/ /wɔl/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "to clean",
+    "trans": [
+      "清理"
+    ],
+    "usphone": "/tə/ /klin/",
+    "ukphone": "/tə/ /klin/"
+  },
+  {
+    "name": "the house",
+    "trans": [
+      "这个房子"
+    ],
+    "usphone": "/ðə/ /haʊs/",
+    "ukphone": "/ðə/ /haʊs/"
+  },
+  {
+    "name": "to clean the house",
+    "trans": [
+      "清理这个房子"
+    ],
+    "usphone": "/tə/ /klin/ /ðə/ /haʊs/",
+    "ukphone": "/tə/ /klin/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "cleaning the house",
+    "trans": [
+      "清理这个房子(ing形式)"
+    ],
+    "usphone": "/'klinɪŋ/ /ðə/ /haʊs/",
+    "ukphone": "/'klinɪŋ/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "you finished",
+    "trans": [
+      "你(过去)完成"
+    ],
+    "usphone": "/ju/ /'fɪnɪʃt/",
+    "ukphone": "/ju/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "you finished cleaning the house",
+    "trans": [
+      "你完成了清理这个房子"
+    ],
+    "usphone": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/",
+    "ukphone": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "你自己"
+    ],
+    "usphone": "/jɔr'sɛlf/",
+    "ukphone": "/jɔr'sɛlf/"
+  },
+  {
+    "name": "by yourself",
+    "trans": [
+      "通过你自己"
+    ],
+    "usphone": "/baɪ/ /jɔr'sɛlf/",
+    "ukphone": "/baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "you finished cleaning the house by yourself",
+    "trans": [
+      "你自己一个人完成了清理这个房子"
+    ],
+    "usphone": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/ /baɪ/ /jɔr'sɛlf/",
+    "ukphone": "/ju/ /'fɪnɪʃt/ /'klinɪŋ/ /ðə/ /haʊs/ /baɪ/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "to break",
+    "trans": [
+      "打破"
+    ],
+    "usphone": "/tə/ /brek/",
+    "ukphone": "/tə/ /brek/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "那个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to break the window",
+    "trans": [
+      "打破那个窗户"
+    ],
+    "usphone": "/tə/ /brek/ /ðə/ /'wɪndo/",
+    "ukphone": "/tə/ /brek/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "a stone",
+    "trans": [
+      "一个石头"
+    ],
+    "usphone": "/ə/ /ston/",
+    "ukphone": "/ə/ /ston/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with a stone",
+    "trans": [
+      "和一个石头一起"
+    ],
+    "usphone": "/wɪð/ /ə/ /ston/",
+    "ukphone": "/wɪð/ /ə/ /ston/"
+  },
+  {
+    "name": "to break the window with a stone",
+    "trans": [
+      "用一个石头打破那个窗户"
+    ],
+    "usphone": "/tə/ /brek/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+    "ukphone": "/tə/ /brek/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "name": "breaking the window with a stone",
+    "trans": [
+      "用一个石头打破那个窗户(ing形式)"
+    ],
+    "usphone": "/'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+    "ukphone": "/'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "name": "to deny",
+    "trans": [
+      "否认"
+    ],
+    "usphone": "/tə/ /dɪ'naɪ/",
+    "ukphone": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "name": "they deny",
+    "trans": [
+      "他们否认"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪ/",
+    "ukphone": "/ðe/ /dɪ'naɪ/"
+  },
+  {
+    "name": "they denied",
+    "trans": [
+      "他们(过去)否认"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/",
+    "ukphone": "/ðe/ /dɪ'naɪd/"
+  },
+  {
+    "name": "they denied breaking the window with a stone",
+    "trans": [
+      "他们(过去)否认用一个石头打破那个窗户"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /'brekɪŋ/ /ðə/ /'wɪndo/ /wɪð/ /ə/ /ston/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "to change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tə/ /tʃendʒ/",
+    "ukphone": "/tə/ /tʃendʒ/"
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "想法"
+    ],
+    "usphone": "/maɪnd/",
+    "ukphone": "/maɪnd/"
+  },
+  {
+    "name": "his mind",
+    "trans": [
+      "他的想法"
+    ],
+    "usphone": "/hɪz/ /maɪnd/",
+    "ukphone": "/hɪz/ /maɪnd/"
+  },
+  {
+    "name": "to change his mind",
+    "trans": [
+      "改变他的想法"
+    ],
+    "usphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+    "ukphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "name": "minute",
+    "trans": [
+      "分钟"
+    ],
+    "usphone": "/'mɪnɪt/",
+    "ukphone": "/'mɪnɪt/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "最后"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "the last minute",
+    "trans": [
+      "最后一分钟"
+    ],
+    "usphone": "/ðə/ /læst/ /'mɪnɪt/",
+    "ukphone": "/ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "name": "at the last minute",
+    "trans": [
+      "在最后一个刻"
+    ],
+    "usphone": "/ət/ /ðə/ /læst/ /'mɪnɪt/",
+    "ukphone": "/ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "name": "to change his mind at the last minute",
+    "trans": [
+      "在最后一刻改变他的想法"
+    ],
+    "usphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+    "ukphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "name": "changing his mind at the last minute",
+    "trans": [
+      "在最后一刻改变他的想法(ing形式)"
+    ],
+    "usphone": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+    "ukphone": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "he denied changing his mind at the last minute",
+    "trans": [
+      "他(过去)否认在最后一刻改变他的想法"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ət/ /ðə/ /læst/ /'mɪnɪt/"
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "父母"
+    ],
+    "usphone": "/'pɛrənts/",
+    "ukphone": "/'pɛrənts/"
+  },
+  {
+    "name": "his parents",
+    "trans": [
+      "他的父母"
+    ],
+    "usphone": "/hɪz/ /'pɛrənts/",
+    "ukphone": "/hɪz/ /'pɛrənts/"
+  },
+  {
+    "name": "to lie",
+    "trans": [
+      "撒谎"
+    ],
+    "usphone": "/tə/ /laɪ/",
+    "ukphone": "/tə/ /laɪ/"
+  },
+  {
+    "name": "to lie to his parents",
+    "trans": [
+      "向他的父母撒谎"
+    ],
+    "usphone": "/tə/ /laɪ/ /tə/ /hɪz/ /'pɛrənts/",
+    "ukphone": "/tə/ /laɪ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "name": "lying",
+    "trans": [
+      "撒谎(ing形式)"
+    ],
+    "usphone": "/'laɪɪŋ/",
+    "ukphone": "/'laɪɪŋ/"
+  },
+  {
+    "name": "lying to his parents",
+    "trans": [
+      "向他的父母撒谎(ing形式)"
+    ],
+    "usphone": "/'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/",
+    "ukphone": "/'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "name": "to deny",
+    "trans": [
+      "否认"
+    ],
+    "usphone": "/tə/ /dɪ'naɪ/",
+    "ukphone": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "he denied lying to his parents",
+    "trans": [
+      "他(过去)否认向他的父母撒谎"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /'laɪɪŋ/ /tə/ /hɪz/ /'pɛrənts/"
+  },
+  {
+    "name": "sick",
+    "trans": [
+      "有病的"
+    ],
+    "usphone": "/sɪk/",
+    "ukphone": "/sɪk/"
+  },
+  {
+    "name": "he is sick",
+    "trans": [
+      "他是有病的"
+    ],
+    "usphone": "/hi/ /ɪz/ /sɪk/",
+    "ukphone": "/hi/ /ɪz/ /sɪk/"
+  },
+  {
+    "name": "to pretend",
+    "trans": [
+      "假装"
+    ],
+    "usphone": "/tə/ /prɪ'tɛnd/",
+    "ukphone": "/tə/ /prɪ'tɛnd/"
+  },
+  {
+    "name": "to pretend to be sick",
+    "trans": [
+      "假装是有病的"
+    ],
+    "usphone": "/tə/ /prɪ'tɛnd/ /tə/ /bi/ /sɪk/",
+    "ukphone": "/tə/ /prɪ'tɛnd/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "name": "pretending to be sick",
+    "trans": [
+      "假装是有病的(ing形式)"
+    ],
+    "usphone": "/prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/",
+    "ukphone": "/prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "name": "to deny",
+    "trans": [
+      "否认"
+    ],
+    "usphone": "/tə/ /dɪ'naɪ/",
+    "ukphone": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "he denied pretending to be sick",
+    "trans": [
+      "他(过去)否认假装是有病的"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /prɪ'tɛndɪŋ/ /tə/ /bi/ /sɪk/"
+  },
+  {
+    "name": "prison",
+    "trans": [
+      "监狱"
+    ],
+    "usphone": "/'prɪzn/",
+    "ukphone": "/'prɪzn/"
+  },
+  {
+    "name": "from prison",
+    "trans": [
+      "从监狱"
+    ],
+    "usphone": "/frʌm/ /'prɪzn/",
+    "ukphone": "/frʌm/ /'prɪzn/"
+  },
+  {
+    "name": "to escape",
+    "trans": [
+      "逃跑"
+    ],
+    "usphone": "/tə/ /ɪ'skep/",
+    "ukphone": "/tə/ /ɪ'skep/"
+  },
+  {
+    "name": "to escape from prison",
+    "trans": [
+      "越狱"
+    ],
+    "usphone": "/tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+    "ukphone": "/tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "name": "to plan",
+    "trans": [
+      "计划"
+    ],
+    "usphone": "/tə/ /plæn/",
+    "ukphone": "/tə/ /plæn/"
+  },
+  {
+    "name": "to plan to escape from prison",
+    "trans": [
+      "计划越狱"
+    ],
+    "usphone": "/tə/ /plæn/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+    "ukphone": "/tə/ /plæn/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "name": "planning to escape from prison",
+    "trans": [
+      "计划越狱(ing形式)"
+    ],
+    "usphone": "/'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+    "ukphone": "/'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "name": "to deny",
+    "trans": [
+      "否认"
+    ],
+    "usphone": "/tə/ /dɪ'naɪ/",
+    "ukphone": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "name": "they denied",
+    "trans": [
+      "他们(过去)否认"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/",
+    "ukphone": "/ðe/ /dɪ'naɪd/"
+  },
+  {
+    "name": "they denied planning to escape from prison",
+    "trans": [
+      "他们(过去)否认计划越狱"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /'plænɪŋ/ /tə/ /ɪ'skep/ /frʌm/ /'prɪzn/"
+  },
+  {
+    "name": "to steal",
+    "trans": [
+      "偷"
+    ],
+    "usphone": "/tə/ /stil/",
+    "ukphone": "/tə/ /stil/"
+  },
+  {
+    "name": "the money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ðə/ /'mʌni/",
+    "ukphone": "/ðə/ /'mʌni/"
+  },
+  {
+    "name": "to steal the money",
+    "trans": [
+      "偷钱"
+    ],
+    "usphone": "/tə/ /stil/ /ðə/ /'mʌni/",
+    "ukphone": "/tə/ /stil/ /ðə/ /'mʌni/"
+  },
+  {
+    "name": "stealing the money",
+    "trans": [
+      "偷钱(ing形式)"
+    ],
+    "usphone": "/stilɪŋ/ /ðə/ /'mʌni/",
+    "ukphone": "/stilɪŋ/ /ðə/ /'mʌni/"
+  },
+  {
+    "name": "the bank",
+    "trans": [
+      "银行"
+    ],
+    "usphone": "/ðə/ /bæŋk/",
+    "ukphone": "/ðə/ /bæŋk/"
+  },
+  {
+    "name": "from the bank",
+    "trans": [
+      "从银行"
+    ],
+    "usphone": "/frʌm/ /ðə/ /bæŋk/",
+    "ukphone": "/frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "name": "stealing the money from the bank",
+    "trans": [
+      "从银行偷钱(ing形式)"
+    ],
+    "usphone": "/stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/",
+    "ukphone": "/stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "name": "to deny",
+    "trans": [
+      "否认"
+    ],
+    "usphone": "/tə/ /dɪ'naɪ/",
+    "ukphone": "/tə/ /dɪ'naɪ/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "he denied stealing the money from the bank",
+    "trans": [
+      "他(过去)否认从银行偷钱"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /stilɪŋ/ /ðə/ /'mʌni/ /frʌm/ /ðə/ /bæŋk/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "accepted",
+    "trans": [
+      "接受(过去分词)"
+    ],
+    "usphone": "/ək'sɛptɪd/",
+    "ukphone": "/ək'sɛptɪd/"
+  },
+  {
+    "name": "be accepted",
+    "trans": [
+      "被接受了"
+    ],
+    "usphone": "/bi/ /ək'sɛptɪd/",
+    "ukphone": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "he is accepted",
+    "trans": [
+      "他被接受了"
+    ],
+    "usphone": "/hi/ /ɪz/ /ək'sɛptɪd/",
+    "ukphone": "/hi/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "he was accepted",
+    "trans": [
+      "他(过去)被接受了"
+    ],
+    "usphone": "/hi/ /wəz/ /ək'sɛptɪd/",
+    "ukphone": "/hi/ /wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the university",
+    "trans": [
+      "大学"
+    ],
+    "usphone": "/ðə/ /ˌjunɪ'vɝsəti/",
+    "ukphone": "/ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "name": "by the university",
+    "trans": [
+      "通过大学"
+    ],
+    "usphone": "/baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+    "ukphone": "/baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "name": "he was accepted by the university",
+    "trans": [
+      "他(过去)被大学录取了"
+    ],
+    "usphone": "/hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+    "ukphone": "/hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "that he was accepted by the university",
+    "trans": [
+      "那个他(过去)被大学录取了"
+    ],
+    "usphone": "/ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+    "ukphone": "/ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "name": "he denied",
+    "trans": [
+      "他(过去)否认"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/",
+    "ukphone": "/hi/ /dɪ'naɪd/"
+  },
+  {
+    "name": "he denied that he was accepted by the university",
+    "trans": [
+      "他(过去)否认(那个)他(过去)被大学录取了"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /ðæt/ /hi/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ˌjunɪ'vɝsəti/"
+  },
+  {
+    "name": "he denied that",
+    "trans": [
+      "他(过去)否认(那个)"
+    ],
+    "usphone": "/hi/ /dɪ'naɪd/ /ðæt/",
+    "ukphone": "/hi/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "name": "they denied that",
+    "trans": [
+      "他们(过去)否认(那个)"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /ðæt/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "invited",
+    "trans": [
+      "邀请(过去分词)"
+    ],
+    "usphone": "/ɪn'vaɪtɪd/",
+    "ukphone": "/ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "be invited",
+    "trans": [
+      "被邀请"
+    ],
+    "usphone": "/bi/ /ɪn'vaɪtɪd/",
+    "ukphone": "/bi/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "they are invited",
+    "trans": [
+      "他们被邀请"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ɪn'vaɪtɪd/",
+    "ukphone": "/ðe/ /ɚ/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "they were invited",
+    "trans": [
+      "他们(过去)被邀请"
+    ],
+    "usphone": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/",
+    "ukphone": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/"
+  },
+  {
+    "name": "the president",
+    "trans": [
+      "总统"
+    ],
+    "usphone": "/ðə/ /'prɛzɪdənt/",
+    "ukphone": "/ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "name": "by the president",
+    "trans": [
+      "通过总统"
+    ],
+    "usphone": "/baɪ/ /ðə/ /'prɛzɪdənt/",
+    "ukphone": "/baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "name": "they were invited by the president",
+    "trans": [
+      "他们(过去)被总统邀请"
+    ],
+    "usphone": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/",
+    "ukphone": "/ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "name": "they denied that",
+    "trans": [
+      "他们(过去)否认(那个)"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /ðæt/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "name": "they denied that they were invited by the president",
+    "trans": [
+      "他们(过去)否认(那个)他们(过去)被总统邀请"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /ɪn'vaɪtɪd/ /baɪ/ /ðə/ /'prɛzɪdənt/"
+  },
+  {
+    "name": "to teach",
+    "trans": [
+      "教"
+    ],
+    "usphone": "/tə/ /titʃ/",
+    "ukphone": "/tə/ /titʃ/"
+  },
+  {
+    "name": "taught",
+    "trans": [
+      "教(过去分词)"
+    ],
+    "usphone": "/tɔt/",
+    "ukphone": "/tɔt/"
+  },
+  {
+    "name": "be taught",
+    "trans": [
+      "被教"
+    ],
+    "usphone": "/bi/ /tɔt/",
+    "ukphone": "/bi/ /tɔt/"
+  },
+  {
+    "name": "they are taught",
+    "trans": [
+      "他们被教"
+    ],
+    "usphone": "/ðe/ /ɚ/ /tɔt/",
+    "ukphone": "/ðe/ /ɚ/ /tɔt/"
+  },
+  {
+    "name": "they were taught",
+    "trans": [
+      "他们(过去)被教"
+    ],
+    "usphone": "/ðe/ /wɚ/ /tɔt/",
+    "ukphone": "/ðe/ /wɚ/ /tɔt/"
+  },
+  {
+    "name": "professor",
+    "trans": [
+      "教授"
+    ],
+    "usphone": "/prə'fɛsər/",
+    "ukphone": "/prə'fɛsər/"
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "有名的"
+    ],
+    "usphone": "/'feməs/",
+    "ukphone": "/'feməs/"
+  },
+  {
+    "name": "a famous professor",
+    "trans": [
+      "一个有名的教授"
+    ],
+    "usphone": "/ə/ /'feməs/ /prə'fɛsər/",
+    "ukphone": "/ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "name": "by a famous professor",
+    "trans": [
+      "通过一个有名的教授"
+    ],
+    "usphone": "/baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+    "ukphone": "/baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "name": "they were taught",
+    "trans": [
+      "他们(过去)被教"
+    ],
+    "usphone": "/ðe/ /wɚ/ /tɔt/",
+    "ukphone": "/ðe/ /wɚ/ /tɔt/"
+  },
+  {
+    "name": "they were taught by a famous professor",
+    "trans": [
+      "他们(过去)被一个有名的教授所教"
+    ],
+    "usphone": "/ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+    "ukphone": "/ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  },
+  {
+    "name": "they denied that",
+    "trans": [
+      "他们(过去)否认(那个)"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /ðæt/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /ðæt/"
+  },
+  {
+    "name": "they denied that they were taught by a famous professor",
+    "trans": [
+      "他们(过去)否认(那个)他们(过去)被一个有名的教授所教"
+    ],
+    "usphone": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/",
+    "ukphone": "/ðe/ /dɪ'naɪd/ /ðæt/ /ðe/ /wɚ/ /tɔt/ /baɪ/ /ə/ /'feməs/ /prə'fɛsər/"
+  }
+]

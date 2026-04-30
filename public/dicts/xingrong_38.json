@@ -1,0 +1,1618 @@
+[
+  {
+    "name": "ball",
+    "trans": [
+      "球"
+    ],
+    "usphone": "/bɔl/",
+    "ukphone": "/bɔl/"
+  },
+  {
+    "name": "basket",
+    "trans": [
+      "篮子"
+    ],
+    "usphone": "/'bæskɪt/",
+    "ukphone": "/'bæskɪt/"
+  },
+  {
+    "name": "basketball",
+    "trans": [
+      "篮球"
+    ],
+    "usphone": "/'bæskɪtbɔl/",
+    "ukphone": "/'bæskɪtbɔl/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "to play basketball",
+    "trans": [
+      "打篮球"
+    ],
+    "usphone": "/tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to play basketball",
+    "trans": [
+      "我想要打篮球"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "I wanted to play basketball",
+    "trans": [
+      "我(过去)想要打篮球"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "I wanted to play basketball",
+    "trans": [
+      "我(过去)想要打篮球"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "I used to play basketball",
+    "trans": [
+      "我过去常常打篮球"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "school",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "/skul/",
+    "ukphone": "/skul/"
+  },
+  {
+    "name": "high",
+    "trans": [
+      "高"
+    ],
+    "usphone": "/haɪ/",
+    "ukphone": "/haɪ/"
+  },
+  {
+    "name": "high school",
+    "trans": [
+      "高中"
+    ],
+    "usphone": "/haɪ/ /skul/",
+    "ukphone": "/haɪ/ /skul/"
+  },
+  {
+    "name": "in high school",
+    "trans": [
+      "在高中"
+    ],
+    "usphone": "/ɪn/ /haɪ/ /skul/",
+    "ukphone": "/ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "I used to play basketball in high school",
+    "trans": [
+      "我在高中常常打篮球"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "in high school",
+    "trans": [
+      "在高中"
+    ],
+    "usphone": "/ɪn/ /haɪ/ /skul/",
+    "ukphone": "/ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "I am in high school",
+    "trans": [
+      "我在高中"
+    ],
+    "usphone": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/",
+    "ukphone": "/aɪ/ /æm/ /ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "I was in high school",
+    "trans": [
+      "我(过去)在高中"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+    "ukphone": "/aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I was in high school",
+    "trans": [
+      "当我(过去)在高中的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "I used to play basketball when I was in high school",
+    "trans": [
+      "我过去常常打篮球当我在高中的时候"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /ple/ /'bæskɪtbɔl/ /ɪn/ /haɪ/ /skul/ /wɛn/ /aɪ/ /wəz/ /ɪn/ /haɪ/ /skul/"
+  },
+  {
+    "name": "chess",
+    "trans": [
+      "象棋"
+    ],
+    "usphone": "/tʃɛs/",
+    "ukphone": "/tʃɛs/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "to play chess",
+    "trans": [
+      "下象棋"
+    ],
+    "usphone": "/tə/ /ple/ /tʃɛs/",
+    "ukphone": "/tə/ /ple/ /tʃɛs/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "I used to play chess",
+    "trans": [
+      "我过去常常下象棋"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/"
+  },
+  {
+    "name": "young",
+    "trans": [
+      "年轻的"
+    ],
+    "usphone": "/jʌŋ/",
+    "ukphone": "/jʌŋ/"
+  },
+  {
+    "name": "I am young",
+    "trans": [
+      "我是年轻的"
+    ],
+    "usphone": "/aɪ/ /æm/ /jʌŋ/",
+    "ukphone": "/aɪ/ /æm/ /jʌŋ/"
+  },
+  {
+    "name": "I was young",
+    "trans": [
+      "我(过去)是年轻的"
+    ],
+    "usphone": "/aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I was young",
+    "trans": [
+      "当我(过去)是年轻的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "I used to play chess when I was young",
+    "trans": [
+      "我过去常常下象棋当我(过去)是年轻的时候"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /ple/ /tʃɛs/ /wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "cartoons",
+    "trans": [
+      "卡通片"
+    ],
+    "usphone": "/kɑrˈtunz/",
+    "ukphone": "/kɑrˈtunz/"
+  },
+  {
+    "name": "to watch cartoons",
+    "trans": [
+      "看卡通片"
+    ],
+    "usphone": "/tə/ /wɑtʃ/ /kɑrˈtunz/",
+    "ukphone": "/tə/ /wɑtʃ/ /kɑrˈtunz/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "I used to watch cartoons",
+    "trans": [
+      "我过去常常看卡通片"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "every morning",
+    "trans": [
+      "每天早上"
+    ],
+    "usphone": "/'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I used to watch cartoons every morning",
+    "trans": [
+      "我过去每天早上都会看卡通片"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "kid",
+    "trans": [
+      "孩子"
+    ],
+    "usphone": "/kɪd/",
+    "ukphone": "/kɪd/"
+  },
+  {
+    "name": "I am a kid",
+    "trans": [
+      "我是一个孩子"
+    ],
+    "usphone": "/aɪ/ /æm/ /ə/ /kɪd/",
+    "ukphone": "/aɪ/ /æm/ /ə/ /kɪd/"
+  },
+  {
+    "name": "I was a kid",
+    "trans": [
+      "我(过去)是一个孩子"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ə/ /kɪd/",
+    "ukphone": "/aɪ/ /wəz/ /ə/ /kɪd/"
+  },
+  {
+    "name": "when I was a kid",
+    "trans": [
+      "当我(过去)是一个孩子的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+  },
+  {
+    "name": "I used to watch cartoons every morning when I was a kid",
+    "trans": [
+      "我过去每天早上都会看卡通片当我(过去)是一个孩子的时候"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /wɑtʃ/ /kɑrˈtunz/ /'ɛvri/ /'mɔrnɪŋ/ /wɛn/ /aɪ/ /wəz/ /ə/ /kɪd/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "coffee",
+    "trans": [
+      "咖啡"
+    ],
+    "usphone": "/'kɔfi/",
+    "ukphone": "/'kɔfi/"
+  },
+  {
+    "name": "to drink coffee",
+    "trans": [
+      "喝咖啡"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/tə/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "used to drink coffee",
+    "trans": [
+      "过去常常喝咖啡"
+    ],
+    "usphone": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "I used to drink coffee",
+    "trans": [
+      "我过去常常喝咖啡"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "every morning",
+    "trans": [
+      "每天早上"
+    ],
+    "usphone": "/'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I used to drink coffee every morning",
+    "trans": [
+      "我过去每天早上喝咖啡"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "like",
+    "trans": [
+      "喜欢"
+    ],
+    "usphone": "/laɪk/",
+    "ukphone": "/laɪk/"
+  },
+  {
+    "name": "to prefer",
+    "trans": [
+      "更喜欢"
+    ],
+    "usphone": "/tə/ /prɪˈfɝ/",
+    "ukphone": "/tə/ /prɪˈfɝ/"
+  },
+  {
+    "name": "tea",
+    "trans": [
+      "茶"
+    ],
+    "usphone": "/ti/",
+    "ukphone": "/ti/"
+  },
+  {
+    "name": "to prefer tea",
+    "trans": [
+      "更喜欢茶"
+    ],
+    "usphone": "/tə/ /prɪˈfɝ/ /ti/",
+    "ukphone": "/tə/ /prɪˈfɝ/ /ti/"
+  },
+  {
+    "name": "I prefer tea",
+    "trans": [
+      "我更喜欢茶"
+    ],
+    "usphone": "/aɪ/ /prɪˈfɝ/ /ti/",
+    "ukphone": "/aɪ/ /prɪˈfɝ/ /ti/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "now I prefer tea",
+    "trans": [
+      "现在我更喜欢茶"
+    ],
+    "usphone": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+    "ukphone": "/naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but now I prefer tea",
+    "trans": [
+      "但是现在我更喜欢茶"
+    ],
+    "usphone": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+    "ukphone": "/bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+  },
+  {
+    "name": "I used to drink coffee every morning",
+    "trans": [
+      "我过去每天早上喝咖啡"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I used to drink coffee every morning but now I prefer tea",
+    "trans": [
+      "我过去每天早上喝咖啡但是现在我更喜欢茶"
+    ],
+    "usphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/",
+    "ukphone": "/aɪ/ /juzd/ /tə/ /drɪŋk/ /'kɔfi/ /'ɛvri/ /'mɔrnɪŋ/ /bʌt/ /naʊ/ /aɪ/ /prɪˈfɝ/ /ti/"
+  },
+  {
+    "name": "teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/'titʃɚ/",
+    "ukphone": "/'titʃɚ/"
+  },
+  {
+    "name": "she is a teacher",
+    "trans": [
+      "她是一名老师"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/",
+    "ukphone": "/ʃi/ /ɪz/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "she was a teacher",
+    "trans": [
+      "她(过去)是一名老师"
+    ],
+    "usphone": "/ʃi/ /wəz/ /ə/ /'titʃɚ/",
+    "ukphone": "/ʃi/ /wəz/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "used to be",
+    "trans": [
+      "曾经是......"
+    ],
+    "usphone": "/juzd/ /tə/ /bi/",
+    "ukphone": "/juzd/ /tə/ /bi/"
+  },
+  {
+    "name": "she used to be a teacher",
+    "trans": [
+      "她曾经是一名老师"
+    ],
+    "usphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+    "ukphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "to quit",
+    "trans": [
+      "退出"
+    ],
+    "usphone": "/tə/ /kwɪt/",
+    "ukphone": "/tə/ /kwɪt/"
+  },
+  {
+    "name": "job",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/dʒɑb/",
+    "ukphone": "/dʒɑb/"
+  },
+  {
+    "name": "her job",
+    "trans": [
+      "她的工作"
+    ],
+    "usphone": "/hɚ/ /dʒɑb/",
+    "ukphone": "/hɚ/ /dʒɑb/"
+  },
+  {
+    "name": "to quit her job",
+    "trans": [
+      "辞去她的工作"
+    ],
+    "usphone": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/",
+    "ukphone": "/tə/ /kwɪt/ /hɚ/ /dʒɑb/"
+  },
+  {
+    "name": "she quit her job",
+    "trans": [
+      "她辞去她的工作"
+    ],
+    "usphone": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+    "ukphone": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+  },
+  {
+    "name": "she quit her job",
+    "trans": [
+      "她辞去了她的工作"
+    ],
+    "usphone": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+    "ukphone": "/ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+  },
+  {
+    "name": "but she quit her job",
+    "trans": [
+      "但是她辞去了她的工作"
+    ],
+    "usphone": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/",
+    "ukphone": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "last year",
+    "trans": [
+      "去年"
+    ],
+    "usphone": "/læst/ /jɪr/",
+    "ukphone": "/læst/ /jɪr/"
+  },
+  {
+    "name": "but she quit her job last year",
+    "trans": [
+      "但是去年她辞去了她的工作"
+    ],
+    "usphone": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+    "ukphone": "/bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+  },
+  {
+    "name": "she used to be a teacher",
+    "trans": [
+      "她曾经是一名老师"
+    ],
+    "usphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/",
+    "ukphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "she used to be a teacher but she quit her job last year",
+    "trans": [
+      "她曾经是一名老师但是她去年辞去了她的工作"
+    ],
+    "usphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/",
+    "ukphone": "/ʃi/ /juzd/ /tə/ /bi/ /ə/ /'titʃɚ/ /bʌt/ /ʃi/ /kwɪt/ /hɚ/ /dʒɑb/ /læst/ /jɪr/"
+  },
+  {
+    "name": "used to be",
+    "trans": [
+      "曾经是......"
+    ],
+    "usphone": "/juzd/ /tə/ /bi/",
+    "ukphone": "/juzd/ /tə/ /bi/"
+  },
+  {
+    "name": "to smoke",
+    "trans": [
+      "抽烟"
+    ],
+    "usphone": "/tə/ /smok/",
+    "ukphone": "/tə/ /smok/"
+  },
+  {
+    "name": "smoker",
+    "trans": [
+      "烟民"
+    ],
+    "usphone": "/'smokɚ/",
+    "ukphone": "/'smokɚ/"
+  },
+  {
+    "name": "used to be a smoker",
+    "trans": [
+      "曾经是一个烟民"
+    ],
+    "usphone": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+    "ukphone": "/juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+  },
+  {
+    "name": "you used to be a smoker",
+    "trans": [
+      "你曾经是一个烟民"
+    ],
+    "usphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+    "ukphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+  },
+  {
+    "name": "to quit",
+    "trans": [
+      "退出"
+    ],
+    "usphone": "/tə/ /kwɪt/",
+    "ukphone": "/tə/ /kwɪt/"
+  },
+  {
+    "name": "you quit",
+    "trans": [
+      "你退出"
+    ],
+    "usphone": "/ju/ /kwɪt/",
+    "ukphone": "/ju/ /kwɪt/"
+  },
+  {
+    "name": "you quit",
+    "trans": [
+      "你戒了"
+    ],
+    "usphone": "/ju/ /kwɪt/",
+    "ukphone": "/ju/ /kwɪt/"
+  },
+  {
+    "name": "but now",
+    "trans": [
+      "但是现在"
+    ],
+    "usphone": "/bʌt/ /naʊ/",
+    "ukphone": "/bʌt/ /naʊ/"
+  },
+  {
+    "name": "but now you quit",
+    "trans": [
+      "但是现在你戒了"
+    ],
+    "usphone": "/bʌt/ /naʊ/ /ju/ /kwɪt/",
+    "ukphone": "/bʌt/ /naʊ/ /ju/ /kwɪt/"
+  },
+  {
+    "name": "you used to be a smoker",
+    "trans": [
+      "你曾经是一个烟民"
+    ],
+    "usphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/",
+    "ukphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/"
+  },
+  {
+    "name": "you used to be a smoker but now you quit",
+    "trans": [
+      "你曾经是一个烟民但是现在你戒了"
+    ],
+    "usphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/",
+    "ukphone": "/ju/ /juzd/ /tə/ /bi/ /ə/ /'smokɚ/ /bʌt/ /naʊ/ /ju/ /kwɪt/"
+  },
+  {
+    "name": "strange",
+    "trans": [
+      "陌生的"
+    ],
+    "usphone": "/strendʒ/",
+    "ukphone": "/strendʒ/"
+  },
+  {
+    "name": "stranger",
+    "trans": [
+      "陌生人"
+    ],
+    "usphone": "/'strendʒɚ/",
+    "ukphone": "/'strendʒɚ/"
+  },
+  {
+    "name": "we are strangers",
+    "trans": [
+      "我们是陌生人"
+    ],
+    "usphone": "/wi/ /ɚ/ /'strendʒɚz/",
+    "ukphone": "/wi/ /ɚ/ /'strendʒɚz/"
+  },
+  {
+    "name": "used to be",
+    "trans": [
+      "曾经是......"
+    ],
+    "usphone": "/juzd/ /tə/ /bi/",
+    "ukphone": "/juzd/ /tə/ /bi/"
+  },
+  {
+    "name": "we used to be strangers",
+    "trans": [
+      "我们曾经是陌生人"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "we are friends",
+    "trans": [
+      "我们是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "but now",
+    "trans": [
+      "但是现在"
+    ],
+    "usphone": "/bʌt/ /naʊ/",
+    "ukphone": "/bʌt/ /naʊ/"
+  },
+  {
+    "name": "but now we are friends",
+    "trans": [
+      "但是现在我们是朋友"
+    ],
+    "usphone": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "we used to be strangers",
+    "trans": [
+      "我们曾经是陌生人"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/"
+  },
+  {
+    "name": "we used to be strangers but now we are friends",
+    "trans": [
+      "我们曾经是陌生人但是现在我们是朋友"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /'strendʒɚz/ /bʌt/ /naʊ/ /wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "we are friends",
+    "trans": [
+      "我们是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "used to be",
+    "trans": [
+      "曾经是......"
+    ],
+    "usphone": "/juzd/ /tə/ /bi/",
+    "ukphone": "/juzd/ /tə/ /bi/"
+  },
+  {
+    "name": "we used to be friends",
+    "trans": [
+      "我们曾经是朋友"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /frɛndz/"
+  },
+  {
+    "name": "close",
+    "trans": [
+      "亲密的"
+    ],
+    "usphone": "/klos/",
+    "ukphone": "/klos/"
+  },
+  {
+    "name": "we used to be close friends",
+    "trans": [
+      "我们曾经是亲密的朋友"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更多"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "any",
+    "trans": [
+      "任何"
+    ],
+    "usphone": "/'ɛni/",
+    "ukphone": "/'ɛni/"
+  },
+  {
+    "name": "anymore",
+    "trans": [
+      "任何更多"
+    ],
+    "usphone": "/ɛniˈmɔr/",
+    "ukphone": "/ɛniˈmɔr/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "we used to be close friends but not anymore",
+    "trans": [
+      "我们曾经是亲密的朋友但是再也不是了"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/wi/ /juzd/ /tə/ /bi/ /klos/ /frɛndz/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to love",
+    "trans": [
+      "爱"
+    ],
+    "usphone": "/tə/ /lʌv/",
+    "ukphone": "/tə/ /lʌv/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to love him",
+    "trans": [
+      "爱他"
+    ],
+    "usphone": "/tə/ /lʌv/ /hɪm/",
+    "ukphone": "/tə/ /lʌv/ /hɪm/"
+  },
+  {
+    "name": "she loves him",
+    "trans": [
+      "她爱他"
+    ],
+    "usphone": "/ʃi/ /lʌvz/ /hɪm/",
+    "ukphone": "/ʃi/ /lʌvz/ /hɪm/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "she used to love him",
+    "trans": [
+      "她过去爱他"
+    ],
+    "usphone": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/",
+    "ukphone": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "she used to love him but not anymore",
+    "trans": [
+      "她过去爱他但是再也不会了"
+    ],
+    "usphone": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/ʃi/ /juzd/ /tə/ /lʌv/ /hɪm/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "汽车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "to drive a car",
+    "trans": [
+      "开车"
+    ],
+    "usphone": "/tə/ /draɪv/ /ə/ /kɑr/",
+    "ukphone": "/tə/ /draɪv/ /ə/ /kɑr/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "去工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "to drive a car to work",
+    "trans": [
+      "开车去工作"
+    ],
+    "usphone": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+    "ukphone": "/tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+  },
+  {
+    "name": "he drives a car to work",
+    "trans": [
+      "他开车去工作"
+    ],
+    "usphone": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/",
+    "ukphone": "/hi/ /draɪvz/ /ə/ /kɑr/ /tə/ /wɝk/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "he used to drive a car to work",
+    "trans": [
+      "他过去常常开车去工作"
+    ],
+    "usphone": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/",
+    "ukphone": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "he used to drive a car to work but not anymore",
+    "trans": [
+      "他过去常常开车去工作但是再也不会了"
+    ],
+    "usphone": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/hi/ /juzd/ /tə/ /draɪv/ /ə/ /kɑr/ /tə/ /wɝk/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "/ˈkʌmpəni/",
+    "ukphone": "/ˈkʌmpəni/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "that company",
+    "trans": [
+      "那个公司"
+    ],
+    "usphone": "/ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "at that company",
+    "trans": [
+      "在那个公司"
+    ],
+    "usphone": "/ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "to work at that company",
+    "trans": [
+      "在那个公司工作"
+    ],
+    "usphone": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "he works at that company",
+    "trans": [
+      "他在那个公司工作"
+    ],
+    "usphone": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/hi/ /wɝks/ /ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "he used to work at that company",
+    "trans": [
+      "他曾经在那个公司工作"
+    ],
+    "usphone": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "he used to work at that company but not anymore",
+    "trans": [
+      "他曾经在那个公司工作但是再也不会了"
+    ],
+    "usphone": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/hi/ /juzd/ /tə/ /wɝk/ /ət/ /ðæt/ /ˈkʌmpəni/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "餐厅"
+    ],
+    "usphone": "/'rɛstrɑnt/",
+    "ukphone": "/'rɛstrɑnt/"
+  },
+  {
+    "name": "that restaurant",
+    "trans": [
+      "那个餐厅"
+    ],
+    "usphone": "/ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "to go to that restaurant",
+    "trans": [
+      "去那个餐厅"
+    ],
+    "usphone": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we go to that restaurant",
+    "trans": [
+      "我们去那个餐厅"
+    ],
+    "usphone": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "used to do",
+    "trans": [
+      "过去常常做......"
+    ],
+    "usphone": "/juzd/ /tə/ /du/",
+    "ukphone": "/juzd/ /tə/ /du/"
+  },
+  {
+    "name": "we used to go to that restaurant",
+    "trans": [
+      "我们过去常常去那个餐厅"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "we used to go to that restaurant but not anymore",
+    "trans": [
+      "我们过去常常去那个餐厅但是再也不会了"
+    ],
+    "usphone": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/wi/ /juzd/ /tə/ /ɡo/ /tə/ /ðæt/ /'rɛstrɑnt/ /bʌt/ /nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "we are friends",
+    "trans": [
+      "我们是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "we are not friends",
+    "trans": [
+      "我们不是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /nɑt/ /frɛndz/",
+    "ukphone": "/wi/ /ɚ/ /nɑt/ /frɛndz/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "we are not friends anymore",
+    "trans": [
+      "我们再也不是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/",
+    "ukphone": "/wi/ /ɚ/ /nɑt/ /frɛndz/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "有名的"
+    ],
+    "usphone": "/'feməs/",
+    "ukphone": "/'feməs/"
+  },
+  {
+    "name": "she is famous",
+    "trans": [
+      "她是有名的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /'feməs/",
+    "ukphone": "/ʃi/ /ɪz/ /'feməs/"
+  },
+  {
+    "name": "she is not famous",
+    "trans": [
+      "她不是有名的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /nɑt/ /'feməs/",
+    "ukphone": "/ʃi/ /ɪz/ /nɑt/ /'feməs/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "she is not famous anymore",
+    "trans": [
+      "她再也不是有名的"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/",
+    "ukphone": "/ʃi/ /ɪz/ /nɑt/ /'feməs/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "boss",
+    "trans": [
+      "老板"
+    ],
+    "usphone": "/bɔs/",
+    "ukphone": "/bɔs/"
+  },
+  {
+    "name": "my boss",
+    "trans": [
+      "我的老板"
+    ],
+    "usphone": "/maɪ/ /bɔs/",
+    "ukphone": "/maɪ/ /bɔs/"
+  },
+  {
+    "name": "you are my boss",
+    "trans": [
+      "你是我的老板"
+    ],
+    "usphone": "/ju/ /ɚ/ /maɪ/ /bɔs/",
+    "ukphone": "/ju/ /ɚ/ /maɪ/ /bɔs/"
+  },
+  {
+    "name": "you are not my boss",
+    "trans": [
+      "你不是我的老板"
+    ],
+    "usphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/",
+    "ukphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "you are not my boss anymore",
+    "trans": [
+      "你再也不是我的老板"
+    ],
+    "usphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/",
+    "ukphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to quit",
+    "trans": [
+      "退出"
+    ],
+    "usphone": "/tə/ /kwɪt/",
+    "ukphone": "/tə/ /kwɪt/"
+  },
+  {
+    "name": "I quit",
+    "trans": [
+      "我辞职"
+    ],
+    "usphone": "/aɪ/ /kwɪt/",
+    "ukphone": "/aɪ/ /kwɪt/"
+  },
+  {
+    "name": "you are not my boss anymore I quit",
+    "trans": [
+      "你再也不是我的老板。我辞职。"
+    ],
+    "usphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/",
+    "ukphone": "/ju/ /ɚ/ /nɑt/ /maɪ/ /bɔs/ /ɛniˈmɔr/ /aɪ/ /kwɪt/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is not important",
+    "trans": [
+      "它不是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "it is not important anymore",
+    "trans": [
+      "它再也不是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "coffee",
+    "trans": [
+      "咖啡"
+    ],
+    "usphone": "/'kɔfi/",
+    "ukphone": "/'kɔfi/"
+  },
+  {
+    "name": "to drink coffee",
+    "trans": [
+      "喝咖啡"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/tə/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "I drink coffee",
+    "trans": [
+      "我喝咖啡"
+    ],
+    "usphone": "/aɪ/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/aɪ/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "I don't drink coffee",
+    "trans": [
+      "我不喝咖啡"
+    ],
+    "usphone": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/",
+    "ukphone": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "I don't drink coffee anymore",
+    "trans": [
+      "我再也不喝咖啡了"
+    ],
+    "usphone": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/",
+    "ukphone": "/aɪ/ /dont/ /drɪŋk/ /'kɔfi/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "games",
+    "trans": [
+      "游戏"
+    ],
+    "usphone": "/ɡemz/",
+    "ukphone": "/ɡemz/"
+  },
+  {
+    "name": "to play games",
+    "trans": [
+      "玩游戏"
+    ],
+    "usphone": "/tə/ /ple/ /ɡemz/",
+    "ukphone": "/tə/ /ple/ /ɡemz/"
+  },
+  {
+    "name": "video",
+    "trans": [
+      "视频"
+    ],
+    "usphone": "/'vɪdɪo/",
+    "ukphone": "/'vɪdɪo/"
+  },
+  {
+    "name": "video games",
+    "trans": [
+      "电子游戏"
+    ],
+    "usphone": "/'vɪdɪo/ /ɡemz/",
+    "ukphone": "/'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "to play video games",
+    "trans": [
+      "玩电子游戏"
+    ],
+    "usphone": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "he plays video games",
+    "trans": [
+      "他玩电子游戏"
+    ],
+    "usphone": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/hi/ /plez/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "he doesn't play video games",
+    "trans": [
+      "他不玩电子游戏"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "not anymore",
+    "trans": [
+      "再也不"
+    ],
+    "usphone": "/nɑt/ /ɛniˈmɔr/",
+    "ukphone": "/nɑt/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "he doesn't play video games anymore",
+    "trans": [
+      "他再也不玩电子游戏"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+    "ukphone": "/hi/ /ˈdʌznt/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+  },
+  {
+    "name": "we play video games",
+    "trans": [
+      "我们玩电子游戏"
+    ],
+    "usphone": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/wi/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "we don't play video games",
+    "trans": [
+      "我们不玩电子游戏"
+    ],
+    "usphone": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "we don't play video games anymore",
+    "trans": [
+      "我们再也不玩电子游戏"
+    ],
+    "usphone": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/",
+    "ukphone": "/wi/ /dont/ /ple/ /'vɪdɪo/ /ɡemz/ /ɛniˈmɔr/"
+  }
+]

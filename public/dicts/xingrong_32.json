@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺"
+    ],
+    "usphone": "/'prɑmɪs/",
+    "ukphone": "/'prɑmɪs/"
+  },
+  {
+    "name": "to make a promise",
+    "trans": [
+      "做一个承诺"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you need to make a promise",
+    "trans": [
+      "你需要做一个承诺"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/ju/ /nid/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "to make a promise",
+    "trans": [
+      "做一个承诺"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to make a promise",
+    "trans": [
+      "我想要你做一个承诺"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "I don't want you to make a promise",
+    "trans": [
+      "我不想要你做一个承诺"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺"
+    ],
+    "usphone": "/'prɑmɪs/",
+    "ukphone": "/'prɑmɪs/"
+  },
+  {
+    "name": "the promise",
+    "trans": [
+      "这个承诺"
+    ],
+    "usphone": "/ðə/ /'prɑmɪs/",
+    "ukphone": "/ðə/ /'prɑmɪs/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "to keep the promise",
+    "trans": [
+      "遵守这个承诺"
+    ],
+    "usphone": "/tə/ /kip/ /ðə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you need to keep the promise",
+    "trans": [
+      "你需要遵守这个承诺"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/",
+    "ukphone": "/ju/ /nid/ /tə/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "能够"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can keep the promise",
+    "trans": [
+      "你能够遵守这个承诺"
+    ],
+    "usphone": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/",
+    "ukphone": "/ju/ /kæn/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不能"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "you can't keep the promise",
+    "trans": [
+      "你不能遵守这个承诺"
+    ],
+    "usphone": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/",
+    "ukphone": "/ju/ /kænt/ /kip/ /ðə/ /'prɑmɪs/"
+  },
+  {
+    "name": "the promise you can't keep",
+    "trans": [
+      "你不能遵守的这个承诺"
+    ],
+    "usphone": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/",
+    "ukphone": "/ðə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+  },
+  {
+    "name": "you can't keep",
+    "trans": [
+      "你不能遵守"
+    ],
+    "usphone": "/ju/ /kænt/ /kip/",
+    "ukphone": "/ju/ /kænt/ /kip/"
+  },
+  {
+    "name": "I don't want you to make a promise",
+    "trans": [
+      "我不想要你做一个承诺"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "I don't want you to make a promise you can't keep",
+    "trans": [
+      "我不想要你做一个你不能遵守的承诺"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /ju/ /tə/ /mek/ /ə/ /'prɑmɪs/ /ju/ /kænt/ /kip/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "安静"
+    ],
+    "usphone": "/'kwaɪət/",
+    "ukphone": "/'kwaɪət/"
+  },
+  {
+    "name": "to keep quiet",
+    "trans": [
+      "保持安静"
+    ],
+    "usphone": "/tə/ /kip/ /'kwaɪət/",
+    "ukphone": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "name": "you have to keep quiet",
+    "trans": [
+      "你必须保持安静"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/",
+    "ukphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "鱼"
+    ],
+    "usphone": "/fɪʃ/",
+    "ukphone": "/fɪʃ/"
+  },
+  {
+    "name": "to fish",
+    "trans": [
+      "钓鱼"
+    ],
+    "usphone": "/tə/ /fɪʃ/",
+    "ukphone": "/tə/ /fɪʃ/"
+  },
+  {
+    "name": "fishing",
+    "trans": [
+      "钓鱼(ing形式）"
+    ],
+    "usphone": "/'fɪʃɪŋ/",
+    "ukphone": "/'fɪʃɪŋ/"
+  },
+  {
+    "name": "be fishing",
+    "trans": [
+      "正在钓鱼"
+    ],
+    "usphone": "/bi/ /'fɪʃɪŋ/",
+    "ukphone": "/bi/ /'fɪʃɪŋ/"
+  },
+  {
+    "name": "you are fishing",
+    "trans": [
+      "你（现在）正在钓鱼"
+    ],
+    "usphone": "/ju/ /ɚ/ /'fɪʃɪŋ/",
+    "ukphone": "/ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you are fishing",
+    "trans": [
+      "当你（现在）正在钓鱼的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/",
+    "ukphone": "/wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "name": "you have to keep quiet",
+    "trans": [
+      "你必须保持安静"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/",
+    "ukphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "name": "you have to keep quiet when you are fishing",
+    "trans": [
+      "你必须保持安静当你（现在）正在钓鱼的时候"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /kip/ /'kwaɪət/ /wɛn/ /ju/ /ɚ/ /'fɪʃɪŋ/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "secret",
+    "trans": [
+      "秘密"
+    ],
+    "usphone": "/'sikrət/",
+    "ukphone": "/'sikrət/"
+  },
+  {
+    "name": "to keep a secret",
+    "trans": [
+      "保守一个秘密"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /'sikrət/",
+    "ukphone": "/tə/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "name": "our",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "/'aʊɚ/",
+    "ukphone": "/'aʊɚ/"
+  },
+  {
+    "name": "our secret",
+    "trans": [
+      "我们的秘密"
+    ],
+    "usphone": "/'aʊɚ/ /'sikrət/",
+    "ukphone": "/'aʊɚ/ /'sikrət/"
+  },
+  {
+    "name": "to keep our secret",
+    "trans": [
+      "保守我们的秘密"
+    ],
+    "usphone": "/tə/ /kip/ /'aʊɚ/ /'sikrət/",
+    "ukphone": "/tə/ /kip/ /'aʊɚ/ /'sikrət/"
+  },
+  {
+    "name": "you have to keep our secret",
+    "trans": [
+      "你必须保守我们的秘密"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/",
+    "ukphone": "/ju/ /hæv/ /tə/ /kip/ /'aʊɚ/ /'sikrət/"
+  },
+  {
+    "name": "to keep a secret",
+    "trans": [
+      "保守一个秘密"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /'sikrət/",
+    "ukphone": "/tə/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "she can't",
+    "trans": [
+      "她不可以"
+    ],
+    "usphone": "/ʃi/ /kænt/",
+    "ukphone": "/ʃi/ /kænt/"
+  },
+  {
+    "name": "she can't keep a secret",
+    "trans": [
+      "她不可以保守一个秘密"
+    ],
+    "usphone": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/",
+    "ukphone": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/"
+  },
+  {
+    "name": "minute",
+    "trans": [
+      "分钟"
+    ],
+    "usphone": "/'mɪnɪt/",
+    "ukphone": "/'mɪnɪt/"
+  },
+  {
+    "name": "five",
+    "trans": [
+      "五"
+    ],
+    "usphone": "/faɪv/",
+    "ukphone": "/faɪv/"
+  },
+  {
+    "name": "five minutes",
+    "trans": [
+      "五分钟"
+    ],
+    "usphone": "/faɪv/ /'mɪnɪts/",
+    "ukphone": "/faɪv/ /'mɪnɪts/"
+  },
+  {
+    "name": "she can't keep a secret for five minutes",
+    "trans": [
+      "她不可以保守一个秘密五分钟"
+    ],
+    "usphone": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/",
+    "ukphone": "/ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+  },
+  {
+    "name": "to say",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /seɪ/",
+    "ukphone": "/tə/ /seɪ/"
+  },
+  {
+    "name": "she said",
+    "trans": [
+      "她（过去）说"
+    ],
+    "usphone": "/ʃi/ /sɛd/",
+    "ukphone": "/ʃi/ /sɛd/"
+  },
+  {
+    "name": "she said she can't keep a secret for five minutes",
+    "trans": [
+      "她（过去）说她不可以保守一个秘密五分钟"
+    ],
+    "usphone": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/",
+    "ukphone": "/ʃi/ /sɛd/ /ʃi/ /kænt/ /kip/ /ə/ /'sikrət/ /fɝ/ /faɪv/ /'mɪnɪts/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "balance",
+    "trans": [
+      "平衡"
+    ],
+    "usphone": "/'bæləns/",
+    "ukphone": "/'bæləns/"
+  },
+  {
+    "name": "to keep balance",
+    "trans": [
+      "保持平衡"
+    ],
+    "usphone": "/tə/ /kip/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /'bæləns/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "to keep a good balance",
+    "trans": [
+      "保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "work and life",
+    "trans": [
+      "工作和生活"
+    ],
+    "usphone": "/wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between work and life",
+    "trans": [
+      "在工作和生活之间"
+    ],
+    "usphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "to keep a good balance",
+    "trans": [
+      "保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "to keep a good balance between work and life",
+    "trans": [
+      "在工作和生活之间保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you have to keep a good balance between work and life",
+    "trans": [
+      "你必须在工作和生活之间保持一个好的平衡"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/ju/ /hæv/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "difficult",
+    "trans": [
+      "困难的"
+    ],
+    "usphone": "/'dɪfɪkəlt/",
+    "ukphone": "/'dɪfɪkəlt/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；这件事情"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "it is difficult",
+    "trans": [
+      "它是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "a good balance",
+    "trans": [
+      "一个好的平衡"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "to keep a good balance",
+    "trans": [
+      "保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "work and life",
+    "trans": [
+      "工作和生活"
+    ],
+    "usphone": "/wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between work and life",
+    "trans": [
+      "在工作和生活之间"
+    ],
+    "usphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "to keep a good balance between work and life",
+    "trans": [
+      "在工作和生活之间保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "it is difficult",
+    "trans": [
+      "它是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "it is difficult to keep a good balance between work and life",
+    "trans": [
+      "在工作和生活之间保持一个好的平衡（它）是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very difficult to keep a good balance between work and life",
+    "trans": [
+      "在工作和生活之间保持一个好的平衡（它）是非常困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /'dɪfɪkəlt/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "安静"
+    ],
+    "usphone": "/'kwaɪət/",
+    "ukphone": "/'kwaɪət/"
+  },
+  {
+    "name": "to keep quiet",
+    "trans": [
+      "保持安静"
+    ],
+    "usphone": "/tə/ /kip/ /'kwaɪət/",
+    "ukphone": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "那件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "about it",
+    "trans": [
+      "关于那件事"
+    ],
+    "usphone": "/ə'baʊt/ /ɪt/",
+    "ukphone": "/ə'baʊt/ /ɪt/"
+  },
+  {
+    "name": "to keep quiet about it",
+    "trans": [
+      "对于那件事保持沉默"
+    ],
+    "usphone": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/",
+    "ukphone": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "I told you",
+    "trans": [
+      "我（过去）告诉你"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/",
+    "ukphone": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "name": "I told you to keep quiet about it",
+    "trans": [
+      "我（过去）告诉你对于那件事保持沉默"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/",
+    "ukphone": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /ɪt/"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "计划"
+    ],
+    "usphone": "/plæn/",
+    "ukphone": "/plæn/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my plan",
+    "trans": [
+      "我的计划"
+    ],
+    "usphone": "/maɪ/ /plæn/",
+    "ukphone": "/maɪ/ /plæn/"
+  },
+  {
+    "name": "about my plan",
+    "trans": [
+      "关于我的计划"
+    ],
+    "usphone": "/ə'baʊt/ /maɪ/ /plæn/",
+    "ukphone": "/ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "name": "to keep quiet",
+    "trans": [
+      "保持沉默"
+    ],
+    "usphone": "/tə/ /kip/ /'kwaɪət/",
+    "ukphone": "/tə/ /kip/ /'kwaɪət/"
+  },
+  {
+    "name": "to keep quiet about my plan",
+    "trans": [
+      "对于我的计划保持沉默"
+    ],
+    "usphone": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+    "ukphone": "/tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "name": "I told you",
+    "trans": [
+      "我（过去）告诉你"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/",
+    "ukphone": "/aɪ/ /told/ /ju/"
+  },
+  {
+    "name": "I told you to keep quiet about my plan",
+    "trans": [
+      "我（过去）告诉你对于我的计划保持沉默"
+    ],
+    "usphone": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+    "ukphone": "/aɪ/ /told/ /ju/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "name": "to make a promise",
+    "trans": [
+      "做一个承诺"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "to promise",
+    "trans": [
+      "承诺"
+    ],
+    "usphone": "/tə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /'prɑmɪs/"
+  },
+  {
+    "name": "you promised",
+    "trans": [
+      "你（过去）承诺"
+    ],
+    "usphone": "/ju/ /'prɑmɪst/",
+    "ukphone": "/ju/ /'prɑmɪst/"
+  },
+  {
+    "name": "you promised to keep quiet about my plan",
+    "trans": [
+      "你（过去）承诺对于我的计划保持沉默"
+    ],
+    "usphone": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/",
+    "ukphone": "/ju/ /'prɑmɪst/ /tə/ /kip/ /'kwaɪət/ /ə'baʊt/ /maɪ/ /plæn/"
+  },
+  {
+    "name": "to promise",
+    "trans": [
+      "承诺"
+    ],
+    "usphone": "/tə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /'prɑmɪs/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to promise me",
+    "trans": [
+      "承诺我"
+    ],
+    "usphone": "/tə/ /'prɑmɪs/ /mi/",
+    "ukphone": "/tə/ /'prɑmɪs/ /mi/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to promise me",
+    "trans": [
+      "我想要你承诺我"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/"
+  },
+  {
+    "name": "you will",
+    "trans": [
+      "你将会"
+    ],
+    "usphone": "/ju/ /wɪl/",
+    "ukphone": "/ju/ /wɪl/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "you will tell",
+    "trans": [
+      "你将会告诉"
+    ],
+    "usphone": "/ju/ /wɪl/ /tɛl/",
+    "ukphone": "/ju/ /wɪl/ /tɛl/"
+  },
+  {
+    "name": "you will not tell",
+    "trans": [
+      "你将不会告诉"
+    ],
+    "usphone": "/ju/ /wɪl/ /nɑt/ /tɛl/",
+    "ukphone": "/ju/ /wɪl/ /nɑt/ /tɛl/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "you will not tell him",
+    "trans": [
+      "你将不会告诉他"
+    ],
+    "usphone": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/",
+    "ukphone": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "真相"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "you will not tell him the truth",
+    "trans": [
+      "你将不会告诉他真相"
+    ],
+    "usphone": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "I want you to promise me you will not tell him the truth",
+    "trans": [
+      "我想要你承诺我你将不会告诉他真相"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /nɑt/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "绝不"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I want you to promise me you will never tell him the truth",
+    "trans": [
+      "我想要你承诺我你将绝不会告诉他真相"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'prɑmɪs/ /mi/ /ju/ /wɪl/ /'nɛvɚ/ /tɛl/ /hɪm/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "promise",
+    "trans": [
+      "承诺"
+    ],
+    "usphone": "/'prɑmɪs/",
+    "ukphone": "/'prɑmɪs/"
+  },
+  {
+    "name": "to make a promise",
+    "trans": [
+      "做一个承诺"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/tə/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I make a promise",
+    "trans": [
+      "我做一个承诺"
+    ],
+    "usphone": "/aɪ/ /mek/ /ə/ /'prɑmɪs/",
+    "ukphone": "/aɪ/ /mek/ /ə/ /'prɑmɪs/"
+  },
+  {
+    "name": "myself",
+    "trans": [
+      "我自己"
+    ],
+    "usphone": "/maɪ'sɛlf/",
+    "ukphone": "/maɪ'sɛlf/"
+  },
+  {
+    "name": "I make a promise to myself",
+    "trans": [
+      "我对我自己做一个承诺"
+    ],
+    "usphone": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /mek/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I made a promise to myself",
+    "trans": [
+      "我对我自己做了一个承诺"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "young",
+    "trans": [
+      "年轻"
+    ],
+    "usphone": "/jʌŋ/",
+    "ukphone": "/jʌŋ/"
+  },
+  {
+    "name": "I am young",
+    "trans": [
+      "我是年轻的"
+    ],
+    "usphone": "/aɪ/ /æm/ /jʌŋ/",
+    "ukphone": "/aɪ/ /æm/ /jʌŋ/"
+  },
+  {
+    "name": "I was young",
+    "trans": [
+      "我（过去）是年轻的"
+    ],
+    "usphone": "/aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......什么时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I was young",
+    "trans": [
+      "当我（过去）是年轻的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /jʌŋ/"
+  },
+  {
+    "name": "younger",
+    "trans": [
+      "更年轻的"
+    ],
+    "usphone": "/ˈjʌŋɡər/",
+    "ukphone": "/ˈjʌŋɡər/"
+  },
+  {
+    "name": "when I was younger",
+    "trans": [
+      "当我是更年轻的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "name": "I made a promise to myself",
+    "trans": [
+      "我对我自己做了一个承诺"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I made a promise to myself when I was younger",
+    "trans": [
+      "当我年轻一点的时候我对自己做了一个承诺"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to learn English",
+    "trans": [
+      "学英语"
+    ],
+    "usphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "天"
+    ],
+    "usphone": "/de/",
+    "ukphone": "/de/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "to learn English every day",
+    "trans": [
+      "每天学英语"
+    ],
+    "usphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/tə/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I will",
+    "trans": [
+      "我将会"
+    ],
+    "usphone": "/aɪ/ /wɪl/",
+    "ukphone": "/aɪ/ /wɪl/"
+  },
+  {
+    "name": "I will learn English every day",
+    "trans": [
+      "我将会每天学英语"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "that I will learn English every day",
+    "trans": [
+      "那个我将会每天学英语"
+    ],
+    "usphone": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I made a promise to myself when I was younger",
+    "trans": [
+      "当我年轻一点的时候我对自己做了一个承诺"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/"
+  },
+  {
+    "name": "I made a promise to myself when I was younger that I will learn English every day",
+    "trans": [
+      "当我年轻一点的时候我对自己做了一个承诺（那个）我将会每天学英语"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /ðæt/ /aɪ/ /wɪl/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I would learn English every day",
+    "trans": [
+      "我（过去）将会每天学英语"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "I made a promise to myself when I was younger that I would learn English every day",
+    "trans": [
+      "当我年轻一点的时候我对自己做了一个承诺（那个）我过去将会每天学英语"
+    ],
+    "usphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/",
+    "ukphone": "/aɪ/ /med/ /ə/ /'prɑmɪs/ /tə/ /maɪ'sɛlf/ /wɛn/ /aɪ/ /wəz/ /ˈjʌŋɡər/ /aɪ/ /wʊd/ /lɝn/ /ˈɪŋɡlɪʃ/ /'ɛvri/ /de/"
+  }
+]

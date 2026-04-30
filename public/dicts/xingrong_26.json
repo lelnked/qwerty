@@ -1,0 +1,1226 @@
+[
+  {
+    "name": "to hear",
+    "trans": [
+      "听见；听说"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to hear me",
+    "trans": [
+      "听见我"
+    ],
+    "usphone": "/tə/ /hɪr/ /mi/",
+    "ukphone": "/tə/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you hear me",
+    "trans": [
+      "你听见我"
+    ],
+    "usphone": "/ju/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can hear me",
+    "trans": [
+      "你可以听见我"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can you hear me",
+    "trans": [
+      "你可以听见我吗？"
+    ],
+    "usphone": "/kæn/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you can hear me",
+    "trans": [
+      "你可以听见我"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "you can't hear me",
+    "trans": [
+      "你不可以听见我"
+    ],
+    "usphone": "/ju/ /kænt/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kænt/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can't you hear me",
+    "trans": [
+      "你不可以听见我吗？"
+    ],
+    "usphone": "/kænt/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/kænt/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you can't hear me",
+    "trans": [
+      "你不可以听见我"
+    ],
+    "usphone": "/ju/ /kænt/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kænt/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you hear me",
+    "trans": [
+      "你听见我"
+    ],
+    "usphone": "/ju/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不；没有"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't hear me",
+    "trans": [
+      "你没有听见我"
+    ],
+    "usphone": "/ju/ /dont/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "name": "don't you hear me",
+    "trans": [
+      "你没有听见我吗？"
+    ],
+    "usphone": "/dont/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/dont/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you don't hear me",
+    "trans": [
+      "你没有听见我"
+    ],
+    "usphone": "/ju/ /dont/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you do hear me",
+    "trans": [
+      "你有听见我"
+    ],
+    "usphone": "/ju/ /du/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /du/ /hɪr/ /mi/"
+  },
+  {
+    "name": "do you hear me",
+    "trans": [
+      "你有听见我吗？"
+    ],
+    "usphone": "/du/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/du/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can hear me",
+    "trans": [
+      "你可以听见我"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can you hear me",
+    "trans": [
+      "你可以听见我吗？"
+    ],
+    "usphone": "/kæn/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you don't hear me",
+    "trans": [
+      "你没有听见我"
+    ],
+    "usphone": "/ju/ /dont/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /dont/ /hɪr/ /mi/"
+  },
+  {
+    "name": "do you hear me",
+    "trans": [
+      "你有听见我吗？"
+    ],
+    "usphone": "/du/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/du/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "did you hear me",
+    "trans": [
+      "你(过去)有听见我吗？"
+    ],
+    "usphone": "/dɪd/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/dɪd/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you did hear me",
+    "trans": [
+      "你(过去)有听见我"
+    ],
+    "usphone": "/ju/ /dɪd/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /dɪd/ /hɪr/ /mi/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "这件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you do it",
+    "trans": [
+      "你做这件事"
+    ],
+    "usphone": "/ju/ /du/ /ɪt/",
+    "ukphone": "/ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "没有"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't do it",
+    "trans": [
+      "你没有做这件事"
+    ],
+    "usphone": "/ju/ /dont/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "name": "you do do it",
+    "trans": [
+      "你有做这件事"
+    ],
+    "usphone": "/ju/ /du/ /du/ /ɪt/",
+    "ukphone": "/ju/ /du/ /du/ /ɪt/"
+  },
+  {
+    "name": "you don't do it",
+    "trans": [
+      "你没有做这件事"
+    ],
+    "usphone": "/ju/ /dont/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "name": "you didn't do it",
+    "trans": [
+      "你(过去)没有做这件事"
+    ],
+    "usphone": "/ju/ /ˈdɪdnt/ /du/ /ɪt/",
+    "ukphone": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+  },
+  {
+    "name": "you did do it",
+    "trans": [
+      "你(过去)有做这件事"
+    ],
+    "usphone": "/ju/ /dɪd/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dɪd/ /du/ /ɪt/"
+  },
+  {
+    "name": "did you do it",
+    "trans": [
+      "你(过去)有做这件事吗？"
+    ],
+    "usphone": "/dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "什么时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "where",
+    "trans": [
+      "在哪里"
+    ],
+    "usphone": "/wɛr/",
+    "ukphone": "/wɛr/"
+  },
+  {
+    "name": "what",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "/wɑt/",
+    "ukphone": "/wɑt/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how did you do it",
+    "trans": [
+      "你(过去)如何做这件事？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "why did you do it",
+    "trans": [
+      "你(过去)为什么做这件事？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "什么时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when did you do it",
+    "trans": [
+      "你(过去)什么时候做这件事？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "where",
+    "trans": [
+      "在哪里"
+    ],
+    "usphone": "/wɛr/",
+    "ukphone": "/wɛr/"
+  },
+  {
+    "name": "where did you do it",
+    "trans": [
+      "你(过去)在哪里做这件事？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "what",
+    "trans": [
+      "什么"
+    ],
+    "usphone": "/wɑt/",
+    "ukphone": "/wɑt/"
+  },
+  {
+    "name": "did you do it",
+    "trans": [
+      "你(过去)有做这件事吗？"
+    ],
+    "usphone": "/dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "what did you do",
+    "trans": [
+      "你(过去)做了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /du/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /du/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to find me",
+    "trans": [
+      "找到我"
+    ],
+    "usphone": "/tə/ /faɪnd/ /mi/",
+    "ukphone": "/tə/ /faɪnd/ /mi/"
+  },
+  {
+    "name": "how did you",
+    "trans": [
+      "你(过去)是如何"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "how did you find me",
+    "trans": [
+      "你(过去)是如何找到我的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /faɪnd/ /mi/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "name",
+    "trans": [
+      "名字"
+    ],
+    "usphone": "/nem/",
+    "ukphone": "/nem/"
+  },
+  {
+    "name": "her name",
+    "trans": [
+      "她的名字"
+    ],
+    "usphone": "/hɚ/ /nem/",
+    "ukphone": "/hɚ/ /nem/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know her name",
+    "trans": [
+      "知道她的名字"
+    ],
+    "usphone": "/tə/ /no/ /hɚ/ /nem/",
+    "ukphone": "/tə/ /no/ /hɚ/ /nem/"
+  },
+  {
+    "name": "how did you",
+    "trans": [
+      "你(过去)是如何"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "how did you know her name",
+    "trans": [
+      "你(过去)是如何知道她的名字的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /no/ /hɚ/ /nem/"
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "电话"
+    ],
+    "usphone": "/fon/",
+    "ukphone": "/fon/"
+  },
+  {
+    "name": "number",
+    "trans": [
+      "号码"
+    ],
+    "usphone": "/'nʌmbɚ/",
+    "ukphone": "/'nʌmbɚ/"
+  },
+  {
+    "name": "phone number",
+    "trans": [
+      "电话号码"
+    ],
+    "usphone": "/fon/ /'nʌmbɚ/",
+    "ukphone": "/fon/ /'nʌmbɚ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my phone number",
+    "trans": [
+      "我的电话号码"
+    ],
+    "usphone": "/maɪ/ /fon/ /'nʌmbɚ/",
+    "ukphone": "/maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know my phone number",
+    "trans": [
+      "知道我的电话号码"
+    ],
+    "usphone": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+    "ukphone": "/tə/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "name": "how did you",
+    "trans": [
+      "你(过去)是如何"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "how did you know my phone number",
+    "trans": [
+      "你(过去)是如何知道我的电话号码的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /no/ /maɪ/ /fon/ /'nʌmbɚ/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "这件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide to do it",
+    "trans": [
+      "决定做这件事"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "why did you",
+    "trans": [
+      "你(过去)为什么"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "why did you decide to do it",
+    "trans": [
+      "你(过去)为什么决定做这件事？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/ /dɪ'saɪd/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to leave me",
+    "trans": [
+      "离开我"
+    ],
+    "usphone": "/tə/ /liv/ /mi/",
+    "ukphone": "/tə/ /liv/ /mi/"
+  },
+  {
+    "name": "why did you",
+    "trans": [
+      "你(过去)为什么"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "why did you leave me",
+    "trans": [
+      "你(过去)为什么离开我？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/ /liv/ /mi/"
+  },
+  {
+    "name": "to say",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /seɪ/",
+    "ukphone": "/tə/ /seɪ/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；那句话"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "to say it",
+    "trans": [
+      "说那句话"
+    ],
+    "usphone": "/tə/ /seɪ/ /ɪt/",
+    "ukphone": "/tə/ /seɪ/ /ɪt/"
+  },
+  {
+    "name": "why did you",
+    "trans": [
+      "你(过去)为什么"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "why did you say it",
+    "trans": [
+      "你(过去)为什么说那句话？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/ /seɪ/ /ɪt/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "to get here",
+    "trans": [
+      "到达这里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /hɪr/",
+    "ukphone": "/tə/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "name": "when did you",
+    "trans": [
+      "你(过去)什么时候"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "name": "when did you get here",
+    "trans": [
+      "你(过去)什么时候到达这里的？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "见到"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to meet him",
+    "trans": [
+      "见到他"
+    ],
+    "usphone": "/tə/ /mit/ /hɪm/",
+    "ukphone": "/tə/ /mit/ /hɪm/"
+  },
+  {
+    "name": "when did you",
+    "trans": [
+      "你(过去)什么时候"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "name": "when did you meet him",
+    "trans": [
+      "你(过去)什么时候见到他的？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/ /mit/ /hɪm/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your homework",
+    "trans": [
+      "你的家庭作业"
+    ],
+    "usphone": "/jʊr/ /'homwɝk/",
+    "ukphone": "/jʊr/ /'homwɝk/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "to finish your homework",
+    "trans": [
+      "完成你的家庭做作业"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+    "ukphone": "/tə/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+  },
+  {
+    "name": "when did you",
+    "trans": [
+      "你(过去)什么时候"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "name": "when did you finish your homework",
+    "trans": [
+      "你(过去)什么时候完成你的家庭作业的？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/ /'fɪnɪʃ/ /jʊr/ /'homwɝk/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "他们/她们/它们"
+    ],
+    "usphone": "/ðəm/",
+    "ukphone": "/ðəm/"
+  },
+  {
+    "name": "to find them",
+    "trans": [
+      "找到他们"
+    ],
+    "usphone": "/tə/ /faɪnd/ /ðəm/",
+    "ukphone": "/tə/ /faɪnd/ /ðəm/"
+  },
+  {
+    "name": "where did you",
+    "trans": [
+      "你(过去)在哪里"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "name": "where did you find them",
+    "trans": [
+      "你(过去)在哪里找到他们的？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /faɪnd/ /ðəm/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "购买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "to buy this",
+    "trans": [
+      "购买这个"
+    ],
+    "usphone": "/tə/ /baɪ/ /ðɪs/",
+    "ukphone": "/tə/ /baɪ/ /ðɪs/"
+  },
+  {
+    "name": "where did you",
+    "trans": [
+      "你(过去)在哪里"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "name": "where did you buy this",
+    "trans": [
+      "你(过去)在哪里购买这个的？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /baɪ/ /ðɪs/"
+  },
+  {
+    "name": "to sleep",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "/tə/ /slip/",
+    "ukphone": "/tə/ /slip/"
+  },
+  {
+    "name": "where did you",
+    "trans": [
+      "你(过去)在哪里"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "name": "where did you sleep",
+    "trans": [
+      "你(过去)在哪里睡觉的？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /slip/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /slip/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨晚"
+    ],
+    "usphone": "/læst/ /naɪt/",
+    "ukphone": "/læst/ /naɪt/"
+  },
+  {
+    "name": "where did you sleep last night",
+    "trans": [
+      "你(过去)昨晚在哪里睡觉的？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /slip/ /læst/ /naɪt/"
+  },
+  {
+    "name": "to say",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /seɪ/",
+    "ukphone": "/tə/ /seɪ/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you say",
+    "trans": [
+      "你(过去)说了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /seɪ/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /seɪ/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you learn",
+    "trans": [
+      "你(过去)学到了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /lɝn/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /lɝn/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you find",
+    "trans": [
+      "你(过去)找到了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /faɪnd/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /faɪnd/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听到"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you hear",
+    "trans": [
+      "你(过去)听到了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /hɪr/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /hɪr/"
+  },
+  {
+    "name": "to see",
+    "trans": [
+      "看到"
+    ],
+    "usphone": "/tə/ /si/",
+    "ukphone": "/tə/ /si/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you see",
+    "trans": [
+      "你(过去)看到了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /si/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /si/"
+  },
+  {
+    "name": "how did you do it",
+    "trans": [
+      "你(过去)如何做这件事？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "why did you do it",
+    "trans": [
+      "你(过去)为什么做这件事？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "when did you do it",
+    "trans": [
+      "你(过去)什么时候做这件事？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "where did you do it",
+    "trans": [
+      "你(过去)在哪里做这件事？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "what did you do",
+    "trans": [
+      "你(过去)做了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/ /du/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/ /du/"
+  },
+  {
+    "name": "how did you",
+    "trans": [
+      "你(过去)如何......？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "why did you",
+    "trans": [
+      "你(过去)为什么......？"
+    ],
+    "usphone": "/waɪ/ /dɪd/ /ju/",
+    "ukphone": "/waɪ/ /dɪd/ /ju/"
+  },
+  {
+    "name": "when did you",
+    "trans": [
+      "你(过去)什么时候......？"
+    ],
+    "usphone": "/wɛn/ /dɪd/ /ju/",
+    "ukphone": "/wɛn/ /dɪd/ /ju/"
+  },
+  {
+    "name": "where did you",
+    "trans": [
+      "你(过去)在哪里......？"
+    ],
+    "usphone": "/wɛr/ /dɪd/ /ju/",
+    "ukphone": "/wɛr/ /dɪd/ /ju/"
+  },
+  {
+    "name": "what did you",
+    "trans": [
+      "你(过去)......了什么？"
+    ],
+    "usphone": "/wɑt/ /dɪd/ /ju/",
+    "ukphone": "/wɑt/ /dɪd/ /ju/"
+  }
+]

@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "hands",
+    "trans": [
+      "手（复数）"
+    ],
+    "usphone": "/hændz/",
+    "ukphone": "/hændz/"
+  },
+  {
+    "name": "to hand",
+    "trans": [
+      "递给"
+    ],
+    "usphone": "/tə/ /hænd/",
+    "ukphone": "/tə/ /hænd/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to hand him",
+    "trans": [
+      "递给他"
+    ],
+    "usphone": "/tə/ /hænd/ /hɪm/",
+    "ukphone": "/tə/ /hænd/ /hɪm/"
+  },
+  {
+    "name": "banana",
+    "trans": [
+      "香蕉"
+    ],
+    "usphone": "/bə'nænə/",
+    "ukphone": "/bə'nænə/"
+  },
+  {
+    "name": "a banana",
+    "trans": [
+      "一个香蕉"
+    ],
+    "usphone": "/ə/ /bə'nænə/",
+    "ukphone": "/ə/ /bə'nænə/"
+  },
+  {
+    "name": "to hand him a banana",
+    "trans": [
+      "递给他一个香蕉"
+    ],
+    "usphone": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+    "ukphone": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "he wants",
+    "trans": [
+      "他想要"
+    ],
+    "usphone": "/hi/ /wɑnts/",
+    "ukphone": "/hi/ /wɑnts/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "he wants me",
+    "trans": [
+      "他想要我"
+    ],
+    "usphone": "/hi/ /wɑnts/ /mi/",
+    "ukphone": "/hi/ /wɑnts/ /mi/"
+  },
+  {
+    "name": "to hand him a banana",
+    "trans": [
+      "递给他一个香蕉"
+    ],
+    "usphone": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+    "ukphone": "/tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "he wants me to hand him a banana",
+    "trans": [
+      "他想要我递给他一个香蕉"
+    ],
+    "usphone": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/",
+    "ukphone": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "手机"
+    ],
+    "usphone": "/fon/",
+    "ukphone": "/fon/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his phone",
+    "trans": [
+      "他的手机"
+    ],
+    "usphone": "/hɪz/ /fon/",
+    "ukphone": "/hɪz/ /fon/"
+  },
+  {
+    "name": "to hand him",
+    "trans": [
+      "递给他"
+    ],
+    "usphone": "/tə/ /hænd/ /hɪm/",
+    "ukphone": "/tə/ /hænd/ /hɪm/"
+  },
+  {
+    "name": "to hand him his phone",
+    "trans": [
+      "递给他他的手机"
+    ],
+    "usphone": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+    "ukphone": "/tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+  },
+  {
+    "name": "he wants me",
+    "trans": [
+      "他想要我"
+    ],
+    "usphone": "/hi/ /wɑnts/ /mi/",
+    "ukphone": "/hi/ /wɑnts/ /mi/"
+  },
+  {
+    "name": "he wants me to hand him his phone",
+    "trans": [
+      "他想要我递给他他的手机"
+    ],
+    "usphone": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/",
+    "ukphone": "/hi/ /wɑnts/ /mi/ /tə/ /hænd/ /hɪm/ /hɪz/ /fon/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to hand me",
+    "trans": [
+      "递给我"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/",
+    "ukphone": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "name": "bag",
+    "trans": [
+      "包"
+    ],
+    "usphone": "/bæɡ/",
+    "ukphone": "/bæɡ/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your bag",
+    "trans": [
+      "你的包"
+    ],
+    "usphone": "/jʊr/ /bæɡ/",
+    "ukphone": "/jʊr/ /bæɡ/"
+  },
+  {
+    "name": "to hand me your bag",
+    "trans": [
+      "递给我你的包"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+    "ukphone": "/tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to hand me your bag",
+    "trans": [
+      "我想要你递给我你的包"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /bæɡ/"
+  },
+  {
+    "name": "school",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "/skul/",
+    "ukphone": "/skul/"
+  },
+  {
+    "name": "bag",
+    "trans": [
+      "包"
+    ],
+    "usphone": "/bæɡ/",
+    "ukphone": "/bæɡ/"
+  },
+  {
+    "name": "school bag",
+    "trans": [
+      "书包"
+    ],
+    "usphone": "/skul/ /bæɡ/",
+    "ukphone": "/skul/ /bæɡ/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your school bag",
+    "trans": [
+      "你的书包"
+    ],
+    "usphone": "/jʊr/ /skul/ /bæɡ/",
+    "ukphone": "/jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "to hand me",
+    "trans": [
+      "递给我"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/",
+    "ukphone": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "name": "to hand me your school bag",
+    "trans": [
+      "递给我你的书包"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+    "ukphone": "/tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to hand me your school bag",
+    "trans": [
+      "我想要你递给我你的书包"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /jʊr/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my school bag",
+    "trans": [
+      "我的书包"
+    ],
+    "usphone": "/maɪ/ /skul/ /bæɡ/",
+    "ukphone": "/maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "to hand me my school bag",
+    "trans": [
+      "递给我我的书包"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to hand me my school bag",
+    "trans": [
+      "我想要你递给我我的书包"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "phone",
+    "trans": [
+      "手机"
+    ],
+    "usphone": "/fon/",
+    "ukphone": "/fon/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my phone",
+    "trans": [
+      "我的手机"
+    ],
+    "usphone": "/maɪ/ /fon/",
+    "ukphone": "/maɪ/ /fon/"
+  },
+  {
+    "name": "to hand me",
+    "trans": [
+      "递给我"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/",
+    "ukphone": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "name": "to hand me my phone",
+    "trans": [
+      "递给我我的手机"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to hand me my phone",
+    "trans": [
+      "我想要你递给我我的手机"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "to hand me my phone",
+    "trans": [
+      "递给我我的手机"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "you need to hand me my phone",
+    "trans": [
+      "你需要递给我我的手机"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/ju/ /nid/ /tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "you hand me my phone",
+    "trans": [
+      "你递给我我的手机"
+    ],
+    "usphone": "/ju/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/ju/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "hand me my phone",
+    "trans": [
+      "递给我我的手机"
+    ],
+    "usphone": "/hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "a banana",
+    "trans": [
+      "一个香蕉"
+    ],
+    "usphone": "/ə/ /bə'nænə/",
+    "ukphone": "/ə/ /bə'nænə/"
+  },
+  {
+    "name": "hand me a banana",
+    "trans": [
+      "递给我一个香蕉"
+    ],
+    "usphone": "/hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "my bag",
+    "trans": [
+      "我的包"
+    ],
+    "usphone": "/maɪ/ /bæɡ/",
+    "ukphone": "/maɪ/ /bæɡ/"
+  },
+  {
+    "name": "hand me my bag",
+    "trans": [
+      "递给我我的包"
+    ],
+    "usphone": "/hænd/ /mi/ /maɪ/ /bæɡ/",
+    "ukphone": "/hænd/ /mi/ /maɪ/ /bæɡ/"
+  },
+  {
+    "name": "please",
+    "trans": [
+      "请求麻烦一下"
+    ],
+    "usphone": "/pliz/",
+    "ukphone": "/pliz/"
+  },
+  {
+    "name": "please hand me my bag",
+    "trans": [
+      "麻烦一下递给我我的包"
+    ],
+    "usphone": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/",
+    "ukphone": "/pliz/ /hænd/ /mi/ /maɪ/ /bæɡ/"
+  },
+  {
+    "name": "please hand me a banana",
+    "trans": [
+      "麻烦一下递给我一个香蕉"
+    ],
+    "usphone": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "please hand me my phone",
+    "trans": [
+      "麻烦一下递给我我的手机"
+    ],
+    "usphone": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kən/",
+    "ukphone": "/kən/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kən/",
+    "ukphone": "/ju/ /kən/"
+  },
+  {
+    "name": "to hand me my phone",
+    "trans": [
+      "递给我我的手机"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "you can hand me my phone",
+    "trans": [
+      "你可以递给我我的手机"
+    ],
+    "usphone": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/ju/ /kən/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "can you hand me my phone",
+    "trans": [
+      "你可以递给我我的手机吗？"
+    ],
+    "usphone": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/kən/ /ju/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "can you",
+    "trans": [
+      "你可以......吗？"
+    ],
+    "usphone": "/kən/ /ju/",
+    "ukphone": "/kən/ /ju/"
+  },
+  {
+    "name": "a banana",
+    "trans": [
+      "一个香蕉"
+    ],
+    "usphone": "/ə/ /bə'nænə/",
+    "ukphone": "/ə/ /bə'nænə/"
+  },
+  {
+    "name": "to hand me",
+    "trans": [
+      "递给我"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/",
+    "ukphone": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "name": "to hand me a banana",
+    "trans": [
+      "递给我一个香蕉"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "can you hand me a banana",
+    "trans": [
+      "你可以递给我一个香蕉吗？"
+    ],
+    "usphone": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/kən/ /ju/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "please",
+    "trans": [
+      "请求麻烦一下"
+    ],
+    "usphone": "/pliz/",
+    "ukphone": "/pliz/"
+  },
+  {
+    "name": "can you please hand me my phone",
+    "trans": [
+      "你可以麻烦一下递给我我的手机吗？"
+    ],
+    "usphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "can you please",
+    "trans": [
+      "你可以麻烦一下......吗？"
+    ],
+    "usphone": "/kən/ /ju/ /pliz/",
+    "ukphone": "/kən/ /ju/ /pliz/"
+  },
+  {
+    "name": "to hand me a banana",
+    "trans": [
+      "递给我一个香蕉"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/tə/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "can you please hand me a banana",
+    "trans": [
+      "你可以麻烦一下递给我一个香蕉吗？"
+    ],
+    "usphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kən/",
+    "ukphone": "/kən/"
+  },
+  {
+    "name": "could",
+    "trans": [
+      "可以（礼貌版）"
+    ],
+    "usphone": "/kʊd/",
+    "ukphone": "/kʊd/"
+  },
+  {
+    "name": "can you please hand me a banana",
+    "trans": [
+      "你可以麻烦一下递给我一个香蕉吗？"
+    ],
+    "usphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/kən/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "could you please hand me a banana",
+    "trans": [
+      "你可以（礼貌版）麻烦一下递给我一个香蕉吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /ə/ /bə'nænə/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "你可以（礼貌版）麻烦一下......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "to hand me my phone",
+    "trans": [
+      "递给我我的手机"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "could you please hand me my phone",
+    "trans": [
+      "你可以（礼貌版）麻烦一下递给我我的手机吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /fon/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "你可以（礼貌版）麻烦一下......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "to hand me my school bag",
+    "trans": [
+      "递给我我的书包"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+    "ukphone": "/tə/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "could you please hand me my school bag",
+    "trans": [
+      "你可以（礼貌版）麻烦一下递给我我的书包吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /hænd/ /mi/ /maɪ/ /skul/ /bæɡ/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "你可以（礼貌版）麻烦一下......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "to help",
+    "trans": [
+      "帮助"
+    ],
+    "usphone": "/tə/ /hɛlp/",
+    "ukphone": "/tə/ /hɛlp/"
+  },
+  {
+    "name": "to help me",
+    "trans": [
+      "帮助我"
+    ],
+    "usphone": "/tə/ /hɛlp/ /mi/",
+    "ukphone": "/tə/ /hɛlp/ /mi/"
+  },
+  {
+    "name": "could you please help me",
+    "trans": [
+      "你可以（礼貌版）麻烦一下帮助我吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /hɛlp/ /mi/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to tell me",
+    "trans": [
+      "告诉我"
+    ],
+    "usphone": "/tə/ /tɛl/ /mi/",
+    "ukphone": "/tə/ /tɛl/ /mi/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实；真相"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to tell me the truth",
+    "trans": [
+      "告诉我真相"
+    ],
+    "usphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "请问你可以......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "could you please tell me the truth",
+    "trans": [
+      "请问你可以告诉我真相吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to leave me",
+    "trans": [
+      "离开我"
+    ],
+    "usphone": "/tə/ /liv/ /mi/",
+    "ukphone": "/tə/ /liv/ /mi/"
+  },
+  {
+    "name": "alone",
+    "trans": [
+      "单独；一个人"
+    ],
+    "usphone": "/ə'lon/",
+    "ukphone": "/ə'lon/"
+  },
+  {
+    "name": "to leave me alone",
+    "trans": [
+      "离开我（让我变成）单独一个人"
+    ],
+    "usphone": "/tə/ /liv/ /mi/ /ə'lon/",
+    "ukphone": "/tə/ /liv/ /mi/ /ə'lon/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "请问你可以......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "could you please leave me alone",
+    "trans": [
+      "请问你可以走开别烦我吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /tə/ /liv/ /mi/ /ə'lon/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to call me",
+    "trans": [
+      "打电话给我"
+    ],
+    "usphone": "/tə/ /kɔl/ /mi/",
+    "ukphone": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "name": "tonight",
+    "trans": [
+      "今晚"
+    ],
+    "usphone": "/tə'naɪt/",
+    "ukphone": "/tə'naɪt/"
+  },
+  {
+    "name": "to call me tonight",
+    "trans": [
+      "今晚打电话给我"
+    ],
+    "usphone": "/tə/ /kɔl/ /mi/ /tə'naɪt/",
+    "ukphone": "/tə/ /kɔl/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "请问你可以......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "could you please call me tonight",
+    "trans": [
+      "请问你可以今晚打电话给我吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /kɔl/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "to give",
+    "trans": [
+      "给"
+    ],
+    "usphone": "/tə/ /ɡɪv/",
+    "ukphone": "/tə/ /ɡɪv/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to give me",
+    "trans": [
+      "给我"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "a hand",
+    "trans": [
+      "一只手"
+    ],
+    "usphone": "/ə/ /hænd/",
+    "ukphone": "/ə/ /hænd/"
+  },
+  {
+    "name": "to give me a hand",
+    "trans": [
+      "给我帮把手"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "请问你可以......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "could you please give me a hand",
+    "trans": [
+      "请问你可以给我帮把手吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "name": "to open",
+    "trans": [
+      "打开"
+    ],
+    "usphone": "/tə/ /'opən/",
+    "ukphone": "/tə/ /'opən/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "to open the door",
+    "trans": [
+      "打开门"
+    ],
+    "usphone": "/tə/ /'opən/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /'opən/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "could you please",
+    "trans": [
+      "请问你可以......吗？"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/",
+    "ukphone": "/kʊd/ /ju/ /pliz/"
+  },
+  {
+    "name": "could you please open the door",
+    "trans": [
+      "请问你可以打开门吗"
+    ],
+    "usphone": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/",
+    "ukphone": "/kʊd/ /ju/ /pliz/ /'opən/ /ðə/ /dɔr/"
+  }
+]

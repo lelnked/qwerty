@@ -1,0 +1,1026 @@
+[
+  {
+    "name": "to master",
+    "trans": [
+      "掌握"
+    ],
+    "usphone": "/tə/ /'mæstɚ/",
+    "ukphone": "/tə/ /'mæstɚ/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to master English",
+    "trans": [
+      "掌握英语"
+    ],
+    "usphone": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "to try to master English",
+    "trans": [
+      "尝试掌握英语"
+    ],
+    "usphone": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "she decided",
+    "trans": [
+      "她(过去)决定"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "to try to master English",
+    "trans": [
+      "尝试掌握英语"
+    ],
+    "usphone": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "she decided to try to master English",
+    "trans": [
+      "她(过去)决定尝试掌握英语"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "餐厅"
+    ],
+    "usphone": "/'rɛstrɑnt/",
+    "ukphone": "/'rɛstrɑnt/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "new restaurant",
+    "trans": [
+      "新餐厅"
+    ],
+    "usphone": "/nu/ /'rɛstrɑnt/",
+    "ukphone": "/nu/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "the new restaurant",
+    "trans": [
+      "那个新餐厅"
+    ],
+    "usphone": "/ðə/ /nu/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "she decided to try",
+    "trans": [
+      "她(过去)决定尝试"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+  },
+  {
+    "name": "she decided to try the new restaurant",
+    "trans": [
+      "她(过去)决定尝试那个新餐厅"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "books",
+    "trans": [
+      "书"
+    ],
+    "usphone": "/bʊks/",
+    "ukphone": "/bʊks/"
+  },
+  {
+    "name": "to read books",
+    "trans": [
+      "读书"
+    ],
+    "usphone": "/tə/ /rid/ /bʊks/",
+    "ukphone": "/tə/ /rid/ /bʊks/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to read English books",
+    "trans": [
+      "读英文书"
+    ],
+    "usphone": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/",
+    "ukphone": "/tə/ /rid/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "name": "reading English books",
+    "trans": [
+      "读英文书(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+    "ukphone": "/'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried reading English books",
+    "trans": [
+      "她(过去)尝试读英文书"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/",
+    "ukphone": "/ʃi/ /traɪd/ /'ridɪŋ/ /ˈɪŋɡlɪʃ/ /bʊks/"
+  },
+  {
+    "name": "line",
+    "trans": [
+      "线"
+    ],
+    "usphone": "/laɪn/",
+    "ukphone": "/laɪn/"
+  },
+  {
+    "name": "online",
+    "trans": [
+      "在线"
+    ],
+    "usphone": "/ɑnˈlaɪn/",
+    "ukphone": "/ɑnˈlaɪn/"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/kɔrsɪz/",
+    "ukphone": "/kɔrsɪz/"
+  },
+  {
+    "name": "online courses",
+    "trans": [
+      "在线课程"
+    ],
+    "usphone": "/ɑnˈlaɪn/ /kɔrsɪz/",
+    "ukphone": "/ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "to use online courses",
+    "trans": [
+      "使用在线课程"
+    ],
+    "usphone": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/",
+    "ukphone": "/tə/ /juz/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "name": "using online courses",
+    "trans": [
+      "使用在线课程(ing形式)"
+    ],
+    "usphone": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+    "ukphone": "/juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried using online courses",
+    "trans": [
+      "她(过去)尝试使用在线课程"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/",
+    "ukphone": "/ʃi/ /traɪd/ /juzɪŋ/ /ɑnˈlaɪn/ /kɔrsɪz/"
+  },
+  {
+    "name": "song",
+    "trans": [
+      "歌曲"
+    ],
+    "usphone": "/sɔŋ/",
+    "ukphone": "/sɔŋ/"
+  },
+  {
+    "name": "English songs",
+    "trans": [
+      "英文歌曲"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /sɔŋz/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "name": "to listen",
+    "trans": [
+      "听"
+    ],
+    "usphone": "/tə/ /'lɪsn/",
+    "ukphone": "/tə/ /'lɪsn/"
+  },
+  {
+    "name": "to listen to English songs",
+    "trans": [
+      "听英文歌曲"
+    ],
+    "usphone": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+    "ukphone": "/tə/ /'lɪsn/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "name": "listening to English songs",
+    "trans": [
+      "听英文歌曲(ing形式)"
+    ],
+    "usphone": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+    "ukphone": "/'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried listening to English songs",
+    "trans": [
+      "她(过去)尝试听英文歌曲"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/",
+    "ukphone": "/ʃi/ /traɪd/ /'lɪsnɪŋ/ /tə/ /ˈɪŋɡlɪʃ/ /sɔŋz/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "speaker",
+    "trans": [
+      "说话的人"
+    ],
+    "usphone": "/'spikɚ/",
+    "ukphone": "/'spikɚ/"
+  },
+  {
+    "name": "native",
+    "trans": [
+      "当地的"
+    ],
+    "usphone": "/ˈnetɪv/",
+    "ukphone": "/ˈnetɪv/"
+  },
+  {
+    "name": "native speakers",
+    "trans": [
+      "母语使用者"
+    ],
+    "usphone": "/ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "to speak with native speakers",
+    "trans": [
+      "和母语使用者说话"
+    ],
+    "usphone": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/tə/ /spik/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "speaking with native speakers",
+    "trans": [
+      "和母语使用者说话(ing形式)"
+    ],
+    "usphone": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "to practice speaking with native speakers",
+    "trans": [
+      "练习和母语使用者说话"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/tə/ /ˈpræktɪs/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "practicing speaking with native speakers",
+    "trans": [
+      "练习和母语使用者说话(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried practicing speaking with native speakers",
+    "trans": [
+      "她(过去)尝试练习和母语使用者说话"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/ʃi/ /traɪd/ /ˈpræktɪsɪŋ/ /'spikɪŋ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "speaking",
+    "trans": [
+      "说话(ing形式)"
+    ],
+    "usphone": "/'spikɪŋ/",
+    "ukphone": "/'spikɪŋ/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "English-speaking",
+    "trans": [
+      "说英语的"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/"
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "环境"
+    ],
+    "usphone": "/ɪnˈvaɪrənmənt/",
+    "ukphone": "/ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "English-speaking environment",
+    "trans": [
+      "说英语的环境"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "an English-speaking environment",
+    "trans": [
+      "一个说英语的环境"
+    ],
+    "usphone": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "in an English-speaking environment",
+    "trans": [
+      "在一个说英语的环境里"
+    ],
+    "usphone": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "to immerse",
+    "trans": [
+      "沉浸"
+    ],
+    "usphone": "/tə/ /ɪˈmɝs/",
+    "ukphone": "/tə/ /ɪˈmɝs/"
+  },
+  {
+    "name": "herself",
+    "trans": [
+      "她自己"
+    ],
+    "usphone": "/hɝ'sɛlf/",
+    "ukphone": "/hɝ'sɛlf/"
+  },
+  {
+    "name": "to immerse herself",
+    "trans": [
+      "沉浸她自己"
+    ],
+    "usphone": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/",
+    "ukphone": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "to immerse herself in an English-speaking environment",
+    "trans": [
+      "沉浸她自己在一个说英语的环境里"
+    ],
+    "usphone": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/tə/ /ɪˈmɝs/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "immersing",
+    "trans": [
+      "沉浸(ing形式)"
+    ],
+    "usphone": "/ɪˈmɝsɪŋ/",
+    "ukphone": "/ɪˈmɝsɪŋ/"
+  },
+  {
+    "name": "immersing herself in an English-speaking environment",
+    "trans": [
+      "沉浸她自己在一个说英语的环境里(ing形式)"
+    ],
+    "usphone": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried immersing herself in an English-speaking environment",
+    "trans": [
+      "她(过去)尝试沉浸她自己在一个说英语的环境里"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/",
+    "ukphone": "/ʃi/ /traɪd/ /ɪˈmɝsɪŋ/ /hɝ'sɛlf/ /ɪn/ /ən/ /ˈɪŋɡlɪʃ/ /'spikɪŋ/ /ɪnˈvaɪrənmənt/"
+  },
+  {
+    "name": "fitness",
+    "trans": [
+      "健康"
+    ],
+    "usphone": "/'fɪtnəs/",
+    "ukphone": "/'fɪtnəs/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "her fitness",
+    "trans": [
+      "她的健康"
+    ],
+    "usphone": "/hɚ/ /'fɪtnəs/",
+    "ukphone": "/hɚ/ /'fɪtnəs/"
+  },
+  {
+    "name": "to improve",
+    "trans": [
+      "改善"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/",
+    "ukphone": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "name": "to improve her fitness",
+    "trans": [
+      "改善她的健康"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+    "ukphone": "/tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "to try to improve her fitness",
+    "trans": [
+      "尝试改善她的健康"
+    ],
+    "usphone": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+    "ukphone": "/tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "she decided",
+    "trans": [
+      "她(过去)决定"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "she decided to try to improve her fitness",
+    "trans": [
+      "她(过去)决定尝试改善她的健康"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /ɪmˈpruv/ /hɚ/ /'fɪtnəs/"
+  },
+  {
+    "name": "she decided to try the new restaurant",
+    "trans": [
+      "她(过去)决定尝试那个新餐厅"
+    ],
+    "usphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/",
+    "ukphone": "/ʃi/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早上"
+    ],
+    "usphone": "/'mɔrnɪŋ/",
+    "ukphone": "/'mɔrnɪŋ/"
+  },
+  {
+    "name": "in the mornings",
+    "trans": [
+      "在早上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'mɔrnɪŋz/",
+    "ukphone": "/ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "name": "to run",
+    "trans": [
+      "跑步"
+    ],
+    "usphone": "/tə/ /rʌn/",
+    "ukphone": "/tə/ /rʌn/"
+  },
+  {
+    "name": "to run in the mornings",
+    "trans": [
+      "在早上跑步"
+    ],
+    "usphone": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+    "ukphone": "/tə/ /rʌn/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "name": "running in the mornings",
+    "trans": [
+      "在早上跑步(ing形式)"
+    ],
+    "usphone": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+    "ukphone": "/'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried running in the mornings",
+    "trans": [
+      "她(过去)尝试在早上跑步"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/",
+    "ukphone": "/ʃi/ /traɪd/ /'rʌnɪŋ/ /ɪn/ /ðə/ /'mɔrnɪŋz/"
+  },
+  {
+    "name": "after",
+    "trans": [
+      "在......之后"
+    ],
+    "usphone": "/'æftɚ/",
+    "ukphone": "/'æftɚ/"
+  },
+  {
+    "name": "noon",
+    "trans": [
+      "中午"
+    ],
+    "usphone": "/nun/",
+    "ukphone": "/nun/"
+  },
+  {
+    "name": "afternoon",
+    "trans": [
+      "下午"
+    ],
+    "usphone": "/æftɚ'nun/",
+    "ukphone": "/æftɚ'nun/"
+  },
+  {
+    "name": "in the afternoons",
+    "trans": [
+      "在下午"
+    ],
+    "usphone": "/ɪn/ /ði/ /æftɚ'nunz/",
+    "ukphone": "/ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "name": "to cycle",
+    "trans": [
+      "骑自行车"
+    ],
+    "usphone": "/tə/ /ˈsaɪkl/",
+    "ukphone": "/tə/ /ˈsaɪkl/"
+  },
+  {
+    "name": "to cycle in the afternoons",
+    "trans": [
+      "在下午骑自行车"
+    ],
+    "usphone": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/",
+    "ukphone": "/tə/ /ˈsaɪkl/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "name": "cycling in the afternoons",
+    "trans": [
+      "在下午骑自行车(ing形式)"
+    ],
+    "usphone": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+    "ukphone": "/ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried cycling in the afternoons",
+    "trans": [
+      "她(过去)尝试在下午骑自行车"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/",
+    "ukphone": "/ʃi/ /traɪd/ /ˈsaɪklɪŋ/ /ɪn/ /ði/ /æftɚ'nunz/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "in the nights",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /naɪts/",
+    "ukphone": "/ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "name": "yoga",
+    "trans": [
+      "瑜伽"
+    ],
+    "usphone": "/ˈjoɡə/",
+    "ukphone": "/ˈjoɡə/"
+  },
+  {
+    "name": "classes",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/klæsɪz/",
+    "ukphone": "/klæsɪz/"
+  },
+  {
+    "name": "yoga classes",
+    "trans": [
+      "瑜伽课程"
+    ],
+    "usphone": "/ˈjoɡə/ /klæsɪz/",
+    "ukphone": "/ˈjoɡə/ /klæsɪz/"
+  },
+  {
+    "name": "to attend",
+    "trans": [
+      "参加"
+    ],
+    "usphone": "/tə/ /əˈtɛnd/",
+    "ukphone": "/tə/ /əˈtɛnd/"
+  },
+  {
+    "name": "to attend yoga classes",
+    "trans": [
+      "参加瑜伽课程"
+    ],
+    "usphone": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/",
+    "ukphone": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/"
+  },
+  {
+    "name": "in the nights",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /naɪts/",
+    "ukphone": "/ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "name": "to attend yoga classes in the nights",
+    "trans": [
+      "在晚上参加瑜伽课程"
+    ],
+    "usphone": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+    "ukphone": "/tə/ /əˈtɛnd/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "name": "attending",
+    "trans": [
+      "参加(ing形式)"
+    ],
+    "usphone": "/əˈtɛndɪŋ/",
+    "ukphone": "/əˈtɛndɪŋ/"
+  },
+  {
+    "name": "attending yoga classes in the nights",
+    "trans": [
+      "在晚上参加瑜伽课程(ing形式)"
+    ],
+    "usphone": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+    "ukphone": "/əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried attending yoga classes in the nights",
+    "trans": [
+      "她(过去)尝试在晚上参加瑜伽课程"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/",
+    "ukphone": "/ʃi/ /traɪd/ /əˈtɛndɪŋ/ /ˈjoɡə/ /klæsɪz/ /ɪn/ /ðə/ /naɪts/"
+  },
+  {
+    "name": "gym",
+    "trans": [
+      "健身房"
+    ],
+    "usphone": "/dʒɪm/",
+    "ukphone": "/dʒɪm/"
+  },
+  {
+    "name": "in the gym",
+    "trans": [
+      "在健身房里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /dʒɪm/",
+    "ukphone": "/ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "name": "weights",
+    "trans": [
+      "重量"
+    ],
+    "usphone": "/wets/",
+    "ukphone": "/wets/"
+  },
+  {
+    "name": "to lift",
+    "trans": [
+      "举起"
+    ],
+    "usphone": "/tə/ /lɪft/",
+    "ukphone": "/tə/ /lɪft/"
+  },
+  {
+    "name": "to lift weights",
+    "trans": [
+      "举哑铃"
+    ],
+    "usphone": "/tə/ /lɪft/ /wets/",
+    "ukphone": "/tə/ /lɪft/ /wets/"
+  },
+  {
+    "name": "in the gym",
+    "trans": [
+      "在健身房里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /dʒɪm/",
+    "ukphone": "/ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "name": "to lift weights in the gym",
+    "trans": [
+      "在健身房里举哑铃"
+    ],
+    "usphone": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+    "ukphone": "/tə/ /lɪft/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "name": "lifting weights in the gym",
+    "trans": [
+      "在健身房里举哑铃(ing形式)"
+    ],
+    "usphone": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+    "ukphone": "/lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried lifting weights in the gym",
+    "trans": [
+      "她(过去)尝试在健身房里举哑铃"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/",
+    "ukphone": "/ʃi/ /traɪd/ /lɪftɪŋ/ /wets/ /ɪn/ /ðə/ /dʒɪm/"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "周"
+    ],
+    "usphone": "/wik/",
+    "ukphone": "/wik/"
+  },
+  {
+    "name": "end",
+    "trans": [
+      "末"
+    ],
+    "usphone": "/ɛnd/",
+    "ukphone": "/ɛnd/"
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "周末"
+    ],
+    "usphone": "/'wikɛnd/",
+    "ukphone": "/'wikɛnd/"
+  },
+  {
+    "name": "on the weekends",
+    "trans": [
+      "在周末"
+    ],
+    "usphone": "/ɑn/ /ðə/ /'wikɛndz/",
+    "ukphone": "/ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "name": "to swim",
+    "trans": [
+      "游泳"
+    ],
+    "usphone": "/tə/ /swɪm/",
+    "ukphone": "/tə/ /swɪm/"
+  },
+  {
+    "name": "to swim on the weekends",
+    "trans": [
+      "在周末游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/",
+    "ukphone": "/tə/ /swɪm/ /ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "name": "swimming on the weekends",
+    "trans": [
+      "在周末游泳(ing形式)"
+    ],
+    "usphone": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+    "ukphone": "/swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+  },
+  {
+    "name": "she tried",
+    "trans": [
+      "她(过去)尝试"
+    ],
+    "usphone": "/ʃi/ /traɪd/",
+    "ukphone": "/ʃi/ /traɪd/"
+  },
+  {
+    "name": "she tried swimming on the weekends",
+    "trans": [
+      "她(过去)尝试在周末游泳"
+    ],
+    "usphone": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/",
+    "ukphone": "/ʃi/ /traɪd/ /swɪmɪŋ/ /ɑn/ /ðə/ /'wikɛndz/"
+  }
+]

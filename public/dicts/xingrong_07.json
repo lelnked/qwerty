@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "like",
+    "trans": [
+      "喜欢"
+    ],
+    "usphone": "/laɪk/",
+    "ukphone": "/laɪk/"
+  },
+  {
+    "name": "we like",
+    "trans": [
+      "我们喜欢"
+    ],
+    "usphone": "/wi/ /laɪk/",
+    "ukphone": "/wi/ /laɪk/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "这件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "we like to do it",
+    "trans": [
+      "我们喜欢做这件事"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /du/ /ɪt/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "we like to do it now",
+    "trans": [
+      "我们喜欢现在做这件事"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "we don't like to do it now",
+    "trans": [
+      "我们不喜欢现在做这件事"
+    ],
+    "usphone": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/wi/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "to dance",
+    "trans": [
+      "跳舞"
+    ],
+    "usphone": "/tə/ /dæns/",
+    "ukphone": "/tə/ /dæns/"
+  },
+  {
+    "name": "we like to dance",
+    "trans": [
+      "我们喜欢跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/"
+  },
+  {
+    "name": "we like to dance now",
+    "trans": [
+      "我们喜欢现在跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/"
+  },
+  {
+    "name": "the street",
+    "trans": [
+      "街道"
+    ],
+    "usphone": "/ðə/ /strit/",
+    "ukphone": "/ðə/ /strit/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街头"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "we like to dance in the street",
+    "trans": [
+      "我们喜欢在街头跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "we like to dance in the street at night",
+    "trans": [
+      "我们喜欢在晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "we don't like to dance in the street at night",
+    "trans": [
+      "我们不喜欢在晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to sleep",
+    "trans": [
+      "睡觉"
+    ],
+    "usphone": "/tə/ /slip/",
+    "ukphone": "/tə/ /slip/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你们"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you like",
+    "trans": [
+      "你们喜欢"
+    ],
+    "usphone": "/ju/ /laɪk/",
+    "ukphone": "/ju/ /laɪk/"
+  },
+  {
+    "name": "you like to sleep",
+    "trans": [
+      "你们喜欢睡觉"
+    ],
+    "usphone": "/ju/ /laɪk/ /tə/ /slip/",
+    "ukphone": "/ju/ /laɪk/ /tə/ /slip/"
+  },
+  {
+    "name": "on the bed",
+    "trans": [
+      "在床上"
+    ],
+    "usphone": "/ɑn/ /ðə/ /bɛd/",
+    "ukphone": "/ɑn/ /ðə/ /bɛd/"
+  },
+  {
+    "name": "you like to sleep on the bed",
+    "trans": [
+      "你们喜欢在床上睡觉"
+    ],
+    "usphone": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+    "ukphone": "/ju/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't like to sleep on the bed",
+    "trans": [
+      "你们不喜欢在床上睡觉"
+    ],
+    "usphone": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/",
+    "ukphone": "/ju/ /dont/ /laɪk/ /tə/ /slip/ /ɑn/ /ðə/ /bɛd/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我一起"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "to dance with me",
+    "trans": [
+      "和我一起跳舞"
+    ],
+    "usphone": "/tə/ /dæns/ /wɪð/ /mi/",
+    "ukphone": "/tə/ /dæns/ /wɪð/ /mi/"
+  },
+  {
+    "name": "you like to dance with me",
+    "trans": [
+      "你们喜欢和我一起跳舞"
+    ],
+    "usphone": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+  },
+  {
+    "name": "you don't like to dance with me",
+    "trans": [
+      "你们不喜欢和我一起跳舞"
+    ],
+    "usphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/",
+    "ukphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街头"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "you don't like to dance with me in the street",
+    "trans": [
+      "你们不喜欢在街头和我一起跳舞"
+    ],
+    "usphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "you don't like to dance with me in the street at night",
+    "trans": [
+      "你们不喜欢在晚上在街头和我一起跳舞"
+    ],
+    "usphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/ju/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /mi/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to talk",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /tɔk/",
+    "ukphone": "/tə/ /tɔk/"
+  },
+  {
+    "name": "with me",
+    "trans": [
+      "和我"
+    ],
+    "usphone": "/wɪð/ /mi/",
+    "ukphone": "/wɪð/ /mi/"
+  },
+  {
+    "name": "to talk with me",
+    "trans": [
+      "和我说话"
+    ],
+    "usphone": "/tə/ /tɔk/ /wɪð/ /mi/",
+    "ukphone": "/tə/ /tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they like to talk with me",
+    "trans": [
+      "他们喜欢和我说话"
+    ],
+    "usphone": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+    "ukphone": "/ðe/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "name": "they don't like to talk with me",
+    "trans": [
+      "他们不喜欢和我说话"
+    ],
+    "usphone": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/",
+    "ukphone": "/ðe/ /dont/ /laɪk/ /tə/ /tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "to dance with you",
+    "trans": [
+      "和你一起跳舞"
+    ],
+    "usphone": "/tə/ /dæns/ /wɪð/ /ju/",
+    "ukphone": "/tə/ /dæns/ /wɪð/ /ju/"
+  },
+  {
+    "name": "they like to dance with you",
+    "trans": [
+      "他们喜欢和你一起跳舞"
+    ],
+    "usphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+  },
+  {
+    "name": "they don't like to dance with you",
+    "trans": [
+      "他们不喜欢和你一起跳舞"
+    ],
+    "usphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街头"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "they like to dance with you in the street",
+    "trans": [
+      "他们喜欢和你一起在街头跳舞"
+    ],
+    "usphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "they like to dance with you in the street at night",
+    "trans": [
+      "他们喜欢在晚上和你一起在街头跳舞"
+    ],
+    "usphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "they don't like to dance with you in the street at night",
+    "trans": [
+      "他们不喜欢在晚上和你一起在街头跳舞"
+    ],
+    "usphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "want to know",
+    "trans": [
+      "想要知道"
+    ],
+    "usphone": "/wɑnt/ /tə/ /no/",
+    "ukphone": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "we want to know",
+    "trans": [
+      "我们想要知道"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "we just want to know",
+    "trans": [
+      "我们只是想要知道"
+    ],
+    "usphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "we just want to know if they like to dance with you in the street at night",
+    "trans": [
+      "我们只是想要知道是否他们喜欢在晚上和你一起在街头跳舞"
+    ],
+    "usphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "the answer",
+    "trans": [
+      "答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/",
+    "ukphone": "/ði/ /'ænsɚ/"
+  },
+  {
+    "name": "we want to know the answer",
+    "trans": [
+      "我们想要知道答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we want to know the answer to the question",
+    "trans": [
+      "我们想要知道问题的答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we don't want to know the answer to the question",
+    "trans": [
+      "我们不想知道问题的答案"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "we want to know the answer to the question as soon as possible",
+    "trans": [
+      "我们想要尽快知道问题的答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "to walk",
+    "trans": [
+      "散步"
+    ],
+    "usphone": "/tə/ /wɔk/",
+    "ukphone": "/tə/ /wɔk/"
+  },
+  {
+    "name": "in the park",
+    "trans": [
+      "在公园里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /pɑrk/",
+    "ukphone": "/ɪn/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "we want to walk in the park",
+    "trans": [
+      "我们想要在公园里散步"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "we want to walk in the park every day",
+    "trans": [
+      "我们想要每天在公园里散步"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "这个食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "from the restaurant",
+    "trans": [
+      "来自这个餐厅"
+    ],
+    "usphone": "/frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "the food from the restaurant",
+    "trans": [
+      "来自这个餐厅的食物"
+    ],
+    "usphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "to eat the food from the restaurant",
+    "trans": [
+      "吃来自这个餐厅的食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we want to eat the food from the restaurant",
+    "trans": [
+      "我们想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we don't want to eat the food from the restaurant",
+    "trans": [
+      "我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "at the restaurant",
+    "trans": [
+      "在这个餐厅"
+    ],
+    "usphone": "/ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to work at the restaurant",
+    "trans": [
+      "在这个餐厅工作"
+    ],
+    "usphone": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we want to work at the restaurant",
+    "trans": [
+      "我们想要在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we don't want to work at the restaurant",
+    "trans": [
+      "我们不想在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "you want to work at the restaurant",
+    "trans": [
+      "你们想要在这个餐厅工作"
+    ],
+    "usphone": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ju/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "you don't want to work at the restaurant",
+    "trans": [
+      "你们不想在这个餐厅工作"
+    ],
+    "usphone": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ju/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "they want to work at the restaurant",
+    "trans": [
+      "他们想要在这个餐厅工作"
+    ],
+    "usphone": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðe/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "they don't want to work at the restaurant",
+    "trans": [
+      "他们不想在这个餐厅工作"
+    ],
+    "usphone": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "to work with you",
+    "trans": [
+      "和你一起工作"
+    ],
+    "usphone": "/tə/ /wɝk/ /wɪð/ /ju/",
+    "ukphone": "/tə/ /wɝk/ /wɪð/ /ju/"
+  },
+  {
+    "name": "they want to work with you",
+    "trans": [
+      "他们想要和你一起工作"
+    ],
+    "usphone": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+  },
+  {
+    "name": "they don't want to work with you",
+    "trans": [
+      "他们不想和你一起工作"
+    ],
+    "usphone": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dont/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+  },
+  {
+    "name": "think",
+    "trans": [
+      "认为"
+    ],
+    "usphone": "/θɪŋk/",
+    "ukphone": "/θɪŋk/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think they want to work with you",
+    "trans": [
+      "我认为他们想要和你一起工作"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I don't think they want to work with you",
+    "trans": [
+      "我认为他们不想和你一起工作"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /ðe/ /wɑnt/ /tə/ /wɝk/ /wɪð/ /ju/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the questions",
+    "trans": [
+      "问题（们）"
+    ],
+    "usphone": "/ðə/ /'kwestʃənz/",
+    "ukphone": "/ðə/ /'kwestʃənz/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "to answer the questions",
+    "trans": [
+      "回答问题"
+    ],
+    "usphone": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+    "ukphone": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "name": "we need to answer the questions",
+    "trans": [
+      "我们需要回答问题"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+    "ukphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "about the work",
+    "trans": [
+      "关于工作"
+    ],
+    "usphone": "/ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "we need to answer the questions about the work",
+    "trans": [
+      "我们需要回答关于工作的问题"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "we don't need to answer the questions about the work",
+    "trans": [
+      "我们不需要回答关于工作的问题"
+    ],
+    "usphone": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "you need to answer the questions about the work",
+    "trans": [
+      "你们需要回答关于工作的问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "you need to answer the questions about the work as soon as possible",
+    "trans": [
+      "你们需要尽快回答关于工作的问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "they are important",
+    "trans": [
+      "它们是重要的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ɪm'pɔrtnt/",
+    "ukphone": "/ðe/ /ɚ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "they are very important",
+    "trans": [
+      "它们是非常重要的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "you need to answer the questions about the work as soon as possible because they are very important",
+    "trans": [
+      "你们需要尽快回答关于工作的问题因为它们是非常重要的"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "we have to leave",
+    "trans": [
+      "我们必须离开"
+    ],
+    "usphone": "/wi/ /hæv/ /tə/ /liv/",
+    "ukphone": "/wi/ /hæv/ /tə/ /liv/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "we have to leave now",
+    "trans": [
+      "我们必须现在离开"
+    ],
+    "usphone": "/wi/ /hæv/ /tə/ /liv/ /naʊ/",
+    "ukphone": "/wi/ /hæv/ /tə/ /liv/ /naʊ/"
+  },
+  {
+    "name": "we don't have to leave now",
+    "trans": [
+      "我们不必现在离开"
+    ],
+    "usphone": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+    "ukphone": "/wi/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+  },
+  {
+    "name": "you have to leave now",
+    "trans": [
+      "你们必须现在离开"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /liv/ /naʊ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /liv/ /naʊ/"
+  },
+  {
+    "name": "you don't have to leave now",
+    "trans": [
+      "你们不必现在离开"
+    ],
+    "usphone": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/",
+    "ukphone": "/ju/ /dont/ /hæv/ /tə/ /liv/ /naʊ/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "you have to leave the restaurant now",
+    "trans": [
+      "你们必须现在离开这个餐厅"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+  },
+  {
+    "name": "you don't have to leave the restaurant now",
+    "trans": [
+      "你们不必现在离开这个餐厅"
+    ],
+    "usphone": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/",
+    "ukphone": "/ju/ /dont/ /hæv/ /tə/ /liv/ /ðə/ /'rɛstrɑnt/ /naʊ/"
+  },
+  {
+    "name": "to dance",
+    "trans": [
+      "跳舞"
+    ],
+    "usphone": "/tə/ /dæns/",
+    "ukphone": "/tə/ /dæns/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "we can",
+    "trans": [
+      "我们可以"
+    ],
+    "usphone": "/wi/ /kæn/",
+    "ukphone": "/wi/ /kæn/"
+  },
+  {
+    "name": "we can dance",
+    "trans": [
+      "我们可以跳舞"
+    ],
+    "usphone": "/wi/ /kæn/ /dæns/",
+    "ukphone": "/wi/ /kæn/ /dæns/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街头"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "we can dance in the street",
+    "trans": [
+      "我们可以在街头跳舞"
+    ],
+    "usphone": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "we can dance in the street at night",
+    "trans": [
+      "我们可以晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /kæn/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "we can not dance in the street at night",
+    "trans": [
+      "我们不可以晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /kæn/ /nɑt/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "we can work",
+    "trans": [
+      "我们可以工作"
+    ],
+    "usphone": "/wi/ /kæn/ /wɝk/",
+    "ukphone": "/wi/ /kæn/ /wɝk/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "at the restaurant",
+    "trans": [
+      "在这个餐厅"
+    ],
+    "usphone": "/ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we can work at the restaurant",
+    "trans": [
+      "我们可以在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /kæn/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we can not work at the restaurant",
+    "trans": [
+      "我们不可以在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /kæn/ /nɑt/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to walk",
+    "trans": [
+      "散步"
+    ],
+    "usphone": "/tə/ /wɔk/",
+    "ukphone": "/tə/ /wɔk/"
+  },
+  {
+    "name": "we can walk",
+    "trans": [
+      "我们可以散步"
+    ],
+    "usphone": "/wi/ /kæn/ /wɔk/",
+    "ukphone": "/wi/ /kæn/ /wɔk/"
+  },
+  {
+    "name": "in the park",
+    "trans": [
+      "在公园里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /pɑrk/",
+    "ukphone": "/ɪn/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "we can walk in the park",
+    "trans": [
+      "我们可以在公园里散步"
+    ],
+    "usphone": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/",
+    "ukphone": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "we can walk in the park every day",
+    "trans": [
+      "我们可以每天在公园里散步"
+    ],
+    "usphone": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+    "ukphone": "/wi/ /kæn/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "we can not walk in the park every day",
+    "trans": [
+      "我们不可以每天在公园里散步"
+    ],
+    "usphone": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/",
+    "ukphone": "/wi/ /kæn/ /nɑt/ /wɔk/ /ɪn/ /ðə/ /pɑrk/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "we should",
+    "trans": [
+      "我们应该"
+    ],
+    "usphone": "/wi/ /ʃʊd/",
+    "ukphone": "/wi/ /ʃʊd/"
+  },
+  {
+    "name": "we should know",
+    "trans": [
+      "我们应该知道"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/",
+    "ukphone": "/wi/ /ʃʊd/ /no/"
+  },
+  {
+    "name": "the answer",
+    "trans": [
+      "答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/",
+    "ukphone": "/ði/ /'ænsɚ/"
+  },
+  {
+    "name": "we should know the answer",
+    "trans": [
+      "我们应该知道答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/",
+    "ukphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "这个问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should know the answer to the question",
+    "trans": [
+      "我们应该知道这个问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should not know the answer to the question",
+    "trans": [
+      "我们不应该知道这个问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think we should know the answer to the question",
+    "trans": [
+      "我认为我们应该知道这个问题的答案"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I don't think we should know the answer to the question",
+    "trans": [
+      "我认为我们不应该知道这个问题的答案"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "should know",
+    "trans": [
+      "应该知道"
+    ],
+    "usphone": "/ʃʊd/ /no/",
+    "ukphone": "/ʃʊd/ /no/"
+  },
+  {
+    "name": "you should know",
+    "trans": [
+      "你们应该知道"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/",
+    "ukphone": "/ju/ /ʃʊd/ /no/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "you should know the reason",
+    "trans": [
+      "你们应该知道原因"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/",
+    "ukphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "这个食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "the food from the restaurant",
+    "trans": [
+      "来自这个餐厅的食物"
+    ],
+    "usphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to eat the food from the restaurant",
+    "trans": [
+      "吃来自这个餐厅的食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we want",
+    "trans": [
+      "我们想要"
+    ],
+    "usphone": "/wi/ /wɑnt/",
+    "ukphone": "/wi/ /wɑnt/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "we want to eat the food from the restaurant",
+    "trans": [
+      "我们想要吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we don't want to eat the food from the restaurant",
+    "trans": [
+      "我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "you should know the reason why we don't want to eat the food from the restaurant",
+    "trans": [
+      "你应该知道原因为什么我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think you should know the reason why we don't want to eat the food from the restaurant",
+    "trans": [
+      "我认为你应该知道原因为什么我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  }
+]

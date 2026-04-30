@@ -1,0 +1,1106 @@
+[
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "保存"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "to save money",
+    "trans": [
+      "存钱"
+    ],
+    "usphone": "/tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "/sʌm/",
+    "ukphone": "/sʌm/"
+  },
+  {
+    "name": "to save some money",
+    "trans": [
+      "存一些钱"
+    ],
+    "usphone": "/tə/ /sev/ /sʌm/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to save some money",
+    "trans": [
+      "我需要存一些钱"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "a new car",
+    "trans": [
+      "一辆新车"
+    ],
+    "usphone": "/ə/ /nu/ /kɑr/",
+    "ukphone": "/ə/ /nu/ /kɑr/"
+  },
+  {
+    "name": "to buy a new car",
+    "trans": [
+      "买一辆新车"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /nu/ /kɑr/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /nu/ /kɑr/"
+  },
+  {
+    "name": "I need to save some money to buy a new car",
+    "trans": [
+      "我需要存一些钱买一辆新车"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /nu/ /kɑr/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /nu/ /kɑr/"
+  },
+  {
+    "name": "the future",
+    "trans": [
+      "未来"
+    ],
+    "usphone": "/ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "for the future",
+    "trans": [
+      "为了未来"
+    ],
+    "usphone": "/fɝ/ /ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "I need to save some money",
+    "trans": [
+      "我需要存一些钱"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/"
+  },
+  {
+    "name": "I need to save some money for the future",
+    "trans": [
+      "我需要为了未来存一些钱"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "body",
+    "trans": [
+      "身体"
+    ],
+    "usphone": "/'bɑdi/",
+    "ukphone": "/'bɑdi/"
+  },
+  {
+    "name": "everybody",
+    "trans": [
+      "每个人"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/",
+    "ukphone": "/'ɛvrɪbɑdi/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "everybody needs",
+    "trans": [
+      "每个人需要"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/ /nidz/",
+    "ukphone": "/'ɛvrɪbɑdi/ /nidz/"
+  },
+  {
+    "name": "to save some money for the future",
+    "trans": [
+      "为了未来存一些钱"
+    ],
+    "usphone": "/tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "everybody needs to save some money for the future",
+    "trans": [
+      "每个人需要为了未来存一些钱"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /sev/ /sʌm/ /ˈmʌni/ /fɝ/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "to save money",
+    "trans": [
+      "存钱"
+    ],
+    "usphone": "/tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "to save enough money",
+    "trans": [
+      "存足够的钱"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "a house",
+    "trans": [
+      "一个房子"
+    ],
+    "usphone": "/ə/ /haʊs/",
+    "ukphone": "/ə/ /haʊs/"
+  },
+  {
+    "name": "to buy a house",
+    "trans": [
+      "买一个房子"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "to save enough money to buy a house",
+    "trans": [
+      "存足够的钱买一个房子"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭"
+    ],
+    "usphone": "/ˈfæməli/",
+    "ukphone": "/ˈfæməli/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his family",
+    "trans": [
+      "他的家庭"
+    ],
+    "usphone": "/hɪz/ /ˈfæməli/",
+    "ukphone": "/hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "for his family",
+    "trans": [
+      "为了他的家庭"
+    ],
+    "usphone": "/fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to buy a house",
+    "trans": [
+      "买一个房子"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "to buy a house for his family",
+    "trans": [
+      "为了他的家庭买一个房子"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to save enough money",
+    "trans": [
+      "存足够的钱"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "to save enough money to buy a house for his family",
+    "trans": [
+      "为了他的家庭存足够的钱买一个房子"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "trying",
+    "trans": [
+      "尝试（ing形式）"
+    ],
+    "usphone": "/ˈtraɪɪŋ/",
+    "ukphone": "/ˈtraɪɪŋ/"
+  },
+  {
+    "name": "be trying",
+    "trans": [
+      "正在尝试"
+    ],
+    "usphone": "/bi/ /'traɪɪŋ/",
+    "ukphone": "/bi/ /'traɪɪŋ/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is trying",
+    "trans": [
+      "他（现在）正在尝试"
+    ],
+    "usphone": "/hi/ /ɪz/ /ˈtraɪɪŋ/",
+    "ukphone": "/hi/ /ɪz/ /ˈtraɪɪŋ/"
+  },
+  {
+    "name": "he is trying to save enough money to buy a house for his family",
+    "trans": [
+      "他（现在）正在尝试为了他的家庭存足够的钱买一个房子"
+    ],
+    "usphone": "/hi/ /ɪz/ /ˈtraɪɪŋ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/hi/ /ɪz/ /ˈtraɪɪŋ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /tə/ /baɪ/ /ə/ /haʊs/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to save money",
+    "trans": [
+      "存钱"
+    ],
+    "usphone": "/tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "方法"
+    ],
+    "usphone": "/we/",
+    "ukphone": "/we/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "a good way",
+    "trans": [
+      "一个好的方法"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/",
+    "ukphone": "/ə/ /ɡʊd/ /we/"
+  },
+  {
+    "name": "to save money",
+    "trans": [
+      "存钱"
+    ],
+    "usphone": "/tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "a good way to save money",
+    "trans": [
+      "存钱的一个好的方法"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "is",
+    "trans": [
+      "是"
+    ],
+    "usphone": "/ɪz/",
+    "ukphone": "/ɪz/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is a good way to save money",
+    "trans": [
+      "这是存钱的一个好的方法"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/",
+    "ukphone": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/"
+  },
+  {
+    "name": "a good way to save money is this",
+    "trans": [
+      "存钱的一个好的方法是这个"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/ /ɪz/ /ðɪs/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /ˈmʌni/ /ɪz/ /ðɪs/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "保存；节省"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "to save time",
+    "trans": [
+      "节省时间"
+    ],
+    "usphone": "/tə/ /sev/ /taɪm/",
+    "ukphone": "/tə/ /sev/ /taɪm/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "to save time and money",
+    "trans": [
+      "节省时间和金钱"
+    ],
+    "usphone": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "name": "trying",
+    "trans": [
+      "尝试（ing形式）"
+    ],
+    "usphone": "/ˈtraɪɪŋ/",
+    "ukphone": "/ˈtraɪɪŋ/"
+  },
+  {
+    "name": "I am trying",
+    "trans": [
+      "我（现在）正在尝试"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/"
+  },
+  {
+    "name": "I am trying to save time and money",
+    "trans": [
+      "我（现在）正在尝试节省时间和金钱"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "name": "the best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/ðə/ /bɛst/",
+    "ukphone": "/ðə/ /bɛst/"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "方法"
+    ],
+    "usphone": "/we/",
+    "ukphone": "/we/"
+  },
+  {
+    "name": "the best way",
+    "trans": [
+      "最好的方法"
+    ],
+    "usphone": "/ðə/ /bɛst/ /we/",
+    "ukphone": "/ðə/ /bɛst/ /we/"
+  },
+  {
+    "name": "to save time and money",
+    "trans": [
+      "节省时间和金钱"
+    ],
+    "usphone": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "name": "the best way to save time and money",
+    "trans": [
+      "节省时间和金钱最好的方法"
+    ],
+    "usphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/",
+    "ukphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "计划"
+    ],
+    "usphone": "/plæn/",
+    "ukphone": "/plæn/"
+  },
+  {
+    "name": "to make a plan",
+    "trans": [
+      "做一个计划"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /plæn/",
+    "ukphone": "/tə/ /mek/ /ə/ /plæn/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西；事情"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "any",
+    "trans": [
+      "任何"
+    ],
+    "usphone": "/'ɛni/",
+    "ukphone": "/'ɛni/"
+  },
+  {
+    "name": "anything",
+    "trans": [
+      "任何事情"
+    ],
+    "usphone": "/'ɛnɪθɪŋ/",
+    "ukphone": "/'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do anything",
+    "trans": [
+      "做任何事情"
+    ],
+    "usphone": "/tə/ /du/ /'ɛnɪθɪŋ/",
+    "ukphone": "/tə/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "you do anything",
+    "trans": [
+      "你做任何事情"
+    ],
+    "usphone": "/ju/ /du/ /'ɛnɪθɪŋ/",
+    "ukphone": "/ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before you do anything",
+    "trans": [
+      "在你做任何事情之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/",
+    "ukphone": "/bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "to make a plan",
+    "trans": [
+      "做一个计划"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /plæn/",
+    "ukphone": "/tə/ /mek/ /ə/ /plæn/"
+  },
+  {
+    "name": "to make a plan before you do anything",
+    "trans": [
+      "在你做任何事情之前做一个计划"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/",
+    "ukphone": "/tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "the best way to save time and money",
+    "trans": [
+      "节省时间和金钱最好的方法"
+    ],
+    "usphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/",
+    "ukphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/"
+  },
+  {
+    "name": "the best way to save time and money is to make a plan before you do anything",
+    "trans": [
+      "节省时间和金钱最好的方法是你做任何事情之前做一个计划"
+    ],
+    "usphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/ /ɪz/ /tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/",
+    "ukphone": "/ðə/ /bɛst/ /we/ /tə/ /sev/ /taɪm/ /ənd/ /ˈmʌni/ /ɪz/ /tə/ /mek/ /ə/ /plæn/ /bɪ'fɔr/ /ju/ /du/ /'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "保存；节省"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "水"
+    ],
+    "usphone": "/'wɔtɚ/",
+    "ukphone": "/'wɔtɚ/"
+  },
+  {
+    "name": "to save water",
+    "trans": [
+      "节约水"
+    ],
+    "usphone": "/tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we have to save water",
+    "trans": [
+      "我们必须节约水"
+    ],
+    "usphone": "/wi/ /hæv/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/wi/ /hæv/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "a good way",
+    "trans": [
+      "一个好的方法"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/",
+    "ukphone": "/ə/ /ɡʊd/ /we/"
+  },
+  {
+    "name": "to save water",
+    "trans": [
+      "节约水"
+    ],
+    "usphone": "/tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "a good way to save water",
+    "trans": [
+      "节约水的一个好的方法"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "this is",
+    "trans": [
+      "这是"
+    ],
+    "usphone": "/ðɪs/ /ɪz/",
+    "ukphone": "/ðɪs/ /ɪz/"
+  },
+  {
+    "name": "this is a good way to save water",
+    "trans": [
+      "这是节约水的一个好的方法"
+    ],
+    "usphone": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/ðɪs/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "a good way to save water is this",
+    "trans": [
+      "节约水的一个好方法是这个"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɪs/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɪs/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "a good way to save water is here",
+    "trans": [
+      "节约水的一个好方法在这里"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /hɪr/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /hɪr/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "a good way to save water is there",
+    "trans": [
+      "节约水的一个好方法在那里"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɛr/",
+    "ukphone": "/ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/ /ɪz/ /ðɛr/"
+  },
+  {
+    "name": "there is a good way to save water",
+    "trans": [
+      "在那里有节约水的一个好方法"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /ɡʊd/ /we/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "a book",
+    "trans": [
+      "一本书"
+    ],
+    "usphone": "/ə/ /bʊk/",
+    "ukphone": "/ə/ /bʊk/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "a book is there",
+    "trans": [
+      "一本书在那里"
+    ],
+    "usphone": "/ə/ /bʊk/ /ɪz/ /ðɛr/",
+    "ukphone": "/ə/ /bʊk/ /ɪz/ /ðɛr/"
+  },
+  {
+    "name": "there is a book",
+    "trans": [
+      "在那里有一本书"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/"
+  },
+  {
+    "name": "desk",
+    "trans": [
+      "桌子"
+    ],
+    "usphone": "/dɛsk/",
+    "ukphone": "/dɛsk/"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "在......上"
+    ],
+    "usphone": "/ɑn/",
+    "ukphone": "/ɑn/"
+  },
+  {
+    "name": "on the desk",
+    "trans": [
+      "在桌子上"
+    ],
+    "usphone": "/ɑn/ /ðə/ /dɛsk/",
+    "ukphone": "/ɑn/ /ðə/ /dɛsk/"
+  },
+  {
+    "name": "there is a book on the desk",
+    "trans": [
+      "有一本书在桌子上"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ɑn/ /ðə/ /dɛsk/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ɑn/ /ðə/ /dɛsk/"
+  },
+  {
+    "name": "there is a book there",
+    "trans": [
+      "有一本书在那里"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ðɛr/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /ðɛr/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "there is a book here",
+    "trans": [
+      "有一本书在这里"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /hɪr/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bʊk/ /hɪr/"
+  },
+  {
+    "name": "there is",
+    "trans": [
+      "有（单数存在）"
+    ],
+    "usphone": "/ðɛr/ /ɪz/",
+    "ukphone": "/ðɛr/ /ɪz/"
+  },
+  {
+    "name": "a knife",
+    "trans": [
+      "一把刀"
+    ],
+    "usphone": "/ə/ /naɪf/",
+    "ukphone": "/ə/ /naɪf/"
+  },
+  {
+    "name": "there is a knife",
+    "trans": [
+      "有一把刀"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /naɪf/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /naɪf/"
+  },
+  {
+    "name": "kitchen",
+    "trans": [
+      "厨房"
+    ],
+    "usphone": "/'kɪtʃɪn/",
+    "ukphone": "/'kɪtʃɪn/"
+  },
+  {
+    "name": "in the kitchen",
+    "trans": [
+      "在厨房里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "there is a knife in the kitchen",
+    "trans": [
+      "有一把刀在厨房里"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /naɪf/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /naɪf/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "egg",
+    "trans": [
+      "鸡蛋"
+    ],
+    "usphone": "/ɛɡ/",
+    "ukphone": "/ɛɡ/"
+  },
+  {
+    "name": "five",
+    "trans": [
+      "五个"
+    ],
+    "usphone": "/faɪv/",
+    "ukphone": "/faɪv/"
+  },
+  {
+    "name": "five eggs",
+    "trans": [
+      "五个鸡蛋"
+    ],
+    "usphone": "/faɪv/ /ɛɡz/",
+    "ukphone": "/faɪv/ /ɛɡz/"
+  },
+  {
+    "name": "there are",
+    "trans": [
+      "有（复数存在）"
+    ],
+    "usphone": "/ðɛr/ /ɚ/",
+    "ukphone": "/ðɛr/ /ɚ/"
+  },
+  {
+    "name": "there are five eggs",
+    "trans": [
+      "有五个鸡蛋"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/",
+    "ukphone": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/"
+  },
+  {
+    "name": "in the kitchen",
+    "trans": [
+      "在厨房里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "there are five eggs in the kitchen",
+    "trans": [
+      "有五个鸡蛋仔厨房里"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/ /ɪn/ /ðə/ /'kɪtʃɪn/",
+    "ukphone": "/ðɛr/ /ɚ/ /faɪv/ /ɛɡz/ /ɪn/ /ðə/ /'kɪtʃɪn/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "保存；节省"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "水"
+    ],
+    "usphone": "/'wɔtɚ/",
+    "ukphone": "/'wɔtɚ/"
+  },
+  {
+    "name": "to save water",
+    "trans": [
+      "节约水"
+    ],
+    "usphone": "/tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "方法"
+    ],
+    "usphone": "/we/",
+    "ukphone": "/we/"
+  },
+  {
+    "name": "many",
+    "trans": [
+      "许多"
+    ],
+    "usphone": "/'mɛni/",
+    "ukphone": "/'mɛni/"
+  },
+  {
+    "name": "many ways",
+    "trans": [
+      "许多方法"
+    ],
+    "usphone": "/'mɛni/ /wez/",
+    "ukphone": "/'mɛni/ /wez/"
+  },
+  {
+    "name": "many ways to save water",
+    "trans": [
+      "节约水的许多方法"
+    ],
+    "usphone": "/'mɛni/ /wez/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/'mɛni/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "many different ways to save water",
+    "trans": [
+      "节约水的许多不同的方法"
+    ],
+    "usphone": "/'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  },
+  {
+    "name": "there are",
+    "trans": [
+      "有（复数存在）"
+    ],
+    "usphone": "/ðɛr/ /ɚ/",
+    "ukphone": "/ðɛr/ /ɚ/"
+  },
+  {
+    "name": "there are many different ways to save water",
+    "trans": [
+      "存在节约水的许多不同的方法"
+    ],
+    "usphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/",
+    "ukphone": "/ðɛr/ /ɚ/ /'mɛni/ /'dɪfrənt/ /wez/ /tə/ /sev/ /'wɔtɚ/"
+  }
+]

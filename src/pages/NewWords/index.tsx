@@ -3,10 +3,12 @@ import { generateWordSoundSrc } from '@/hooks/usePronunciation'
 import { pronunciationConfigAtom } from '@/store'
 import { db } from '@/utils/db'
 import { useLiveQuery } from 'dexie-react-hooks'
+import Fuse from 'fuse.js'
 import { useAtomValue } from 'jotai'
 import { BookMarked, ExternalLink, Search, Trash2, Volume2 } from 'lucide-react'
 import type React from 'react'
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
+import toast from 'react-hot-toast'
 
 const NewWordsPage: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('')
@@ -24,14 +26,27 @@ const NewWordsPage: React.FC = () => {
   }
 
   const deleteWord = async (id?: number) => {
-    if (id) {
+    if (!id) return
+    try {
       await db.newWords.delete(id)
+      toast.success('已从生词本移除')
+    } catch (e) {
+      console.error('删除生词失败', e)
+      toast.error('删除失败')
     }
   }
 
-  const filteredWords = words.filter(
-    (w) => w.word.toLowerCase().includes(searchTerm.toLowerCase()) || w.meaning.toLowerCase().includes(searchTerm.toLowerCase()),
+  const fuse = useMemo(
+    () =>
+      new Fuse(words, {
+        keys: ['word', 'meaning'],
+        threshold: 0.4,
+        ignoreLocation: true,
+      }),
+    [words],
   )
+
+  const filteredWords = searchTerm.trim() ? fuse.search(searchTerm).map((r) => r.item) : words
 
   return (
     <Layout>
@@ -39,7 +54,12 @@ const NewWordsPage: React.FC = () => {
         <header className="mb-10 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div>
             <h1 className="text-3xl font-bold text-gray-900 dark:text-white">生词本</h1>
-            <p className="mt-2 text-gray-500 dark:text-gray-400">记录你在练习中遇到的陌生单词</p>
+            <p className="mt-2 text-gray-500 dark:text-gray-400">
+              记录你在练习中遇到的陌生单词 · 共 {words.length} 条
+              {searchTerm.trim() && words.length !== filteredWords.length && (
+                <span className="ml-1">（命中 {filteredWords.length}）</span>
+              )}
+            </p>
           </div>
           <div className="relative w-full md:w-80">
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
@@ -58,7 +78,7 @@ const NewWordsPage: React.FC = () => {
             <div className="mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-gray-50 dark:bg-gray-800">
               <BookMarked size={40} className="text-gray-300" />
             </div>
-            <p className="text-gray-500">还没有收藏过生词呢</p>
+            <p className="text-gray-500">{searchTerm.trim() ? '没有匹配的生词' : '还没有收藏过生词呢'}</p>
           </div>
         ) : (
           <div className="grid gap-4">

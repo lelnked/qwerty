@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "to wash",
+    "trans": [
+      "清洗"
+    ],
+    "usphone": "/tə/ /wɑʃ/",
+    "ukphone": "/tə/ /wɑʃ/"
+  },
+  {
+    "name": "washing",
+    "trans": [
+      "清洗(ing形式)"
+    ],
+    "usphone": "/'wɑʃɪŋ/",
+    "ukphone": "/'wɑʃɪŋ/"
+  },
+  {
+    "name": "be washing",
+    "trans": [
+      "正在清洗"
+    ],
+    "usphone": "/bi/ /'wɑʃɪŋ/",
+    "ukphone": "/bi/ /'wɑʃɪŋ/"
+  },
+  {
+    "name": "I am washing",
+    "trans": [
+      "我(现在)正在清洗"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɑʃɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'wɑʃɪŋ/"
+  },
+  {
+    "name": "my car",
+    "trans": [
+      "我的车"
+    ],
+    "usphone": "/maɪ/ /kɑr/",
+    "ukphone": "/maɪ/ /kɑr/"
+  },
+  {
+    "name": "I am washing my car",
+    "trans": [
+      "我(现在)正在清洗我的车"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/",
+    "ukphone": "/aɪ/ /æm/ /'wɑʃɪŋ/ /maɪ/ /kɑr/"
+  },
+  {
+    "name": "be washing",
+    "trans": [
+      "正在清洗"
+    ],
+    "usphone": "/bi/ /'wɑʃɪŋ/",
+    "ukphone": "/bi/ /'wɑʃɪŋ/"
+  },
+  {
+    "name": "washed",
+    "trans": [
+      "清洗(过去分词)"
+    ],
+    "usphone": "/wɑʃt/",
+    "ukphone": "/wɑʃt/"
+  },
+  {
+    "name": "be washed",
+    "trans": [
+      "被清洗了"
+    ],
+    "usphone": "/bi/ /wɑʃt/",
+    "ukphone": "/bi/ /wɑʃt/"
+  },
+  {
+    "name": "my car",
+    "trans": [
+      "我的车"
+    ],
+    "usphone": "/maɪ/ /kɑr/",
+    "ukphone": "/maɪ/ /kɑr/"
+  },
+  {
+    "name": "my car is washed",
+    "trans": [
+      "我的车被清洗了"
+    ],
+    "usphone": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/",
+    "ukphone": "/maɪ/ /kɑr/ /ɪz/ /wɑʃt/"
+  },
+  {
+    "name": "I have washed my car",
+    "trans": [
+      "我(已经)洗完了我的车"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/",
+    "ukphone": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /kɑr/"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "I have washed my hands",
+    "trans": [
+      "我(已经)洗完了我的手"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/",
+    "ukphone": "/aɪ/ /hæv/ /wɑʃt/ /maɪ/ /hændz/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "finished",
+    "trans": [
+      "完成(过去分词)"
+    ],
+    "usphone": "/'fɪnɪʃt/",
+    "ukphone": "/'fɪnɪʃt/"
+  },
+  {
+    "name": "I have finished",
+    "trans": [
+      "我(已经)完成了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'fɪnɪʃt/",
+    "ukphone": "/aɪ/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "my homework",
+    "trans": [
+      "我的家庭作业"
+    ],
+    "usphone": "/maɪ/ /'homwɝk/",
+    "ukphone": "/maɪ/ /'homwɝk/"
+  },
+  {
+    "name": "I have finished my homework",
+    "trans": [
+      "我(已经)完成了我的家庭作业"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/",
+    "ukphone": "/aɪ/ /hæv/ /'fɪnɪʃt/ /maɪ/ /'homwɝk/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we have finished",
+    "trans": [
+      "我们(已经)完成了"
+    ],
+    "usphone": "/wi/ /hæv/ /'fɪnɪʃt/",
+    "ukphone": "/wi/ /hæv/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "project",
+    "trans": [
+      "项目"
+    ],
+    "usphone": "/ˈprɑdʒɛkt/",
+    "ukphone": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "our project",
+    "trans": [
+      "我们的项目"
+    ],
+    "usphone": "/'aʊɚ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "we have finished our project",
+    "trans": [
+      "我们(已经)完成了我们的项目"
+    ],
+    "usphone": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/",
+    "ukphone": "/wi/ /hæv/ /'fɪnɪʃt/ /'aʊɚ/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "the park",
+    "trans": [
+      "公园"
+    ],
+    "usphone": "/ðə/ /pɑrk/",
+    "ukphone": "/ðə/ /pɑrk/"
+  },
+  {
+    "name": "to go to the park",
+    "trans": [
+      "去公园"
+    ],
+    "usphone": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/",
+    "ukphone": "/tə/ /ɡo/ /tə/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "gone",
+    "trans": [
+      "去(过去分词)"
+    ],
+    "usphone": "/ɡɔn/",
+    "ukphone": "/ɡɔn/"
+  },
+  {
+    "name": "they have gone",
+    "trans": [
+      "他们(已经)去了"
+    ],
+    "usphone": "/ðe/ /hæv/ /ɡɔn/",
+    "ukphone": "/ðe/ /hæv/ /ɡɔn/"
+  },
+  {
+    "name": "they have gone to the park",
+    "trans": [
+      "他们(已经)去了公园"
+    ],
+    "usphone": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/",
+    "ukphone": "/ðe/ /hæv/ /ɡɔn/ /tə/ /ðə/ /pɑrk/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "read",
+    "trans": [
+      "读(过去分词)"
+    ],
+    "usphone": "/rid/",
+    "ukphone": "/rid/"
+  },
+  {
+    "name": "I have read",
+    "trans": [
+      "我(已经)读过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /rid/",
+    "ukphone": "/aɪ/ /hæv/ /rid/"
+  },
+  {
+    "name": "that book",
+    "trans": [
+      "那本书"
+    ],
+    "usphone": "/ðæt/ /bʊk/",
+    "ukphone": "/ðæt/ /bʊk/"
+  },
+  {
+    "name": "I have read that book",
+    "trans": [
+      "我(已经)读过那本书"
+    ],
+    "usphone": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/",
+    "ukphone": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "次"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "two times",
+    "trans": [
+      "两次"
+    ],
+    "usphone": "/tu/ /taɪmz/",
+    "ukphone": "/tu/ /taɪmz/"
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "两次"
+    ],
+    "usphone": "/twaɪs/",
+    "ukphone": "/twaɪs/"
+  },
+  {
+    "name": "I have read that book twice",
+    "trans": [
+      "我(已经)读过那本书两次了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/",
+    "ukphone": "/aɪ/ /hæv/ /rid/ /ðæt/ /bʊk/ /twaɪs/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学到"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "learned",
+    "trans": [
+      "学到(过去分词)"
+    ],
+    "usphone": "/lɝnd/",
+    "ukphone": "/lɝnd/"
+  },
+  {
+    "name": "I have learned",
+    "trans": [
+      "我(已经)学到了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɝnd/",
+    "ukphone": "/aɪ/ /hæv/ /lɝnd/"
+  },
+  {
+    "name": "lot",
+    "trans": [
+      "大量的"
+    ],
+    "usphone": "/lɑt/",
+    "ukphone": "/lɑt/"
+  },
+  {
+    "name": "a lot",
+    "trans": [
+      "很多"
+    ],
+    "usphone": "/ə/ /lɑt/",
+    "ukphone": "/ə/ /lɑt/"
+  },
+  {
+    "name": "I have learned a lot",
+    "trans": [
+      "我(已经)学到了很多"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/",
+    "ukphone": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/kɔrs/",
+    "ukphone": "/kɔrs/"
+  },
+  {
+    "name": "this course",
+    "trans": [
+      "这个课程"
+    ],
+    "usphone": "/ðɪs/ /kɔrs/",
+    "ukphone": "/ðɪs/ /kɔrs/"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从"
+    ],
+    "usphone": "/frʌm/",
+    "ukphone": "/frʌm/"
+  },
+  {
+    "name": "from this course",
+    "trans": [
+      "从这个课程"
+    ],
+    "usphone": "/frʌm/ /ðɪs/ /kɔrs/",
+    "ukphone": "/frʌm/ /ðɪs/ /kɔrs/"
+  },
+  {
+    "name": "I have learned a lot from this course",
+    "trans": [
+      "我从这个课程(已经)学到了很多"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/",
+    "ukphone": "/aɪ/ /hæv/ /lɝnd/ /ə/ /lɑt/ /frʌm/ /ðɪs/ /kɔrs/"
+  },
+  {
+    "name": "to improve",
+    "trans": [
+      "提高"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/",
+    "ukphone": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "name": "improved",
+    "trans": [
+      "提高(过去分词)"
+    ],
+    "usphone": "/ɪmˈpruvd/",
+    "ukphone": "/ɪmˈpruvd/"
+  },
+  {
+    "name": "you have improved",
+    "trans": [
+      "你(已经)提高了"
+    ],
+    "usphone": "/ju/ /hæv/ /ɪmˈpruvd/",
+    "ukphone": "/ju/ /hæv/ /ɪmˈpruvd/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "your English",
+    "trans": [
+      "你的英文"
+    ],
+    "usphone": "/jʊr/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/jʊr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "you have improved your English",
+    "trans": [
+      "你(已经)提高了你的英文"
+    ],
+    "usphone": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "lot",
+    "trans": [
+      "大量的"
+    ],
+    "usphone": "/lɑt/",
+    "ukphone": "/lɑt/"
+  },
+  {
+    "name": "a lot",
+    "trans": [
+      "很多"
+    ],
+    "usphone": "/ə/ /lɑt/",
+    "ukphone": "/ə/ /lɑt/"
+  },
+  {
+    "name": "you have improved your English a lot",
+    "trans": [
+      "你(已经)提高了你的英文很多"
+    ],
+    "usphone": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/",
+    "ukphone": "/ju/ /hæv/ /ɪmˈpruvd/ /jʊr/ /ˈɪŋɡlɪʃ/ /ə/ /lɑt/"
+  },
+  {
+    "name": "to visit",
+    "trans": [
+      "参观"
+    ],
+    "usphone": "/tə/ /'vɪzɪt/",
+    "ukphone": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "name": "visited",
+    "trans": [
+      "参观(过去分词)"
+    ],
+    "usphone": "/'vɪzɪtɪd/",
+    "ukphone": "/'vɪzɪtɪd/"
+  },
+  {
+    "name": "I have visited",
+    "trans": [
+      "我(已经)参观过"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/",
+    "ukphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "墙"
+    ],
+    "usphone": "/wɔl/",
+    "ukphone": "/wɔl/"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "伟大的"
+    ],
+    "usphone": "/ɡret/",
+    "ukphone": "/ɡret/"
+  },
+  {
+    "name": "The Great Wall",
+    "trans": [
+      "长城"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "name": "I have visited The Great Wall",
+    "trans": [
+      "我(已经)参观过长城"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/",
+    "ukphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "两次"
+    ],
+    "usphone": "/twaɪs/",
+    "ukphone": "/twaɪs/"
+  },
+  {
+    "name": "I have visited the Great Wall twice",
+    "trans": [
+      "我(已经)参观过长城两次了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/",
+    "ukphone": "/aɪ/ /hæv/ /'vɪzɪtɪd/ /ðə/ /ɡret/ /wɔl/ /twaɪs/"
+  },
+  {
+    "name": "to write",
+    "trans": [
+      "写"
+    ],
+    "usphone": "/raɪt/",
+    "ukphone": "/raɪt/"
+  },
+  {
+    "name": "written",
+    "trans": [
+      "写(过去分词)"
+    ],
+    "usphone": "/'rɪtn/",
+    "ukphone": "/'rɪtn/"
+  },
+  {
+    "name": "I have written",
+    "trans": [
+      "我(已经)写了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'rɪtn/",
+    "ukphone": "/aɪ/ /hæv/ /'rɪtn/"
+  },
+  {
+    "name": "book",
+    "trans": [
+      "书"
+    ],
+    "usphone": "/bʊk/",
+    "ukphone": "/bʊk/"
+  },
+  {
+    "name": "three books",
+    "trans": [
+      "三本书"
+    ],
+    "usphone": "/θri/ /bʊks/",
+    "ukphone": "/θri/ /bʊks/"
+  },
+  {
+    "name": "I have written three books",
+    "trans": [
+      "我(已经)写了三本书"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/",
+    "ukphone": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/"
+  },
+  {
+    "name": "career",
+    "trans": [
+      "职业生涯"
+    ],
+    "usphone": "/kəˈrɪr/",
+    "ukphone": "/kəˈrɪr/"
+  },
+  {
+    "name": "my career",
+    "trans": [
+      "我的职业生涯"
+    ],
+    "usphone": "/maɪ/ /kəˈrɪr/",
+    "ukphone": "/maɪ/ /kəˈrɪr/"
+  },
+  {
+    "name": "in my career",
+    "trans": [
+      "在我的职业生涯里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /kəˈrɪr/",
+    "ukphone": "/ɪn/ /maɪ/ /kəˈrɪr/"
+  },
+  {
+    "name": "I have written three books in my career",
+    "trans": [
+      "我在我的职业生涯里(已经)写了三本书"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/",
+    "ukphone": "/aɪ/ /hæv/ /'rɪtn/ /θri/ /bʊks/ /ɪn/ /maɪ/ /kəˈrɪr/"
+  },
+  {
+    "name": "to teach",
+    "trans": [
+      "教"
+    ],
+    "usphone": "/tə/ /titʃ/",
+    "ukphone": "/tə/ /titʃ/"
+  },
+  {
+    "name": "taught",
+    "trans": [
+      "教(过去分词)"
+    ],
+    "usphone": "/tɔt/",
+    "ukphone": "/tɔt/"
+  },
+  {
+    "name": "I have taught",
+    "trans": [
+      "我(已经)教了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/"
+  },
+  {
+    "name": "I have taught you",
+    "trans": [
+      "我(已经)教了你"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/ /ju/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/ /ju/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "everything",
+    "trans": [
+      "一切"
+    ],
+    "usphone": "/'ɛvriθɪŋ/",
+    "ukphone": "/'ɛvriθɪŋ/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "everything I know",
+    "trans": [
+      "我知道的一切"
+    ],
+    "usphone": "/'ɛvriθɪŋ/ /aɪ/ /no/",
+    "ukphone": "/'ɛvriθɪŋ/ /aɪ/ /no/"
+  },
+  {
+    "name": "I have taught you everything I know",
+    "trans": [
+      "我(已经)教了你我知道的一切"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/ /ju/ /'ɛvriθɪŋ/ /aɪ/ /no/"
+  },
+  {
+    "name": "I have taught",
+    "trans": [
+      "我(已经)教了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/"
+  },
+  {
+    "name": "myself",
+    "trans": [
+      "我自己"
+    ],
+    "usphone": "/maɪ'sɛlf/",
+    "ukphone": "/maɪ'sɛlf/"
+  },
+  {
+    "name": "I have taught myself",
+    "trans": [
+      "我(已经)教了我自己"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "the piano",
+    "trans": [
+      "钢琴"
+    ],
+    "usphone": "/ðə/ /pɪ'æno/",
+    "ukphone": "/ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "to play the piano",
+    "trans": [
+      "弹钢琴"
+    ],
+    "usphone": "/tə/ /ple/ /ðə/ /pɪ'æno/",
+    "ukphone": "/tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to play the piano",
+    "trans": [
+      "如何弹钢琴"
+    ],
+    "usphone": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+    "ukphone": "/haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "I have taught myself",
+    "trans": [
+      "我(已经)自学了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "I have taught myself how to play the piano",
+    "trans": [
+      "我(已经)自学了如何弹钢琴"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/",
+    "ukphone": "/aɪ/ /hæv/ /tɔt/ /maɪ'sɛlf/ /haʊ/ /tə/ /ple/ /ðə/ /pɪ'æno/"
+  },
+  {
+    "name": "to live",
+    "trans": [
+      "居住"
+    ],
+    "usphone": "/tə/ /lɪv/",
+    "ukphone": "/tə/ /lɪv/"
+  },
+  {
+    "name": "lived",
+    "trans": [
+      "居住(过去分词)"
+    ],
+    "usphone": "/lɪvd/",
+    "ukphone": "/lɪvd/"
+  },
+  {
+    "name": "I have lived",
+    "trans": [
+      "我(已经)居住了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɪvd/",
+    "ukphone": "/aɪ/ /hæv/ /lɪvd/"
+  },
+  {
+    "name": "city",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "/'sɪti/",
+    "ukphone": "/'sɪti/"
+  },
+  {
+    "name": "this city",
+    "trans": [
+      "这个城市"
+    ],
+    "usphone": "/ðɪs/ /'sɪti/",
+    "ukphone": "/ðɪs/ /'sɪti/"
+  },
+  {
+    "name": "in this city",
+    "trans": [
+      "在这个城市里"
+    ],
+    "usphone": "/ɪn/ /ðɪs/ /'sɪti/",
+    "ukphone": "/ɪn/ /ðɪs/ /'sɪti/"
+  },
+  {
+    "name": "I have lived in this city",
+    "trans": [
+      "我(已经)在这个城市里居住了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/",
+    "ukphone": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "five years",
+    "trans": [
+      "五年"
+    ],
+    "usphone": "/faɪv/ /jɪrz/",
+    "ukphone": "/faɪv/ /jɪrz/"
+  },
+  {
+    "name": "I have lived in this city for five years",
+    "trans": [
+      "我(已经)在这个城市里居住了五年了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/",
+    "ukphone": "/aɪ/ /hæv/ /lɪvd/ /ɪn/ /ðɪs/ /'sɪti/ /fɚ/ /faɪv/ /jɪrz/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "worked",
+    "trans": [
+      "工作(过去分词)"
+    ],
+    "usphone": "/wɝkt/",
+    "ukphone": "/wɝkt/"
+  },
+  {
+    "name": "I have worked",
+    "trans": [
+      "我(已经)工作了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɝkt/",
+    "ukphone": "/aɪ/ /hæv/ /wɝkt/"
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "/ˈkʌmpəni/",
+    "ukphone": "/ˈkʌmpəni/"
+  },
+  {
+    "name": "that company",
+    "trans": [
+      "那个公司"
+    ],
+    "usphone": "/ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "at that company",
+    "trans": [
+      "在那个公司"
+    ],
+    "usphone": "/ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "I have worked at that company",
+    "trans": [
+      "我(已经)在那个公司工作了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/",
+    "ukphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "three years",
+    "trans": [
+      "三年"
+    ],
+    "usphone": "/θri/ /jɪrz/",
+    "ukphone": "/θri/ /jɪrz/"
+  },
+  {
+    "name": "I have worked at that company for three years",
+    "trans": [
+      "我(已经)在那个公司工作了三年了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/",
+    "ukphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /fɚ/ /θri/ /jɪrz/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "name": "since 2020",
+    "trans": [
+      "自从2020年以来"
+    ],
+    "usphone": "/sɪns/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "name": "I have worked at that company since 2020",
+    "trans": [
+      "我自从2020年以来(已经)在那个公司工作了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/aɪ/ /hæv/ /wɝkt/ /ət/ /ðæt/ /ˈkʌmpəni/ /sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "name": "to study",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /'stʌdi/",
+    "ukphone": "/tə/ /'stʌdi/"
+  },
+  {
+    "name": "studied",
+    "trans": [
+      "学习(过去分词)"
+    ],
+    "usphone": "/ˈstʌdid/",
+    "ukphone": "/ˈstʌdid/"
+  },
+  {
+    "name": "we have studied",
+    "trans": [
+      "我们(已经)学习了"
+    ],
+    "usphone": "/wi/ /hæv/ /ˈstʌdid/",
+    "ukphone": "/wi/ /hæv/ /ˈstʌdid/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "we have studied English",
+    "trans": [
+      "我们(已经)学习了英文"
+    ],
+    "usphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "three years",
+    "trans": [
+      "三年"
+    ],
+    "usphone": "/θri/ /jɪrz/",
+    "ukphone": "/θri/ /jɪrz/"
+  },
+  {
+    "name": "we have studied English for three years",
+    "trans": [
+      "我们(已经)学习了英文三年了"
+    ],
+    "usphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/",
+    "ukphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /fɚ/ /θri/ /jɪrz/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/sɪns/ /twenty twenty/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "name": "since 2020",
+    "trans": [
+      "自从2020年以来"
+    ],
+    "usphone": "/sɪns/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/sɪns/ /'twɛnti/ /'twɛnti/"
+  },
+  {
+    "name": "we have studied English since 2020",
+    "trans": [
+      "我们自从2020年以来(已经)学习英文了"
+    ],
+    "usphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/",
+    "ukphone": "/wi/ /hæv/ /ˈstʌdid/ /ˈɪŋɡlɪʃ/ /sɪns/ /'twɛnti/ /'twɛnti/"
+  }
+]

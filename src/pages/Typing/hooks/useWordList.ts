@@ -1,4 +1,5 @@
 import { CHAPTER_LENGTH } from '@/constants'
+import { useSkipMasteredWord } from '@/hooks/useSkipMasteredWord'
 import { currentChapterAtom, currentDictInfoAtom, reviewModeInfoAtom } from '@/store'
 import type { Word, WordWithIndex } from '@/typings/index'
 import { wordListFetcher } from '@/utils/wordListFetcher'
@@ -10,6 +11,8 @@ export type UseWordListResult = {
   words: WordWithIndex[]
   isLoading: boolean
   error: Error | undefined
+  /** 源章节非空但被生词本全部过滤掉时为 true，调用方可据此渲染兜底文案 */
+  isAllMastered: boolean
 }
 
 /**
@@ -28,6 +31,16 @@ export function useWordList(): UseWordListResult {
   const isFirstChapter = !isReviewMode && currentDictInfo.id === 'cet4' && currentChapter === 0
   const { data: wordList, error, isLoading } = useSWR(currentDictInfo.url, wordListFetcher)
 
+  // 默认策略：练习中跳过已加入生词本的单词
+  const masteredSet = useSkipMasteredWord(currentDictInfo.id)
+
+  const sourceLength = useMemo(() => {
+    if (isFirstChapter) return firstChapter.length
+    if (isReviewMode) return reviewRecord?.words?.length ?? 0
+    if (wordList) return wordList.slice(currentChapter * CHAPTER_LENGTH, (currentChapter + 1) * CHAPTER_LENGTH).length
+    return 0
+  }, [isFirstChapter, isReviewMode, wordList, reviewRecord?.words, currentChapter])
+
   const words: WordWithIndex[] = useMemo(() => {
     let newWords: Word[]
     if (isFirstChapter) {
@@ -38,6 +51,11 @@ export function useWordList(): UseWordListResult {
       newWords = wordList.slice(currentChapter * CHAPTER_LENGTH, (currentChapter + 1) * CHAPTER_LENGTH)
     } else {
       newWords = []
+    }
+
+    // 复习模式不跳过；其他模式按 newWords 集合过滤
+    if (!isReviewMode && masteredSet.size > 0) {
+      newWords = newWords.filter((w) => !masteredSet.has(w.name.toLowerCase()))
     }
 
     // 记录原始 index, 并对 word.trans 做兜底处理
@@ -56,9 +74,10 @@ export function useWordList(): UseWordListResult {
         trans,
       }
     })
-  }, [isFirstChapter, isReviewMode, wordList, reviewRecord?.words, currentChapter])
+  }, [isFirstChapter, isReviewMode, wordList, reviewRecord?.words, currentChapter, masteredSet])
 
-  return { words, isLoading, error }
+  const isAllMastered = !isLoading && !isReviewMode && sourceLength > 0 && words.length === 0
+  return { words, isLoading, error, isAllMastered }
 }
 
 const firstChapter = [

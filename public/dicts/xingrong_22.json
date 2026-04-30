@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "to answer the question",
+    "trans": [
+      "回答这个问题"
+    ],
+    "usphone": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "这个问题；这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɑlv/",
+    "ukphone": "/tə/ /sɑlv/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个问题"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "we need",
+    "trans": [
+      "我们需要"
+    ],
+    "usphone": "/wi/ /nid/",
+    "ukphone": "/wi/ /nid/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we need to solve the problem",
+    "trans": [
+      "我们需要解决这个麻烦"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we need to solve the problem together",
+    "trans": [
+      "我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "don't need",
+    "trans": [
+      "不需要"
+    ],
+    "usphone": "/dont/ /nid/",
+    "ukphone": "/dont/ /nid/"
+  },
+  {
+    "name": "we don't need to solve the problem together",
+    "trans": [
+      "我们不需要一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /dont/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kən/",
+    "ukphone": "/kən/"
+  },
+  {
+    "name": "we can solve the problem together",
+    "trans": [
+      "我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we can not solve the problem together",
+    "trans": [
+      "我们不可以一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /kən/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "we will solve the problem together",
+    "trans": [
+      "我们将会一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we will not solve the problem together",
+    "trans": [
+      "我们将不会一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɪl/ /nɑt/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we try to solve the problem",
+    "trans": [
+      "我们尝试解决这个麻烦"
+    ],
+    "usphone": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we try to solve the problem together",
+    "trans": [
+      "我们尝试一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "trying",
+    "trans": [
+      "尝试(ing形式)"
+    ],
+    "usphone": "/'traɪɪŋ/",
+    "ukphone": "/'traɪɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be trying",
+    "trans": [
+      "正在尝试"
+    ],
+    "usphone": "/bi/ /'traɪɪŋ/",
+    "ukphone": "/bi/ /'traɪɪŋ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we are trying",
+    "trans": [
+      "我们(现在)正在尝试"
+    ],
+    "usphone": "/wi/ /ɚ/ /'traɪɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /'traɪɪŋ/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we are trying to solve the problem",
+    "trans": [
+      "我们(现在)正在尝试解决这个麻烦"
+    ],
+    "usphone": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起"
+    ],
+    "usphone": "/tə'ɡɛðɚ/",
+    "ukphone": "/tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we are trying to solve the problem together",
+    "trans": [
+      "我们(现在)正在尝试一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /ɚ/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "face",
+    "trans": [
+      "脸"
+    ],
+    "usphone": "/fes/",
+    "ukphone": "/fes/"
+  },
+  {
+    "name": "to face",
+    "trans": [
+      "面对"
+    ],
+    "usphone": "/tə/ /fes/",
+    "ukphone": "/tə/ /fes/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to face me",
+    "trans": [
+      "面对我"
+    ],
+    "usphone": "/tə/ /fes/ /mi/",
+    "ukphone": "/tə/ /fes/ /mi/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "真相；现实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to face the truth",
+    "trans": [
+      "面对现实"
+    ],
+    "usphone": "/tə/ /fes/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /fes/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "you need to face the truth",
+    "trans": [
+      "你需要面对现实"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /nid/ /tə/ /fes/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to face the problem",
+    "trans": [
+      "面对这个麻烦"
+    ],
+    "usphone": "/tə/ /fes/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /fes/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we need",
+    "trans": [
+      "我们需要"
+    ],
+    "usphone": "/wi/ /nid/",
+    "ukphone": "/wi/ /nid/"
+  },
+  {
+    "name": "we need to face the problem",
+    "trans": [
+      "我们需要面对这个麻烦"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /nid/ /tə/ /fes/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we face the problem",
+    "trans": [
+      "我们面对这个麻烦"
+    ],
+    "usphone": "/wi/ /fes/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /fes/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "facing",
+    "trans": [
+      "面对(ing形式)"
+    ],
+    "usphone": "/'fesɪŋ/",
+    "ukphone": "/'fesɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be facing",
+    "trans": [
+      "正在面对"
+    ],
+    "usphone": "/bi/ /'fesɪŋ/",
+    "ukphone": "/bi/ /'fesɪŋ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we are facing",
+    "trans": [
+      "我们(现在)正在面对"
+    ],
+    "usphone": "/wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "a",
+    "trans": [
+      "一个"
+    ],
+    "usphone": "/ə/",
+    "ukphone": "/ə/"
+  },
+  {
+    "name": "a problem",
+    "trans": [
+      "一个麻烦"
+    ],
+    "usphone": "/ə/ /'prɑbləm/",
+    "ukphone": "/ə/ /'prɑbləm/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "a big problem",
+    "trans": [
+      "一个大麻烦"
+    ],
+    "usphone": "/ə/ /bɪɡ/ /'prɑbləm/",
+    "ukphone": "/ə/ /bɪɡ/ /'prɑbləm/"
+  },
+  {
+    "name": "we are facing a big problem",
+    "trans": [
+      "我们(现在)正在面对一个大麻烦"
+    ],
+    "usphone": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/",
+    "ukphone": "/wi/ /ɚ/ /'fesɪŋ/ /ə/ /bɪɡ/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɑlv/",
+    "ukphone": "/tə/ /sɑlv/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "I try to solve the problem",
+    "trans": [
+      "我尝试解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /traɪ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "trying",
+    "trans": [
+      "尝试(ing形式)"
+    ],
+    "usphone": "/'traɪɪŋ/",
+    "ukphone": "/'traɪɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be trying",
+    "trans": [
+      "正在尝试"
+    ],
+    "usphone": "/bi/ /'traɪɪŋ/",
+    "ukphone": "/bi/ /'traɪɪŋ/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am trying",
+    "trans": [
+      "我(现在)正在尝试"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "I am trying to solve the problem",
+    "trans": [
+      "我(现在)正在尝试解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "facing",
+    "trans": [
+      "面对(ing形式)"
+    ],
+    "usphone": "/'fesɪŋ/",
+    "ukphone": "/'fesɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be facing",
+    "trans": [
+      "正在面对"
+    ],
+    "usphone": "/bi/ /'fesɪŋ/",
+    "ukphone": "/bi/ /'fesɪŋ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we are facing",
+    "trans": [
+      "我们(现在)正在面对"
+    ],
+    "usphone": "/wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "the problem we are facing",
+    "trans": [
+      "我们(现在)正在面对的这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "I am trying to solve the problem",
+    "trans": [
+      "我(现在)正在尝试解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "I am trying to solve the problem we are facing",
+    "trans": [
+      "我(现在)正在尝试解决我们面对的这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "I am trying to solve the problem we are facing now",
+    "trans": [
+      "我(现在)正在尝试解决我们现在正在面对的这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+    "ukphone": "/aɪ/ /æm/ /'traɪɪŋ/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+  },
+  {
+    "name": "to solve the problem",
+    "trans": [
+      "解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "I solve the problem",
+    "trans": [
+      "我解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /sɑlv/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "solving",
+    "trans": [
+      "解决(ing形式)"
+    ],
+    "usphone": "/sɑlvɪŋ/",
+    "ukphone": "/sɑlvɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be solving",
+    "trans": [
+      "正在解决"
+    ],
+    "usphone": "/bi/ /sɑlvɪŋ/",
+    "ukphone": "/bi/ /sɑlvɪŋ/"
+  },
+  {
+    "name": "I am solving",
+    "trans": [
+      "我(现在)正在解决"
+    ],
+    "usphone": "/aɪ/ /æm/ /sɑlvɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /sɑlvɪŋ/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "I am solving the problem",
+    "trans": [
+      "我(现在)正在解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "we are facing",
+    "trans": [
+      "我们(现在)正在面对"
+    ],
+    "usphone": "/wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "the problem we are facing",
+    "trans": [
+      "我们(现在)正在面对的这个麻烦"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "I am solving the problem we are facing",
+    "trans": [
+      "我(现在)正在解决我们(现在)正在面对的这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "I am solving the problem we are facing now",
+    "trans": [
+      "我(现在)正在解决我们现在正在面对的这个麻烦"
+    ],
+    "usphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/",
+    "ukphone": "/aɪ/ /æm/ /sɑlvɪŋ/ /ðə/ /'prɑbləm/ /wi/ /ɚ/ /'fesɪŋ/ /naʊ/"
+  },
+  {
+    "name": "to wonder",
+    "trans": [
+      "疑惑"
+    ],
+    "usphone": "/tə/ /'wʌndɚ/",
+    "ukphone": "/tə/ /'wʌndɚ/"
+  },
+  {
+    "name": "I wonder",
+    "trans": [
+      "我疑惑"
+    ],
+    "usphone": "/aɪ/ /'wʌndɚ/",
+    "ukphone": "/aɪ/ /'wʌndɚ/"
+  },
+  {
+    "name": "to solve the problem together",
+    "trans": [
+      "一起解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we can",
+    "trans": [
+      "我们可以"
+    ],
+    "usphone": "/wi/ /kən/",
+    "ukphone": "/wi/ /kən/"
+  },
+  {
+    "name": "we can solve the problem together",
+    "trans": [
+      "我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if we can solve the problem together",
+    "trans": [
+      "是否我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "I wonder",
+    "trans": [
+      "我疑惑"
+    ],
+    "usphone": "/aɪ/ /'wʌndɚ/",
+    "ukphone": "/aɪ/ /'wʌndɚ/"
+  },
+  {
+    "name": "I wonder if we can solve the problem together",
+    "trans": [
+      "我疑惑是否我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/aɪ/ /'wʌndɚ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "to solve the problem together",
+    "trans": [
+      "一起解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we need",
+    "trans": [
+      "我们需要"
+    ],
+    "usphone": "/wi/ /nid/",
+    "ukphone": "/wi/ /nid/"
+  },
+  {
+    "name": "we need to solve the problem together",
+    "trans": [
+      "我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "why we need to solve the problem together",
+    "trans": [
+      "为什么我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "I wonder",
+    "trans": [
+      "我疑惑"
+    ],
+    "usphone": "/aɪ/ /'wʌndɚ/",
+    "ukphone": "/aɪ/ /'wʌndɚ/"
+  },
+  {
+    "name": "I wonder why we need to solve the problem together",
+    "trans": [
+      "我疑惑为什么我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/aɪ/ /'wʌndɚ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he wonders",
+    "trans": [
+      "他疑惑"
+    ],
+    "usphone": "/hi/ /'wʌndɚz/",
+    "ukphone": "/hi/ /'wʌndɚz/"
+  },
+  {
+    "name": "to solve the problem together",
+    "trans": [
+      "一起解决这个麻烦"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "we will",
+    "trans": [
+      "我们将会"
+    ],
+    "usphone": "/wi/ /wɪl/",
+    "ukphone": "/wi/ /wɪl/"
+  },
+  {
+    "name": "we will solve the problem together",
+    "trans": [
+      "我们将会一起解决这个麻烦"
+    ],
+    "usphone": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "在什么时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when we will solve the problem together",
+    "trans": [
+      "我们将会在什么时候一起解决这个麻烦"
+    ],
+    "usphone": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "he wonders when we will solve the problem together",
+    "trans": [
+      "他疑惑我们将会在什么时候一起解决这个麻烦"
+    ],
+    "usphone": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/hi/ /'wʌndɚz/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how we will solve the problem together",
+    "trans": [
+      "我们将会如何一起解决这个问题"
+    ],
+    "usphone": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "he wonders how we will solve the problem together",
+    "trans": [
+      "他疑惑我们将会如何一起解决这个麻烦"
+    ],
+    "usphone": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/hi/ /'wʌndɚz/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "wondering",
+    "trans": [
+      "疑惑(ing形式)"
+    ],
+    "usphone": "/'wʌndərɪŋ/",
+    "ukphone": "/'wʌndərɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be wondering",
+    "trans": [
+      "正在疑惑"
+    ],
+    "usphone": "/bi/ /'wʌndərɪŋ/",
+    "ukphone": "/bi/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "I was wondering",
+    "trans": [
+      "我(过去)正在疑惑"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+    "ukphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "if we can solve the problem together",
+    "trans": [
+      "是否我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "I was wondering if we can solve the problem together",
+    "trans": [
+      "我(过去)正在疑惑是否我们可以一起解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /ɪf/ /wi/ /kən/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "I was wondering",
+    "trans": [
+      "我(过去)正在疑惑"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/",
+    "ukphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "why we need to solve the problem together",
+    "trans": [
+      "为什么我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "I was wondering why we need to solve the problem together",
+    "trans": [
+      "我(过去)正在疑惑为什么我们需要一起解决这个麻烦"
+    ],
+    "usphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/aɪ/ /wəz/ /'wʌndərɪŋ/ /waɪ/ /wi/ /nid/ /tə/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "wondering",
+    "trans": [
+      "疑惑(ing形式)"
+    ],
+    "usphone": "/'wʌndərɪŋ/",
+    "ukphone": "/'wʌndərɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be wondering",
+    "trans": [
+      "正在疑惑"
+    ],
+    "usphone": "/bi/ /'wʌndərɪŋ/",
+    "ukphone": "/bi/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is wondering",
+    "trans": [
+      "他(现在)正在疑惑"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+    "ukphone": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "when we will solve the problem together",
+    "trans": [
+      "我们将会在什么时候一起解决这个麻烦"
+    ],
+    "usphone": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "he is wondering when we will solve the problem together",
+    "trans": [
+      "他(现在)正在疑惑我们将会在什么时候一起解决这个麻烦"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/hi/ /ɪz/ /'wʌndərɪŋ/ /wɛn/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how we will solve the problem together",
+    "trans": [
+      "我们将会如何一起解决这个问题"
+    ],
+    "usphone": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  },
+  {
+    "name": "he is wondering",
+    "trans": [
+      "他(现在)正在疑惑"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wʌndərɪŋ/",
+    "ukphone": "/hi/ /ɪz/ /'wʌndərɪŋ/"
+  },
+  {
+    "name": "he is wondering how we will solve the problem together",
+    "trans": [
+      "他(现在)正在疑惑我们将会如何一起解决这个问题"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/",
+    "ukphone": "/hi/ /ɪz/ /'wʌndərɪŋ/ /haʊ/ /wi/ /wɪl/ /sɑlv/ /ðə/ /'prɑbləm/ /tə'ɡɛðɚ/"
+  }
+]

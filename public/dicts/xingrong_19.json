@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "book",
+    "trans": [
+      "书"
+    ],
+    "usphone": "/bʊk/",
+    "ukphone": "/bʊk/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "an English book",
+    "trans": [
+      "一本英语书"
+    ],
+    "usphone": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "to read an English book",
+    "trans": [
+      "阅读一本英语书"
+    ],
+    "usphone": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/tə/ /rid/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "阅读（ing形式）"
+    ],
+    "usphone": "/ridɪŋ/",
+    "ukphone": "/ridɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be reading",
+    "trans": [
+      "正在阅读"
+    ],
+    "usphone": "/bi/ /ridɪŋ/",
+    "ukphone": "/bi/ /ridɪŋ/"
+  },
+  {
+    "name": "be reading an English book",
+    "trans": [
+      "正在阅读一本英语书"
+    ],
+    "usphone": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/bi/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am reading an English book",
+    "trans": [
+      "我（现在）正在阅读一本英语书"
+    ],
+    "usphone": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "the moment",
+    "trans": [
+      "这一瞬间；这一刻"
+    ],
+    "usphone": "/ðə/ /'momənt/",
+    "ukphone": "/ðə/ /'momənt/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "I am reading an English book at the moment",
+    "trans": [
+      "我此刻正在阅读一本英语书"
+    ],
+    "usphone": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/aɪ/ /æm/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "I was reading an English book",
+    "trans": [
+      "我（过去）正在阅读一本英语书"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨晚"
+    ],
+    "usphone": "/læst/ /naɪt/",
+    "ukphone": "/læst/ /naɪt/"
+  },
+  {
+    "name": "I was reading an English book last night",
+    "trans": [
+      "我昨晚正在阅读一本英语书"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /læst/ /naɪt/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "her homework",
+    "trans": [
+      "她的家庭作业"
+    ],
+    "usphone": "/hɚ/ /'homwɝk/",
+    "ukphone": "/hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do her homework",
+    "trans": [
+      "做她的家庭作业"
+    ],
+    "usphone": "/tə/ /du/ /hɚ/ /'homwɝk/",
+    "ukphone": "/tə/ /du/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "doing",
+    "trans": [
+      "做（ing形式）"
+    ],
+    "usphone": "/ˈduɪŋ/",
+    "ukphone": "/ˈduɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be doing",
+    "trans": [
+      "正在做"
+    ],
+    "usphone": "/bi/ /ˈduɪŋ/",
+    "ukphone": "/bi/ /ˈduɪŋ/"
+  },
+  {
+    "name": "be doing her homework",
+    "trans": [
+      "正在做她的家庭作业"
+    ],
+    "usphone": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+    "ukphone": "/bi/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is doing her homework",
+    "trans": [
+      "她（现在）正在做她的家庭作业"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+    "ukphone": "/ʃi/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "daughter",
+    "trans": [
+      "女儿"
+    ],
+    "usphone": "/'dɔtɚ/",
+    "ukphone": "/'dɔtɚ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my daughter",
+    "trans": [
+      "我的女儿"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "name": "my daughter is doing her homework",
+    "trans": [
+      "我的女儿（现在）正在做她的家庭作业"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my daughter is doing her homework at the moment",
+    "trans": [
+      "我的女儿此刻正在做她的家庭作业"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my daughter was doing her homework",
+    "trans": [
+      "我的女儿（过去）正在做她的家庭作业"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "I was reading an English book",
+    "trans": [
+      "我（过去）正在阅读一本英语书"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/",
+    "ukphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "I was reading an English book while my daughter was doing her homework",
+    "trans": [
+      "我（过去）正在阅读一本英语书与此同时我的女儿（过去）正在做她的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/",
+    "ukphone": "/aɪ/ /wəz/ /ridɪŋ/ /æn/ /ˈɪŋɡlɪʃ/ /bʊk/ /waɪl/ /maɪ/ /'dɔtɚ/ /wəz/ /ˈduɪŋ/ /hɚ/ /'homwɝk/"
+  },
+  {
+    "name": "to run",
+    "trans": [
+      "跑步"
+    ],
+    "usphone": "/tə/ /rʌn/",
+    "ukphone": "/tə/ /rʌn/"
+  },
+  {
+    "name": "the street",
+    "trans": [
+      "街道"
+    ],
+    "usphone": "/ðə/ /strit/",
+    "ukphone": "/ðə/ /strit/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "to run in the street",
+    "trans": [
+      "在街上跑步"
+    ],
+    "usphone": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/tə/ /rʌn/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "running",
+    "trans": [
+      "跑步（ing形式）"
+    ],
+    "usphone": "/'rʌnɪŋ/",
+    "ukphone": "/'rʌnɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be running",
+    "trans": [
+      "正在跑步"
+    ],
+    "usphone": "/bi/ /'rʌnɪŋ/",
+    "ukphone": "/bi/ /'rʌnɪŋ/"
+  },
+  {
+    "name": "be running in the street",
+    "trans": [
+      "正在在街上跑步"
+    ],
+    "usphone": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/bi/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is running in the street",
+    "trans": [
+      "他（现在）正在在街上跑步"
+    ],
+    "usphone": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "he is running in the street at the moment",
+    "trans": [
+      "他此刻正在在街上跑步"
+    ],
+    "usphone": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/hi/ /ɪz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "he was running in the street",
+    "trans": [
+      "他（过去）正在在街上跑步"
+    ],
+    "usphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "to swim",
+    "trans": [
+      "游泳"
+    ],
+    "usphone": "/tə/ /swɪm/",
+    "ukphone": "/tə/ /swɪm/"
+  },
+  {
+    "name": "the pool",
+    "trans": [
+      "游泳池"
+    ],
+    "usphone": "/ðə/ /pul/",
+    "ukphone": "/ðə/ /pul/"
+  },
+  {
+    "name": "in the pool",
+    "trans": [
+      "在游泳池里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /pul/",
+    "ukphone": "/ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "to swim in the pool",
+    "trans": [
+      "在游泳池里游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/",
+    "ukphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "swimming",
+    "trans": [
+      "游泳（ing形式）"
+    ],
+    "usphone": "/'swɪmɪŋ/",
+    "ukphone": "/'swɪmɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be swimming",
+    "trans": [
+      "正在游泳"
+    ],
+    "usphone": "/bi/ /'swɪmɪŋ/",
+    "ukphone": "/bi/ /'swɪmɪŋ/"
+  },
+  {
+    "name": "be swimming in the pool",
+    "trans": [
+      "正在在游泳池里游泳"
+    ],
+    "usphone": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+    "ukphone": "/bi/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is swimming in the pool",
+    "trans": [
+      "她（现在）正在游泳池里游泳"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+    "ukphone": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "she is swimming in the pool at the moment",
+    "trans": [
+      "她此刻正在游泳池里游泳"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/",
+    "ukphone": "/ʃi/ /ɪz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/ /æt/ /ðə/ /moment/ /'momənt/"
+  },
+  {
+    "name": "she was swimming in the pool",
+    "trans": [
+      "她（过去）正在游泳池里游泳"
+    ],
+    "usphone": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+    "ukphone": "/ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "he was running in the street",
+    "trans": [
+      "他（过去）正在在街上跑步"
+    ],
+    "usphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "he was running in the street while she was swimming in the pool",
+    "trans": [
+      "他（过去）正在在街上跑步与此同时她（过去）正在游泳池里游泳"
+    ],
+    "usphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/",
+    "ukphone": "/hi/ /wəz/ /'rʌnɪŋ/ /ɪn/ /ðə/ /strit/ /waɪl/ /ʃi/ /wəz/ /'swɪmɪŋ/ /ɪn/ /ðə/ /pul/"
+  },
+  {
+    "name": "house",
+    "trans": [
+      "房子"
+    ],
+    "usphone": "/haʊs/",
+    "ukphone": "/haʊs/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "the housework",
+    "trans": [
+      "家务"
+    ],
+    "usphone": "/ðə/ /'haʊswɝk/",
+    "ukphone": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do the housework",
+    "trans": [
+      "做家务"
+    ],
+    "usphone": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "doing",
+    "trans": [
+      "做（ing形式）"
+    ],
+    "usphone": "/ˈduɪŋ/",
+    "ukphone": "/ˈduɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be doing",
+    "trans": [
+      "正在做"
+    ],
+    "usphone": "/bi/ /ˈduɪŋ/",
+    "ukphone": "/bi/ /ˈduɪŋ/"
+  },
+  {
+    "name": "be doing the housework",
+    "trans": [
+      "正在做家务"
+    ],
+    "usphone": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/bi/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is doing the housework",
+    "trans": [
+      "她（现在）正在做家务"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/ʃi/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "母亲；妈妈"
+    ],
+    "usphone": "/'mʌðɚ/",
+    "ukphone": "/'mʌðɚ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my mother",
+    "trans": [
+      "我的妈妈"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/",
+    "ukphone": "/maɪ/ /'mʌðɚ/"
+  },
+  {
+    "name": "my mother is doing the housework",
+    "trans": [
+      "我的妈妈（现在）正在做家务"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my mother is doing the housework at the moment",
+    "trans": [
+      "我妈此刻正在做家务"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/maɪ/ /'mʌðɚ/ /ɪz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my mother was doing the housework",
+    "trans": [
+      "我妈（过去）正在做家务"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "to talk",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /tɔk/",
+    "ukphone": "/tə/ /tɔk/"
+  },
+  {
+    "name": "the phone",
+    "trans": [
+      "手机"
+    ],
+    "usphone": "/ðə/ /fon/",
+    "ukphone": "/ðə/ /fon/"
+  },
+  {
+    "name": "on the phone",
+    "trans": [
+      "在手机上"
+    ],
+    "usphone": "/ɑn/ /ðə/ /fon/",
+    "ukphone": "/ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "to talk on the phone",
+    "trans": [
+      "在手机上说话"
+    ],
+    "usphone": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/tə/ /tɔk/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "talking",
+    "trans": [
+      "说话（ing形式）"
+    ],
+    "usphone": "/'tɔkɪŋ/",
+    "ukphone": "/'tɔkɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be talking",
+    "trans": [
+      "正在说话"
+    ],
+    "usphone": "/bi/ /'tɔkɪŋ/",
+    "ukphone": "/bi/ /'tɔkɪŋ/"
+  },
+  {
+    "name": "be talking on the phone",
+    "trans": [
+      "正在在手机上说话"
+    ],
+    "usphone": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/bi/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he is talking on the phone",
+    "trans": [
+      "他（现在）正在手机上说话"
+    ],
+    "usphone": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/hi/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "父亲；爸爸"
+    ],
+    "usphone": "/'fɑðɚ/",
+    "ukphone": "/'fɑðɚ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my father",
+    "trans": [
+      "我的父亲"
+    ],
+    "usphone": "/maɪ/ /'fɑðɚ/",
+    "ukphone": "/maɪ/ /'fɑðɚ/"
+  },
+  {
+    "name": "my father is talking on the phone",
+    "trans": [
+      "我爸（现在）正在手机上说话"
+    ],
+    "usphone": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my father is talking on the phone at the moment",
+    "trans": [
+      "我爸此刻正在手机上说话"
+    ],
+    "usphone": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/maɪ/ /'fɑðɚ/ /ɪz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my father was talking on the phone",
+    "trans": [
+      "我爸（过去）正在手机上说话"
+    ],
+    "usphone": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "my mother was doing the housework",
+    "trans": [
+      "我妈（过去）正在做家务"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "my mother was doing the housework while my father was talking on the phone",
+    "trans": [
+      "我妈（过去）正在做家务与此同时我爸（过去）正在手机上说话"
+    ],
+    "usphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/",
+    "ukphone": "/maɪ/ /'mʌðɚ/ /wəz/ /ˈduɪŋ/ /ðə/ /'haʊswɝk/ /waɪl/ /maɪ/ /'fɑðɚ/ /wəz/ /'tɔkɪŋ/ /ɑn/ /ðə/ /fon/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "TV",
+    "trans": [
+      "电视"
+    ],
+    "usphone": "/ˈtiˈvi/",
+    "ukphone": "/ˈtiˈvi/"
+  },
+  {
+    "name": "to watch TV",
+    "trans": [
+      "看电视"
+    ],
+    "usphone": "/tə/ /'wɑtʃ/ /ˈtiˈvi/",
+    "ukphone": "/tə/ /'wɑtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "watching",
+    "trans": [
+      "看（ing形式）"
+    ],
+    "usphone": "/'wɑtʃɪŋ/",
+    "ukphone": "/'wɑtʃɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be watching",
+    "trans": [
+      "正在看"
+    ],
+    "usphone": "/bi/ /'wɑtʃɪŋ/",
+    "ukphone": "/bi/ /'wɑtʃɪŋ/"
+  },
+  {
+    "name": "be watching TV",
+    "trans": [
+      "正在看电视"
+    ],
+    "usphone": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+    "ukphone": "/bi/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is watching TV",
+    "trans": [
+      "她（现在）正在看电视"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+    "ukphone": "/ʃi/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "daughter",
+    "trans": [
+      "女儿"
+    ],
+    "usphone": "/'dɔtɚ/",
+    "ukphone": "/'dɔtɚ/"
+  },
+  {
+    "name": "my daughter",
+    "trans": [
+      "我的女儿"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "name": "my daughter is watching TV",
+    "trans": [
+      "我女儿（现在）正在看电视"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my daughter is watching TV at the moment",
+    "trans": [
+      "我女儿此刻正在看电视"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "my daughter was watching TV",
+    "trans": [
+      "我女儿（过去）正在看电视"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "to cook",
+    "trans": [
+      "烹饪；做饭"
+    ],
+    "usphone": "/tə/ /kʊk/",
+    "ukphone": "/tə/ /kʊk/"
+  },
+  {
+    "name": "beef",
+    "trans": [
+      "牛肉"
+    ],
+    "usphone": "/bif/",
+    "ukphone": "/bif/"
+  },
+  {
+    "name": "to cook beef",
+    "trans": [
+      "做牛肉"
+    ],
+    "usphone": "/tə/ /kʊk/ /bif/",
+    "ukphone": "/tə/ /kʊk/ /bif/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "potatoes",
+    "trans": [
+      "土豆"
+    ],
+    "usphone": "/pə'tetoz/",
+    "ukphone": "/pə'tetoz/"
+  },
+  {
+    "name": "with potatoes",
+    "trans": [
+      "和土豆"
+    ],
+    "usphone": "/wɪð/ /pə'tetoz/",
+    "ukphone": "/wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "beef with potatoes",
+    "trans": [
+      "牛肉和土豆"
+    ],
+    "usphone": "/bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "to cook beef with potatoes",
+    "trans": [
+      "烹饪牛肉和土豆"
+    ],
+    "usphone": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/tə/ /kʊk/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "cooking",
+    "trans": [
+      "烹饪；做饭（ing形式）"
+    ],
+    "usphone": "/'kʊkɪŋ/",
+    "ukphone": "/'kʊkɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值（原型）"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be cooking",
+    "trans": [
+      "正在烹饪"
+    ],
+    "usphone": "/bi/ /'kʊkɪŋ/",
+    "ukphone": "/bi/ /'kʊkɪŋ/"
+  },
+  {
+    "name": "be cooking beef with potatoes",
+    "trans": [
+      "正在做牛肉烧土豆"
+    ],
+    "usphone": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/bi/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is cooking beef with potatoes",
+    "trans": [
+      "她（现在）正在做牛肉烧土豆"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/ʃi/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "母亲；妈妈"
+    ],
+    "usphone": "/'mʌðɚ/",
+    "ukphone": "/'mʌðɚ/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "her mother",
+    "trans": [
+      "她的妈妈"
+    ],
+    "usphone": "/hɚ/ /'mʌðɚ/",
+    "ukphone": "/hɚ/ /'mʌðɚ/"
+  },
+  {
+    "name": "her mother is cooking beef with potatoes",
+    "trans": [
+      "她妈妈（现在）正在做牛肉烧土豆"
+    ],
+    "usphone": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "at the moment",
+    "trans": [
+      "在这一刻；此刻"
+    ],
+    "usphone": "/æt/ /ðə/ /'momənt/",
+    "ukphone": "/æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "her mother is cooking beef with potatoes at the moment",
+    "trans": [
+      "她妈妈此刻正在做牛肉烧土豆"
+    ],
+    "usphone": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/",
+    "ukphone": "/hɚ/ /'mʌðɚ/ /ɪz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/ /æt/ /ðə/ /'momənt/"
+  },
+  {
+    "name": "her mother was cooking beef with potatoes",
+    "trans": [
+      "她妈妈（过去）正在做牛肉烧土豆"
+    ],
+    "usphone": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  },
+  {
+    "name": "my daughter was watching TV",
+    "trans": [
+      "我女儿（过去）正在看电视"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "while",
+    "trans": [
+      "与此同时"
+    ],
+    "usphone": "/waɪl/",
+    "ukphone": "/waɪl/"
+  },
+  {
+    "name": "my daughter was watching TV while her mother was cooking beef with potatoes",
+    "trans": [
+      "我女儿（过去）正在看电视与此同时她妈妈（过去）正在做牛肉烧土豆"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /'wɑtʃɪŋ/ /ˈtiˈvi/ /waɪl/ /hɚ/ /'mʌðɚ/ /wəz/ /'kʊkɪŋ/ /bif/ /wɪð/ /pə'tetoz/"
+  }
+]

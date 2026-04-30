@@ -1,0 +1,1386 @@
+[
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɑlv/",
+    "ukphone": "/tə/ /sɑlv/"
+  },
+  {
+    "name": "solution",
+    "trans": [
+      "解决办法"
+    ],
+    "usphone": "/səˈluʃn/",
+    "ukphone": "/səˈluʃn/"
+  },
+  {
+    "name": "the problem",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'prɑbləm/",
+    "ukphone": "/ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "a solution to the problem",
+    "trans": [
+      "那个问题的一个解决办法"
+    ],
+    "usphone": "/ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+    "ukphone": "/ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "found",
+    "trans": [
+      "找到(过去分词)"
+    ],
+    "usphone": "/faʊnd/",
+    "ukphone": "/faʊnd/"
+  },
+  {
+    "name": "we have found",
+    "trans": [
+      "我们(已经)找到"
+    ],
+    "usphone": "/wi/ /hæv/ /faʊnd/",
+    "ukphone": "/wi/ /hæv/ /faʊnd/"
+  },
+  {
+    "name": "we have found a solution to the problem",
+    "trans": [
+      "我们(已经)找到那个问题的一个解决办法"
+    ],
+    "usphone": "/wi/ /hæv/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /hæv/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "we haven't found a solution to the problem",
+    "trans": [
+      "我们(还没有)找到那个问题的一个解决办法"
+    ],
+    "usphone": "/wi/ /ˈhævnt/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/",
+    "ukphone": "/wi/ /ˈhævnt/ /faʊnd/ /ə/ /səˈluʃn/ /tə/ /ðə/ /'prɑbləm/"
+  },
+  {
+    "name": "to visit",
+    "trans": [
+      "参观"
+    ],
+    "usphone": "/tə/ /'vɪzɪt/",
+    "ukphone": "/tə/ /'vɪzɪt/"
+  },
+  {
+    "name": "visited",
+    "trans": [
+      "参观(过去分词)"
+    ],
+    "usphone": "/'vɪzɪtɪd/",
+    "ukphone": "/'vɪzɪtɪd/"
+  },
+  {
+    "name": "they have visited",
+    "trans": [
+      "他们(已经)参观过"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "museum",
+    "trans": [
+      "博物馆"
+    ],
+    "usphone": "/mjuˈziəm/",
+    "ukphone": "/mjuˈziəm/"
+  },
+  {
+    "name": "that museum",
+    "trans": [
+      "那个博物馆"
+    ],
+    "usphone": "/ðæt/ /mjuˈziəm/",
+    "ukphone": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "name": "they have visited that museum",
+    "trans": [
+      "他们(已经)参观过那个博物馆"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/"
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "两次"
+    ],
+    "usphone": "/twaɪs/",
+    "ukphone": "/twaɪs/"
+  },
+  {
+    "name": "they have visited that museum twice",
+    "trans": [
+      "他们(已经)参观过那个博物馆两次"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /twaɪs/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /twaɪs/"
+  },
+  {
+    "name": "to abandon",
+    "trans": [
+      "遗弃"
+    ],
+    "usphone": "/tə/ /əˈbændən/",
+    "ukphone": "/tə/ /əˈbændən/"
+  },
+  {
+    "name": "abandoned",
+    "trans": [
+      "遗弃(过去分词)"
+    ],
+    "usphone": "/ə'bændənd/",
+    "ukphone": "/ə'bændənd/"
+  },
+  {
+    "name": "be abandoned",
+    "trans": [
+      "被遗弃了"
+    ],
+    "usphone": "/bi/ /ə'bændənd/",
+    "ukphone": "/bi/ /ə'bændənd/"
+  },
+  {
+    "name": "that museum",
+    "trans": [
+      "那个博物馆"
+    ],
+    "usphone": "/ðæt/ /mjuˈziəm/",
+    "ukphone": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "name": "that museum is abandoned",
+    "trans": [
+      "那个博物馆被遗弃了"
+    ],
+    "usphone": "/ðæt/ /mjuˈziəm/ /ɪz/ /ə'bændənd/",
+    "ukphone": "/ðæt/ /mjuˈziəm/ /ɪz/ /ə'bændənd/"
+  },
+  {
+    "name": "abandoned",
+    "trans": [
+      "被遗弃了的"
+    ],
+    "usphone": "/ə'bændənd/",
+    "ukphone": "/ə'bændənd/"
+  },
+  {
+    "name": "that museum",
+    "trans": [
+      "那个博物馆"
+    ],
+    "usphone": "/ðæt/ /mjuˈziəm/",
+    "ukphone": "/ðæt/ /mjuˈziəm/"
+  },
+  {
+    "name": "that abandoned museum",
+    "trans": [
+      "那个被遗弃的博物馆"
+    ],
+    "usphone": "/ðæt/ /ə'bændənd/ /mjuˈziəm/",
+    "ukphone": "/ðæt/ /ə'bændənd/ /mjuˈziəm/"
+  },
+  {
+    "name": "they have visited that abandoned museum twice",
+    "trans": [
+      "他们(已经)参观过那个被遗弃的博物馆两次"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "this year",
+    "trans": [
+      "今年"
+    ],
+    "usphone": "/ðɪs/ /jɪr/",
+    "ukphone": "/ðɪs/ /jɪr/"
+  },
+  {
+    "name": "they have visited that abandoned museum twice this year",
+    "trans": [
+      "他们今年(已经)参观过那个被遗弃的博物馆两次"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/ /ðɪs/ /jɪr/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /twaɪs/ /ðɪs/ /jɪr/"
+  },
+  {
+    "name": "many",
+    "trans": [
+      "许多"
+    ],
+    "usphone": "/'mɛni/",
+    "ukphone": "/'mɛni/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "次数"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "many times",
+    "trans": [
+      "多次"
+    ],
+    "usphone": "/'mɛni/ /taɪmz/",
+    "ukphone": "/'mɛni/ /taɪmz/"
+  },
+  {
+    "name": "they have visited that abandoned museum many times",
+    "trans": [
+      "他们(已经)参观过那个被遗弃的博物馆多次"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /'mɛni/ /taɪmz/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðæt/ /ə'bændənd/ /mjuˈziəm/ /'mɛni/ /taɪmz/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "they haven't visited that museum",
+    "trans": [
+      "他们(还没)参观过那个博物馆"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/",
+    "ukphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "以前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "they haven't visited that museum before",
+    "trans": [
+      "他们以前(还没有)参观过那个博物馆"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /bɪ'fɔr/",
+    "ukphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðæt/ /mjuˈziəm/ /bɪ'fɔr/"
+  },
+  {
+    "name": "land",
+    "trans": [
+      "地"
+    ],
+    "usphone": "/lænd/",
+    "ukphone": "/lænd/"
+  },
+  {
+    "name": "mark",
+    "trans": [
+      "标志"
+    ],
+    "usphone": "/mɑrk/",
+    "ukphone": "/mɑrk/"
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "地标"
+    ],
+    "usphone": "/ˈlændmɑrk/",
+    "ukphone": "/ˈlændmɑrk/"
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "有名的"
+    ],
+    "usphone": "/'feməs/",
+    "ukphone": "/'feməs/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most famous",
+    "trans": [
+      "最有名的"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/",
+    "ukphone": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "the most famous landmark",
+    "trans": [
+      "最有名的地标"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "they have visited",
+    "trans": [
+      "他们(已经)参观过"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "they have visited the most famous landmark",
+    "trans": [
+      "他们(已经)参观过那个最有名的地标"
+    ],
+    "usphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðe/ /hæv/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "they haven't visited",
+    "trans": [
+      "他们(还没有)参观过"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/",
+    "ukphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/"
+  },
+  {
+    "name": "they haven't visited the most famous landmark",
+    "trans": [
+      "他们(还没有)参观过那个最有名的地标"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "以前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "they haven't visited the most famous landmark before",
+    "trans": [
+      "他们以前(还没有)参观过那个最有名的地标"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /bɪ'fɔr/",
+    "ukphone": "/ðe/ /ˈhævnt/ /'vɪzɪtɪd/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /bɪ'fɔr/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "那个餐厅"
+    ],
+    "usphone": "/ðe/ /'rɛstrɑnt/",
+    "ukphone": "/ðe/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "the new restaurant",
+    "trans": [
+      "那个新餐厅"
+    ],
+    "usphone": "/ðə/ /nu/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /nu/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "town",
+    "trans": [
+      "城镇"
+    ],
+    "usphone": "/taʊn/",
+    "ukphone": "/taʊn/"
+  },
+  {
+    "name": "in town",
+    "trans": [
+      "在镇上"
+    ],
+    "usphone": "/ɪn/ /taʊn/",
+    "ukphone": "/ɪn/ /taʊn/"
+  },
+  {
+    "name": "the new restaurant in town",
+    "trans": [
+      "在镇上的那家新餐厅"
+    ],
+    "usphone": "/ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+    "ukphone": "/ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "tried",
+    "trans": [
+      "尝试(过去分词)"
+    ],
+    "usphone": "/traɪd/",
+    "ukphone": "/traɪd/"
+  },
+  {
+    "name": "we have tried",
+    "trans": [
+      "我们(已经)尝试了"
+    ],
+    "usphone": "/wi/ /hæv/ /traɪd/",
+    "ukphone": "/wi/ /hæv/ /traɪd/"
+  },
+  {
+    "name": "we have tried the new restaurant in town",
+    "trans": [
+      "我们(已经)尝试了在镇上的那家新餐厅"
+    ],
+    "usphone": "/wi/ /hæv/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+    "ukphone": "/wi/ /hæv/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "we haven't tried the new restaurant in town",
+    "trans": [
+      "我们(还没有)尝试在镇上的那家新餐厅"
+    ],
+    "usphone": "/wi/ /ˈhævnt/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/",
+    "ukphone": "/wi/ /ˈhævnt/ /traɪd/ /ðə/ /nu/ /'rɛstrɑnt/ /ɪn/ /taʊn/"
+  },
+  {
+    "name": "to meet",
+    "trans": [
+      "见"
+    ],
+    "usphone": "/tə/ /mit/",
+    "ukphone": "/tə/ /mit/"
+  },
+  {
+    "name": "met",
+    "trans": [
+      "见(过去分词)"
+    ],
+    "usphone": "/mɛt/",
+    "ukphone": "/mɛt/"
+  },
+  {
+    "name": "they have met",
+    "trans": [
+      "他们(已经)见过"
+    ],
+    "usphone": "/ðe/ /hæv/ /mɛt/",
+    "ukphone": "/ðe/ /hæv/ /mɛt/"
+  },
+  {
+    "name": "neighbor",
+    "trans": [
+      "邻居"
+    ],
+    "usphone": "/ˈnebɚ/",
+    "ukphone": "/ˈnebɚ/"
+  },
+  {
+    "name": "new neighbor",
+    "trans": [
+      "新的邻居"
+    ],
+    "usphone": "/nu/ /ˈnebɚ/",
+    "ukphone": "/nu/ /ˈnebɚ/"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "their new neighbors",
+    "trans": [
+      "他们的新邻居"
+    ],
+    "usphone": "/ðɛr/ /nu/ /ˈnebɚ/",
+    "ukphone": "/ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "name": "they have met",
+    "trans": [
+      "他们(已经)见过"
+    ],
+    "usphone": "/ðe/ /hæv/ /mɛt/",
+    "ukphone": "/ðe/ /hæv/ /mɛt/"
+  },
+  {
+    "name": "they have met their new neighbors",
+    "trans": [
+      "他们(已经)见过他们的新邻居"
+    ],
+    "usphone": "/ðe/ /hæv/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/",
+    "ukphone": "/ðe/ /hæv/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "they haven't met their new neighbors",
+    "trans": [
+      "他们(还没有)见过他们的新邻居"
+    ],
+    "usphone": "/ðe/ /ˈhævnt/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/",
+    "ukphone": "/ðe/ /ˈhævnt/ /mɛt/ /ðɛr/ /nu/ /ˈnebɚ/"
+  },
+  {
+    "name": "to attend",
+    "trans": [
+      "参加"
+    ],
+    "usphone": "/tə/ /əˈtɛnd/",
+    "ukphone": "/tə/ /əˈtɛnd/"
+  },
+  {
+    "name": "attended",
+    "trans": [
+      "参加(过去分词)"
+    ],
+    "usphone": "/əˈtɛndɪd/",
+    "ukphone": "/əˈtɛndɪd/"
+  },
+  {
+    "name": "she has attended",
+    "trans": [
+      "她(已经)参加过"
+    ],
+    "usphone": "/ʃi/ /hæz/ /əˈtɛndɪd/",
+    "ukphone": "/ʃi/ /hæz/ /əˈtɛndɪd/"
+  },
+  {
+    "name": "class",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/klæs/",
+    "ukphone": "/klæs/"
+  },
+  {
+    "name": "yoga",
+    "trans": [
+      "瑜伽"
+    ],
+    "usphone": "/ˈjoɡə/",
+    "ukphone": "/ˈjoɡə/"
+  },
+  {
+    "name": "a yoga class",
+    "trans": [
+      "一个瑜伽课程"
+    ],
+    "usphone": "/ə/ /ˈjoɡə/ /klæs/",
+    "ukphone": "/ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "name": "she has attended a yoga class",
+    "trans": [
+      "她(已经)参加过一个瑜伽课程"
+    ],
+    "usphone": "/ʃi/ /hæz/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/",
+    "ukphone": "/ʃi/ /hæz/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "name": "hasn't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhæzənt/",
+    "ukphone": "/ˈhæzənt/"
+  },
+  {
+    "name": "she hasn't attended a yoga class",
+    "trans": [
+      "她(还没)参加过一个瑜伽课程"
+    ],
+    "usphone": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/",
+    "ukphone": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "以前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "she hasn't attended a yoga class before",
+    "trans": [
+      "她以前(还没有)参加过一个瑜伽课程"
+    ],
+    "usphone": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/ /bɪ'fɔr/",
+    "ukphone": "/ʃi/ /ˈhæzənt/ /əˈtɛndɪd/ /ə/ /ˈjoɡə/ /klæs/ /bɪ'fɔr/"
+  },
+  {
+    "name": "to fix",
+    "trans": [
+      "修理"
+    ],
+    "usphone": "/tə/ /fɪks/",
+    "ukphone": "/tə/ /fɪks/"
+  },
+  {
+    "name": "fixed",
+    "trans": [
+      "修理(过去分词)"
+    ],
+    "usphone": "/fɪkst/",
+    "ukphone": "/fɪkst/"
+  },
+  {
+    "name": "he has fixed",
+    "trans": [
+      "他(已经)修理了"
+    ],
+    "usphone": "/hi/ /hæz/ /fɪkst/",
+    "ukphone": "/hi/ /hæz/ /fɪkst/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "那个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "he has fixed the window",
+    "trans": [
+      "他(已经)修理了那个窗户"
+    ],
+    "usphone": "/hi/ /hæz/ /fɪkst/ /ðə/ /'wɪndo/",
+    "ukphone": "/hi/ /hæz/ /fɪkst/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to break",
+    "trans": [
+      "打破"
+    ],
+    "usphone": "/tə/ /brek/",
+    "ukphone": "/tə/ /brek/"
+  },
+  {
+    "name": "broken",
+    "trans": [
+      "打破(过去分词)"
+    ],
+    "usphone": "/'brokən/",
+    "ukphone": "/'brokən/"
+  },
+  {
+    "name": "be broken",
+    "trans": [
+      "被打破"
+    ],
+    "usphone": "/bi/ /'brokən/",
+    "ukphone": "/bi/ /'brokən/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "那个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "the window is broken",
+    "trans": [
+      "那个窗户被打破了"
+    ],
+    "usphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/",
+    "ukphone": "/ðə/ /'wɪndo/ /ɪz/ /'brokən/"
+  },
+  {
+    "name": "broken",
+    "trans": [
+      "被打破的"
+    ],
+    "usphone": "/'brokən/",
+    "ukphone": "/'brokən/"
+  },
+  {
+    "name": "the broken window",
+    "trans": [
+      "那个被打破了的窗户"
+    ],
+    "usphone": "/ðə/ /'brokən/ /'wɪndo/",
+    "ukphone": "/ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "name": "he has fixed the broken window",
+    "trans": [
+      "他(已经)修理了那个被打破的窗户"
+    ],
+    "usphone": "/hi/ /hæz/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/",
+    "ukphone": "/hi/ /hæz/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "name": "hasn't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhæzənt/",
+    "ukphone": "/ˈhæzənt/"
+  },
+  {
+    "name": "he hasn't fixed the broken window",
+    "trans": [
+      "他(还没有)修理那个被打破的窗户"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/",
+    "ukphone": "/hi/ /ˈhæzənt/ /fɪkst/ /ðə/ /'brokən/ /'wɪndo/"
+  },
+  {
+    "name": "to receive",
+    "trans": [
+      "收到"
+    ],
+    "usphone": "/tə/ /rɪ'siv/",
+    "ukphone": "/tə/ /rɪ'siv/"
+  },
+  {
+    "name": "received",
+    "trans": [
+      "收到(过去分词)"
+    ],
+    "usphone": "/rɪ'sivd/",
+    "ukphone": "/rɪ'sivd/"
+  },
+  {
+    "name": "he has received",
+    "trans": [
+      "他(已经)收到"
+    ],
+    "usphone": "/hi/ /hæz/ /rɪ'sivd/",
+    "ukphone": "/hi/ /hæz/ /rɪ'sivd/"
+  },
+  {
+    "name": "the email",
+    "trans": [
+      "那个电子邮件"
+    ],
+    "usphone": "/ði/ /ˈimel/",
+    "ukphone": "/ði/ /ˈimel/"
+  },
+  {
+    "name": "he has received the email",
+    "trans": [
+      "他(已经)收到那个电子邮件"
+    ],
+    "usphone": "/hi/ /hæz/ /rɪ'sivd/ /ði/ /ˈimel/",
+    "ukphone": "/hi/ /hæz/ /rɪ'sivd/ /ði/ /ˈimel/"
+  },
+  {
+    "name": "hasn't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhæzənt/",
+    "ukphone": "/ˈhæzənt/"
+  },
+  {
+    "name": "he hasn't received the email",
+    "trans": [
+      "他(还没有)收到那个电子邮件"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /rɪ'sivd/ /ði/ /ˈimel/",
+    "ukphone": "/hi/ /ˈhæzənt/ /rɪ'sivd/ /ði/ /ˈimel/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "finished",
+    "trans": [
+      "完成(过去分词)"
+    ],
+    "usphone": "/'fɪnɪʃt/",
+    "ukphone": "/'fɪnɪʃt/"
+  },
+  {
+    "name": "he has finished",
+    "trans": [
+      "他(已经)完成了"
+    ],
+    "usphone": "/hi/ /hæz/ /'fɪnɪʃt/",
+    "ukphone": "/hi/ /hæz/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "his homework",
+    "trans": [
+      "他的家庭作业"
+    ],
+    "usphone": "/hɪz/ /'homwɝk/",
+    "ukphone": "/hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "he has finished his homework",
+    "trans": [
+      "他(已经)完成了他的家庭作业"
+    ],
+    "usphone": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/",
+    "ukphone": "/hi/ /hæz/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "hasn't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhæzənt/",
+    "ukphone": "/ˈhæzənt/"
+  },
+  {
+    "name": "he hasn't finished his homework",
+    "trans": [
+      "他(还没有)完成他的家庭作业"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/",
+    "ukphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "the report",
+    "trans": [
+      "那份报告"
+    ],
+    "usphone": "/ðə/ /rɪ'pɔrt/",
+    "ukphone": "/ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "name": "to write",
+    "trans": [
+      "写"
+    ],
+    "usphone": "/tə/ /raɪt/",
+    "ukphone": "/tə/ /raɪt/"
+  },
+  {
+    "name": "to write the report",
+    "trans": [
+      "写那份报告"
+    ],
+    "usphone": "/tə/ /raɪt/ /ðə/ /rɪ'pɔrt/",
+    "ukphone": "/tə/ /raɪt/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "name": "writing",
+    "trans": [
+      "写(ing形式)"
+    ],
+    "usphone": "/'raɪtɪŋ/",
+    "ukphone": "/'raɪtɪŋ/"
+  },
+  {
+    "name": "writing the report",
+    "trans": [
+      "写那份报告(ing形式)"
+    ],
+    "usphone": "/'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/",
+    "ukphone": "/'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "name": "he hasn't finished",
+    "trans": [
+      "他(还没有)完成"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/",
+    "ukphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "he hasn't finished writing the report",
+    "trans": [
+      "他(还没有)完成写那份报告"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/",
+    "ukphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'raɪtɪŋ/ /ðə/ /rɪ'pɔrt/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "the novel",
+    "trans": [
+      "那本小说"
+    ],
+    "usphone": "/ðə/ /ˈnɑvl/",
+    "ukphone": "/ðə/ /ˈnɑvl/"
+  },
+  {
+    "name": "to read the novel",
+    "trans": [
+      "阅读那本小说"
+    ],
+    "usphone": "/tə/ /rid/ /ðə/ /ˈnɑvl/",
+    "ukphone": "/tə/ /rid/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "阅读(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/",
+    "ukphone": "/'ridɪŋ/"
+  },
+  {
+    "name": "reading the novel",
+    "trans": [
+      "阅读那本小说(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/ /ðə/ /ˈnɑvl/",
+    "ukphone": "/'ridɪŋ/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "name": "he hasn't finished",
+    "trans": [
+      "他(还没有)完成"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/",
+    "ukphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/"
+  },
+  {
+    "name": "he hasn't finished reading the novel",
+    "trans": [
+      "他(还没有)完成阅读那本小说"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /ˈnɑvl/",
+    "ukphone": "/hi/ /ˈhæzənt/ /'fɪnɪʃt/ /'ridɪŋ/ /ðə/ /ˈnɑvl/"
+  },
+  {
+    "name": "tree",
+    "trans": [
+      "树"
+    ],
+    "usphone": "/tri/",
+    "ukphone": "/tri/"
+  },
+  {
+    "name": "Christmas",
+    "trans": [
+      "圣诞节"
+    ],
+    "usphone": "/ˈkrɪsməs/",
+    "ukphone": "/ˈkrɪsməs/"
+  },
+  {
+    "name": "a Christmas tree",
+    "trans": [
+      "一棵圣诞树"
+    ],
+    "usphone": "/ə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "to buy a Christmas tree",
+    "trans": [
+      "买一棵圣诞树"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "bought",
+    "trans": [
+      "买(过去分词)"
+    ],
+    "usphone": "/bɔt/",
+    "ukphone": "/bɔt/"
+  },
+  {
+    "name": "he has bought",
+    "trans": [
+      "他(已经)买了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/",
+    "ukphone": "/hi/ /hæz/ /bɔt/"
+  },
+  {
+    "name": "he has bought a Christmas tree",
+    "trans": [
+      "他(已经)买了一棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭"
+    ],
+    "usphone": "/ˈfæməli/",
+    "ukphone": "/ˈfæməli/"
+  },
+  {
+    "name": "his family",
+    "trans": [
+      "他的家庭"
+    ],
+    "usphone": "/hɪz/ /ˈfæməli/",
+    "ukphone": "/hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "for his family",
+    "trans": [
+      "为了他的家庭"
+    ],
+    "usphone": "/fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to decorate",
+    "trans": [
+      "装饰"
+    ],
+    "usphone": "/tə/ /ˈdɛkəret/",
+    "ukphone": "/tə/ /ˈdɛkəret/"
+  },
+  {
+    "name": "decorated",
+    "trans": [
+      "装饰(过去分词)"
+    ],
+    "usphone": "/ˈdɛkəretɪd/",
+    "ukphone": "/ˈdɛkəretɪd/"
+  },
+  {
+    "name": "be decorated",
+    "trans": [
+      "被装饰"
+    ],
+    "usphone": "/bi/ /ˈdɛkəretɪd/",
+    "ukphone": "/bi/ /ˈdɛkəretɪd/"
+  },
+  {
+    "name": "the Christmas tree",
+    "trans": [
+      "那棵圣诞树"
+    ],
+    "usphone": "/ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "the Christmas tree is decorated",
+    "trans": [
+      "那棵圣诞树被装饰了的"
+    ],
+    "usphone": "/ðə/ /ˈkrɪsməs/ /tri/ /ɪz/ /ˈdɛkəretɪd/",
+    "ukphone": "/ðə/ /ˈkrɪsməs/ /tri/ /ɪz/ /ˈdɛkəretɪd/"
+  },
+  {
+    "name": "a decorated Christmas tree",
+    "trans": [
+      "一棵被装饰的圣诞树"
+    ],
+    "usphone": "/ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "he has bought a decorated Christmas tree for his family",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵装饰好了的圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈdɛkəretɪd/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "to decorate",
+    "trans": [
+      "装饰"
+    ],
+    "usphone": "/tə/ /ˈdɛkəret/",
+    "ukphone": "/tə/ /ˈdɛkəret/"
+  },
+  {
+    "name": "decorated",
+    "trans": [
+      "装饰(过去分词)"
+    ],
+    "usphone": "/ˈdɛkəretɪd/",
+    "ukphone": "/ˈdɛkəretɪd/"
+  },
+  {
+    "name": "he has decorated",
+    "trans": [
+      "他(已经)装饰了"
+    ],
+    "usphone": "/hi/ /hæz/ /ˈdɛkəretɪd/",
+    "ukphone": "/hi/ /hæz/ /ˈdɛkəretɪd/"
+  },
+  {
+    "name": "the Christmas tree",
+    "trans": [
+      "那棵圣诞树"
+    ],
+    "usphone": "/ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "he has decorated the Christmas tree",
+    "trans": [
+      "他(已经)装饰了那棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/hi/ /hæz/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "hasn't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhæzənt/",
+    "ukphone": "/ˈhæzənt/"
+  },
+  {
+    "name": "he hasn't decorated the Christmas tree",
+    "trans": [
+      "他(还没有)装饰那棵圣诞树"
+    ],
+    "usphone": "/hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but he hasn't decorated the Christmas tree",
+    "trans": [
+      "但是他(还没有)装饰那棵圣诞树"
+    ],
+    "usphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family but he hasn't decorated the Christmas tree",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树但是他(还没有)装饰那棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ðə/ /ˈkrɪsməs/ /tri/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family but he hasn't decorated it",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树但是他(还没有)装饰它"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/"
+  },
+  {
+    "name": "yet",
+    "trans": [
+      "迄今为止"
+    ],
+    "usphone": "/jɛt/",
+    "ukphone": "/jɛt/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family but he hasn't decorated it yet",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树但是迄今为止他(还没有)装饰它"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/"
+  },
+  {
+    "name": "busy",
+    "trans": [
+      "繁忙的"
+    ],
+    "usphone": "/'bɪzi/",
+    "ukphone": "/'bɪzi/"
+  },
+  {
+    "name": "he is busy",
+    "trans": [
+      "他是繁忙的"
+    ],
+    "usphone": "/hi/ /ɪz/ /'bɪzi/",
+    "ukphone": "/hi/ /ɪz/ /'bɪzi/"
+  },
+  {
+    "name": "too",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/tu/",
+    "ukphone": "/tu/"
+  },
+  {
+    "name": "he is too busy",
+    "trans": [
+      "他是非常忙的"
+    ],
+    "usphone": "/hi/ /ɪz/ /tu/ /'bɪzi/",
+    "ukphone": "/hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because he is too busy",
+    "trans": [
+      "因为他太忙了"
+    ],
+    "usphone": "/bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+    "ukphone": "/bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "name": "but he hasn't decorated it yet",
+    "trans": [
+      "但是迄今为止他(还没有)装饰它"
+    ],
+    "usphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/",
+    "ukphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/"
+  },
+  {
+    "name": "but he hasn't decorated it yet because he is too busy",
+    "trans": [
+      "但是迄今为止他(还没有)装饰它因为他太忙了"
+    ],
+    "usphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+    "ukphone": "/bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/"
+  },
+  {
+    "name": "he has bought a Christmas tree for his family but he hasn't decorated it yet because he is too busy",
+    "trans": [
+      "他为了他的家庭(已经)买了一棵圣诞树但是迄今为止他(还没有)装饰它因为他太忙了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/",
+    "ukphone": "/hi/ /hæz/ /bɔt/ /ə/ /ˈkrɪsməs/ /tri/ /fɝ/ /hɪz/ /ˈfæməli/ /bʌt/ /hi/ /ˈhæzənt/ /ˈdɛkəretɪd/ /ɪt/ /jɛt/ /bɪ'kɔz/ /hi/ /ɪz/ /tu/ /'bɪzi/"
+  }
+]

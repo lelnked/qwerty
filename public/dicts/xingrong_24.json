@@ -1,0 +1,874 @@
+[
+  {
+    "name": "to see",
+    "trans": [
+      "见到"
+    ],
+    "usphone": "/tə/ /si/",
+    "ukphone": "/tə/ /si/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "to see you",
+    "trans": [
+      "见到你"
+    ],
+    "usphone": "/tə/ /si/ /ju/",
+    "ukphone": "/tə/ /si/ /ju/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to see you",
+    "trans": [
+      "我想要见到你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /si/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /si/ /ju/"
+  },
+  {
+    "name": "I want to look at you",
+    "trans": [
+      "我想要(有意识地)看你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lʊk/ /ət/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to look at me",
+    "trans": [
+      "看我"
+    ],
+    "usphone": "/tə/ /lʊk/ /ət/ /mi/",
+    "ukphone": "/tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to look at me",
+    "trans": [
+      "我想要你看我"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /lʊk/ /ət/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "name": "to look at me",
+    "trans": [
+      "看我"
+    ],
+    "usphone": "/tə/ /lʊk/ /ət/ /mi/",
+    "ukphone": "/tə/ /lʊk/ /ət/ /mi/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "to look at you",
+    "trans": [
+      "看你"
+    ],
+    "usphone": "/tə/ /lʊk/ /ət/ /ju/",
+    "ukphone": "/tə/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "name": "I look at you",
+    "trans": [
+      "我看你"
+    ],
+    "usphone": "/aɪ/ /lʊk/ /ət/ /ju/",
+    "ukphone": "/aɪ/ /lʊk/ /ət/ /ju/"
+  },
+  {
+    "name": "looking",
+    "trans": [
+      "看(ing形式)"
+    ],
+    "usphone": "/ˈlʊkɪŋ/",
+    "ukphone": "/ˈlʊkɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be looking",
+    "trans": [
+      "正在看着"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/"
+  },
+  {
+    "name": "be looking at you",
+    "trans": [
+      "正在看着你"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/ /ət/ /ju/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "name": "I am looking at you",
+    "trans": [
+      "我(现在)正在看着你"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /ju/",
+    "ukphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "name": "I was looking at you",
+    "trans": [
+      "我(过去)正在看着你"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /ju/",
+    "ukphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /ju/"
+  },
+  {
+    "name": "myself",
+    "trans": [
+      "我自己"
+    ],
+    "usphone": "/maɪ'sɛlf/",
+    "ukphone": "/maɪ'sɛlf/"
+  },
+  {
+    "name": "I was looking at myself",
+    "trans": [
+      "我(过去)正在看着我自己"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/",
+    "ukphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/"
+  },
+  {
+    "name": "mirror",
+    "trans": [
+      "镜子"
+    ],
+    "usphone": "/'mɪrɚ/",
+    "ukphone": "/'mɪrɚ/"
+  },
+  {
+    "name": "in the mirror",
+    "trans": [
+      "在镜子里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "I was looking at myself in the mirror",
+    "trans": [
+      "我(过去)正在在镜子里看着我自己"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/aɪ/ /wəz/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "I am looking at myself in the mirror",
+    "trans": [
+      "我(现在)正在在镜子里看着我自己"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /ət/ /maɪ'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "you are looking",
+    "trans": [
+      "你(现在)正在看着"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/"
+  },
+  {
+    "name": "yourself",
+    "trans": [
+      "你自己"
+    ],
+    "usphone": "/jɔr'sɛlf/",
+    "ukphone": "/jɔr'sɛlf/"
+  },
+  {
+    "name": "you are looking at yourself",
+    "trans": [
+      "你(现在)正在看着你自己"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/"
+  },
+  {
+    "name": "mirror",
+    "trans": [
+      "镜子"
+    ],
+    "usphone": "/'mɪrɚ/",
+    "ukphone": "/'mɪrɚ/"
+  },
+  {
+    "name": "in the mirror",
+    "trans": [
+      "在镜子里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "you are looking at yourself in the mirror",
+    "trans": [
+      "你(现在)正在在镜子里看着你自己"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "you were looking at yourself in the mirror",
+    "trans": [
+      "你(过去)正在在镜子里看着你自己"
+    ],
+    "usphone": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/",
+    "ukphone": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /ət/ /jɔr'sɛlf/ /ɪn/ /ðə/ /'mɪrɚ/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "looking",
+    "trans": [
+      "看(ing形式)"
+    ],
+    "usphone": "/ˈlʊkɪŋ/",
+    "ukphone": "/ˈlʊkɪŋ/"
+  },
+  {
+    "name": "they are looking",
+    "trans": [
+      "他们(现在)正在看着"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈlʊkɪŋ/",
+    "ukphone": "/ðe/ /ɚ/ /ˈlʊkɪŋ/"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/ʌs/",
+    "ukphone": "/ʌs/"
+  },
+  {
+    "name": "they are looking at us",
+    "trans": [
+      "他们(现在)正在看着我们"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /ʌs/",
+    "ukphone": "/ðe/ /ɚ/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+  },
+  {
+    "name": "still",
+    "trans": [
+      "仍然"
+    ],
+    "usphone": "/stɪl/",
+    "ukphone": "/stɪl/"
+  },
+  {
+    "name": "they are still looking at us",
+    "trans": [
+      "他们(现在)仍然正在看着我们"
+    ],
+    "usphone": "/ðe/ /ɚ/ /stɪl/ /ˈlʊkɪŋ/ /ət/ /ʌs/",
+    "ukphone": "/ðe/ /ɚ/ /stɪl/ /ˈlʊkɪŋ/ /ət/ /ʌs/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "job",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/dʒɑb/",
+    "ukphone": "/dʒɑb/"
+  },
+  {
+    "name": "for a new job",
+    "trans": [
+      "为了一个新的工作"
+    ],
+    "usphone": "/fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "to look for a new job",
+    "trans": [
+      "为了一个新的工作(有意识地)看"
+    ],
+    "usphone": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "to look for",
+    "trans": [
+      "寻找"
+    ],
+    "usphone": "/tə/ /lʊk/ /fɝ/",
+    "ukphone": "/tə/ /lʊk/ /fɝ/"
+  },
+  {
+    "name": "to look for a new job",
+    "trans": [
+      "寻找一个新的工作"
+    ],
+    "usphone": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to look for a new job",
+    "trans": [
+      "我需要找一个新的工作"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "I look for a new job",
+    "trans": [
+      "我找一个新的工作"
+    ],
+    "usphone": "/aɪ/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/aɪ/ /lʊk/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "looking for",
+    "trans": [
+      "寻找(ing形式)"
+    ],
+    "usphone": "/ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be looking for",
+    "trans": [
+      "正在寻找"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "a new job",
+    "trans": [
+      "一个新的工作"
+    ],
+    "usphone": "/ə/ /nu/ /dʒɑb/",
+    "ukphone": "/ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "be looking for a new job",
+    "trans": [
+      "正在寻找一个新的工作"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "I am looking for a new job",
+    "trans": [
+      "我(现在)正在寻找一个新的工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/aɪ/ /æm/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "still",
+    "trans": [
+      "仍然"
+    ],
+    "usphone": "/stɪl/",
+    "ukphone": "/stɪl/"
+  },
+  {
+    "name": "I am still looking for a new job",
+    "trans": [
+      "我(现在)仍然正在寻找一个新的工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/aɪ/ /æm/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "I was looking for a new job",
+    "trans": [
+      "我(过去)正在寻找一个新的工作"
+    ],
+    "usphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/",
+    "ukphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /ə/ /nu/ /dʒɑb/"
+  },
+  {
+    "name": "keys",
+    "trans": [
+      "钥匙(复数)"
+    ],
+    "usphone": "/kiz/",
+    "ukphone": "/kiz/"
+  },
+  {
+    "name": "my keys",
+    "trans": [
+      "我的钥匙"
+    ],
+    "usphone": "/maɪ/ /kiz/",
+    "ukphone": "/maɪ/ /kiz/"
+  },
+  {
+    "name": "I was looking for my keys",
+    "trans": [
+      "我(过去)正在寻找我的钥匙"
+    ],
+    "usphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/",
+    "ukphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "my keys",
+    "trans": [
+      "我的钥匙"
+    ],
+    "usphone": "/maɪ/ /kiz/",
+    "ukphone": "/maɪ/ /kiz/"
+  },
+  {
+    "name": "to find my keys",
+    "trans": [
+      "找到我的钥匙"
+    ],
+    "usphone": "/tə/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/tə/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "能"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "I can find my keys",
+    "trans": [
+      "我能找到我的钥匙"
+    ],
+    "usphone": "/aɪ/ /kæn/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/aɪ/ /kæn/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不能"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "I can't find my keys",
+    "trans": [
+      "我不能找到我的钥匙"
+    ],
+    "usphone": "/aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but I can't find my keys",
+    "trans": [
+      "但是我不能找到我的钥匙"
+    ],
+    "usphone": "/bʌt/ /aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/bʌt/ /aɪ/ /kænt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "but I couldn't find my keys",
+    "trans": [
+      "但是我(过去)不能找到我的钥匙"
+    ],
+    "usphone": "/bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "I was looking for my keys but I couldn't find my keys",
+    "trans": [
+      "我(过去)正在寻找我的钥匙但是我(过去)不能找到我的钥匙"
+    ],
+    "usphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/",
+    "ukphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /maɪ/ /kiz/"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "它们"
+    ],
+    "usphone": "/ðəm/",
+    "ukphone": "/ðəm/"
+  },
+  {
+    "name": "I was looking for my keys but I couldn't find them",
+    "trans": [
+      "我(过去)正在寻找我的钥匙但是我(过去)不能找到它们"
+    ],
+    "usphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /ðəm/",
+    "ukphone": "/aɪ/ /wəz/ /stɪl/ /ˈlʊkɪŋ/ /fɝ/ /maɪ/ /kiz/ /bʌt/ /aɪ/ /kʊdnt/ /faɪnd/ /ðəm/"
+  },
+  {
+    "name": "look for",
+    "trans": [
+      "寻找"
+    ],
+    "usphone": "/lʊk/ /fɝ/",
+    "ukphone": "/lʊk/ /fɝ/"
+  },
+  {
+    "name": "looking for",
+    "trans": [
+      "寻找(ing形式)"
+    ],
+    "usphone": "/ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be looking for",
+    "trans": [
+      "正在寻找"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are looking for",
+    "trans": [
+      "你(现在)正在寻找"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "you are looking for me",
+    "trans": [
+      "你(现在)正在寻找我"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听见；听说"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "I hear",
+    "trans": [
+      "我听说"
+    ],
+    "usphone": "/aɪ/ /hɪr/",
+    "ukphone": "/aɪ/ /hɪr/"
+  },
+  {
+    "name": "I hear you are looking for me",
+    "trans": [
+      "我听说你(现在)正在寻找我"
+    ],
+    "usphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "person",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pɝsn/",
+    "ukphone": "/'pɝsn/"
+  },
+  {
+    "name": "the person",
+    "trans": [
+      "那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/",
+    "ukphone": "/ðə/ /'pɝsn/"
+  },
+  {
+    "name": "you are looking for the person",
+    "trans": [
+      "你(现在)正在寻找那个人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "I am",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "I am the person",
+    "trans": [
+      "我是那个人"
+    ],
+    "usphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/",
+    "ukphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "I am not the person",
+    "trans": [
+      "我不是那个人"
+    ],
+    "usphone": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/",
+    "ukphone": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "you are looking for",
+    "trans": [
+      "你(现在)正在寻找"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "the person",
+    "trans": [
+      "那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/",
+    "ukphone": "/ðə/ /'pɝsn/"
+  },
+  {
+    "name": "you are looking for the person",
+    "trans": [
+      "你(现在)正在寻找那个人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/",
+    "ukphone": "/ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "the person you are looking for",
+    "trans": [
+      "你(现在)正在寻找的那个人"
+    ],
+    "usphone": "/ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "I am the person",
+    "trans": [
+      "我是那个人"
+    ],
+    "usphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/",
+    "ukphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/"
+  },
+  {
+    "name": "I am the person you are looking for",
+    "trans": [
+      "我是你(现在)正在寻找的那个人"
+    ],
+    "usphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/aɪ/ /æm/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "I am not the person you are looking for",
+    "trans": [
+      "我不是你(现在)正在寻找的那个人"
+    ],
+    "usphone": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but I am not the person you are looking for",
+    "trans": [
+      "但是我不是你(现在)正在寻找的那个人"
+    ],
+    "usphone": "/bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "I hear you are looking for me",
+    "trans": [
+      "我听说你(现在)正在寻找我"
+    ],
+    "usphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I hear you are looking for me but I am not the person you are looking for",
+    "trans": [
+      "我听说你(现在)正在寻找我但是我不是你(现在)正在寻找的那个人"
+    ],
+    "usphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/aɪ/ /hɪr/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /æm/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /ɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听见；听说"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "I heard",
+    "trans": [
+      "我(过去)听说"
+    ],
+    "usphone": "/aɪ/ /hɚd/",
+    "ukphone": "/aɪ/ /hɚd/"
+  },
+  {
+    "name": "you were looking for me",
+    "trans": [
+      "你(过去)正在寻找我"
+    ],
+    "usphone": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I heard you were looking for me",
+    "trans": [
+      "我(过去)听说你(过去)正在寻找我"
+    ],
+    "usphone": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "but I was not the person you were looking for",
+    "trans": [
+      "但是我(过去)不是你(过去)正在寻找的那个人"
+    ],
+    "usphone": "/bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "I heard you were looking for me but I was not the person you were looking for",
+    "trans": [
+      "我(过去)听说你(过去)正在寻找我但是我(过去)不是你(过去)正在寻找的那个人"
+    ],
+    "usphone": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/aɪ/ /hɚd/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/ /mi/ /bʌt/ /aɪ/ /wəz/ /nɑt/ /ðə/ /'pɝsn/ /ju/ /wɚ/ /ˈlʊkɪŋ/ /fɝ/"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "to pay",
+    "trans": [
+      "支付；付钱"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to pay him",
+    "trans": [
+      "付钱给他"
+    ],
+    "usphone": "/tə/ /pe/ /hɪm/",
+    "ukphone": "/tə/ /pe/ /hɪm/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you paid him",
+    "trans": [
+      "你(过去)付钱给他"
+    ],
+    "usphone": "/ju/ /ped/ /hɪm/",
+    "ukphone": "/ju/ /ped/ /hɪm/"
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "十"
+    ],
+    "usphone": "/tɛn/",
+    "ukphone": "/tɛn/"
+  },
+  {
+    "name": "dollars",
+    "trans": [
+      "美元"
+    ],
+    "usphone": "/'dɑlɚz/",
+    "ukphone": "/'dɑlɚz/"
+  },
+  {
+    "name": "ten dollars",
+    "trans": [
+      "十美元"
+    ],
+    "usphone": "/tɛn/ /'dɑlɚz/",
+    "ukphone": "/tɛn/ /'dɑlɚz/"
+  },
+  {
+    "name": "you paid him ten dollars",
+    "trans": [
+      "你(过去)付给他十美元"
+    ],
+    "usphone": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/",
+    "ukphone": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/"
+  },
+  {
+    "name": "you didn't pay him ten dollars",
+    "trans": [
+      "你(过去)没有付给他十美元"
+    ],
+    "usphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/",
+    "ukphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you paid him to do it",
+    "trans": [
+      "你(过去)付钱给他去做这件事"
+    ],
+    "usphone": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ju/ /ped/ /hɪm/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you didn't pay him to do it",
+    "trans": [
+      "你(过去)没有付钱给他去做这件事"
+    ],
+    "usphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you paid him ten dollars to do it",
+    "trans": [
+      "你(过去)付给他十美元去做这件事"
+    ],
+    "usphone": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ju/ /ped/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you didn't pay him ten dollars to do it",
+    "trans": [
+      "你(过去)没有付给他十美元去做这件事"
+    ],
+    "usphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ju/ /'dɪdnt/ /pe/ /hɪm/ /tɛn/ /'dɑlɚz/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "we have to decide",
+    "trans": [
+      "我们必须决定"
+    ],
+    "usphone": "/wi/ /hæv/ /tə/ /dɪ'saɪd/",
+    "ukphone": "/wi/ /hæv/ /tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "tonight",
+    "trans": [
+      "今晚"
+    ],
+    "usphone": "/tə'naɪt/",
+    "ukphone": "/tə'naɪt/"
+  },
+  {
+    "name": "we have to decide tonight",
+    "trans": [
+      "我们必须今晚决定"
+    ],
+    "usphone": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+    "ukphone": "/wi/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+  },
+  {
+    "name": "we don't have to decide tonight",
+    "trans": [
+      "我们不必今晚决定"
+    ],
+    "usphone": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/",
+    "ukphone": "/wi/ /dont/ /hæv/ /tə/ /dɪ'saɪd/ /tə'naɪt/"
+  },
+  {
+    "name": "we decide",
+    "trans": [
+      "我们决定"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/",
+    "ukphone": "/wi/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "to go out",
+    "trans": [
+      "去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "we decide to go out",
+    "trans": [
+      "我们决定去外面"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɝ/",
+    "ukphone": "/fɝ/"
+  },
+  {
+    "name": "dinner",
+    "trans": [
+      "晚餐"
+    ],
+    "usphone": "/'dɪnɚ/",
+    "ukphone": "/'dɪnɚ/"
+  },
+  {
+    "name": "for dinner",
+    "trans": [
+      "为了晚餐"
+    ],
+    "usphone": "/fɝ/ /'dɪnɚ/",
+    "ukphone": "/fɝ/ /'dɪnɚ/"
+  },
+  {
+    "name": "we decide to go out for dinner",
+    "trans": [
+      "我们决定去外面为了晚餐"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+  },
+  {
+    "name": "decided",
+    "trans": [
+      "决定(过去)"
+    ],
+    "usphone": "/dɪ'saɪdɪd/",
+    "ukphone": "/dɪ'saɪdɪd/"
+  },
+  {
+    "name": "we decided",
+    "trans": [
+      "我们(过去)决定"
+    ],
+    "usphone": "/wi/ /dɪ'saɪdɪd/",
+    "ukphone": "/wi/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "we decided to go out for dinner",
+    "trans": [
+      "我们(过去)决定去外面为了晚餐"
+    ],
+    "usphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/",
+    "ukphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /ɡo/ /aʊt/ /fɝ/ /'dɪnɚ/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "the car",
+    "trans": [
+      "那辆汽车"
+    ],
+    "usphone": "/ðə/ /kɑr/",
+    "ukphone": "/ðə/ /kɑr/"
+  },
+  {
+    "name": "to drive the car",
+    "trans": [
+      "开那辆车"
+    ],
+    "usphone": "/tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I decided",
+    "trans": [
+      "我(过去)决定"
+    ],
+    "usphone": "/aɪ/ /dɪ'saɪdɪd/",
+    "ukphone": "/aɪ/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "I decided to drive the car",
+    "trans": [
+      "我(过去)决定开那辆车"
+    ],
+    "usphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I drive the car",
+    "trans": [
+      "我开那辆车"
+    ],
+    "usphone": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I drove the car",
+    "trans": [
+      "我(过去)开那辆车"
+    ],
+    "usphone": "/aɪ/ /drov/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /drov/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "/'jɛstɚde/",
+    "ukphone": "/'jɛstɚde/"
+  },
+  {
+    "name": "I drove the car yesterday",
+    "trans": [
+      "我昨天开了那辆车"
+    ],
+    "usphone": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/",
+    "ukphone": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/"
+  },
+  {
+    "name": "I didn't drive the car yesterday",
+    "trans": [
+      "我昨天没有开那辆车"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/ /'jɛstɚde/"
+  },
+  {
+    "name": "to believe",
+    "trans": [
+      "相信"
+    ],
+    "usphone": "/tə/ /bɪ'liv/",
+    "ukphone": "/tə/ /bɪ'liv/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to believe me",
+    "trans": [
+      "相信我"
+    ],
+    "usphone": "/tə/ /bɪ'liv/ /mi/",
+    "ukphone": "/tə/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "you need",
+    "trans": [
+      "你需要"
+    ],
+    "usphone": "/ju/ /nid/",
+    "ukphone": "/ju/ /nid/"
+  },
+  {
+    "name": "you need to believe me",
+    "trans": [
+      "你需要相信我"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/",
+    "ukphone": "/ju/ /nid/ /tə/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "you believe me",
+    "trans": [
+      "你相信我"
+    ],
+    "usphone": "/ju/ /bɪ'liv/ /mi/",
+    "ukphone": "/ju/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "you don't believe me",
+    "trans": [
+      "你不相信我"
+    ],
+    "usphone": "/ju/ /dont/ /bɪ'liv/ /mi/",
+    "ukphone": "/ju/ /dont/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "you believed me",
+    "trans": [
+      "你(过去)相信我"
+    ],
+    "usphone": "/ju/ /bɪ'livd/ /mi/",
+    "ukphone": "/ju/ /bɪ'livd/ /mi/"
+  },
+  {
+    "name": "you didn't believe me",
+    "trans": [
+      "你(过去)不相信我"
+    ],
+    "usphone": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+    "ukphone": "/ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bət/",
+    "ukphone": "/bət/"
+  },
+  {
+    "name": "but you didn't believe me",
+    "trans": [
+      "但是你(过去)不相信我"
+    ],
+    "usphone": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+    "ukphone": "/bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "I drove the car yesterday but you didn't believe me",
+    "trans": [
+      "我昨天开了那辆车但是你(过去)不相信我"
+    ],
+    "usphone": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/",
+    "ukphone": "/aɪ/ /drov/ /ðə/ /kɑr/ /'jɛstɚde/ /bət/ /ju/ /'dɪdnt/ /bɪ'liv/ /mi/"
+  },
+  {
+    "name": "to change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tə/ /tʃendʒ/",
+    "ukphone": "/tə/ /tʃendʒ/"
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "想法"
+    ],
+    "usphone": "/maɪnd/",
+    "ukphone": "/maɪnd/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my mind",
+    "trans": [
+      "我的想法"
+    ],
+    "usphone": "/maɪ/ /maɪnd/",
+    "ukphone": "/maɪ/ /maɪnd/"
+  },
+  {
+    "name": "to change my mind",
+    "trans": [
+      "改变我的想法"
+    ],
+    "usphone": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+    "ukphone": "/tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to change my mind",
+    "trans": [
+      "我想要改变我的想法"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "name": "I change my mind",
+    "trans": [
+      "我改变我的想法"
+    ],
+    "usphone": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/",
+    "ukphone": "/aɪ/ /tʃendʒ/ /maɪ/ /maɪnd/"
+  },
+  {
+    "name": "changed",
+    "trans": [
+      "改变了"
+    ],
+    "usphone": "/tʃendʒd/",
+    "ukphone": "/tʃendʒd/"
+  },
+  {
+    "name": "I changed my mind",
+    "trans": [
+      "我改变了我的想法"
+    ],
+    "usphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/",
+    "ukphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/"
+  },
+  {
+    "name": "again",
+    "trans": [
+      "再次"
+    ],
+    "usphone": "/ə'ɡɛn/",
+    "ukphone": "/ə'ɡɛn/"
+  },
+  {
+    "name": "I changed my mind again",
+    "trans": [
+      "我再次改变了我的想法"
+    ],
+    "usphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/",
+    "ukphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to drive the car",
+    "trans": [
+      "开那辆车"
+    ],
+    "usphone": "/tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I decided to drive the car",
+    "trans": [
+      "我(过去)决定开那辆车"
+    ],
+    "usphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I changed my mind again I decided to drive the car",
+    "trans": [
+      "我再次改变了我的想法我(过去)决定开那辆车"
+    ],
+    "usphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /tʃendʒd/ /maɪ/ /maɪnd/ /ə'ɡɛn/ /aɪ/ /dɪ'saɪdɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "I decided to try",
+    "trans": [
+      "我(过去)决定尝试"
+    ],
+    "usphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/",
+    "ukphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/"
+  },
+  {
+    "name": "I decided to try to drive the car",
+    "trans": [
+      "我(过去)决定尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /dɪ'saɪdɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I didn't decide to try to drive the car",
+    "trans": [
+      "我(过去)没有决定尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /dɪ'saɪd/ /tə/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I try to drive the car",
+    "trans": [
+      "我尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I don't try to drive the car",
+    "trans": [
+      "我不尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /dont/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I tried to drive the car",
+    "trans": [
+      "我(过去)尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /traɪd/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I didn't try to drive the car",
+    "trans": [
+      "我(过去)没有尝试开那辆车"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I drive the car",
+    "trans": [
+      "我开那辆车"
+    ],
+    "usphone": "/aɪ/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I don't drive the car",
+    "trans": [
+      "我不开那辆车"
+    ],
+    "usphone": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /dont/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I drove the car",
+    "trans": [
+      "我(过去)开那辆车"
+    ],
+    "usphone": "/aɪ/ /drov/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /drov/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "I didn't drive the car",
+    "trans": [
+      "我(过去)没有开那辆车"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /draɪv/ /ðə/ /kɑr/"
+  },
+  {
+    "name": "to stop",
+    "trans": [
+      "停止；阻止"
+    ],
+    "usphone": "/tə/ /stɑp/",
+    "ukphone": "/tə/ /stɑp/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to stop him",
+    "trans": [
+      "阻止他"
+    ],
+    "usphone": "/tə/ /stɑp/ /hɪm/",
+    "ukphone": "/tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I tried to stop him",
+    "trans": [
+      "我(过去)尝试阻止他"
+    ],
+    "usphone": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /traɪd/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I didn't try to stop him",
+    "trans": [
+      "我(过去)没有尝试阻止他"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /traɪ/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "a way",
+    "trans": [
+      "一个方法"
+    ],
+    "usphone": "/ə/ /we/",
+    "ukphone": "/ə/ /we/"
+  },
+  {
+    "name": "to find a way",
+    "trans": [
+      "找到一个方法"
+    ],
+    "usphone": "/tə/ /faɪnd/ /ə/ /we/",
+    "ukphone": "/tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "name": "I have to find a way",
+    "trans": [
+      "我必须找到一个方法"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "name": "to stop him",
+    "trans": [
+      "阻止他"
+    ],
+    "usphone": "/tə/ /stɑp/ /hɪm/",
+    "ukphone": "/tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I have to find a way to stop him",
+    "trans": [
+      "我必须找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I don't have to find a way to stop him",
+    "trans": [
+      "我不必找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /dont/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I had to",
+    "trans": [
+      "我(过去)必须"
+    ],
+    "usphone": "/aɪ/ /hæd/ /tə/",
+    "ukphone": "/aɪ/ /hæd/ /tə/"
+  },
+  {
+    "name": "I had to find a way",
+    "trans": [
+      "我(过去)必须找到一个方法"
+    ],
+    "usphone": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/",
+    "ukphone": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/"
+  },
+  {
+    "name": "I had to find a way to stop him",
+    "trans": [
+      "我(过去)必须找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /hæd/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I didn't have to find a way to stop him",
+    "trans": [
+      "我(过去)不必找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /hæv/ /tə/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I find a way to stop him",
+    "trans": [
+      "我找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I found a way to stop him",
+    "trans": [
+      "我(过去)找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /faʊnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I didn't find a way to stop him",
+    "trans": [
+      "我(过去)没有找到一个方法阻止他"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /faɪnd/ /ə/ /we/ /tə/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I stop him",
+    "trans": [
+      "我阻止他"
+    ],
+    "usphone": "/aɪ/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "I stopped him",
+    "trans": [
+      "我阻止了他"
+    ],
+    "usphone": "/aɪ/ /stɑpt/ /hɪm/",
+    "ukphone": "/aɪ/ /stɑpt/ /hɪm/"
+  },
+  {
+    "name": "I didn't stop him",
+    "trans": [
+      "我(过去)没有阻止他"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /stɑp/ /hɪm/"
+  },
+  {
+    "name": "to ask",
+    "trans": [
+      "问"
+    ],
+    "usphone": "/tə/ /æsk/",
+    "ukphone": "/tə/ /æsk/"
+  },
+  {
+    "name": "asked",
+    "trans": [
+      "问过"
+    ],
+    "usphone": "/æskt/",
+    "ukphone": "/æskt/"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðəm/",
+    "ukphone": "/ðəm/"
+  },
+  {
+    "name": "asked them",
+    "trans": [
+      "问过他们"
+    ],
+    "usphone": "/æskt/ /ðəm/",
+    "ukphone": "/æskt/ /ðəm/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I asked them",
+    "trans": [
+      "我问过他们"
+    ],
+    "usphone": "/aɪ/ /æskt/ /ðəm/",
+    "ukphone": "/aɪ/ /æskt/ /ðəm/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "那个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "same",
+    "trans": [
+      "相同的"
+    ],
+    "usphone": "/sem/",
+    "ukphone": "/sem/"
+  },
+  {
+    "name": "the same question",
+    "trans": [
+      "那个相同的问题"
+    ],
+    "usphone": "/ðə/ /sem/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I asked them the same question",
+    "trans": [
+      "我问过他们那个相同的问题"
+    ],
+    "usphone": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I didn't ask them the same question",
+    "trans": [
+      "我没有问过他们那个相同的问题"
+    ],
+    "usphone": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /'dɪdnt/ /æsk/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "answered",
+    "trans": [
+      "回答过"
+    ],
+    "usphone": "/'ænsɚd/",
+    "ukphone": "/'ænsɚd/"
+  },
+  {
+    "name": "nobody",
+    "trans": [
+      "没有人"
+    ],
+    "usphone": "/ˈnobɑdi/",
+    "ukphone": "/ˈnobɑdi/"
+  },
+  {
+    "name": "nobody answered",
+    "trans": [
+      "没有人回答过"
+    ],
+    "usphone": "/ˈnobɑdi/ /'ænsɚd/",
+    "ukphone": "/ˈnobɑdi/ /'ænsɚd/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bət/",
+    "ukphone": "/bət/"
+  },
+  {
+    "name": "but nobody answered",
+    "trans": [
+      "但是没有人回答过"
+    ],
+    "usphone": "/bət/ /ˈnobɑdi/ /'ænsɚd/",
+    "ukphone": "/bət/ /ˈnobɑdi/ /'ænsɚd/"
+  },
+  {
+    "name": "I asked them the same question but nobody answered",
+    "trans": [
+      "我问过他们那个相同的问题但是没有人回答过"
+    ],
+    "usphone": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/",
+    "ukphone": "/aɪ/ /æskt/ /ðəm/ /ðə/ /sem/ /'kwɛstʃən/ /bət/ /ˈnobɑdi/ /'ænsɚd/"
+  }
+]

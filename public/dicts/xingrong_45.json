@@ -1,0 +1,994 @@
+[
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/",
+    "ukphone": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "name": "the teacher permits",
+    "trans": [
+      "老师允许"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "to sing",
+    "trans": [
+      "唱歌"
+    ],
+    "usphone": "/tə/ /sɪŋ/",
+    "ukphone": "/tə/ /sɪŋ/"
+  },
+  {
+    "name": "class",
+    "trans": [
+      "课堂"
+    ],
+    "usphone": "/klæs/",
+    "ukphone": "/klæs/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "in the class",
+    "trans": [
+      "在课堂"
+    ],
+    "usphone": "/ɪn/ /ðə/ /klæs/",
+    "ukphone": "/ɪn/ /ðə/ /klæs/"
+  },
+  {
+    "name": "music",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "/'mjuzɪk/",
+    "ukphone": "/'mjuzɪk/"
+  },
+  {
+    "name": "in the music class",
+    "trans": [
+      "在音乐课"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "to sing in the music class",
+    "trans": [
+      "在音乐课唱歌"
+    ],
+    "usphone": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "singing in the music class",
+    "trans": [
+      "在音乐课唱歌(ing形式)"
+    ],
+    "usphone": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "the teacher permits",
+    "trans": [
+      "老师允许"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the teacher permits singing in the music class",
+    "trans": [
+      "老师允许在音乐课唱歌"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'sɪŋɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "the teacher permits him",
+    "trans": [
+      "老师允许他"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/"
+  },
+  {
+    "name": "to sing in the music class",
+    "trans": [
+      "在音乐课唱歌"
+    ],
+    "usphone": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "the teacher permits him to sing in the music class",
+    "trans": [
+      "老师允许他在音乐课唱歌"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /sɪŋ/ /ɪn/ /ðə/ /'mjuzɪk/ /klæs/"
+  },
+  {
+    "name": "the sea",
+    "trans": [
+      "大海"
+    ],
+    "usphone": "/ðə/ /si/",
+    "ukphone": "/ðə/ /si/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "in the sea",
+    "trans": [
+      "在大海里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /si/",
+    "ukphone": "/ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "to swim",
+    "trans": [
+      "游泳"
+    ],
+    "usphone": "/tə/ /swɪm/",
+    "ukphone": "/tə/ /swɪm/"
+  },
+  {
+    "name": "to swim in the sea",
+    "trans": [
+      "在大海里游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "sunset",
+    "trans": [
+      "日落"
+    ],
+    "usphone": "/'sʌnsɛt/",
+    "ukphone": "/'sʌnsɛt/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before sunset",
+    "trans": [
+      "在日落之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "to swim in the sea before sunset",
+    "trans": [
+      "在日落之前在大海里游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "swimming in the sea before sunset",
+    "trans": [
+      "在日落之前在大海里游泳(ing形式)"
+    ],
+    "usphone": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the policy",
+    "trans": [
+      "政策"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/",
+    "ukphone": "/ðə/ /ˈpɑləsi/"
+  },
+  {
+    "name": "the policy permits",
+    "trans": [
+      "政策允许"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the policy permits swimming in the sea before sunset",
+    "trans": [
+      "政策允许在日落之前在大海里游泳"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'swɪmɪŋ/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "父亲"
+    ],
+    "usphone": "/'fɑðɚ/",
+    "ukphone": "/'fɑðɚ/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his father",
+    "trans": [
+      "他的父亲"
+    ],
+    "usphone": "/hɪz/ /'fɑðɚ/",
+    "ukphone": "/hɪz/ /'fɑðɚ/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "his father permits",
+    "trans": [
+      "他的父亲允许"
+    ],
+    "usphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/",
+    "ukphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "his father permits him",
+    "trans": [
+      "他的父亲允许他"
+    ],
+    "usphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/",
+    "ukphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/"
+  },
+  {
+    "name": "to swim in the sea before sunset",
+    "trans": [
+      "在日落之前在大海里游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "his father permits him to swim in the sea before sunset",
+    "trans": [
+      "他的父亲允许他在日落之前在大海里游泳"
+    ],
+    "usphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/",
+    "ukphone": "/hɪz/ /'fɑðɚ/ /pɚˈmɪts/ /hɪm/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'fɔr/ /'sʌnsɛt/"
+  },
+  {
+    "name": "to stop",
+    "trans": [
+      "停止"
+    ],
+    "usphone": "/tə/ /stɑp/",
+    "ukphone": "/tə/ /stɑp/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he stops",
+    "trans": [
+      "他停止"
+    ],
+    "usphone": "/hi/ /stɑps/",
+    "ukphone": "/hi/ /stɑps/"
+  },
+  {
+    "name": "he stopped",
+    "trans": [
+      "他停止(过去)"
+    ],
+    "usphone": "/hi/ /stɑpt/",
+    "ukphone": "/hi/ /stɑpt/"
+  },
+  {
+    "name": "to smoke",
+    "trans": [
+      "抽烟"
+    ],
+    "usphone": "/tə/ /smok/",
+    "ukphone": "/tə/ /smok/"
+  },
+  {
+    "name": "smoking",
+    "trans": [
+      "抽烟(ing形式)"
+    ],
+    "usphone": "/'smokɪŋ/",
+    "ukphone": "/'smokɪŋ/"
+  },
+  {
+    "name": "he stopped smoking",
+    "trans": [
+      "他停止抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'smokɪŋ/",
+    "ukphone": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "name": "health",
+    "trans": [
+      "健康"
+    ],
+    "usphone": "/hɛlθ/",
+    "ukphone": "/hɛlθ/"
+  },
+  {
+    "name": "his health",
+    "trans": [
+      "他的健康"
+    ],
+    "usphone": "/hɪz/ /hɛlθ/",
+    "ukphone": "/hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɚ/",
+    "ukphone": "/fɚ/"
+  },
+  {
+    "name": "for his health",
+    "trans": [
+      "为了他的健康"
+    ],
+    "usphone": "/fɚ/ /hɪz/ /hɛlθ/",
+    "ukphone": "/fɚ/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "he stopped smoking",
+    "trans": [
+      "他停止抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'smokɪŋ/",
+    "ukphone": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "name": "he stopped smoking for his health",
+    "trans": [
+      "他为了他的健康停止抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/",
+    "ukphone": "/hi/ /stɑpt/ /'smokɪŋ/ /fɚ/ /hɪz/ /hɛlθ/"
+  },
+  {
+    "name": "he stopped smoking",
+    "trans": [
+      "他停止抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'smokɪŋ/",
+    "ukphone": "/hi/ /stɑpt/ /'smokɪŋ/"
+  },
+  {
+    "name": "to smoke",
+    "trans": [
+      "抽烟"
+    ],
+    "usphone": "/tə/ /smok/",
+    "ukphone": "/tə/ /smok/"
+  },
+  {
+    "name": "he stopped to smoke",
+    "trans": [
+      "他停下来去抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /smok/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /smok/"
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "公交车"
+    ],
+    "usphone": "/bʌs/",
+    "ukphone": "/bʌs/"
+  },
+  {
+    "name": "stop",
+    "trans": [
+      "停止"
+    ],
+    "usphone": "/stɑp/",
+    "ukphone": "/stɑp/"
+  },
+  {
+    "name": "bus stop",
+    "trans": [
+      "公交车站"
+    ],
+    "usphone": "/bʌs/ /stɑp/",
+    "ukphone": "/bʌs/ /stɑp/"
+  },
+  {
+    "name": "at the bus stop",
+    "trans": [
+      "在公交车站"
+    ],
+    "usphone": "/ət/ /ðə/ /bʌs/ /stɑp/",
+    "ukphone": "/ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "name": "he stopped to smoke",
+    "trans": [
+      "他停下来去抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /smok/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /smok/"
+  },
+  {
+    "name": "he stopped to smoke at the bus stop",
+    "trans": [
+      "他在公交车站停下来去抽烟"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /smok/ /ət/ /ðə/ /bʌs/ /stɑp/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "flower",
+    "trans": [
+      "花"
+    ],
+    "usphone": "/'flaʊɚ/",
+    "ukphone": "/'flaʊɚ/"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "/səm/",
+    "ukphone": "/səm/"
+  },
+  {
+    "name": "some flowers",
+    "trans": [
+      "一些花"
+    ],
+    "usphone": "/səm/ /'flaʊɚz/",
+    "ukphone": "/səm/ /'flaʊɚz/"
+  },
+  {
+    "name": "to buy some flowers",
+    "trans": [
+      "买一些花"
+    ],
+    "usphone": "/tə/ /baɪ/ /səm/ /'flaʊɚz/",
+    "ukphone": "/tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "name": "he stopped",
+    "trans": [
+      "他停止"
+    ],
+    "usphone": "/hi/ /stɑpt/",
+    "ukphone": "/hi/ /stɑpt/"
+  },
+  {
+    "name": "he stopped to buy some flowers",
+    "trans": [
+      "他停下来去买一些花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "name": "way",
+    "trans": [
+      "路"
+    ],
+    "usphone": "/we/",
+    "ukphone": "/we/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his way",
+    "trans": [
+      "他的路"
+    ],
+    "usphone": "/hɪz/ /we/",
+    "ukphone": "/hɪz/ /we/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "his way home",
+    "trans": [
+      "他回家的路"
+    ],
+    "usphone": "/hɪz/ /we/ /hom/",
+    "ukphone": "/hɪz/ /we/ /hom/"
+  },
+  {
+    "name": "on his way home",
+    "trans": [
+      "在他回家的路上"
+    ],
+    "usphone": "/ɑn/ /hɪz/ /we/ /hom/",
+    "ukphone": "/ɑn/ /hɪz/ /we/ /hom/"
+  },
+  {
+    "name": "he stopped to buy some flowers",
+    "trans": [
+      "他停下来去买一些花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/"
+  },
+  {
+    "name": "he stopped to buy some flowers on his way home",
+    "trans": [
+      "他在他回家的路上停下来去买一些花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/",
+    "ukphone": "/hi/ /stɑpt/ /tə/ /baɪ/ /səm/ /'flaʊɚz/ /ɑn/ /hɪz/ /we/ /hom/"
+  },
+  {
+    "name": "buying",
+    "trans": [
+      "买(ing形式)"
+    ],
+    "usphone": "/'baɪɪŋ/",
+    "ukphone": "/'baɪɪŋ/"
+  },
+  {
+    "name": "flowers",
+    "trans": [
+      "花"
+    ],
+    "usphone": "/'flaʊɚz/",
+    "ukphone": "/'flaʊɚz/"
+  },
+  {
+    "name": "buying flowers",
+    "trans": [
+      "买花(ing形式)"
+    ],
+    "usphone": "/'baɪɪŋ/ /'flaʊɚz/",
+    "ukphone": "/'baɪɪŋ/ /'flaʊɚz/"
+  },
+  {
+    "name": "he stopped",
+    "trans": [
+      "他停止"
+    ],
+    "usphone": "/hi/ /stɑpt/",
+    "ukphone": "/hi/ /stɑpt/"
+  },
+  {
+    "name": "he stopped buying flowers",
+    "trans": [
+      "他停止买花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/",
+    "ukphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ],
+    "usphone": "/fɚ/",
+    "ukphone": "/fɚ/"
+  },
+  {
+    "name": "for her",
+    "trans": [
+      "为她"
+    ],
+    "usphone": "/fɚ/ /hɚ/",
+    "ukphone": "/fɚ/ /hɚ/"
+  },
+  {
+    "name": "he stopped buying flowers for her",
+    "trans": [
+      "他停止为她买花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+    "ukphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+  },
+  {
+    "name": "fight",
+    "trans": [
+      "争吵"
+    ],
+    "usphone": "/faɪt/",
+    "ukphone": "/faɪt/"
+  },
+  {
+    "name": "a fight",
+    "trans": [
+      "一次争吵"
+    ],
+    "usphone": "/ə/ /faɪt/",
+    "ukphone": "/ə/ /faɪt/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "have",
+    "trans": [
+      "有"
+    ],
+    "usphone": "/hæv/",
+    "ukphone": "/hæv/"
+  },
+  {
+    "name": "they have",
+    "trans": [
+      "他们有"
+    ],
+    "usphone": "/ðe/ /hæv/",
+    "ukphone": "/ðe/ /hæv/"
+  },
+  {
+    "name": "they have a fight",
+    "trans": [
+      "他们有一次争吵"
+    ],
+    "usphone": "/ðe/ /hæv/ /ə/ /faɪt/",
+    "ukphone": "/ðe/ /hæv/ /ə/ /faɪt/"
+  },
+  {
+    "name": "they had a fight",
+    "trans": [
+      "他们(过去)有一次争吵"
+    ],
+    "usphone": "/ðe/ /hæd/ /ə/ /faɪt/",
+    "ukphone": "/ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "name": "after",
+    "trans": [
+      "在......之后"
+    ],
+    "usphone": "/'æftɚ/",
+    "ukphone": "/'æftɚ/"
+  },
+  {
+    "name": "after they had a fight",
+    "trans": [
+      "在他们(过去)有一次争吵之后"
+    ],
+    "usphone": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+    "ukphone": "/'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "name": "he stopped buying flowers for her",
+    "trans": [
+      "他停止为她买花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/",
+    "ukphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/"
+  },
+  {
+    "name": "he stopped buying flowers for her after they had a fight",
+    "trans": [
+      "在他们(过去)有一次争吵之后他停止为她买花"
+    ],
+    "usphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/",
+    "ukphone": "/hi/ /stɑpt/ /'baɪɪŋ/ /'flaʊɚz/ /fɚ/ /hɚ/ /'æftɚ/ /ðe/ /hæd/ /ə/ /faɪt/"
+  },
+  {
+    "name": "to remember",
+    "trans": [
+      "记得"
+    ],
+    "usphone": "/tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to remember",
+    "trans": [
+      "我需要记得"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话给......"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "mom",
+    "trans": [
+      "妈妈"
+    ],
+    "usphone": "/mɑm/",
+    "ukphone": "/mɑm/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my mom",
+    "trans": [
+      "我的妈妈"
+    ],
+    "usphone": "/maɪ/ /mɑm/",
+    "ukphone": "/maɪ/ /mɑm/"
+  },
+  {
+    "name": "to call my mom",
+    "trans": [
+      "打电话给我的妈妈"
+    ],
+    "usphone": "/tə/ /kɔl/ /maɪ/ /mɑm/",
+    "ukphone": "/tə/ /kɔl/ /maɪ/ /mɑm/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "to call my mom tomorrow",
+    "trans": [
+      "明天打电话给我的妈妈"
+    ],
+    "usphone": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+    "ukphone": "/tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+  },
+  {
+    "name": "I need to remember",
+    "trans": [
+      "我需要记得"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "I need to remember to call my mom tomorrow",
+    "trans": [
+      "我需要记得明天打电话给我的妈妈"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /rɪ'mɛmbɚ/ /tə/ /kɔl/ /maɪ/ /mɑm/ /tə'mɔro/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话给......"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call you",
+    "trans": [
+      "打电话给你"
+    ],
+    "usphone": "/tə/ /kɔl/ /ju/",
+    "ukphone": "/tə/ /kɔl/ /ju/"
+  },
+  {
+    "name": "calling you",
+    "trans": [
+      "打电话给你(ing形式)"
+    ],
+    "usphone": "/ˈkɔlɪŋ/ /ju/",
+    "ukphone": "/ˈkɔlɪŋ/ /ju/"
+  },
+  {
+    "name": "last night",
+    "trans": [
+      "昨天晚上"
+    ],
+    "usphone": "/læst/ /naɪt/",
+    "ukphone": "/læst/ /naɪt/"
+  },
+  {
+    "name": "calling you last night",
+    "trans": [
+      "昨天晚上打电话给你(ing形式)"
+    ],
+    "usphone": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "name": "I remember",
+    "trans": [
+      "我记得"
+    ],
+    "usphone": "/aɪ/ /rɪ'mɛmbɚ/",
+    "ukphone": "/aɪ/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "I remember calling you last night",
+    "trans": [
+      "我记得昨天晚上打电话给你"
+    ],
+    "usphone": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /rɪ'mɛmbɚ/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "I forget",
+    "trans": [
+      "我忘记"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɛt/",
+    "ukphone": "/aɪ/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "I forgot",
+    "trans": [
+      "我忘记(过去)"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɑt/",
+    "ukphone": "/aɪ/ /fɚ'ɡɑt/"
+  },
+  {
+    "name": "calling you last night",
+    "trans": [
+      "昨天晚上打电话给你(ing形式)"
+    ],
+    "usphone": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "name": "I forgot calling you last night",
+    "trans": [
+      "我忘记昨天晚上打电话给你"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /fɚ'ɡɑt/ /ˈkɔlɪŋ/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话给......"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call you last night",
+    "trans": [
+      "昨天晚上打电话给你"
+    ],
+    "usphone": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+  },
+  {
+    "name": "I forgot to call you last night",
+    "trans": [
+      "我忘记昨晚去给你打电话"
+    ],
+    "usphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/",
+    "ukphone": "/aɪ/ /fɚ'ɡɑt/ /tə/ /kɔl/ /ju/ /læst/ /naɪt/"
+  }
+]

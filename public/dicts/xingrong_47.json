@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "this",
+    "trans": [
+      "这个"
+    ],
+    "usphone": "/ðɪs/",
+    "ukphone": "/ðɪs/"
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'prɑbləm/",
+    "ukphone": "/'prɑbləm/"
+  },
+  {
+    "name": "this problem",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðɪs/ /'prɑbləm/",
+    "ukphone": "/ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "to solve",
+    "trans": [
+      "解决"
+    ],
+    "usphone": "/tə/ /sɑlv/",
+    "ukphone": "/tə/ /sɑlv/"
+  },
+  {
+    "name": "to solve this problem",
+    "trans": [
+      "解决这个问题"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "we should",
+    "trans": [
+      "我们应该"
+    ],
+    "usphone": "/wi/ /ʃʊd/",
+    "ukphone": "/wi/ /ʃʊd/"
+  },
+  {
+    "name": "to try",
+    "trans": [
+      "尝试"
+    ],
+    "usphone": "/tə/ /traɪ/",
+    "ukphone": "/tə/ /traɪ/"
+  },
+  {
+    "name": "we should try",
+    "trans": [
+      "我们应该尝试"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /traɪ/",
+    "ukphone": "/wi/ /ʃʊd/ /traɪ/"
+  },
+  {
+    "name": "to solve this problem",
+    "trans": [
+      "解决这个问题"
+    ],
+    "usphone": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "we should try to solve this problem",
+    "trans": [
+      "我们应该尝试解决这个问题"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "we should try to solve this problem as soon as possible",
+    "trans": [
+      "我们应该尝试尽快解决这个问题"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/wi/ /ʃʊd/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "I will try to solve this problem",
+    "trans": [
+      "我将会尝试解决这个问题"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "to manage",
+    "trans": [
+      "设法做到"
+    ],
+    "usphone": "/tə/ /ˈmænɪdʒ/",
+    "ukphone": "/tə/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "I will manage to solve this problem",
+    "trans": [
+      "我将会设法解决这个问题"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /sɑlv/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/’homwɝk/",
+    "ukphone": "/’homwɝk/"
+  },
+  {
+    "name": "my homework",
+    "trans": [
+      "我的家庭作业"
+    ],
+    "usphone": "/maɪ/ /’homwɝk/",
+    "ukphone": "/maɪ/ /’homwɝk/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /ˈfɪnɪʃ/",
+    "ukphone": "/tə/ /ˈfɪnɪʃ/"
+  },
+  {
+    "name": "to finish my homework",
+    "trans": [
+      "完成我的家庭作业"
+    ],
+    "usphone": "/tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/",
+    "ukphone": "/tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+  },
+  {
+    "name": "I will try to finish my homework",
+    "trans": [
+      "我将会尝试完成我的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/",
+    "ukphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/"
+  },
+  {
+    "name": "bedtime",
+    "trans": [
+      "就寝时间"
+    ],
+    "usphone": "/'bɛdtaɪm/",
+    "ukphone": "/'bɛdtaɪm/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before bedtime",
+    "trans": [
+      "在睡觉之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /'bɛdtaɪm/",
+    "ukphone": "/bɪ'fɔr/ /'bɛdtaɪm/"
+  },
+  {
+    "name": "I will try to finish my homework before bedtime",
+    "trans": [
+      "我将会尝试在睡觉之前完成我的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/",
+    "ukphone": "/aɪ/ /wɪl/ /traɪ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+  },
+  {
+    "name": "to manage",
+    "trans": [
+      "设法做到"
+    ],
+    "usphone": "/tə/ /ˈmænɪdʒ/",
+    "ukphone": "/tə/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "I will manage to finish my homework before bedtime",
+    "trans": [
+      "我将会设法在睡觉之前完成我的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/",
+    "ukphone": "/aɪ/ /wɪl/ /ˈmænɪdʒ/ /tə/ /ˈfɪnɪʃ/ /maɪ/ /’homwɝk/ /bɪ'fɔr/ /'bɛdtaɪm/"
+  },
+  {
+    "name": "to manage",
+    "trans": [
+      "设法做到"
+    ],
+    "usphone": "/tə/ /ˈmænɪdʒ/",
+    "ukphone": "/tə/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "you do it",
+    "trans": [
+      "你做这件事"
+    ],
+    "usphone": "/ju/ /du/ /ɪt/",
+    "ukphone": "/ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "没有"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't do it",
+    "trans": [
+      "你没有做这件事"
+    ],
+    "usphone": "/ju/ /dont/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "name": "you do do it",
+    "trans": [
+      "你有做这件事"
+    ],
+    "usphone": "/ju/ /du/ /du/ /ɪt/",
+    "ukphone": "/ju/ /du/ /du/ /ɪt/"
+  },
+  {
+    "name": "you don't do it",
+    "trans": [
+      "你没有做这件事"
+    ],
+    "usphone": "/ju/ /dont/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dont/ /du/ /ɪt/"
+  },
+  {
+    "name": "you didn't do it",
+    "trans": [
+      "你(过去)没有做这件事"
+    ],
+    "usphone": "/ju/ /ˈdɪdnt/ /du/ /ɪt/",
+    "ukphone": "/ju/ /ˈdɪdnt/ /du/ /ɪt/"
+  },
+  {
+    "name": "you did do it",
+    "trans": [
+      "你(过去)有做这件事"
+    ],
+    "usphone": "/ju/ /dɪd/ /du/ /ɪt/",
+    "ukphone": "/ju/ /dɪd/ /du/ /ɪt/"
+  },
+  {
+    "name": "did you do it",
+    "trans": [
+      "你(过去)有做这件事吗？"
+    ],
+    "usphone": "/dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how did you do it",
+    "trans": [
+      "你(过去)如何做这件事的？ "
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /du/ /ɪt/"
+  },
+  {
+    "name": "to manage",
+    "trans": [
+      "设法做到"
+    ],
+    "usphone": "/tə/ /ˈmænɪdʒ/",
+    "ukphone": "/tə/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to do it",
+    "trans": [
+      "你(过去)如何设法做到这件事的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /du/ /ɪt/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到......"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "to get here",
+    "trans": [
+      "到达这里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /hɪr/",
+    "ukphone": "/tə/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "name": "quickly",
+    "trans": [
+      "迅速地"
+    ],
+    "usphone": "/ˈkwɪklɪ/",
+    "ukphone": "/ˈkwɪklɪ/"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "如此"
+    ],
+    "usphone": "/so/",
+    "ukphone": "/so/"
+  },
+  {
+    "name": "so quickly",
+    "trans": [
+      "如此迅速地"
+    ],
+    "usphone": "/so/ /ˈkwɪklɪ/",
+    "ukphone": "/so/ /ˈkwɪklɪ/"
+  },
+  {
+    "name": "to get here so quickly",
+    "trans": [
+      "如此迅速地到达这里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/",
+    "ukphone": "/tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to get here so quickly",
+    "trans": [
+      "你(过去)如何设法做到如此迅速地到达这里的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ɡɛt/ /hɪr/ /so/ /ˈkwɪklɪ/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make money",
+    "trans": [
+      "赚钱"
+    ],
+    "usphone": "/tə/ /mek/ /ˈmʌni/",
+    "ukphone": "/tə/ /mek/ /ˈmʌni/"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "如此"
+    ],
+    "usphone": "/so/",
+    "ukphone": "/so/"
+  },
+  {
+    "name": "much",
+    "trans": [
+      "多"
+    ],
+    "usphone": "/mʌtʃ/",
+    "ukphone": "/mʌtʃ/"
+  },
+  {
+    "name": "so much",
+    "trans": [
+      "如此多"
+    ],
+    "usphone": "/so/ /mʌtʃ/",
+    "ukphone": "/so/ /mʌtʃ/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "so much money",
+    "trans": [
+      "如此多的钱"
+    ],
+    "usphone": "/so/ /mʌtʃ/ /ˈmʌni/",
+    "ukphone": "/so/ /mʌtʃ/ /ˈmʌni/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make so much money",
+    "trans": [
+      "赚如此多的钱"
+    ],
+    "usphone": "/tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+    "ukphone": "/tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to make so much money",
+    "trans": [
+      "你(过去)如何设法做到赚如此多的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "short",
+    "trans": [
+      "短"
+    ],
+    "usphone": "/ʃɔrt/",
+    "ukphone": "/ʃɔrt/"
+  },
+  {
+    "name": "a short time",
+    "trans": [
+      "一段短的时间"
+    ],
+    "usphone": "/ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在......里"
+    ],
+    "usphone": "/ɪn/",
+    "ukphone": "/ɪn/"
+  },
+  {
+    "name": "in a short time",
+    "trans": [
+      "在一段短的时间里"
+    ],
+    "usphone": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "such",
+    "trans": [
+      "如此"
+    ],
+    "usphone": "/sʌtʃ/",
+    "ukphone": "/sʌtʃ/"
+  },
+  {
+    "name": "in such a short time",
+    "trans": [
+      "在一段如此短的时间里"
+    ],
+    "usphone": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "how did you manage to make so much money",
+    "trans": [
+      "你(过去)如何设法做到赚如此多的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/"
+  },
+  {
+    "name": "how did you manage to make so much money in such a short time",
+    "trans": [
+      "你(过去)如何设法做到在一段如此短的时间里赚如此多的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /mek/ /so/ /mʌtʃ/ /ˈmʌni/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "to write",
+    "trans": [
+      "写"
+    ],
+    "usphone": "/tə/ /raɪt/",
+    "ukphone": "/tə/ /raɪt/"
+  },
+  {
+    "name": "this book",
+    "trans": [
+      "这本书"
+    ],
+    "usphone": "/ðɪs/ /bʊk/",
+    "ukphone": "/ðɪs/ /bʊk/"
+  },
+  {
+    "name": "to write this book",
+    "trans": [
+      "写这本书"
+    ],
+    "usphone": "/tə/ /raɪt/ /ðɪs/ /bʊk/",
+    "ukphone": "/tə/ /raɪt/ /ðɪs/ /bʊk/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to write this book",
+    "trans": [
+      "你(过去)如何设法做到写这本书的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+  },
+  {
+    "name": "prison",
+    "trans": [
+      "监狱"
+    ],
+    "usphone": "/ˈprɪzn/",
+    "ukphone": "/ˈprɪzn/"
+  },
+  {
+    "name": "in prison",
+    "trans": [
+      "在监狱里"
+    ],
+    "usphone": "/ɪn/ /ˈprɪzn/",
+    "ukphone": "/ɪn/ /ˈprɪzn/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are in prison",
+    "trans": [
+      "你在监狱里"
+    ],
+    "usphone": "/ju/ /ɚ/ /ɪn/ /ˈprɪzn/",
+    "ukphone": "/ju/ /ɚ/ /ɪn/ /ˈprɪzn/"
+  },
+  {
+    "name": "you were in prison",
+    "trans": [
+      "你(过去)在监狱里"
+    ],
+    "usphone": "/ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+    "ukphone": "/ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you were in prison",
+    "trans": [
+      "当你(过去)在监狱里"
+    ],
+    "usphone": "/wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+    "ukphone": "/wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+  },
+  {
+    "name": "how did you manage to write this book",
+    "trans": [
+      "你(过去)如何设法做到写这本书的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/"
+  },
+  {
+    "name": "how did you manage to write this book when you were in prison",
+    "trans": [
+      "你(过去)如何设法做到写这本书的当你(过去)在监狱里？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/ /wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /raɪt/ /ðɪs/ /bʊk/ /wɛn/ /ju/ /wɚ/ /ɪn/ /ˈprɪzn/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "speaking",
+    "trans": [
+      "演讲"
+    ],
+    "usphone": "/'spikɪŋ/",
+    "ukphone": "/'spikɪŋ/"
+  },
+  {
+    "name": "public",
+    "trans": [
+      "公开的"
+    ],
+    "usphone": "/ˈpʌblɪk/",
+    "ukphone": "/ˈpʌblɪk/"
+  },
+  {
+    "name": "public speaking",
+    "trans": [
+      "公开演讲"
+    ],
+    "usphone": "/ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "fear",
+    "trans": [
+      "恐惧"
+    ],
+    "usphone": "/fɪr/",
+    "ukphone": "/fɪr/"
+  },
+  {
+    "name": "fear of public speaking",
+    "trans": [
+      "公开演讲的恐惧"
+    ],
+    "usphone": "/fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "your fear of public speaking",
+    "trans": [
+      "你的公开演讲的恐惧"
+    ],
+    "usphone": "/jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "to overcome",
+    "trans": [
+      "克服"
+    ],
+    "usphone": "/tə/ /ˌovɚˈkʌm/",
+    "ukphone": "/tə/ /ˌovɚˈkʌm/"
+  },
+  {
+    "name": "to overcome your fear of public speaking",
+    "trans": [
+      "克服你的公开演讲的恐惧"
+    ],
+    "usphone": "/tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to overcome your fear of public speaking",
+    "trans": [
+      "你(过去)如何设法做到克服你的公开演讲的恐惧的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /ˌovɚˈkʌm/ /jʊr/ /fɪr/ /əv/ /ˈpʌblɪk/ /'spikɪŋ/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "生活"
+    ],
+    "usphone": "/laɪf/",
+    "ukphone": "/laɪf/"
+  },
+  {
+    "name": "work and life",
+    "trans": [
+      "工作和生活"
+    ],
+    "usphone": "/wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between work and life",
+    "trans": [
+      "在工作和生活之间"
+    ],
+    "usphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "the balance",
+    "trans": [
+      "平衡"
+    ],
+    "usphone": "/ðə/ /'bæləns/",
+    "ukphone": "/ðə/ /'bæləns/"
+  },
+  {
+    "name": "the balance between work and life",
+    "trans": [
+      "在工作和生活之间的平衡"
+    ],
+    "usphone": "/ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "to keep the balance between work and life",
+    "trans": [
+      "保持在工作和生活之间的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to keep the balance between work and life",
+    "trans": [
+      "你(过去)如何设法做到保持在工作和生活之间的平衡的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /kip/ /ðə/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "enough money",
+    "trans": [
+      "足够的钱"
+    ],
+    "usphone": "/ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "to save",
+    "trans": [
+      "存"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "to save enough money",
+    "trans": [
+      "存足够的钱"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "vacation",
+    "trans": [
+      "度假"
+    ],
+    "usphone": "/veˈkeʃn/",
+    "ukphone": "/veˈkeʃn/"
+  },
+  {
+    "name": "that vacation",
+    "trans": [
+      "那个度假"
+    ],
+    "usphone": "/ðæt/ /veˈkeʃn/",
+    "ukphone": "/ðæt/ /veˈkeʃn/"
+  },
+  {
+    "name": "to save enough money for that vacation",
+    "trans": [
+      "为那个度假存足够的钱"
+    ],
+    "usphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+    "ukphone": "/tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+  },
+  {
+    "name": "how did you manage",
+    "trans": [
+      "你(过去)如何设法做到"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/"
+  },
+  {
+    "name": "how did you manage to save enough money for that vacation",
+    "trans": [
+      "你(过去)如何设法做到为那个度假存足够的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+  },
+  {
+    "name": "short",
+    "trans": [
+      "短"
+    ],
+    "usphone": "/ʃɔrt/",
+    "ukphone": "/ʃɔrt/"
+  },
+  {
+    "name": "a short time",
+    "trans": [
+      "一段短的时间"
+    ],
+    "usphone": "/ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "in a short time",
+    "trans": [
+      "在一段短的时间里"
+    ],
+    "usphone": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ɪn/ /ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "in such a short time",
+    "trans": [
+      "在一段如此短的时间里"
+    ],
+    "usphone": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+  },
+  {
+    "name": "how did you manage to save enough money for that vacation",
+    "trans": [
+      "你(过去)如何设法做到为那个度假存足够的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/"
+  },
+  {
+    "name": "how did you manage to save enough money for that vacation in such a short time",
+    "trans": [
+      "你(过去)如何设法做到在一段如此短的时间里为那个度假存足够的钱的？"
+    ],
+    "usphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/",
+    "ukphone": "/haʊ/ /dɪd/ /ju/ /ˈmænɪdʒ/ /tə/ /sev/ /ɪ'nʌf/ /ˈmʌni/ /ðæt/ /veˈkeʃn/ /ɪn/ /sʌtʃ/ /ə/ /ʃɔrt/ /taɪm/"
+  }
+]

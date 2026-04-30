@@ -1,0 +1,1106 @@
+[
+  {
+    "name": "our",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "/'aʊɚ/",
+    "ukphone": "/'aʊɚ/"
+  },
+  {
+    "name": "team",
+    "trans": [
+      "团队"
+    ],
+    "usphone": "/tim/",
+    "ukphone": "/tim/"
+  },
+  {
+    "name": "our team",
+    "trans": [
+      "我们的团队"
+    ],
+    "usphone": "/'aʊɚ/ /tim/",
+    "ukphone": "/'aʊɚ/ /tim/"
+  },
+  {
+    "name": "to join",
+    "trans": [
+      "加入"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/",
+    "ukphone": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "name": "to join our team",
+    "trans": [
+      "加入我们的团队"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide to join our team",
+    "trans": [
+      "决定加入我们的团队"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he decides to join our team",
+    "trans": [
+      "他决定加入我们的团队"
+    ],
+    "usphone": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /dɪ'saɪdz/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he decided to join our team",
+    "trans": [
+      "他（过去）决定加入我们的团队"
+    ],
+    "usphone": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /dɪ'saɪdɪd/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "invitation",
+    "trans": [
+      "邀请（名词）"
+    ],
+    "usphone": "/ɪnvɪ'teʃən/",
+    "ukphone": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "这个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "to accept the invitation",
+    "trans": [
+      "接受这个邀请"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to join our team",
+    "trans": [
+      "加入我们的团队"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "the invitation to join our team",
+    "trans": [
+      "加入我们的团队的邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "to accept the invitation to join our team",
+    "trans": [
+      "接受加入我们团队的邀请"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/tə/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he accepts the invitation to join our team",
+    "trans": [
+      "他接受加入我们团队的邀请"
+    ],
+    "usphone": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /ək'sɛpts/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he doesn't accept the invitation to join our team",
+    "trans": [
+      "他不接受加入我们团队的邀请"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he accepted the invitation to join our team",
+    "trans": [
+      "他接受了加入我们团队的邀请"
+    ],
+    "usphone": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /ək'sɛptɪd/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "he didn't accept the invitation to join our team",
+    "trans": [
+      "他（过去）没有接受加入我们团队的邀请"
+    ],
+    "usphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/",
+    "ukphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ði/ /ɪnvɪ'teʃən/ /tə/ /dʒɔɪn/ /'aʊɚ/ /tim/"
+  },
+  {
+    "name": "the gift",
+    "trans": [
+      "这个礼物"
+    ],
+    "usphone": "/ðə/ /ɡɪft/",
+    "ukphone": "/ðə/ /ɡɪft/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "to accept the gift",
+    "trans": [
+      "接受这个礼物"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he accepts the gift",
+    "trans": [
+      "他接受这个礼物"
+    ],
+    "usphone": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ək'sɛpts/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he doesn't accept the gift",
+    "trans": [
+      "他不接受这个礼物"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ˈdʌznt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he accepted the gift",
+    "trans": [
+      "他（过去）接受这个礼物"
+    ],
+    "usphone": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ək'sɛptɪd/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he didn't accept the gift",
+    "trans": [
+      "他（过去）没有接受这个礼物"
+    ],
+    "usphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he wants",
+    "trans": [
+      "他想要"
+    ],
+    "usphone": "/hi/ /wɑnts/",
+    "ukphone": "/hi/ /wɑnts/"
+  },
+  {
+    "name": "he wants to accept the gift",
+    "trans": [
+      "他想要接受这个礼物"
+    ],
+    "usphone": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /wɑnts/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he doesn't want to accept the gift",
+    "trans": [
+      "他不想接受这个礼物"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ˈdʌznt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he wanted to accept the gift",
+    "trans": [
+      "他（过去）想要接受这个礼物"
+    ],
+    "usphone": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /wɑntɪd/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "he didn't want to accept the gift",
+    "trans": [
+      "他（过去）不想接受这个礼物"
+    ],
+    "usphone": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/",
+    "ukphone": "/hi/ /ˈdɪdnt/ /wɑnt/ /tə/ /ək'sɛpt/ /ðə/ /ɡɪft/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'hom'wɝk/",
+    "ukphone": "/'hom'wɝk/"
+  },
+  {
+    "name": "your homework",
+    "trans": [
+      "你的家庭作业"
+    ],
+    "usphone": "/jʊr/ /'hom'wɝk/",
+    "ukphone": "/jʊr/ /'hom'wɝk/"
+  },
+  {
+    "name": "to finish your homework",
+    "trans": [
+      "完成你的家庭作业"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+    "ukphone": "/tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "name": "I want you",
+    "trans": [
+      "我想要你"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/"
+  },
+  {
+    "name": "I want you to finish your homework",
+    "trans": [
+      "我想要你完成你的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɔtʃ/",
+    "ukphone": "/tə/ /wɔtʃ/"
+  },
+  {
+    "name": "TV",
+    "trans": [
+      "电视"
+    ],
+    "usphone": "/ˈtiˈvi/",
+    "ukphone": "/ˈtiˈvi/"
+  },
+  {
+    "name": "to watch TV",
+    "trans": [
+      "看电视"
+    ],
+    "usphone": "/tə/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/tə/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "you watch TV",
+    "trans": [
+      "你看电视"
+    ],
+    "usphone": "/ju/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before you watch TV",
+    "trans": [
+      "在你看电视之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "I want you to finish your homework",
+    "trans": [
+      "我想要你完成你的家庭作业"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/"
+  },
+  {
+    "name": "I want you to finish your homework before you watch TV",
+    "trans": [
+      "我想要你完成你的家庭作业在你看电视之前"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/aɪ/ /wɑnt/ /ju/ /tə/ /'fɪnɪʃ/ /jʊr/ /'hom'wɝk/ /bɪ'fɔr/ /ju/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "you can watch TV",
+    "trans": [
+      "你可以看电视"
+    ],
+    "usphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "you can not watch TV",
+    "trans": [
+      "你不可以看电视"
+    ],
+    "usphone": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/ju/ /kæn/ /nɑt/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "you want",
+    "trans": [
+      "你想要"
+    ],
+    "usphone": "/ju/ /wɑnt/",
+    "ukphone": "/ju/ /wɑnt/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否；如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you want",
+    "trans": [
+      "如果你想的话"
+    ],
+    "usphone": "/ɪf/ /ju/ /wɑnt/",
+    "ukphone": "/ɪf/ /ju/ /wɑnt/"
+  },
+  {
+    "name": "you can watch TV",
+    "trans": [
+      "你可以看电视"
+    ],
+    "usphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/",
+    "ukphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/"
+  },
+  {
+    "name": "you can watch TV if you want",
+    "trans": [
+      "你可以看电视如果你想的话"
+    ],
+    "usphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/",
+    "ukphone": "/ju/ /kæn/ /wɔtʃ/ /ˈtiˈvi/ /ɪf/ /ju/ /wɑnt/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to answer the question",
+    "trans": [
+      "回答这个问题"
+    ],
+    "usphone": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to refuse",
+    "trans": [
+      "拒绝"
+    ],
+    "usphone": "/tə/ /ri'fjuz/",
+    "ukphone": "/tə/ /ri'fjuz/"
+  },
+  {
+    "name": "to refuse to answer the question",
+    "trans": [
+      "拒绝回答这个问题"
+    ],
+    "usphone": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I want to refuse to answer the question",
+    "trans": [
+      "我想拒绝回答这个问题"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I refuse to answer the question",
+    "trans": [
+      "我拒绝回答这个问题"
+    ],
+    "usphone": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /ri'fjuz/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I refused to answer the question",
+    "trans": [
+      "我（过去）拒绝回答这个问题"
+    ],
+    "usphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "difficult",
+    "trans": [
+      "困难的"
+    ],
+    "usphone": "/'dɪfɪkəlt/",
+    "ukphone": "/'dɪfɪkəlt/"
+  },
+  {
+    "name": "the question is difficult",
+    "trans": [
+      "这个问题是困难的"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "the question was difficult",
+    "trans": [
+      "这个问题（过去）是困难的"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /wəz/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "the question was very difficult",
+    "trans": [
+      "这个问题（过去）是非常困难的"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "对我来说"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "the question was very difficult for me",
+    "trans": [
+      "这个问题（过去）是非常困难的对我来说"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+    "ukphone": "/ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because the question was very difficult for me",
+    "trans": [
+      "因为这个问题（过去）是非常困难的对我来说"
+    ],
+    "usphone": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+    "ukphone": "/bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I refused to answer the question",
+    "trans": [
+      "我（过去）拒绝回答这个问题"
+    ],
+    "usphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I refused to answer the question because the question was very difficult for me",
+    "trans": [
+      "我（过去）拒绝回答这个问题因为这个问题（过去）是非常困难的对我来说"
+    ],
+    "usphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ðə/ /'kwɛstʃən/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I refused to answer the question because it was very difficult for me",
+    "trans": [
+      "我（过去）拒绝回答这个问题因为它（过去）是非常困难的对我来说"
+    ],
+    "usphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /ri'fjuzd/ /tə/ /'ænsɚ/ /ðə/ /'kwɛstʃən/ /bɪ'kɔz/ /ɪt/ /wəz/ /ˈvɛri/ /'dɪfɪkəlt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "difficult",
+    "trans": [
+      "困难的"
+    ],
+    "usphone": "/'dɪfɪkəlt/",
+    "ukphone": "/'dɪfɪkəlt/"
+  },
+  {
+    "name": "it is difficult",
+    "trans": [
+      "它是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "the work",
+    "trans": [
+      "这个工作"
+    ],
+    "usphone": "/ðə/ /wɝk/",
+    "ukphone": "/ðə/ /wɝk/"
+  },
+  {
+    "name": "to finish the work",
+    "trans": [
+      "完成这个工作"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/",
+    "ukphone": "/tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "it is difficult to finish the work",
+    "trans": [
+      "完成这个工作（它）是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "a day",
+    "trans": [
+      "一天"
+    ],
+    "usphone": "/ə/ /de/",
+    "ukphone": "/ə/ /de/"
+  },
+  {
+    "name": "in a day",
+    "trans": [
+      "在一天内"
+    ],
+    "usphone": "/ɪn/ /ə/ /de/",
+    "ukphone": "/ɪn/ /ə/ /de/"
+  },
+  {
+    "name": "it is difficult to finish the work in a day",
+    "trans": [
+      "在一天内完成这个工作（它）是困难的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/",
+    "ukphone": "/ɪt/ /ɪz/ /'dɪfɪkəlt/ /tə/ /'fɪnɪʃ/ /ðə/ /wɝk/ /ɪn/ /ə/ /de/"
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ],
+    "usphone": "/'dendʒərəs/",
+    "ukphone": "/'dendʒərəs/"
+  },
+  {
+    "name": "it is dangerous",
+    "trans": [
+      "它是危险的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dendʒərəs/",
+    "ukphone": "/ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "name": "to swim",
+    "trans": [
+      "游泳"
+    ],
+    "usphone": "/tə/ /swɪm/",
+    "ukphone": "/tə/ /swɪm/"
+  },
+  {
+    "name": "the sea",
+    "trans": [
+      "大海"
+    ],
+    "usphone": "/ðə/ /si/",
+    "ukphone": "/ðə/ /si/"
+  },
+  {
+    "name": "in the sea",
+    "trans": [
+      "在大海里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /si/",
+    "ukphone": "/ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "to swim in the sea",
+    "trans": [
+      "在大海里游泳"
+    ],
+    "usphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "it is dangerous to swim in the sea",
+    "trans": [
+      "在大海里游泳（它）是危险的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "think",
+    "trans": [
+      "认为"
+    ],
+    "usphone": "/θɪŋk/",
+    "ukphone": "/θɪŋk/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think it is dangerous to swim in the sea",
+    "trans": [
+      "我认为在大海里游泳（它）是危险的"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/aɪ/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "I don't think it is dangerous to swim in the sea",
+    "trans": [
+      "我不认为在大海里游泳（它）是危险的"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /ɪt/ /ɪz/ /'dendʒərəs/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "I refuse",
+    "trans": [
+      "我拒绝"
+    ],
+    "usphone": "/aɪ/ /ri'fjuz/",
+    "ukphone": "/aɪ/ /ri'fjuz/"
+  },
+  {
+    "name": "I refuse to swim in the sea",
+    "trans": [
+      "我拒绝在大海里游泳"
+    ],
+    "usphone": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/",
+    "ukphone": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because it is dangerous",
+    "trans": [
+      "因为它是危险的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/",
+    "ukphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "name": "I refuse to swim in the sea because it is dangerous",
+    "trans": [
+      "我拒绝在大海里游泳因为它是危险的"
+    ],
+    "usphone": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/",
+    "ukphone": "/aɪ/ /ri'fjuz/ /tə/ /swɪm/ /ɪn/ /ðə/ /si/ /bɪ'kɔz/ /ɪt/ /ɪz/ /'dendʒərəs/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "the challenge",
+    "trans": [
+      "这个挑战"
+    ],
+    "usphone": "/ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "to accept the challenge",
+    "trans": [
+      "接受这个挑战"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I have to accept the challenge",
+    "trans": [
+      "我必须接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I had to accept the challenge",
+    "trans": [
+      "我（过去）必须接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /hæd/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I didn't have to accept the challenge",
+    "trans": [
+      "我（过去）不必接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /tə/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I accept the challenge",
+    "trans": [
+      "我接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I don't accept the challenge",
+    "trans": [
+      "我不接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /dont/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I accepted the challenge",
+    "trans": [
+      "我（过去）接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /ək'sɛptɪd/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "I didn't accept the challenge",
+    "trans": [
+      "我（过去）不接受这个挑战"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "a big challenge",
+    "trans": [
+      "一个大的挑战"
+    ],
+    "usphone": "/ə/ /bɪɡ/ /'tʃælɪndʒ/",
+    "ukphone": "/ə/ /bɪɡ/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "English is a big challenge",
+    "trans": [
+      "英语是一个大的挑战"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "对我来说"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "English is a big challenge for me",
+    "trans": [
+      "英语是一个大的挑战对我来说"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "English is not a big challenge for me",
+    "trans": [
+      "英语不是一个大的挑战对我来说"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "to master",
+    "trans": [
+      "掌握"
+    ],
+    "usphone": "/tə/ /'mæstɚ/",
+    "ukphone": "/tə/ /'mæstɚ/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to master English",
+    "trans": [
+      "掌握英语"
+    ],
+    "usphone": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "I will",
+    "trans": [
+      "我将会"
+    ],
+    "usphone": "/aɪ/ /wɪl/",
+    "ukphone": "/aɪ/ /wɪl/"
+  },
+  {
+    "name": "I will master English",
+    "trans": [
+      "我将会掌握英语"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "the future",
+    "trans": [
+      "将来"
+    ],
+    "usphone": "/ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "in the future",
+    "trans": [
+      "在将来"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'fjʊtʃɚ/",
+    "ukphone": "/ɪn/ /ðə/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "near",
+    "trans": [
+      "不远的"
+    ],
+    "usphone": "/nɪr/",
+    "ukphone": "/nɪr/"
+  },
+  {
+    "name": "in the near future",
+    "trans": [
+      "在不远的将来"
+    ],
+    "usphone": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+    "ukphone": "/ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "I will master English in the near future",
+    "trans": [
+      "我将会在不远的将来掌握英语"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+    "ukphone": "/aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "I know I will master English in the near future",
+    "trans": [
+      "我知道我将会在不远的将来掌握英语"
+    ],
+    "usphone": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+    "ukphone": "/aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "and I know I will master english in the near future",
+    "trans": [
+      "而且我知道我将会在不远的将来掌握英语"
+    ],
+    "usphone": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+    "ukphone": "/ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  },
+  {
+    "name": "English is not a big challenge for me",
+    "trans": [
+      "英语不是一个大的挑战对我来说"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/"
+  },
+  {
+    "name": "English is not a big challenge for me and I know I will master english in the near future",
+    "trans": [
+      "英语不是一个大的挑战对我来说而且我知道我将会在不远的将来掌握英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/ /ɪz/ /nɑt/ /ə/ /bɪɡ/ /'tʃælɪndʒ/ /fɝ/ /mi/ /ənd/ /aɪ/ /no/ /aɪ/ /wɪl/ /'mæstɚ/ /ˈɪŋɡlɪʃ/ /ɪn/ /ðə/ /nɪr/ /'fjʊtʃɚ/"
+  }
+]

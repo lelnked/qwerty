@@ -195,3 +195,29 @@ export class NewWord implements INewWord {
     this.timeStamp = getUTCUnixTimestamp()
   }
 }
+
+export interface IActiveCourseMapEntry {
+  id?: number
+  coursePackId: string
+  courseId: string
+  dictId: string
+  chapter: number
+  timeStamp: number
+}
+
+export class ActiveCourseMapEntry implements IActiveCourseMapEntry {
+  id?: number
+  coursePackId: string
+  courseId: string
+  dictId: string
+  chapter: number
+  timeStamp: number
+
+  constructor(coursePackId: string, courseId: string, dictId: string, chapter: number) {
+    this.coursePackId = coursePackId
+    this.courseId = courseId
+    this.dictId = dictId
+    this.chapter = chapter
+    this.timeStamp = Date.now()
+  }
+}

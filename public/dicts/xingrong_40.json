@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "I like",
+    "trans": [
+      "我喜欢"
+    ],
+    "usphone": "/aɪ/ /laɪk/",
+    "ukphone": "/aɪ/ /laɪk/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "I like to read",
+    "trans": [
+      "我喜欢阅读"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /tə/ /rid/",
+    "ukphone": "/aɪ/ /laɪk/ /tə/ /rid/"
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "阅读(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/",
+    "ukphone": "/'ridɪŋ/"
+  },
+  {
+    "name": "I like reading",
+    "trans": [
+      "我喜欢阅读"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /ridɪŋ/",
+    "ukphone": "/aɪ/ /laɪk/ /ridɪŋ/"
+  },
+  {
+    "name": "to cook",
+    "trans": [
+      "烹饪"
+    ],
+    "usphone": "/tə/ /kʊk/",
+    "ukphone": "/tə/ /kʊk/"
+  },
+  {
+    "name": "cooking",
+    "trans": [
+      "烹饪(ing形式)"
+    ],
+    "usphone": "/'kʊkɪŋ/",
+    "ukphone": "/'kʊkɪŋ/"
+  },
+  {
+    "name": "I like cooking",
+    "trans": [
+      "我喜欢烹饪"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /'kʊkɪŋ/",
+    "ukphone": "/aɪ/ /laɪk/ /'kʊkɪŋ/"
+  },
+  {
+    "name": "to shop",
+    "trans": [
+      "购物"
+    ],
+    "usphone": "/tə/ /ʃɑp/",
+    "ukphone": "/tə/ /ʃɑp/"
+  },
+  {
+    "name": "shopping",
+    "trans": [
+      "购物(ing形式)"
+    ],
+    "usphone": "/'ʃɑpɪŋ/",
+    "ukphone": "/'ʃɑpɪŋ/"
+  },
+  {
+    "name": "I like shopping",
+    "trans": [
+      "我喜欢购物"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /'ʃɑpɪŋ/",
+    "ukphone": "/aɪ/ /laɪk/ /'ʃɑpɪŋ/"
+  },
+  {
+    "name": "basketball",
+    "trans": [
+      "篮球"
+    ],
+    "usphone": "/'bæskɪtbɔl/",
+    "ukphone": "/'bæskɪtbɔl/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "打"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "to play basketball",
+    "trans": [
+      "打篮球"
+    ],
+    "usphone": "/tə/ /ple/ /'bæskɪtbɔl/",
+    "ukphone": "/tə/ /ple/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "playing",
+    "trans": [
+      "打(ing形式)"
+    ],
+    "usphone": "/'pleɪŋ/",
+    "ukphone": "/'pleɪŋ/"
+  },
+  {
+    "name": "playing basketball",
+    "trans": [
+      "打篮球(ing形式)"
+    ],
+    "usphone": "/'pleɪŋ/ /'bæskɪtbɔl/",
+    "ukphone": "/'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "I like playing basketball",
+    "trans": [
+      "我喜欢打篮球"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /'pleɪŋ/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /laɪk/ /'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "to enjoy",
+    "trans": [
+      "享受"
+    ],
+    "usphone": "/tə/ /ɪn'dʒɔɪ/",
+    "ukphone": "/tə/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "I enjoy",
+    "trans": [
+      "我享受"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "playing basketball",
+    "trans": [
+      "打篮球(ing形式)"
+    ],
+    "usphone": "/'pleɪŋ/ /'bæskɪtbɔl/",
+    "ukphone": "/'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "I enjoy playing basketball",
+    "trans": [
+      "我享受打篮球"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/ /'pleɪŋ/ /'bæskɪtbɔl/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/ /'pleɪŋ/ /'bæskɪtbɔl/"
+  },
+  {
+    "name": "books",
+    "trans": [
+      "书"
+    ],
+    "usphone": "/bʊks/",
+    "ukphone": "/bʊks/"
+  },
+  {
+    "name": "reading",
+    "trans": [
+      "阅读(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/",
+    "ukphone": "/'ridɪŋ/"
+  },
+  {
+    "name": "reading books",
+    "trans": [
+      "读书(ing形式）"
+    ],
+    "usphone": "/'ridɪŋ/ /bʊks/",
+    "ukphone": "/'ridɪŋ/ /bʊks/"
+  },
+  {
+    "name": "I enjoy",
+    "trans": [
+      "我享受"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "I enjoy reading books",
+    "trans": [
+      "我享受读书"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/"
+  },
+  {
+    "name": "free",
+    "trans": [
+      "自由的"
+    ],
+    "usphone": "/fri/",
+    "ukphone": "/fri/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "free time",
+    "trans": [
+      "自由时间"
+    ],
+    "usphone": "/fri/ /taɪm/",
+    "ukphone": "/fri/ /taɪm/"
+  },
+  {
+    "name": "my free time",
+    "trans": [
+      "我的自由时间"
+    ],
+    "usphone": "/maɪ/ /fri/ /taɪm/",
+    "ukphone": "/maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "name": "in my free time",
+    "trans": [
+      "在我的自由时间里"
+    ],
+    "usphone": "/ɪn/ /maɪ/ /fri/ /taɪm/",
+    "ukphone": "/ɪn/ /maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "name": "I enjoy reading books in my free time",
+    "trans": [
+      "在我空闲的时候我享受读书"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/ /ɪn/ /maɪ/ /fri/ /taɪm/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/ /'ridɪŋ/ /bʊks/ /ɪn/ /maɪ/ /fri/ /taɪm/"
+  },
+  {
+    "name": "he enjoys",
+    "trans": [
+      "他享受"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "friends",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛndz/",
+    "ukphone": "/frɛndz/"
+  },
+  {
+    "name": "to make friends",
+    "trans": [
+      "交朋友"
+    ],
+    "usphone": "/tə/ /mek/ /frɛndz/",
+    "ukphone": "/tə/ /mek/ /frɛndz/"
+  },
+  {
+    "name": "making friends",
+    "trans": [
+      "交朋友(ing形式)"
+    ],
+    "usphone": "/'mekɪŋ/ /frɛndz/",
+    "ukphone": "/'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "name": "he enjoys making friends",
+    "trans": [
+      "他享受交朋友"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "name": "people",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pipl/",
+    "ukphone": "/'pipl/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "different people",
+    "trans": [
+      "不同的人"
+    ],
+    "usphone": "/'dɪfrənt/ /'pipl/",
+    "ukphone": "/'dɪfrənt/ /'pipl/"
+  },
+  {
+    "name": "with different people",
+    "trans": [
+      "和不同的人"
+    ],
+    "usphone": "/wɪð/ /'dɪfrənt/ /'pipl/",
+    "ukphone": "/wɪð/ /'dɪfrənt/ /'pipl/"
+  },
+  {
+    "name": "he enjoys making friends",
+    "trans": [
+      "他享受交朋友"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/"
+  },
+  {
+    "name": "he enjoys making friends with different people",
+    "trans": [
+      "他享受和不同的人交朋友"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/ /wɪð/ /'dɪfrənt/ /'pipl/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'mekɪŋ/ /frɛndz/ /wɪð/ /'dɪfrənt/ /'pipl/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "movies",
+    "trans": [
+      "电影"
+    ],
+    "usphone": "/'muviz/",
+    "ukphone": "/'muviz/"
+  },
+  {
+    "name": "to watch movies",
+    "trans": [
+      "看电影"
+    ],
+    "usphone": "/tə/ /wɑtʃ/ /'muviz/",
+    "ukphone": "/tə/ /wɑtʃ/ /'muviz/"
+  },
+  {
+    "name": "watching movies",
+    "trans": [
+      "看电影(ing形式)"
+    ],
+    "usphone": "/'wɑtʃɪŋ/ /'muviz/",
+    "ukphone": "/'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "name": "he enjoys",
+    "trans": [
+      "他享受"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "name": "he enjoys watching movies",
+    "trans": [
+      "他享受看电影"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "girl",
+    "trans": [
+      "女孩"
+    ],
+    "usphone": "/ɡɝl/",
+    "ukphone": "/ɡɝl/"
+  },
+  {
+    "name": "girlfriend",
+    "trans": [
+      "女朋友"
+    ],
+    "usphone": "/'ɡɝlfrɛnd/",
+    "ukphone": "/'ɡɝlfrɛnd/"
+  },
+  {
+    "name": "his girlfriend",
+    "trans": [
+      "他的女朋友"
+    ],
+    "usphone": "/hɪz/ /'ɡɝlfrɛnd/",
+    "ukphone": "/hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with his girlfriend",
+    "trans": [
+      "和他的女朋友一起"
+    ],
+    "usphone": "/wɪð/ /hɪz/ /'ɡɝlfrɛnd/",
+    "ukphone": "/wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "name": "he enjoys watching movies",
+    "trans": [
+      "他享受看电影"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/"
+  },
+  {
+    "name": "he enjoys watching movies with his girlfriend",
+    "trans": [
+      "他享受和他的女朋友一起看电影"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/ /wɪð/ /hɪz/ /'ɡɝlfrɛnd/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'wɑtʃɪŋ/ /'muviz/ /wɪð/ /hɪz/ /'ɡɝlfrɛnd/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "around",
+    "trans": [
+      "围着"
+    ],
+    "usphone": "/ə'raʊnd/",
+    "ukphone": "/ə'raʊnd/"
+  },
+  {
+    "name": "around the world",
+    "trans": [
+      "围着世界"
+    ],
+    "usphone": "/ə'raʊnd/ /ðə/ /wɝld/",
+    "ukphone": "/ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "to travel",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/tə/ /'trævl/",
+    "ukphone": "/tə/ /'trævl/"
+  },
+  {
+    "name": "to travel around the world",
+    "trans": [
+      "环游世界"
+    ],
+    "usphone": "/tə/ /'trævl/ /ə'raʊnd/ /ðə/ /wɝld/",
+    "ukphone": "/tə/ /'trævl/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "traveling around the world",
+    "trans": [
+      "环游世界(ing形式)"
+    ],
+    "usphone": "/'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/",
+    "ukphone": "/'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "they enjoy",
+    "trans": [
+      "他们享受"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "they enjoy traveling around the world",
+    "trans": [
+      "他们享受环游世界"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/ /'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/ /'trævlɪŋ/ /ə'raʊnd/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "games",
+    "trans": [
+      "游戏"
+    ],
+    "usphone": "/ɡemz/",
+    "ukphone": "/ɡemz/"
+  },
+  {
+    "name": "video",
+    "trans": [
+      "视频"
+    ],
+    "usphone": "/'vɪdɪo/",
+    "ukphone": "/'vɪdɪo/"
+  },
+  {
+    "name": "video games",
+    "trans": [
+      "电子游戏"
+    ],
+    "usphone": "/'vɪdɪo/ /ɡemz/",
+    "ukphone": "/'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "to play video games",
+    "trans": [
+      "玩电子游戏"
+    ],
+    "usphone": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/tə/ /ple/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "playing video games",
+    "trans": [
+      "玩电子游戏(ing形式)"
+    ],
+    "usphone": "/'pleɪŋ/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "he enjoys",
+    "trans": [
+      "他享受"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "name": "he enjoys playing video games",
+    "trans": [
+      "他享受玩电子游戏"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/"
+  },
+  {
+    "name": "friends",
+    "trans": [
+      "朋友们"
+    ],
+    "usphone": "/frɛndz/",
+    "ukphone": "/frɛndz/"
+  },
+  {
+    "name": "his friends",
+    "trans": [
+      "他的朋友们"
+    ],
+    "usphone": "/hɪz/ /frɛndz/",
+    "ukphone": "/hɪz/ /frɛndz/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with his friends",
+    "trans": [
+      "和他的朋友们一起"
+    ],
+    "usphone": "/wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "he enjoys playing video games with his friends",
+    "trans": [
+      "他享受和他的朋友们一起玩电子游戏"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/ /wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /'pleɪŋ/ /'vɪdɪo/ /ɡemz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "yoga",
+    "trans": [
+      "瑜伽"
+    ],
+    "usphone": "/ˈjoɡə/",
+    "ukphone": "/ˈjoɡə/"
+  },
+  {
+    "name": "to practice yoga",
+    "trans": [
+      "练习瑜伽"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/ /ˈjoɡə/",
+    "ukphone": "/tə/ /ˈpræktɪs/ /ˈjoɡə/"
+  },
+  {
+    "name": "practicing yoga",
+    "trans": [
+      "练习瑜伽(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/ /ˈjoɡə/",
+    "ukphone": "/ˈpræktɪsɪŋ/ /ˈjoɡə/"
+  },
+  {
+    "name": "I enjoy",
+    "trans": [
+      "我享受"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "I enjoy practicing yoga",
+    "trans": [
+      "我享受练习瑜伽"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/"
+  },
+  {
+    "name": "every morning",
+    "trans": [
+      "每天早上"
+    ],
+    "usphone": "/'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "I enjoy practicing yoga every morning",
+    "trans": [
+      "我享受每天早上练习瑜伽"
+    ],
+    "usphone": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/ /'ɛvri/ /'mɔrnɪŋ/",
+    "ukphone": "/aɪ/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ˈjoɡə/ /'ɛvri/ /'mɔrnɪŋ/"
+  },
+  {
+    "name": "they enjoy",
+    "trans": [
+      "他们享受"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/"
+  },
+  {
+    "name": "practicing",
+    "trans": [
+      "练习(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/",
+    "ukphone": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "they enjoy practicing",
+    "trans": [
+      "他们享受练习"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "their English",
+    "trans": [
+      "他们的英语"
+    ],
+    "usphone": "/ðɛr/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ðɛr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "they enjoy practicing their English",
+    "trans": [
+      "他们享受练习他们的英语"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "speaker",
+    "trans": [
+      "说话的人"
+    ],
+    "usphone": "/'spikɚ/",
+    "ukphone": "/'spikɚ/"
+  },
+  {
+    "name": "native",
+    "trans": [
+      "当地的"
+    ],
+    "usphone": "/ˈnetɪv/",
+    "ukphone": "/ˈnetɪv/"
+  },
+  {
+    "name": "native speakers",
+    "trans": [
+      "母语使用者"
+    ],
+    "usphone": "/ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "with native speakers",
+    "trans": [
+      "和母语使用者"
+    ],
+    "usphone": "/wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "they enjoy practicing their English with native speakers",
+    "trans": [
+      "他们享受和母语使用者练习他们的英语"
+    ],
+    "usphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/ /wɪð/ /ˈnetɪv/ /'spikɚz/",
+    "ukphone": "/ðe/ /ɪn'dʒɔɪ/ /ˈpræktɪsɪŋ/ /ðɛr/ /ˈɪŋɡlɪʃ/ /wɪð/ /ˈnetɪv/ /'spikɚz/"
+  },
+  {
+    "name": "guitar",
+    "trans": [
+      "吉他"
+    ],
+    "usphone": "/ɡɪ'tɑr/",
+    "ukphone": "/ɡɪ'tɑr/"
+  },
+  {
+    "name": "skills",
+    "trans": [
+      "技术"
+    ],
+    "usphone": "/'skɪlz/",
+    "ukphone": "/'skɪlz/"
+  },
+  {
+    "name": "guitar skills",
+    "trans": [
+      "吉他技术"
+    ],
+    "usphone": "/ɡɪ'tɑr/ /'skɪlz/",
+    "ukphone": "/ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "name": "his guitar skills",
+    "trans": [
+      "他的吉他技术"
+    ],
+    "usphone": "/hɪz/ /ɡɪ'tɑr/ /'skɪlz/",
+    "ukphone": "/hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "name": "practicing",
+    "trans": [
+      "练习(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/",
+    "ukphone": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "practicing his guitar skills",
+    "trans": [
+      "练习他的吉他技术"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/",
+    "ukphone": "/ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "name": "he enjoys",
+    "trans": [
+      "他享受"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/"
+  },
+  {
+    "name": "he enjoys practicing his guitar skills",
+    "trans": [
+      "他享受练习他的吉他技术"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "he enjoys practicing his guitar skills every day",
+    "trans": [
+      "他享受每天练习他的吉他技术"
+    ],
+    "usphone": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/ /'ɛvri/ /de/",
+    "ukphone": "/hi/ /ɪn'dʒɔɪz/ /ˈpræktɪsɪŋ/ /hɪz/ /ɡɪ'tɑr/ /'skɪlz/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "you should",
+    "trans": [
+      "你应该"
+    ],
+    "usphone": "/ju/ /ʃʊd/",
+    "ukphone": "/ju/ /ʃʊd/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "you should practice",
+    "trans": [
+      "你应该练习"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "name": "to dance",
+    "trans": [
+      "跳舞"
+    ],
+    "usphone": "/tə/ /dæns/",
+    "ukphone": "/tə/ /dæns/"
+  },
+  {
+    "name": "dancing",
+    "trans": [
+      "跳舞(ing形式)"
+    ],
+    "usphone": "/'dænsɪŋ/",
+    "ukphone": "/'dænsɪŋ/"
+  },
+  {
+    "name": "you should practice dancing",
+    "trans": [
+      "你应该练习跳舞"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更加"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "often",
+    "trans": [
+      "经常"
+    ],
+    "usphone": "/'ɔfn/",
+    "ukphone": "/'ɔfn/"
+  },
+  {
+    "name": "more often",
+    "trans": [
+      "更加经常"
+    ],
+    "usphone": "/mɔr/ /'ɔfn/",
+    "ukphone": "/mɔr/ /'ɔfn/"
+  },
+  {
+    "name": "you should practice dancing more often",
+    "trans": [
+      "你应该更加经常地练习跳舞"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/ /mɔr/ /'ɔfn/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'dænsɪŋ/ /mɔr/ /'ɔfn/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "he needs",
+    "trans": [
+      "他需要"
+    ],
+    "usphone": "/hi/ /nidz/",
+    "ukphone": "/hi/ /nidz/"
+  },
+  {
+    "name": "he needs to practice",
+    "trans": [
+      "他需要练习"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/",
+    "ukphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "to speak",
+    "trans": [
+      "说"
+    ],
+    "usphone": "/tə/ /spik/",
+    "ukphone": "/tə/ /spik/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to speak English",
+    "trans": [
+      "说英语"
+    ],
+    "usphone": "/tə/ /spik/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/tə/ /spik/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "speaking English",
+    "trans": [
+      "说英语(ing形式)"
+    ],
+    "usphone": "/'spikɪŋ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "he needs to practice",
+    "trans": [
+      "他需要练习"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/",
+    "ukphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "he needs to practice speaking English",
+    "trans": [
+      "他需要练习说英语"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "more often",
+    "trans": [
+      "更加经常"
+    ],
+    "usphone": "/mɔr/ /'ɔfn/",
+    "ukphone": "/mɔr/ /'ɔfn/"
+  },
+  {
+    "name": "he needs to practice speaking English more often",
+    "trans": [
+      "他需要更经常地练习说英语"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/ /mɔr/ /'ɔfn/",
+    "ukphone": "/hi/ /nidz/ /tə/ /ˈpræktɪs/ /'spikɪŋ/ /ˈɪŋɡlɪʃ/ /mɔr/ /'ɔfn/"
+  },
+  {
+    "name": "you should",
+    "trans": [
+      "你应该"
+    ],
+    "usphone": "/ju/ /ʃʊd/",
+    "ukphone": "/ju/ /ʃʊd/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "you should practice",
+    "trans": [
+      "你应该练习"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "aloud",
+    "trans": [
+      "大声的"
+    ],
+    "usphone": "/ə'laʊd/",
+    "ukphone": "/ə'laʊd/"
+  },
+  {
+    "name": "to read aloud",
+    "trans": [
+      "大声地读"
+    ],
+    "usphone": "/tə/ /rid/ /ə'laʊd/",
+    "ukphone": "/tə/ /rid/ /ə'laʊd/"
+  },
+  {
+    "name": "reading aloud",
+    "trans": [
+      "大声地读(ing形式)"
+    ],
+    "usphone": "/'ridɪŋ/ /ə'laʊd/",
+    "ukphone": "/'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "name": "you should practice",
+    "trans": [
+      "你应该练习"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/"
+  },
+  {
+    "name": "you should practice reading aloud",
+    "trans": [
+      "你应该练习大声地读"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "name": "pronunciation",
+    "trans": [
+      "发音"
+    ],
+    "usphone": "/prənʌnsɪ'eʃən/",
+    "ukphone": "/prənʌnsɪ'eʃən/"
+  },
+  {
+    "name": "your pronunciation",
+    "trans": [
+      "你的发音"
+    ],
+    "usphone": "/jʊr/ /prənʌnsɪ'eʃən/",
+    "ukphone": "/jʊr/ /prənʌnsɪ'eʃən/"
+  },
+  {
+    "name": "to improve",
+    "trans": [
+      "改善"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/",
+    "ukphone": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "name": "to improve your pronunciation",
+    "trans": [
+      "改善你的发音"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/",
+    "ukphone": "/tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+  },
+  {
+    "name": "you should practice reading aloud",
+    "trans": [
+      "你应该练习大声地读"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/"
+  },
+  {
+    "name": "you should practice reading aloud to improve your pronunciation",
+    "trans": [
+      "你应该练习大声地读去改善你的发音"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/ /tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/",
+    "ukphone": "/ju/ /ʃʊd/ /ˈpræktɪs/ /'ridɪŋ/ /ə'laʊd/ /tə/ /ɪmˈpruv/ /jʊr/ /prənʌnsɪ'eʃən/"
+  }
+]

@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "这个账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付这个账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "paid",
+    "trans": [
+      "支付(过去)"
+    ],
+    "usphone": "/ped/",
+    "ukphone": "/ped/"
+  },
+  {
+    "name": "I paid",
+    "trans": [
+      "我支付(过去)"
+    ],
+    "usphone": "/aɪ/ /ped/",
+    "ukphone": "/aɪ/ /ped/"
+  },
+  {
+    "name": "I paid the bill",
+    "trans": [
+      "我支付(过去)这个账单"
+    ],
+    "usphone": "/aɪ/ /ped/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /ped/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "准时"
+    ],
+    "usphone": "/ɑn/ /taɪm/",
+    "ukphone": "/ɑn/ /taɪm/"
+  },
+  {
+    "name": "I paid the bill on time",
+    "trans": [
+      "我准时支付(过去)这个账单"
+    ],
+    "usphone": "/aɪ/ /ped/ /ðə/ /bɪl/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /ped/ /ðə/ /bɪl/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "paid",
+    "trans": [
+      "支付(过去)"
+    ],
+    "usphone": "/ped/",
+    "ukphone": "/ped/"
+  },
+  {
+    "name": "paid",
+    "trans": [
+      "支付(ed形式)"
+    ],
+    "usphone": "/ped/",
+    "ukphone": "/ped/"
+  },
+  {
+    "name": "be paid",
+    "trans": [
+      "被支付"
+    ],
+    "usphone": "/bi/ /ped/",
+    "ukphone": "/bi/ /ped/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "这个账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "the bill was paid",
+    "trans": [
+      "这个账单(过去)被支付"
+    ],
+    "usphone": "/ðə/ /bɪl/ /wəz/ /ped/",
+    "ukphone": "/ðə/ /bɪl/ /wəz/ /ped/"
+  },
+  {
+    "name": "the bill was paid on time",
+    "trans": [
+      "这个账单准时(过去)被支付"
+    ],
+    "usphone": "/ðə/ /bɪl/ /wəz/ /ped/ /ɑn/ /taɪm/",
+    "ukphone": "/ðə/ /bɪl/ /wəz/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "will be paid",
+    "trans": [
+      "将会被支付"
+    ],
+    "usphone": "/wɪl/ /bi/ /ped/",
+    "ukphone": "/wɪl/ /bi/ /ped/"
+  },
+  {
+    "name": "the bill will be paid on time",
+    "trans": [
+      "这个账单将会被准时支付"
+    ],
+    "usphone": "/ðə/ /bɪl/ /wɪl/ /bi/ /ped/ /ɑn/ /taɪm/",
+    "ukphone": "/ðə/ /bɪl/ /wɪl/ /bi/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "been",
+    "trans": [
+      "be(ed形式)"
+    ],
+    "usphone": "/bɪn/",
+    "ukphone": "/bɪn/"
+  },
+  {
+    "name": "has been paid",
+    "trans": [
+      "(已经)被支付"
+    ],
+    "usphone": "/hæz/ /bɪn/ /ped/",
+    "ukphone": "/hæz/ /bɪn/ /ped/"
+  },
+  {
+    "name": "the bill has been paid on time",
+    "trans": [
+      "这个账单(已经)被准时支付"
+    ],
+    "usphone": "/ðə/ /bɪl/ /hæz/ /bɪn/ /ped/ /ɑn/ /taɪm/",
+    "ukphone": "/ðə/ /bɪl/ /hæz/ /bɪn/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "had been paid",
+    "trans": [
+      "(过去已经)被支付"
+    ],
+    "usphone": "/hæd/ /bɪn/ /ped/",
+    "ukphone": "/hæd/ /bɪn/ /ped/"
+  },
+  {
+    "name": "the bill had been paid on time",
+    "trans": [
+      "这个账单(过去已经)被准时支付"
+    ],
+    "usphone": "/ðə/ /bɪl/ /hæd/ /bɪn/ /ped/ /ɑn/ /taɪm/",
+    "ukphone": "/ðə/ /bɪl/ /hæd/ /bɪn/ /ped/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接收"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "accepted",
+    "trans": [
+      "接收(ed形式)"
+    ],
+    "usphone": "/ək'sɛptɪd/",
+    "ukphone": "/ək'sɛptɪd/"
+  },
+  {
+    "name": "be accepted",
+    "trans": [
+      "被接受"
+    ],
+    "usphone": "/bi/ /ək'sɛptɪd/",
+    "ukphone": "/bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation is accepted",
+    "trans": [
+      "那个邀请被接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "guest",
+    "trans": [
+      "客人"
+    ],
+    "usphone": "/ɡɛst/",
+    "ukphone": "/ɡɛst/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by the guest",
+    "trans": [
+      "通过那个客人"
+    ],
+    "usphone": "/baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "the invitation is accepted by the guest",
+    "trans": [
+      "那个邀请被那个客人接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "was accepted",
+    "trans": [
+      "(过去)被接受"
+    ],
+    "usphone": "/wəz/ /ək'sɛptɪd/",
+    "ukphone": "/wəz/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation was accepted by the guest",
+    "trans": [
+      "那个邀请(过去)被那个客人接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "will be accepted",
+    "trans": [
+      "将会被接受"
+    ],
+    "usphone": "/wɪl/ /bi/ /ək'sɛptɪd/",
+    "ukphone": "/wɪl/ /bi/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation will be accepted by the guest",
+    "trans": [
+      "那个邀请将会被那个客人接受"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "has been accepted",
+    "trans": [
+      "(已经)被接受"
+    ],
+    "usphone": "/hæz/ /bɪn/ /ək'sɛptɪd/",
+    "ukphone": "/hæz/ /bɪn/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation has been accepted by the guest",
+    "trans": [
+      "那个邀请(已经)被那个客人接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "had been accepted",
+    "trans": [
+      "(过去已经)被接受"
+    ],
+    "usphone": "/hæd/ /bɪn/ /ək'sɛptɪd/",
+    "ukphone": "/hæd/ /bɪn/ /ək'sɛptɪd/"
+  },
+  {
+    "name": "the invitation had been accepted by the guest",
+    "trans": [
+      "那个邀请(过去已经)被那个客人接受了"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /ək'sɛptɪd/ /baɪ/ /ðə/ /ɡɛst/"
+  },
+  {
+    "name": "to send",
+    "trans": [
+      "发出"
+    ],
+    "usphone": "/tə/ /sɛnd/",
+    "ukphone": "/tə/ /sɛnd/"
+  },
+  {
+    "name": "sent",
+    "trans": [
+      "发出(ed形式)"
+    ],
+    "usphone": "/sɛnt/",
+    "ukphone": "/sɛnt/"
+  },
+  {
+    "name": "be sent",
+    "trans": [
+      "被发出"
+    ],
+    "usphone": "/bi/ /sɛnt/",
+    "ukphone": "/bi/ /sɛnt/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "the invitation was sent",
+    "trans": [
+      "那个邀请被发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/"
+  },
+  {
+    "name": "host",
+    "trans": [
+      "主办人"
+    ],
+    "usphone": "/host/",
+    "ukphone": "/host/"
+  },
+  {
+    "name": "by the host",
+    "trans": [
+      "通过主办人"
+    ],
+    "usphone": "/baɪ/ /ðə/ /host/",
+    "ukphone": "/baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "the invitation is sent by the host",
+    "trans": [
+      "那个邀请被主办人发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/ /baɪ/ /ðə/ /host/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /ɪz/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "was sent",
+    "trans": [
+      "(过去)被发出"
+    ],
+    "usphone": "/wəz/ /sɛnt/",
+    "ukphone": "/wəz/ /sɛnt/"
+  },
+  {
+    "name": "the invitation was sent by the host",
+    "trans": [
+      "那个邀请(过去)被主办人发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /sɛnt/ /baɪ/ /ðə/ /host/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wəz/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "will be sent",
+    "trans": [
+      "将会被发出"
+    ],
+    "usphone": "/wɪl/ /bi/ /sɛnt/",
+    "ukphone": "/wɪl/ /bi/ /sɛnt/"
+  },
+  {
+    "name": "the invitation will be sent by the host",
+    "trans": [
+      "那个邀请将会被主办人发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "下周"
+    ],
+    "usphone": "/nɛkst/ /wik/",
+    "ukphone": "/nɛkst/ /wik/"
+  },
+  {
+    "name": "the invitation will be sent by the host next week",
+    "trans": [
+      "那个邀请将会被主办人下周发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/ /nɛkst/ /wik/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /wɪl/ /bi/ /sɛnt/ /baɪ/ /ðə/ /host/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "has been sent",
+    "trans": [
+      "(已经)被发出"
+    ],
+    "usphone": "/hæz/ /bɪn/ /sɛnt/",
+    "ukphone": "/hæz/ /bɪn/ /sɛnt/"
+  },
+  {
+    "name": "the invitation has been sent by the host",
+    "trans": [
+      "那个邀请(已经)被主办人发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /hæz/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "had been sent",
+    "trans": [
+      "(过去已经)被发出"
+    ],
+    "usphone": "/hæd/ /bɪn/ /sɛnt/",
+    "ukphone": "/hæd/ /bɪn/ /sɛnt/"
+  },
+  {
+    "name": "the invitation had been sent by the host",
+    "trans": [
+      "那个邀请(过去已经)被主办人发出"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/ /hæd/ /bɪn/ /sɛnt/ /baɪ/ /ðə/ /host/"
+  },
+  {
+    "name": "to publish",
+    "trans": [
+      "出版"
+    ],
+    "usphone": "/tə/ /ˈpʌblɪʃ/",
+    "ukphone": "/tə/ /ˈpʌblɪʃ/"
+  },
+  {
+    "name": "published",
+    "trans": [
+      "出版(ed形式)"
+    ],
+    "usphone": "/ˈpʌblɪʃt/",
+    "ukphone": "/ˈpʌblɪʃt/"
+  },
+  {
+    "name": "be published",
+    "trans": [
+      "被出版"
+    ],
+    "usphone": "/bi/ /ˈpʌblɪʃt/",
+    "ukphone": "/bi/ /ˈpʌblɪʃt/"
+  },
+  {
+    "name": "book",
+    "trans": [
+      "书"
+    ],
+    "usphone": "/bʊk/",
+    "ukphone": "/bʊk/"
+  },
+  {
+    "name": "the book is published",
+    "trans": [
+      "那本书被出版"
+    ],
+    "usphone": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/",
+    "ukphone": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/"
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "/ˈkʌmpəni/",
+    "ukphone": "/ˈkʌmpəni/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by the company",
+    "trans": [
+      "通过那个公司"
+    ],
+    "usphone": "/baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "the book is published by the company",
+    "trans": [
+      "那本书通过那个公司被出版"
+    ],
+    "usphone": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /bʊk/ /ɪz/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "will be published",
+    "trans": [
+      "将会被出版"
+    ],
+    "usphone": "/wɪl/ /bi/ /ˈpʌblɪʃt/",
+    "ukphone": "/wɪl/ /bi/ /ˈpʌblɪʃt/"
+  },
+  {
+    "name": "the book will be published by the company",
+    "trans": [
+      "那本书将会被那个公司出版"
+    ],
+    "usphone": "/ðə/ /bʊk/ /wɪl/ /bi/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /bʊk/ /wɪl/ /bi/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "has been published",
+    "trans": [
+      "(已经)被出版"
+    ],
+    "usphone": "/hæz/ /bɪn/ /ˈpʌblɪʃt/",
+    "ukphone": "/hæz/ /bɪn/ /ˈpʌblɪʃt/"
+  },
+  {
+    "name": "the book has been published by the company",
+    "trans": [
+      "那本书(已经)被那个公司出版"
+    ],
+    "usphone": "/ðə/ /bʊk/ /hæz/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /bʊk/ /hæz/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "had been published",
+    "trans": [
+      "(过去已经)被出版"
+    ],
+    "usphone": "/hæd/ /bɪn/ /ˈpʌblɪʃt/",
+    "ukphone": "/hæd/ /bɪn/ /ˈpʌblɪʃt/"
+  },
+  {
+    "name": "the book had been published by the company",
+    "trans": [
+      "那本书(过去已经)被那个公司出版"
+    ],
+    "usphone": "/ðə/ /bʊk/ /hæd/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /bʊk/ /hæd/ /bɪn/ /ˈpʌblɪʃt/ /baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "to construct",
+    "trans": [
+      "建造"
+    ],
+    "usphone": "/tə/ /kənˈstrʌkt/",
+    "ukphone": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "name": "constructed",
+    "trans": [
+      "建造(ed形式)"
+    ],
+    "usphone": "/kənˈstrʌktɪd/",
+    "ukphone": "/kənˈstrʌktɪd/"
+  },
+  {
+    "name": "be constructed",
+    "trans": [
+      "被建造"
+    ],
+    "usphone": "/bi/ /kənˈstrʌktɪd/",
+    "ukphone": "/bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "to build",
+    "trans": [
+      "建筑"
+    ],
+    "usphone": "/tə/ /bɪld/",
+    "ukphone": "/tə/ /bɪld/"
+  },
+  {
+    "name": "building",
+    "trans": [
+      "建筑"
+    ],
+    "usphone": "/'bɪldɪŋ/",
+    "ukphone": "/'bɪldɪŋ/"
+  },
+  {
+    "name": "the building",
+    "trans": [
+      "那个建筑"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/"
+  },
+  {
+    "name": "the building is constructed",
+    "trans": [
+      "那个建筑被建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "/ˈkʌmpəni/",
+    "ukphone": "/ˈkʌmpəni/"
+  },
+  {
+    "name": "by the company",
+    "trans": [
+      "通过那个公司"
+    ],
+    "usphone": "/baɪ/ /ðə/ /ˈkʌmpəni/",
+    "ukphone": "/baɪ/ /ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "to construct",
+    "trans": [
+      "建造"
+    ],
+    "usphone": "/tə/ /kənˈstrʌkt/",
+    "ukphone": "/tə/ /kənˈstrʌkt/"
+  },
+  {
+    "name": "construction",
+    "trans": [
+      "建造"
+    ],
+    "usphone": "/kənˈstrʌkʃn/",
+    "ukphone": "/kənˈstrʌkʃn/"
+  },
+  {
+    "name": "construction company",
+    "trans": [
+      "建筑公司"
+    ],
+    "usphone": "/kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "by the construction company",
+    "trans": [
+      "通过那个建筑公司"
+    ],
+    "usphone": "/baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "the building is constructed",
+    "trans": [
+      "那个建筑被建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the building is constructed by the construction company",
+    "trans": [
+      "那个建筑被那个建筑公司建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /ɪz/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "will be constructed",
+    "trans": [
+      "将会被建造"
+    ],
+    "usphone": "/wɪl/ /bi/ /kənˈstrʌktɪd/",
+    "ukphone": "/wɪl/ /bi/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the building will be constructed by the construction company",
+    "trans": [
+      "那个建筑将会被那个建筑公司建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /wɪl/ /bi/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /wɪl/ /bi/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "has been constructed",
+    "trans": [
+      "(已经)被建造"
+    ],
+    "usphone": "/hæz/ /bɪn/ /kənˈstrʌktɪd/",
+    "ukphone": "/hæz/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the building has been constructed by the construction company",
+    "trans": [
+      "那个建筑(已经)被那个建筑公司建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /hæz/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /hæz/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "had been constructed",
+    "trans": [
+      "(过去已经)被建造"
+    ],
+    "usphone": "/hæd/ /bɪn/ /kənˈstrʌktɪd/",
+    "ukphone": "/hæd/ /bɪn/ /kənˈstrʌktɪd/"
+  },
+  {
+    "name": "the building had been constructed by the construction company",
+    "trans": [
+      "那个建筑(过去已经)被那个建筑公司建造"
+    ],
+    "usphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /'bɪldɪŋ/ /hæd/ /bɪn/ /kənˈstrʌktɪd/ /baɪ/ /ðə/ /kənˈstrʌkʃn/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɑtʃ/",
+    "ukphone": "/tə/ /wɑtʃ/"
+  },
+  {
+    "name": "watched",
+    "trans": [
+      "看(ed形式)"
+    ],
+    "usphone": "/wɑtʃt/",
+    "ukphone": "/wɑtʃt/"
+  },
+  {
+    "name": "be watched",
+    "trans": [
+      "被看"
+    ],
+    "usphone": "/bi/ /wɑtʃt/",
+    "ukphone": "/bi/ /wɑtʃt/"
+  },
+  {
+    "name": "the movie",
+    "trans": [
+      "那个电影"
+    ],
+    "usphone": "/ðə/ /'muvi/",
+    "ukphone": "/ðə/ /'muvi/"
+  },
+  {
+    "name": "the movie was watched",
+    "trans": [
+      "那个电影被看"
+    ],
+    "usphone": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/",
+    "ukphone": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/"
+  },
+  {
+    "name": "million",
+    "trans": [
+      "百万"
+    ],
+    "usphone": "/ˈmɪljən/",
+    "ukphone": "/ˈmɪljən/"
+  },
+  {
+    "name": "people",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pipl/",
+    "ukphone": "/'pipl/"
+  },
+  {
+    "name": "millions of people",
+    "trans": [
+      "数百万人"
+    ],
+    "usphone": "/ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "by",
+    "trans": [
+      "通过"
+    ],
+    "usphone": "/baɪ/",
+    "ukphone": "/baɪ/"
+  },
+  {
+    "name": "by millions of people",
+    "trans": [
+      "通过数百万人"
+    ],
+    "usphone": "/baɪ/ /ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "the movie was watched by millions of people",
+    "trans": [
+      "那个电影通过数百万人被看"
+    ],
+    "usphone": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/ðə/ /'muvi/ /wəz/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "will be watched",
+    "trans": [
+      "将会被看"
+    ],
+    "usphone": "/wɪl/ /bi/ /wɑtʃt/",
+    "ukphone": "/wɪl/ /bi/ /wɑtʃt/"
+  },
+  {
+    "name": "the movie will be watched by millions of people",
+    "trans": [
+      "那个电影将会被数百万人看"
+    ],
+    "usphone": "/ðə/ /'muvi/ /wɪl/ /bi/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/ðə/ /'muvi/ /wɪl/ /bi/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "has been watched",
+    "trans": [
+      "(已经)被看"
+    ],
+    "usphone": "/hæz/ /bɪn/ /wɑtʃt/",
+    "ukphone": "/hæz/ /bɪn/ /wɑtʃt/"
+  },
+  {
+    "name": "the movie has been watched by millions of people",
+    "trans": [
+      "那个电影(已经)被数百万人看"
+    ],
+    "usphone": "/ðə/ /'muvi/ /hæz/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/ðə/ /'muvi/ /hæz/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "had been watched",
+    "trans": [
+      "(过去已经)被看"
+    ],
+    "usphone": "/hæd/ /bɪn/ /wɑtʃt/",
+    "ukphone": "/hæd/ /bɪn/ /wɑtʃt/"
+  },
+  {
+    "name": "the movie had been watched by millions of people",
+    "trans": [
+      "那个电影(过去已经)被数百万人看"
+    ],
+    "usphone": "/ðə/ /'muvi/ /hæd/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/",
+    "ukphone": "/ðə/ /'muvi/ /hæd/ /bɪn/ /wɑtʃt/ /baɪ/ /ˈmɪljənz/ /əv/ /'pipl/"
+  },
+  {
+    "name": "to repair",
+    "trans": [
+      "修复"
+    ],
+    "usphone": "/tə/ /rɪ'pɛr/",
+    "ukphone": "/tə/ /rɪ'pɛr/"
+  },
+  {
+    "name": "repaired",
+    "trans": [
+      "修复(ed形式)"
+    ],
+    "usphone": "/rɪ'pɛrd/",
+    "ukphone": "/rɪ'pɛrd/"
+  },
+  {
+    "name": "be repaired",
+    "trans": [
+      "被修复"
+    ],
+    "usphone": "/bi/ /rɪ'pɛrd/",
+    "ukphone": "/bi/ /rɪ'pɛrd/"
+  },
+  {
+    "name": "the car",
+    "trans": [
+      "那辆车"
+    ],
+    "usphone": "/ðə/ /kɑr/",
+    "ukphone": "/ðə/ /kɑr/"
+  },
+  {
+    "name": "the car was repaired",
+    "trans": [
+      "那辆车(过去)被修复"
+    ],
+    "usphone": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/",
+    "ukphone": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/"
+  },
+  {
+    "name": "mechanic",
+    "trans": [
+      "机修工"
+    ],
+    "usphone": "/məˈkænɪk/",
+    "ukphone": "/məˈkænɪk/"
+  },
+  {
+    "name": "by the mechanic",
+    "trans": [
+      "通过那个机修工"
+    ],
+    "usphone": "/baɪ/ /ðə/ /məˈkænɪk/",
+    "ukphone": "/baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "name": "the car was repaired by the mechanic",
+    "trans": [
+      "那辆车(过去)被那个机修工修复"
+    ],
+    "usphone": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/",
+    "ukphone": "/ðə/ /kɑr/ /wəz/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "name": "will be repaired",
+    "trans": [
+      "将会被修复"
+    ],
+    "usphone": "/wɪl/ /bi/ /rɪ'pɛrd/",
+    "ukphone": "/wɪl/ /bi/ /rɪ'pɛrd/"
+  },
+  {
+    "name": "the car will be repaired by the mechanic",
+    "trans": [
+      "那辆车将会被那个机修工修复"
+    ],
+    "usphone": "/ðə/ /kɑr/ /wɪl/ /bi/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/",
+    "ukphone": "/ðə/ /kɑr/ /wɪl/ /bi/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "name": "has been repaired",
+    "trans": [
+      "(已经)被修复"
+    ],
+    "usphone": "/hæz/ /bɪn/ /rɪ'pɛrd/",
+    "ukphone": "/hæz/ /bɪn/ /rɪ'pɛrd/"
+  },
+  {
+    "name": "the car has been repaired by the mechanic",
+    "trans": [
+      "那辆车(已经)被那个机修工修复"
+    ],
+    "usphone": "/ðə/ /kɑr/ /hæz/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/",
+    "ukphone": "/ðə/ /kɑr/ /hæz/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "name": "had been repaired",
+    "trans": [
+      "(过去已经)被修复"
+    ],
+    "usphone": "/hæd/ /bɪn/ /rɪ'pɛrd/",
+    "ukphone": "/hæd/ /bɪn/ /rɪ'pɛrd/"
+  },
+  {
+    "name": "the car had been repaired by the mechanic",
+    "trans": [
+      "那辆车(过去已经)被那个机修工修复"
+    ],
+    "usphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/",
+    "ukphone": "/ðə/ /kɑr/ /hæd/ /bɪn/ /rɪ'pɛrd/ /baɪ/ /ðə/ /məˈkænɪk/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/dɪ'sɪʒn/",
+    "ukphone": "/dɪ'sɪʒn/"
+  },
+  {
+    "name": "the decision",
+    "trans": [
+      "那个决定"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "to announce",
+    "trans": [
+      "宣布"
+    ],
+    "usphone": "/tə/ /əˈnaʊns/",
+    "ukphone": "/tə/ /əˈnaʊns/"
+  },
+  {
+    "name": "announced",
+    "trans": [
+      "宣布(ed形式)"
+    ],
+    "usphone": "/əˈnaʊnst/",
+    "ukphone": "/əˈnaʊnst/"
+  },
+  {
+    "name": "be announced",
+    "trans": [
+      "被宣布"
+    ],
+    "usphone": "/bi/ /əˈnaʊnst/",
+    "ukphone": "/bi/ /əˈnaʊnst/"
+  },
+  {
+    "name": "the decision was announced",
+    "trans": [
+      "那个决定被宣布"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/"
+  },
+  {
+    "name": "public",
+    "trans": [
+      "公众"
+    ],
+    "usphone": "/ˈpʌblɪk/",
+    "ukphone": "/ˈpʌblɪk/"
+  },
+  {
+    "name": "to the public",
+    "trans": [
+      "向公众"
+    ],
+    "usphone": "/tə/ /ðə/ /ˈpʌblɪk/",
+    "ukphone": "/tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "the decision was announced to the public",
+    "trans": [
+      "那个决定被宣布给公众"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/ /wəz/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "will be announced",
+    "trans": [
+      "将会被宣布"
+    ],
+    "usphone": "/wɪl/ /bi/ /əˈnaʊnst/",
+    "ukphone": "/wɪl/ /bi/ /əˈnaʊnst/"
+  },
+  {
+    "name": "the decision will be announced to the public",
+    "trans": [
+      "那个决定将会被宣布给公众"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/ /wɪl/ /bi/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/ /wɪl/ /bi/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "has been announced",
+    "trans": [
+      "(已经)被宣布"
+    ],
+    "usphone": "/hæz/ /bɪn/ /əˈnaʊnst/",
+    "ukphone": "/hæz/ /bɪn/ /əˈnaʊnst/"
+  },
+  {
+    "name": "the decision has been announced to the public",
+    "trans": [
+      "那个决定(已经)被宣布给公众"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/ /hæz/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/ /hæz/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "had been announced",
+    "trans": [
+      "(过去已经)被宣布"
+    ],
+    "usphone": "/hæd/ /bɪn/ /əˈnaʊnst/",
+    "ukphone": "/hæd/ /bɪn/ /əˈnaʊnst/"
+  },
+  {
+    "name": "the decision had been announced to the public",
+    "trans": [
+      "那个决定(过去已经)被宣布给公众"
+    ],
+    "usphone": "/ðə/ /dɪ'sɪʒn/ /hæd/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/",
+    "ukphone": "/ðə/ /dɪ'sɪʒn/ /hæd/ /bɪn/ /əˈnaʊnst/ /tə/ /ðə/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "to translate",
+    "trans": [
+      "翻译"
+    ],
+    "usphone": "/tə/ /træns'let/",
+    "ukphone": "/tə/ /træns'let/"
+  },
+  {
+    "name": "translated",
+    "trans": [
+      "翻译(ed形式)"
+    ],
+    "usphone": "/træns'letɪd/",
+    "ukphone": "/træns'letɪd/"
+  },
+  {
+    "name": "be translated",
+    "trans": [
+      "被翻译"
+    ],
+    "usphone": "/bi/ /træns'letɪd/",
+    "ukphone": "/bi/ /træns'letɪd/"
+  },
+  {
+    "name": "the book was translated",
+    "trans": [
+      "那本书被翻译"
+    ],
+    "usphone": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/",
+    "ukphone": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/"
+  },
+  {
+    "name": "language",
+    "trans": [
+      "语言"
+    ],
+    "usphone": "/'læŋɡwɪdʒ/",
+    "ukphone": "/'læŋɡwɪdʒ/"
+  },
+  {
+    "name": "several",
+    "trans": [
+      "多种"
+    ],
+    "usphone": "/'sɛvrəl/",
+    "ukphone": "/'sɛvrəl/"
+  },
+  {
+    "name": "several languages",
+    "trans": [
+      "多种语言"
+    ],
+    "usphone": "/'sɛvrəl/ /'læŋɡwɪdʒɪz/",
+    "ukphone": "/'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "name": "the book was translated into several languages",
+    "trans": [
+      "那本书被翻译为多种语言"
+    ],
+    "usphone": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/",
+    "ukphone": "/ðə/ /bʊk/ /wəz/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "name": "will be translated",
+    "trans": [
+      "将会被翻译"
+    ],
+    "usphone": "/wɪl/ /bi/ /træns'letɪd/",
+    "ukphone": "/wɪl/ /bi/ /træns'letɪd/"
+  },
+  {
+    "name": "the book will be translated into several languages",
+    "trans": [
+      "那本书将会被翻译为多种语言"
+    ],
+    "usphone": "/ðə/ /bʊk/ /wɪl/ /bi/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/",
+    "ukphone": "/ðə/ /bʊk/ /wɪl/ /bi/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "name": "has been translated",
+    "trans": [
+      "(已经)被翻译"
+    ],
+    "usphone": "/hæz/ /bɪn/ /træns'letɪd/",
+    "ukphone": "/hæz/ /bɪn/ /træns'letɪd/"
+  },
+  {
+    "name": "the book has been translated into several languages",
+    "trans": [
+      "那本书(已经)被翻译为多种语言"
+    ],
+    "usphone": "/ðə/ /bʊk/ /hæz/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/",
+    "ukphone": "/ðə/ /bʊk/ /hæz/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  },
+  {
+    "name": "had been translated",
+    "trans": [
+      "(过去已经)被翻译"
+    ],
+    "usphone": "/hæd/ /bɪn/ /træns'letɪd/",
+    "ukphone": "/hæd/ /bɪn/ /træns'letɪd/"
+  },
+  {
+    "name": "the book had been translated into several languages",
+    "trans": [
+      "那本书(过去已经)被翻译为多种语言"
+    ],
+    "usphone": "/ðə/ /bʊk/ /hæd/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/",
+    "ukphone": "/ðə/ /bʊk/ /hæd/ /bɪn/ /træns'letɪd/ /'ɪntə/ /'sɛvrəl/ /'læŋɡwɪdʒɪz/"
+  }
+]

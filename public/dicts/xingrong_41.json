@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "he needs",
+    "trans": [
+      "他需要"
+    ],
+    "usphone": "/hi/ /nidz/",
+    "ukphone": "/hi/ /nidz/"
+  },
+  {
+    "name": "he needs to keep",
+    "trans": [
+      "他需要保持"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /kip/",
+    "ukphone": "/hi/ /nidz/ /tə/ /kip/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "practicing",
+    "trans": [
+      "练习(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/",
+    "ukphone": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "he needs to keep practicing",
+    "trans": [
+      "他需要保持练习"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+    "ukphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "skills",
+    "trans": [
+      "技术"
+    ],
+    "usphone": "/'skɪlz/",
+    "ukphone": "/'skɪlz/"
+  },
+  {
+    "name": "his skills",
+    "trans": [
+      "他的技术"
+    ],
+    "usphone": "/hɪz/ /'skɪlz/",
+    "ukphone": "/hɪz/ /'skɪlz/"
+  },
+  {
+    "name": "to improve",
+    "trans": [
+      "提升"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/",
+    "ukphone": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "name": "to improve his skills",
+    "trans": [
+      "提升他的技术"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+    "ukphone": "/tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+  },
+  {
+    "name": "he needs to keep practicing",
+    "trans": [
+      "他需要保持练习"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/",
+    "ukphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "he needs to keep practicing to improve his skills",
+    "trans": [
+      "他需要保持练习来提升他的技术"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/",
+    "ukphone": "/hi/ /nidz/ /tə/ /kip/ /ˈpræktɪsɪŋ/ /tə/ /ɪmˈpruv/ /hɪz/ /'skɪlz/"
+  },
+  {
+    "name": "to master",
+    "trans": [
+      "掌握"
+    ],
+    "usphone": "/'mæstɚ/",
+    "ukphone": "/'mæstɚ/"
+  },
+  {
+    "name": "you will",
+    "trans": [
+      "你将会"
+    ],
+    "usphone": "/ju/ /wɪl/",
+    "ukphone": "/ju/ /wɪl/"
+  },
+  {
+    "name": "you will master",
+    "trans": [
+      "你将会掌握"
+    ],
+    "usphone": "/ju/ /wɪl/ /'mæstɚ/",
+    "ukphone": "/ju/ /wɪl/ /'mæstɚ/"
+  },
+  {
+    "name": "the skill",
+    "trans": [
+      "那个技术"
+    ],
+    "usphone": "/ðə/ /'skɪl/",
+    "ukphone": "/ðə/ /'skɪl/"
+  },
+  {
+    "name": "you will master the skill",
+    "trans": [
+      "你将会掌握那个技术"
+    ],
+    "usphone": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+    "ukphone": "/ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "name": "you keep",
+    "trans": [
+      "你保持"
+    ],
+    "usphone": "/ju/ /kip/",
+    "ukphone": "/ju/ /kip/"
+  },
+  {
+    "name": "to practice",
+    "trans": [
+      "练习"
+    ],
+    "usphone": "/tə/ /ˈpræktɪs/",
+    "ukphone": "/tə/ /ˈpræktɪs/"
+  },
+  {
+    "name": "practicing",
+    "trans": [
+      "练习(ing形式)"
+    ],
+    "usphone": "/ˈpræktɪsɪŋ/",
+    "ukphone": "/ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "you keep practicing",
+    "trans": [
+      "你保持练习"
+    ],
+    "usphone": "/ju/ /kip/ /ˈpræktɪsɪŋ/",
+    "ukphone": "/ju/ /kip/ /ˈpræktɪsɪŋ/"
+  },
+  {
+    "name": "you keep practicing and you will master the skill",
+    "trans": [
+      "你保持练习那么你将会掌握那个技术"
+    ],
+    "usphone": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+    "ukphone": "/ju/ /kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "name": "keep practicing and you will master the skill",
+    "trans": [
+      "保持练习那么你将会掌握那个技术"
+    ],
+    "usphone": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/",
+    "ukphone": "/kip/ /ˈpræktɪsɪŋ/ /ənd/ /ju/ /wɪl/ /'mæstɚ/ /ðə/ /'skɪl/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "new skills",
+    "trans": [
+      "新的技术"
+    ],
+    "usphone": "/nu/ /'skɪlz/",
+    "ukphone": "/nu/ /'skɪlz/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "to learn new skills",
+    "trans": [
+      "学习新的技术"
+    ],
+    "usphone": "/tə/ /lɝn/ /nu/ /'skɪlz/",
+    "ukphone": "/tə/ /lɝn/ /nu/ /'skɪlz/"
+  },
+  {
+    "name": "learning new skills",
+    "trans": [
+      "学习新的技术(ing形式)"
+    ],
+    "usphone": "/'lɝnɪŋ/ /nu/ /'skɪlz/",
+    "ukphone": "/'lɝnɪŋ/ /nu/ /'skɪlz/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "she keeps",
+    "trans": [
+      "她保持"
+    ],
+    "usphone": "/ʃi/ /kips/",
+    "ukphone": "/ʃi/ /kips/"
+  },
+  {
+    "name": "she keeps learning new skills",
+    "trans": [
+      "她一直学习新的技术"
+    ],
+    "usphone": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/",
+    "ukphone": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/"
+  },
+  {
+    "name": "to improve",
+    "trans": [
+      "提升"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/",
+    "ukphone": "/tə/ /ɪmˈpruv/"
+  },
+  {
+    "name": "herself",
+    "trans": [
+      "她自己"
+    ],
+    "usphone": "/hɝ'sɛlf/",
+    "ukphone": "/hɝ'sɛlf/"
+  },
+  {
+    "name": "to improve herself",
+    "trans": [
+      "提升她自己"
+    ],
+    "usphone": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+    "ukphone": "/tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "she keeps learning new skills to improve herself",
+    "trans": [
+      "她一直学习新的技术来提升她自己"
+    ],
+    "usphone": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/",
+    "ukphone": "/ʃi/ /kips/ /'lɝnɪŋ/ /nu/ /'skɪlz/ /tə/ /ɪmˈpruv/ /hɝ'sɛlf/"
+  },
+  {
+    "name": "to lock",
+    "trans": [
+      "锁"
+    ],
+    "usphone": "/tə/ /lɑk/",
+    "ukphone": "/tə/ /lɑk/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to forget to lock the door",
+    "trans": [
+      "忘记锁门"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "forgetting to lock the door",
+    "trans": [
+      "忘记锁门(ing形式)"
+    ],
+    "usphone": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "she keeps",
+    "trans": [
+      "她保持"
+    ],
+    "usphone": "/ʃi/ /kips/",
+    "ukphone": "/ʃi/ /kips/"
+  },
+  {
+    "name": "she keeps forgetting to lock the door",
+    "trans": [
+      "她总是忘记锁门"
+    ],
+    "usphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "she leaves",
+    "trans": [
+      "她离开"
+    ],
+    "usphone": "/ʃi/ /livz/",
+    "ukphone": "/ʃi/ /livz/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when she leaves",
+    "trans": [
+      "当她离开的时候"
+    ],
+    "usphone": "/wɛn/ /ʃi/ /livz/",
+    "ukphone": "/wɛn/ /ʃi/ /livz/"
+  },
+  {
+    "name": "she keeps forgetting to lock the door",
+    "trans": [
+      "她总是忘记锁门"
+    ],
+    "usphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "she keeps forgetting to lock the door when she leaves",
+    "trans": [
+      "她总是忘记锁门当她离开的时候"
+    ],
+    "usphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/",
+    "ukphone": "/ʃi/ /kips/ /fɚ'ɡɛtɪŋ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ʃi/ /livz/"
+  },
+  {
+    "name": "keys",
+    "trans": [
+      "钥匙"
+    ],
+    "usphone": "/kiz/",
+    "ukphone": "/kiz/"
+  },
+  {
+    "name": "his keys",
+    "trans": [
+      "他的钥匙"
+    ],
+    "usphone": "/hɪz/ /kiz/",
+    "ukphone": "/hɪz/ /kiz/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to forget his keys",
+    "trans": [
+      "忘记他的钥匙"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "at home",
+    "trans": [
+      "在家"
+    ],
+    "usphone": "/ət/ /hom/",
+    "ukphone": "/ət/ /hom/"
+  },
+  {
+    "name": "to forget his keys at home",
+    "trans": [
+      "忘记他的钥匙在家里"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "name": "forgetting his keys at home",
+    "trans": [
+      "忘记他的钥匙在家里(ing形式)"
+    ],
+    "usphone": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+    "ukphone": "/fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "he keeps",
+    "trans": [
+      "他保持"
+    ],
+    "usphone": "/hi/ /kips/",
+    "ukphone": "/hi/ /kips/"
+  },
+  {
+    "name": "he keeps forgetting his keys at home",
+    "trans": [
+      "他总是忘记他的钥匙在家里"
+    ],
+    "usphone": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/",
+    "ukphone": "/hi/ /kips/ /fɚ'ɡɛtɪŋ/ /hɪz/ /kiz/ /ət/ /hom/"
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "想法"
+    ],
+    "usphone": "/maɪnd/",
+    "ukphone": "/maɪnd/"
+  },
+  {
+    "name": "his mind",
+    "trans": [
+      "他的想法"
+    ],
+    "usphone": "/hɪz/ /maɪnd/",
+    "ukphone": "/hɪz/ /maɪnd/"
+  },
+  {
+    "name": "to change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tə/ /tʃendʒ/",
+    "ukphone": "/tə/ /tʃendʒ/"
+  },
+  {
+    "name": "to change his mind",
+    "trans": [
+      "改变他的想法"
+    ],
+    "usphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/",
+    "ukphone": "/tə/ /tʃendʒ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "name": "changing his mind",
+    "trans": [
+      "改变他的想法(ing形式)"
+    ],
+    "usphone": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+    "ukphone": "/'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "he keeps",
+    "trans": [
+      "他保持"
+    ],
+    "usphone": "/hi/ /kips/",
+    "ukphone": "/hi/ /kips/"
+  },
+  {
+    "name": "he keeps changing his mind",
+    "trans": [
+      "他总是改变他的想法"
+    ],
+    "usphone": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/",
+    "ukphone": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "all the time",
+    "trans": [
+      "所有的时间"
+    ],
+    "usphone": "/ɔl/ /ðə/ /taɪm/",
+    "ukphone": "/ɔl/ /ðə/ /taɪm/"
+  },
+  {
+    "name": "he keeps changing his mind all the time",
+    "trans": [
+      "他(一直)总是改变他的想法"
+    ],
+    "usphone": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/",
+    "ukphone": "/hi/ /kips/ /'tʃendʒɪŋ/ /hɪz/ /maɪnd/ /ɔl/ /ðə/ /taɪm/"
+  },
+  {
+    "name": "mind",
+    "trans": [
+      "想法"
+    ],
+    "usphone": "/maɪnd/",
+    "ukphone": "/maɪnd/"
+  },
+  {
+    "name": "to mind",
+    "trans": [
+      "介意"
+    ],
+    "usphone": "/tə/ /maɪnd/",
+    "ukphone": "/tə/ /maɪnd/"
+  },
+  {
+    "name": "I mind",
+    "trans": [
+      "我介意"
+    ],
+    "usphone": "/aɪ/ /maɪnd/",
+    "ukphone": "/aɪ/ /maɪnd/"
+  },
+  {
+    "name": "to open",
+    "trans": [
+      "打开"
+    ],
+    "usphone": "/tə/ /'opən/",
+    "ukphone": "/tə/ /'opən/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "这个窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to open the window",
+    "trans": [
+      "打开这个窗户"
+    ],
+    "usphone": "/tə/ /'opən/ /ðə/ /'wɪndo/",
+    "ukphone": "/tə/ /'opən/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "opening the window",
+    "trans": [
+      "打开这个窗户(ing形式)"
+    ],
+    "usphone": "/'opənɪŋ/ /ðə/ /'wɪndo/",
+    "ukphone": "/'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "I mind opening the window",
+    "trans": [
+      "我介意打开这个窗户"
+    ],
+    "usphone": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+    "ukphone": "/aɪ/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "I don't mind opening the window",
+    "trans": [
+      "我不介意打开这个窗户"
+    ],
+    "usphone": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/",
+    "ukphone": "/aɪ/ /dont/ /maɪnd/ /'opənɪŋ/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "paying the bill",
+    "trans": [
+      "支付账单(ing形式)"
+    ],
+    "usphone": "/'peɪŋ/ /ðə/ /bɪl/",
+    "ukphone": "/'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "to mind",
+    "trans": [
+      "介意"
+    ],
+    "usphone": "/tə/ /maɪnd/",
+    "ukphone": "/tə/ /maɪnd/"
+  },
+  {
+    "name": "he minds",
+    "trans": [
+      "他介意"
+    ],
+    "usphone": "/hi/ /maɪndz/",
+    "ukphone": "/hi/ /maɪndz/"
+  },
+  {
+    "name": "he minds paying the bill",
+    "trans": [
+      "他介意支付账单"
+    ],
+    "usphone": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/",
+    "ukphone": "/hi/ /maɪndz/ /'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "he doesn't mind paying the bill",
+    "trans": [
+      "他不介意支付账单"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'peɪŋ/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "/tɔɪ/",
+    "ukphone": "/tɔɪ/"
+  },
+  {
+    "name": "his toys",
+    "trans": [
+      "他的玩具"
+    ],
+    "usphone": "/hɪz/ /tɔɪz/",
+    "ukphone": "/hɪz/ /tɔɪz/"
+  },
+  {
+    "name": "to share",
+    "trans": [
+      "分享"
+    ],
+    "usphone": "/tə/ /ʃɛr/",
+    "ukphone": "/tə/ /ʃɛr/"
+  },
+  {
+    "name": "to share his toys",
+    "trans": [
+      "分享他的玩具"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/",
+    "ukphone": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "his friends",
+    "trans": [
+      "他的朋友们"
+    ],
+    "usphone": "/hɪz/ /frɛndz/",
+    "ukphone": "/hɪz/ /frɛndz/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with his friends",
+    "trans": [
+      "和他的朋友们"
+    ],
+    "usphone": "/wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "to share his toys with his friends",
+    "trans": [
+      "和他的朋友们分享他的玩具"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/tə/ /ʃɛr/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "sharing his toys with his friends",
+    "trans": [
+      "和他的朋友们分享他的玩具（ing 形式）"
+    ],
+    "usphone": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/'ʃɛriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "he minds",
+    "trans": [
+      "他介意"
+    ],
+    "usphone": "/hi/ /maɪndz/",
+    "ukphone": "/hi/ /maɪndz/"
+  },
+  {
+    "name": "he minds sharing his toys with his friends",
+    "trans": [
+      "他介意和他的朋友们分享他的玩具"
+    ],
+    "usphone": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/hi/ /maɪndz/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "he doesn't mind sharing his toys with his friends",
+    "trans": [
+      "他不介意和他的朋友们分享他的玩具"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛəriŋ/ /hɪz/ /tɔɪz/ /wɪð/ /hɪz/ /frɛndz/"
+  },
+  {
+    "name": "he doesn't mind",
+    "trans": [
+      "他不介意"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "name": "his food",
+    "trans": [
+      "他的食物"
+    ],
+    "usphone": "/hɪz/ /fud/",
+    "ukphone": "/hɪz/ /fud/"
+  },
+  {
+    "name": "to share",
+    "trans": [
+      "分享"
+    ],
+    "usphone": "/tə/ /ʃɛr/",
+    "ukphone": "/tə/ /ʃɛr/"
+  },
+  {
+    "name": "to share his food",
+    "trans": [
+      "分享他的食物"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /hɪz/ /fud/",
+    "ukphone": "/tə/ /ʃɛr/ /hɪz/ /fud/"
+  },
+  {
+    "name": "others",
+    "trans": [
+      "别人"
+    ],
+    "usphone": "/'ʌðɚz/",
+    "ukphone": "/'ʌðɚz/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with others",
+    "trans": [
+      "和别人"
+    ],
+    "usphone": "/wɪð/ /'ʌðɚz/",
+    "ukphone": "/wɪð/ /'ʌðɚz/"
+  },
+  {
+    "name": "to share his food with others",
+    "trans": [
+      "和别人分享他的食物"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+    "ukphone": "/tə/ /ʃɛr/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "name": "sharing his food with others",
+    "trans": [
+      "和别人分享他的食物(ing形式)"
+    ],
+    "usphone": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+    "ukphone": "/'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "name": "to mind",
+    "trans": [
+      "介意"
+    ],
+    "usphone": "/tə/ /maɪnd/",
+    "ukphone": "/tə/ /maɪnd/"
+  },
+  {
+    "name": "he minds",
+    "trans": [
+      "他介意"
+    ],
+    "usphone": "/hi/ /maɪndz/",
+    "ukphone": "/hi/ /maɪndz/"
+  },
+  {
+    "name": "he doesn't mind",
+    "trans": [
+      "他不介意"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "name": "he doesn't mind sharing his food with others",
+    "trans": [
+      "他不介意和别人分享他的食物"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'ʃɛriŋ/ /hɪz/ /fud/ /wɪð/ /'ʌðɚz/"
+  },
+  {
+    "name": "to wait",
+    "trans": [
+      "等"
+    ],
+    "usphone": "/tə/ /wet/",
+    "ukphone": "/tə/ /wet/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "to wait for her",
+    "trans": [
+      "等她"
+    ],
+    "usphone": "/tə/ /wet/ /fɚ/ /hɚ/",
+    "ukphone": "/tə/ /wet/ /fɚ/ /hɚ/"
+  },
+  {
+    "name": "airport",
+    "trans": [
+      "机场"
+    ],
+    "usphone": "/'ɛrpɔrt/",
+    "ukphone": "/'ɛrpɔrt/"
+  },
+  {
+    "name": "at the airport",
+    "trans": [
+      "在机场"
+    ],
+    "usphone": "/ət/ /ði/ /'ɛrpɔrt/",
+    "ukphone": "/ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "name": "to wait for her at the airport",
+    "trans": [
+      "在机场等她"
+    ],
+    "usphone": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+    "ukphone": "/tə/ /wet/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "name": "waiting for her at the airport",
+    "trans": [
+      "在机场等她(ing形式)"
+    ],
+    "usphone": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+    "ukphone": "/'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "name": "he doesn't mind",
+    "trans": [
+      "他不介意"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "name": "he doesn't mind waiting for her at the airport",
+    "trans": [
+      "他不介意在机场等她"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/ /'wetɪŋ/ /fɚ/ /hɚ/ /ət/ /ði/ /'ɛrpɔrt/"
+  },
+  {
+    "name": "to mind",
+    "trans": [
+      "介意"
+    ],
+    "usphone": "/tə/ /maɪnd/",
+    "ukphone": "/tə/ /maɪnd/"
+  },
+  {
+    "name": "they mind",
+    "trans": [
+      "他们介意"
+    ],
+    "usphone": "/ðe/ /maɪnd/",
+    "ukphone": "/ðe/ /maɪnd/"
+  },
+  {
+    "name": "secret",
+    "trans": [
+      "秘密"
+    ],
+    "usphone": "/'sikrət/",
+    "ukphone": "/'sikrət/"
+  },
+  {
+    "name": "their secrets",
+    "trans": [
+      "他们的秘密"
+    ],
+    "usphone": "/ðɛr/ /'sikrəts/",
+    "ukphone": "/ðɛr/ /'sikrəts/"
+  },
+  {
+    "name": "to share",
+    "trans": [
+      "分享"
+    ],
+    "usphone": "/tə/ /ʃɛr/",
+    "ukphone": "/tə/ /ʃɛr/"
+  },
+  {
+    "name": "to share their secrets",
+    "trans": [
+      "分享他们的秘密"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/",
+    "ukphone": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/"
+  },
+  {
+    "name": "anyone",
+    "trans": [
+      "任何人"
+    ],
+    "usphone": "/'ɛnɪwʌn/",
+    "ukphone": "/'ɛnɪwʌn/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "with anyone",
+    "trans": [
+      "和任何人"
+    ],
+    "usphone": "/wɪð/ /'ɛnɪwʌn/",
+    "ukphone": "/wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "name": "to share their secrets with anyone",
+    "trans": [
+      "和任何人分享他们的秘密"
+    ],
+    "usphone": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+    "ukphone": "/tə/ /ʃɛr/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "name": "sharing their secrets with anyone",
+    "trans": [
+      "和任何人分享他们的秘密(ing形式)"
+    ],
+    "usphone": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+    "ukphone": "/'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "name": "they mind",
+    "trans": [
+      "他们介意"
+    ],
+    "usphone": "/ðe/ /maɪnd/",
+    "ukphone": "/ðe/ /maɪnd/"
+  },
+  {
+    "name": "they don't mind",
+    "trans": [
+      "他们不介意"
+    ],
+    "usphone": "/ðe/ /dont/ /maɪnd/",
+    "ukphone": "/ðe/ /dont/ /maɪnd/"
+  },
+  {
+    "name": "they don't mind sharing their secrets with anyone",
+    "trans": [
+      "他们不介意和任何人分享他们的秘密"
+    ],
+    "usphone": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/",
+    "ukphone": "/ðe/ /dont/ /maɪnd/ /'ʃɛriŋ/ /ðɛr/ /'sikrəts/ /wɪð/ /'ɛnɪwʌn/"
+  },
+  {
+    "name": "he minds",
+    "trans": [
+      "他介意"
+    ],
+    "usphone": "/hi/ /maɪndz/",
+    "ukphone": "/hi/ /maɪndz/"
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "建议"
+    ],
+    "usphone": "/əd'vaɪs/",
+    "ukphone": "/əd'vaɪs/"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "/səm/",
+    "ukphone": "/səm/"
+  },
+  {
+    "name": "some advice",
+    "trans": [
+      "一些建议"
+    ],
+    "usphone": "/səm/ /əd'vaɪs/",
+    "ukphone": "/səm/ /əd'vaɪs/"
+  },
+  {
+    "name": "problem",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'prɑbləm/",
+    "ukphone": "/'prɑbləm/"
+  },
+  {
+    "name": "this problem",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðɪs/ /'prɑbləm/",
+    "ukphone": "/ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "about this problem",
+    "trans": [
+      "关于这个问题"
+    ],
+    "usphone": "/ə'baʊt/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "some advice about this problem",
+    "trans": [
+      "关于这个问题的一些建议"
+    ],
+    "usphone": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "to give",
+    "trans": [
+      "给"
+    ],
+    "usphone": "/tə/ /ɡɪv/",
+    "ukphone": "/tə/ /ɡɪv/"
+  },
+  {
+    "name": "to give me",
+    "trans": [
+      "给我"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/"
+  },
+  {
+    "name": "to give me some advice",
+    "trans": [
+      "给我一些建议"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/"
+  },
+  {
+    "name": "to give me some advice about this problem",
+    "trans": [
+      "给我关于这个问题的一些建议"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "giving me some advice about this problem",
+    "trans": [
+      "给我关于这个问题的一些建议（ing 形式）"
+    ],
+    "usphone": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  },
+  {
+    "name": "he minds",
+    "trans": [
+      "他介意"
+    ],
+    "usphone": "/hi/ /maɪndz/",
+    "ukphone": "/hi/ /maɪndz/"
+  },
+  {
+    "name": "he doesn't mind",
+    "trans": [
+      "他不介意"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/"
+  },
+  {
+    "name": "he doesn't mind giving me some advice about this problem",
+    "trans": [
+      "他不介意给我关于这个问题的一些建议"
+    ],
+    "usphone": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/",
+    "ukphone": "/hi/ /ˈdʌznt/ /maɪnd/ /ɡɪviŋ/ /mi/ /səm/ /əd'vaɪs/ /ə'baʊt/ /ðɪs/ /'prɑbləm/"
+  }
+]

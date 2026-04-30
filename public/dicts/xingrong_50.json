@@ -1,0 +1,1250 @@
+[
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I pay the bill",
+    "trans": [
+      "我支付账单"
+    ],
+    "usphone": "/aɪ/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "paid",
+    "trans": [
+      "支付(过去分词)"
+    ],
+    "usphone": "/ped/",
+    "ukphone": "/ped/"
+  },
+  {
+    "name": "I have paid the bill",
+    "trans": [
+      "我(已经)支付了账单"
+    ],
+    "usphone": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /hæv/ /ped/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/'titʃɚ/",
+    "ukphone": "/'titʃɚ/"
+  },
+  {
+    "name": "I am a teacher",
+    "trans": [
+      "我是一名老师"
+    ],
+    "usphone": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+    "ukphone": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "I have been a teacher",
+    "trans": [
+      "我(已经)是一名老师了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "five years",
+    "trans": [
+      "五年"
+    ],
+    "usphone": "/faɪv/ /jɪrz/",
+    "ukphone": "/faɪv/ /jɪrz/"
+  },
+  {
+    "name": "I have been a teacher for five years",
+    "trans": [
+      "我(已经)是一名老师五年了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /fɚ/ /faɪv/ /jɪrz/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/",
+    "ukphone": "/sɪns/"
+  },
+  {
+    "name": "I have been a teacher since 2019",
+    "trans": [
+      "我自从2019年(已经)是一名老师了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ə/ /'titʃɚ/ /sɪns/ /'twɛnti/ /ˌnaɪn'tin/"
+  },
+  {
+    "name": "doctor",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "/'dɑktɚ/",
+    "ukphone": "/'dɑktɚ/"
+  },
+  {
+    "name": "he is a doctor",
+    "trans": [
+      "他是一名医生"
+    ],
+    "usphone": "/hi/ /ɪz/ /ə/ /'dɑktɚ/",
+    "ukphone": "/hi/ /ɪz/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "name": "he has been a doctor",
+    "trans": [
+      "他(已经)是一名医生了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/",
+    "ukphone": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/"
+  },
+  {
+    "name": "he has been a doctor for fifteen years",
+    "trans": [
+      "他(已经)是一名医生15年了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/",
+    "ukphone": "/hi/ /hæz/ /bɪn/ /ə/ /'dɑktɚ/ /fɚ/ /ˌfɪfˈtin/ /jɪrz/"
+  },
+  {
+    "name": "sick",
+    "trans": [
+      "生病的"
+    ],
+    "usphone": "/sɪk/",
+    "ukphone": "/sɪk/"
+  },
+  {
+    "name": "he is sick",
+    "trans": [
+      "他是生病的"
+    ],
+    "usphone": "/hi/ /ɪz/ /sɪk/",
+    "ukphone": "/hi/ /ɪz/ /sɪk/"
+  },
+  {
+    "name": "he has been sick",
+    "trans": [
+      "他(已经)生病了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɪn/ /sɪk/",
+    "ukphone": "/hi/ /hæz/ /bɪn/ /sɪk/"
+  },
+  {
+    "name": "a week",
+    "trans": [
+      "一星期"
+    ],
+    "usphone": "/ə/ /wik/",
+    "ukphone": "/ə/ /wik/"
+  },
+  {
+    "name": "he has been sick for a week",
+    "trans": [
+      "他(已经)生病一星期了"
+    ],
+    "usphone": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/",
+    "ukphone": "/hi/ /hæz/ /bɪn/ /sɪk/ /fɚ/ /ə/ /wik/"
+  },
+  {
+    "name": "to marry",
+    "trans": [
+      "结婚"
+    ],
+    "usphone": "/tə/ /'mæri/",
+    "ukphone": "/tə/ /'mæri/"
+  },
+  {
+    "name": "married",
+    "trans": [
+      "结婚的"
+    ],
+    "usphone": "/ˈmærid/",
+    "ukphone": "/ˈmærid/"
+  },
+  {
+    "name": "they are married",
+    "trans": [
+      "他们是结婚的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈmærid/",
+    "ukphone": "/ðe/ /ɚ/ /ˈmærid/"
+  },
+  {
+    "name": "they have been married",
+    "trans": [
+      "他们(已经)结婚了"
+    ],
+    "usphone": "/ðe/ /hæv/ /bɪn/ /ˈmærid/",
+    "ukphone": "/ðe/ /hæv/ /bɪn/ /ˈmærid/"
+  },
+  {
+    "name": "ten years",
+    "trans": [
+      "十年"
+    ],
+    "usphone": "/tɛn/ /jɪrz/",
+    "ukphone": "/tɛn/ /jɪrz/"
+  },
+  {
+    "name": "they have been married for ten years",
+    "trans": [
+      "他们(已经)结婚十年了"
+    ],
+    "usphone": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/",
+    "ukphone": "/ðe/ /hæv/ /bɪn/ /ˈmærid/ /fɚ/ /tɛn/ /jɪrz/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "they are friends",
+    "trans": [
+      "他们是朋友"
+    ],
+    "usphone": "/ðe/ /ɚ/ /frɛndz/",
+    "ukphone": "/ðe/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "they have been friends",
+    "trans": [
+      "他们(已经)是朋友了"
+    ],
+    "usphone": "/ðe/ /hæv/ /bɪn/ /frɛndz/",
+    "ukphone": "/ðe/ /hæv/ /bɪn/ /frɛndz/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/",
+    "ukphone": "/sɪns/"
+  },
+  {
+    "name": "kindergarten",
+    "trans": [
+      "幼儿园"
+    ],
+    "usphone": "/ˈkɪndɚɡɑrtn/",
+    "ukphone": "/ˈkɪndɚɡɑrtn/"
+  },
+  {
+    "name": "since kindergarten",
+    "trans": [
+      "自从幼儿园"
+    ],
+    "usphone": "/sɪns/ /ˈkɪndɚɡɑrtn/",
+    "ukphone": "/sɪns/ /ˈkɪndɚɡɑrtn/"
+  },
+  {
+    "name": "they have been friends since kindergarten",
+    "trans": [
+      "他们自从幼儿园(已经)是朋友了"
+    ],
+    "usphone": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/",
+    "ukphone": "/ðe/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈkɪndɚɡɑrtn/"
+  },
+  {
+    "name": "we are friends",
+    "trans": [
+      "我们是朋友"
+    ],
+    "usphone": "/wi/ /ɚ/ /frɛndz/",
+    "ukphone": "/wi/ /ɚ/ /frɛndz/"
+  },
+  {
+    "name": "we have been friends",
+    "trans": [
+      "我们(已经)是朋友了"
+    ],
+    "usphone": "/wi/ /hæv/ /bɪn/ /frɛndz/",
+    "ukphone": "/wi/ /hæv/ /bɪn/ /frɛndz/"
+  },
+  {
+    "name": "child",
+    "trans": [
+      "孩子"
+    ],
+    "usphone": "/tʃaɪld/",
+    "ukphone": "/tʃaɪld/"
+  },
+  {
+    "name": "childhood",
+    "trans": [
+      "童年"
+    ],
+    "usphone": "/ˈtʃaɪldhʊd/",
+    "ukphone": "/ˈtʃaɪldhʊd/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/",
+    "ukphone": "/sɪns/"
+  },
+  {
+    "name": "since childhood",
+    "trans": [
+      "自从童年"
+    ],
+    "usphone": "/sɪns/ /ˈtʃaɪldhʊd/",
+    "ukphone": "/sɪns/ /ˈtʃaɪldhʊd/"
+  },
+  {
+    "name": "we have been friends since childhood",
+    "trans": [
+      "我们自从童年(已经)是朋友了"
+    ],
+    "usphone": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/",
+    "ukphone": "/wi/ /hæv/ /bɪn/ /frɛndz/ /sɪns/ /ˈtʃaɪldhʊd/"
+  },
+  {
+    "name": "neighbor",
+    "trans": [
+      "邻居"
+    ],
+    "usphone": "/ˈnebɚ/",
+    "ukphone": "/ˈnebɚ/"
+  },
+  {
+    "name": "we are neighbors",
+    "trans": [
+      "我们是邻居"
+    ],
+    "usphone": "/wi/ /ɚ/ /ˈnebɚz/",
+    "ukphone": "/wi/ /ɚ/ /ˈnebɚz/"
+  },
+  {
+    "name": "we have been neighbors",
+    "trans": [
+      "我们(已经)是邻居了"
+    ],
+    "usphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+    "ukphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
+  },
+  {
+    "name": "neighbor",
+    "trans": [
+      "邻居"
+    ],
+    "usphone": "/ˈnebɚ/",
+    "ukphone": "/ˈnebɚ/"
+  },
+  {
+    "name": "neighborhood",
+    "trans": [
+      "街区"
+    ],
+    "usphone": "/ˈnebɚˌhʊd/",
+    "ukphone": "/ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "this neighborhood",
+    "trans": [
+      "这个街区"
+    ],
+    "usphone": "/ðɪs/ /ˈnebɚˌhʊd/",
+    "ukphone": "/ðɪs/ /ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "to move",
+    "trans": [
+      "搬家"
+    ],
+    "usphone": "/tə/ /muv/",
+    "ukphone": "/tə/ /muv/"
+  },
+  {
+    "name": "moved",
+    "trans": [
+      "搬家(过去式)"
+    ],
+    "usphone": "/muvd/",
+    "ukphone": "/muvd/"
+  },
+  {
+    "name": "we moved",
+    "trans": [
+      "我们搬家(过去式)"
+    ],
+    "usphone": "/wi/ /muvd/",
+    "ukphone": "/wi/ /muvd/"
+  },
+  {
+    "name": "we moved to this neighborhood",
+    "trans": [
+      "我们搬家到这个街区"
+    ],
+    "usphone": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+    "ukphone": "/wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "since",
+    "trans": [
+      "自从......以来"
+    ],
+    "usphone": "/sɪns/",
+    "ukphone": "/sɪns/"
+  },
+  {
+    "name": "since we moved to this neighborhood",
+    "trans": [
+      "自从我们搬家到这个街区"
+    ],
+    "usphone": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+    "ukphone": "/sɪns/ /wi/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "both",
+    "trans": [
+      "两个都"
+    ],
+    "usphone": "/boθ/",
+    "ukphone": "/boθ/"
+  },
+  {
+    "name": "since we both moved to this neighborhood",
+    "trans": [
+      "自从我们两个都搬家到这个街区"
+    ],
+    "usphone": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+    "ukphone": "/sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "we have been neighbors",
+    "trans": [
+      "我们(已经)是邻居了"
+    ],
+    "usphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/",
+    "ukphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/"
+  },
+  {
+    "name": "we have been neighbors since we both moved to this neighborhood",
+    "trans": [
+      "我们(已经)是邻居了自从我们两个都搬家到这个街区"
+    ],
+    "usphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/",
+    "ukphone": "/wi/ /hæv/ /bɪn/ /ˈnebɚz/ /sɪns/ /wi/ /boθ/ /muvd/ /tə/ /ðɪs/ /ˈnebɚˌhʊd/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "在这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "I am here",
+    "trans": [
+      "我在这里"
+    ],
+    "usphone": "/aɪ/ /æm/ /hɪr/",
+    "ukphone": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "I have been here",
+    "trans": [
+      "我(已经)在这里过了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /hɪr/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /hɪr/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "在那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "I am there",
+    "trans": [
+      "我在那里"
+    ],
+    "usphone": "/aɪ/ /æm/ /ðɛr/",
+    "ukphone": "/aɪ/ /æm/ /ðɛr/"
+  },
+  {
+    "name": "I have been there",
+    "trans": [
+      "我(已经)去过那里了"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ðɛr/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ðɛr/"
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "在国外"
+    ],
+    "usphone": "/ə'brɔd/",
+    "ukphone": "/ə'brɔd/"
+  },
+  {
+    "name": "I am abroad",
+    "trans": [
+      "我在国外"
+    ],
+    "usphone": "/aɪ/ /æm/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /æm/ /ə'brɔd/"
+  },
+  {
+    "name": "I have been abroad",
+    "trans": [
+      "我(已经)去过国外"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "place",
+    "trans": [
+      "地方"
+    ],
+    "usphone": "/ples/",
+    "ukphone": "/ples/"
+  },
+  {
+    "name": "that place",
+    "trans": [
+      "那个地方"
+    ],
+    "usphone": "/ðæt/ /ples/",
+    "ukphone": "/ðæt/ /ples/"
+  },
+  {
+    "name": "I have been to that place",
+    "trans": [
+      "我(已经)去过那个地方"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "I haven't been to that place",
+    "trans": [
+      "我(还没有)去过那个地方"
+    ],
+    "usphone": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/",
+    "ukphone": "/aɪ/ /ˈhævnt/ /bɪn/ /tə/ /ðæt/ /ples/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never been to that place",
+    "trans": [
+      "我从来没有去过那个地方"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðæt/ /ples/"
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "墙"
+    ],
+    "usphone": "/wɔl/",
+    "ukphone": "/wɔl/"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "伟大的"
+    ],
+    "usphone": "/ɡret/",
+    "ukphone": "/ɡret/"
+  },
+  {
+    "name": "The Great Wall",
+    "trans": [
+      "长城"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "name": "China",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "/ˈtʃaɪnə/",
+    "ukphone": "/ˈtʃaɪnə/"
+  },
+  {
+    "name": "The Great Wall of China",
+    "trans": [
+      "中国的长城"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+  },
+  {
+    "name": "I have been to that place",
+    "trans": [
+      "我(已经)去过那个地方"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðæt/ /ples/"
+  },
+  {
+    "name": "I have been to the Great Wall of China",
+    "trans": [
+      "我(已经)去过中国的长城"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never been to the Great Wall of China",
+    "trans": [
+      "我从来没有去过中国的长城"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+  },
+  {
+    "name": "Disneyland",
+    "trans": [
+      "迪士尼乐园"
+    ],
+    "usphone": "/'diznilænd/",
+    "ukphone": "/'diznilænd/"
+  },
+  {
+    "name": "I have been to Disneyland",
+    "trans": [
+      "我(已经)去过迪士尼乐园"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/"
+  },
+  {
+    "name": "California",
+    "trans": [
+      "加州"
+    ],
+    "usphone": "/ˌkælɪˈfɔrnjə/",
+    "ukphone": "/ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "Disneyland in California",
+    "trans": [
+      "在加州的迪士尼乐园"
+    ],
+    "usphone": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+    "ukphone": "/'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "I have been to Disneyland in California",
+    "trans": [
+      "我(已经)去过在加州的迪士尼乐园"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never been to Disneyland in California",
+    "trans": [
+      "我从来没有去过在加州的迪士尼乐园"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /'diznilænd/ /ɪn/ /ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "Japan",
+    "trans": [
+      "日本"
+    ],
+    "usphone": "/dʒəˈpæn/",
+    "ukphone": "/dʒəˈpæn/"
+  },
+  {
+    "name": "I have been to Japan",
+    "trans": [
+      "我(已经)去过日本"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/"
+  },
+  {
+    "name": "twice",
+    "trans": [
+      "两次"
+    ],
+    "usphone": "/twaɪs/",
+    "ukphone": "/twaɪs/"
+  },
+  {
+    "name": "I have been to Japan twice",
+    "trans": [
+      "我(已经)去过日本两次"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /dʒəˈpæn/ /twaɪs/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never been to Japan",
+    "trans": [
+      "我从来没有去过日本"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /dʒəˈpæn/"
+  },
+  {
+    "name": "Canada",
+    "trans": [
+      "加拿大"
+    ],
+    "usphone": "/ˈkænədə/",
+    "ukphone": "/ˈkænədə/"
+  },
+  {
+    "name": "I have never been to Canada",
+    "trans": [
+      "我从来没有去过加拿大"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+  },
+  {
+    "name": "you have never been to Canada",
+    "trans": [
+      "你从来没有去过加拿大"
+    ],
+    "usphone": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/ju/ /hæv/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+  },
+  {
+    "name": "have you never been to Canada",
+    "trans": [
+      "你从来没有去过加拿大吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "以前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "have you never been to Canada before",
+    "trans": [
+      "你以前从来没有去过加拿大吗"
+    ],
+    "usphone": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+    "ukphone": "/hæv/ /ju/ /'nɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+  },
+  {
+    "name": "ever",
+    "trans": [
+      "曾经"
+    ],
+    "usphone": "/'ɛvɚ/",
+    "ukphone": "/'ɛvɚ/"
+  },
+  {
+    "name": "have you ever been to Canada before",
+    "trans": [
+      "你以前曾经去过加拿大吗"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/ /bɪ'fɔr/"
+  },
+  {
+    "name": "have you ever been to Canada",
+    "trans": [
+      "你曾经去过加拿大吗"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+  },
+  {
+    "name": "have you ever been",
+    "trans": [
+      "你曾经......吗"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "have you ever been here",
+    "trans": [
+      "你曾经来过这里吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /hɪr/"
+  },
+  {
+    "name": "store",
+    "trans": [
+      "商店"
+    ],
+    "usphone": "/stɔr/",
+    "ukphone": "/stɔr/"
+  },
+  {
+    "name": "that store",
+    "trans": [
+      "那个商店"
+    ],
+    "usphone": "/ðæt/ /stɔr/",
+    "ukphone": "/ðæt/ /stɔr/"
+  },
+  {
+    "name": "have you ever been to that store",
+    "trans": [
+      "你曾去过那个商店吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /stɔr/"
+  },
+  {
+    "name": "restaurant",
+    "trans": [
+      "餐厅"
+    ],
+    "usphone": "/'rɛstrɑnt/",
+    "ukphone": "/'rɛstrɑnt/"
+  },
+  {
+    "name": "that restaurant",
+    "trans": [
+      "那个餐厅"
+    ],
+    "usphone": "/ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "have you ever been to that restaurant",
+    "trans": [
+      "你曾经去过那家餐厅吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ðæt/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to marry",
+    "trans": [
+      "结婚"
+    ],
+    "usphone": "/tə/ /'mæri/",
+    "ukphone": "/tə/ /'mæri/"
+  },
+  {
+    "name": "married",
+    "trans": [
+      "结婚的"
+    ],
+    "usphone": "/ˈmærid/",
+    "ukphone": "/ˈmærid/"
+  },
+  {
+    "name": "have you ever been married",
+    "trans": [
+      "你曾经结过婚吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /ˈmærid/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "eaten",
+    "trans": [
+      "吃(过去分词)"
+    ],
+    "usphone": "/ˈitn/",
+    "ukphone": "/ˈitn/"
+  },
+  {
+    "name": "have you ever eaten",
+    "trans": [
+      "你曾经吃过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/"
+  },
+  {
+    "name": "durian",
+    "trans": [
+      "榴莲"
+    ],
+    "usphone": "/ˈdʊriən/",
+    "ukphone": "/ˈdʊriən/"
+  },
+  {
+    "name": "have you ever eaten durian",
+    "trans": [
+      "你曾经吃过榴莲吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈitn/ /ˈdʊriən/"
+  },
+  {
+    "name": "to attend",
+    "trans": [
+      "参加"
+    ],
+    "usphone": "/tə/ /əˈtɛnd/",
+    "ukphone": "/tə/ /əˈtɛnd/"
+  },
+  {
+    "name": "attended",
+    "trans": [
+      "参加(过去分词)"
+    ],
+    "usphone": "/əˈtɛndɪd/",
+    "ukphone": "/əˈtɛndɪd/"
+  },
+  {
+    "name": "have you ever attended",
+    "trans": [
+      "你曾经参加过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "音乐会"
+    ],
+    "usphone": "/'kɑnsɚt/",
+    "ukphone": "/'kɑnsɚt/"
+  },
+  {
+    "name": "live",
+    "trans": [
+      "现场的"
+    ],
+    "usphone": "/laɪv/",
+    "ukphone": "/laɪv/"
+  },
+  {
+    "name": "a live concert",
+    "trans": [
+      "一个现场的音乐会"
+    ],
+    "usphone": "/ə/ /laɪv/ /'kɑnsɚt/",
+    "ukphone": "/ə/ /laɪv/ /'kɑnsɚt/"
+  },
+  {
+    "name": "have you ever attended",
+    "trans": [
+      "你曾经参加过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/"
+  },
+  {
+    "name": "have you ever attended a live concert",
+    "trans": [
+      "你曾经参加过一个现场的音乐会吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /əˈtɛndɪd/ /ə/ /laɪv/ /'kɑnsɚt/"
+  },
+  {
+    "name": "to lose",
+    "trans": [
+      "丢掉"
+    ],
+    "usphone": "/tə/ /luz/",
+    "ukphone": "/tə/ /luz/"
+  },
+  {
+    "name": "lost",
+    "trans": [
+      "丢掉(过去分词)"
+    ],
+    "usphone": "/lɔst/",
+    "ukphone": "/lɔst/"
+  },
+  {
+    "name": "have you ever lost",
+    "trans": [
+      "你曾经丢过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/"
+  },
+  {
+    "name": "wallet",
+    "trans": [
+      "钱包"
+    ],
+    "usphone": "/'wɑlɪt/",
+    "ukphone": "/'wɑlɪt/"
+  },
+  {
+    "name": "your wallet",
+    "trans": [
+      "你的钱包"
+    ],
+    "usphone": "/jʊr/ /'wɑlɪt/",
+    "ukphone": "/jʊr/ /'wɑlɪt/"
+  },
+  {
+    "name": "have you ever lost your wallet",
+    "trans": [
+      "你曾经丢过你的钱包吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /lɔst/ /jʊr/ /'wɑlɪt/"
+  },
+  {
+    "name": "to see",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /si/",
+    "ukphone": "/tə/ /si/"
+  },
+  {
+    "name": "seen",
+    "trans": [
+      "看(过去分词)"
+    ],
+    "usphone": "/sin/",
+    "ukphone": "/sin/"
+  },
+  {
+    "name": "have you ever seen",
+    "trans": [
+      "你曾经看过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /sin/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /sin/"
+  },
+  {
+    "name": "rainbow",
+    "trans": [
+      "彩虹"
+    ],
+    "usphone": "/ˈrenbo/",
+    "ukphone": "/ˈrenbo/"
+  },
+  {
+    "name": "have you ever seen a rainbow",
+    "trans": [
+      "你曾经见过一个彩虹吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /sin/ /ə/ /ˈrenbo/"
+  },
+  {
+    "name": "to study",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /'stʌdi/",
+    "ukphone": "/tə/ /'stʌdi/"
+  },
+  {
+    "name": "studied",
+    "trans": [
+      "学习(过去分词)"
+    ],
+    "usphone": "/ˈstʌdid/",
+    "ukphone": "/ˈstʌdid/"
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "在国外"
+    ],
+    "usphone": "/ə'brɔd/",
+    "ukphone": "/ə'brɔd/"
+  },
+  {
+    "name": "studied abroad",
+    "trans": [
+      "留学"
+    ],
+    "usphone": "/ˈstʌdid/ /ə'brɔd/",
+    "ukphone": "/ˈstʌdid/ /ə'brɔd/"
+  },
+  {
+    "name": "have you ever",
+    "trans": [
+      "你曾经"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/"
+  },
+  {
+    "name": "have you ever studied abroad",
+    "trans": [
+      "你曾经留过学吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /ˈstʌdid/ /ə'brɔd/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "made",
+    "trans": [
+      "做(过去分词)"
+    ],
+    "usphone": "/med/",
+    "ukphone": "/med/"
+  },
+  {
+    "name": "have you ever made",
+    "trans": [
+      "你曾经做过"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /med/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /med/"
+  },
+  {
+    "name": "snow",
+    "trans": [
+      "雪"
+    ],
+    "usphone": "/sno/",
+    "ukphone": "/sno/"
+  },
+  {
+    "name": "snowman",
+    "trans": [
+      "雪人"
+    ],
+    "usphone": "/'snomæn/",
+    "ukphone": "/'snomæn/"
+  },
+  {
+    "name": "have you ever made a snowman",
+    "trans": [
+      "你曾经堆过雪人吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /med/ /ə/ /'snomæn/"
+  },
+  {
+    "name": "have you ever been to Canada",
+    "trans": [
+      "你曾经去过加拿大吗？"
+    ],
+    "usphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/hæv/ /ju/ /'ɛvɚ/ /bɪn/ /tə/ /ˈkænədə/"
+  },
+  {
+    "name": "I have been to Canada",
+    "trans": [
+      "我(已经)去过加拿大"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /tə/ /ˈkænədə/"
+  }
+]

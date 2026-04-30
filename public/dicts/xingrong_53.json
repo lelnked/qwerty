@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "to save",
+    "trans": [
+      "存"
+    ],
+    "usphone": "/tə/ /sev/",
+    "ukphone": "/tə/ /sev/"
+  },
+  {
+    "name": "saved",
+    "trans": [
+      "存(ed形式)"
+    ],
+    "usphone": "/sevd/",
+    "ukphone": "/sevd/"
+  },
+  {
+    "name": "we had saved",
+    "trans": [
+      "我们(过去已经)存"
+    ],
+    "usphone": "/wi/ /hæd/ /sevd/",
+    "ukphone": "/wi/ /hæd/ /sevd/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ˈmʌni/",
+    "ukphone": "/ˈmʌni/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "enough money",
+    "trans": [
+      "足够的钱"
+    ],
+    "usphone": "/ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "we had saved enough money",
+    "trans": [
+      "我们(过去已经)存了足够的钱"
+    ],
+    "usphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "购买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "house",
+    "trans": [
+      "房子"
+    ],
+    "usphone": "/haʊs/",
+    "ukphone": "/haʊs/"
+  },
+  {
+    "name": "to buy a house",
+    "trans": [
+      "买一套房子"
+    ],
+    "usphone": "/tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide to buy a house",
+    "trans": [
+      "决定买一套房子"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "we decide to buy a house",
+    "trans": [
+      "我们决定买一套房子"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /baɪ/ /ə/ /haʊs/ /(过去)决定 decided/ /dɪ'saɪdɪd/"
+  },
+  {
+    "name": "we decided to buy a house",
+    "trans": [
+      "我们(过去)决定买一套房子"
+    ],
+    "usphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before we decided to buy a house",
+    "trans": [
+      "在我们(过去)决定买一套房子之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "we had saved enough money",
+    "trans": [
+      "我们(过去已经)存了足够的钱"
+    ],
+    "usphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/",
+    "ukphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/"
+  },
+  {
+    "name": "we had saved enough money before we decided to buy a house",
+    "trans": [
+      "在我们(过去)决定买一个房子之前我们(过去已经)存了足够的钱。"
+    ],
+    "usphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/",
+    "ukphone": "/wi/ /hæd/ /sevd/ /ɪ'nʌf/ /ˈmʌni/ /bɪ'fɔr/ /wi/ /dɪ'saɪdɪd/ /tə/ /baɪ/ /ə/ /haʊs/"
+  },
+  {
+    "name": "to clean",
+    "trans": [
+      "打扫"
+    ],
+    "usphone": "/tə/ /klin/",
+    "ukphone": "/tə/ /klin/"
+  },
+  {
+    "name": "cleaned",
+    "trans": [
+      "打扫(ed形式)"
+    ],
+    "usphone": "/klind/",
+    "ukphone": "/klind/"
+  },
+  {
+    "name": "they had cleaned",
+    "trans": [
+      "他们(过去已经)打扫"
+    ],
+    "usphone": "/ðe/ /hæd/ /klind/",
+    "ukphone": "/ðe/ /hæd/ /klind/"
+  },
+  {
+    "name": "house",
+    "trans": [
+      "房子"
+    ],
+    "usphone": "/haʊs/",
+    "ukphone": "/haʊs/"
+  },
+  {
+    "name": "they had cleaned the house",
+    "trans": [
+      "他们(过去已经)打扫了那个房子"
+    ],
+    "usphone": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/",
+    "ukphone": "/ðe/ /hæd/ /klind/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "entire",
+    "trans": [
+      "整个"
+    ],
+    "usphone": "/ɪnˈtaɪɚ/",
+    "ukphone": "/ɪnˈtaɪɚ/"
+  },
+  {
+    "name": "they had cleaned the entire house",
+    "trans": [
+      "他们(过去已经)打扫了整个房子"
+    ],
+    "usphone": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/",
+    "ukphone": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/"
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "父母"
+    ],
+    "usphone": "/'pɛrənts/",
+    "ukphone": "/'pɛrənts/"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "their parents",
+    "trans": [
+      "他们的父母"
+    ],
+    "usphone": "/ðɛr/ /'pɛrənts/",
+    "ukphone": "/ðɛr/ /'pɛrənts/"
+  },
+  {
+    "name": "to arrive",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/",
+    "ukphone": "/tə/ /ə'raɪv/ /(过去)达到 arrived/ /ə'raɪvd/"
+  },
+  {
+    "name": "their parents arrived",
+    "trans": [
+      "他们的父母(过去)到达"
+    ],
+    "usphone": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+    "ukphone": "/ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "name": "before their parents arrived",
+    "trans": [
+      "在他们的父母(过去)到达之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+    "ukphone": "/bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "name": "they had cleaned the entire house",
+    "trans": [
+      "他们(过去已经)打扫了整个房子"
+    ],
+    "usphone": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/",
+    "ukphone": "/ðe/ /hæd/ /klind/ /ðə/ /ɪnˈtaɪɚ/ /haʊs/"
+  },
+  {
+    "name": "they had cleaned the entire house before their parents arrived",
+    "trans": [
+      "在他们的父母(过去)到达之前他们(过去已经)打扫了整个房子。"
+    ],
+    "usphone": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/",
+    "ukphone": "/ðe/ /hæd/ /klind/ /ði/ /ɪnˈtaɪɚ/ /haʊs/ /bɪ'fɔr/ /ðɛr/ /'pɛrənts/ /ə'raɪvd/"
+  },
+  {
+    "name": "move",
+    "trans": [
+      "搬家"
+    ],
+    "usphone": "/muv/",
+    "ukphone": "/muv/"
+  },
+  {
+    "name": "moved",
+    "trans": [
+      "搬家(ed形式)"
+    ],
+    "usphone": "/muvd/",
+    "ukphone": "/muvd/"
+  },
+  {
+    "name": "they had moved",
+    "trans": [
+      "他们(过去已经)搬家"
+    ],
+    "usphone": "/ðe/ /hæd/ /muvd/",
+    "ukphone": "/ðe/ /hæd/ /muvd/"
+  },
+  {
+    "name": "city",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "/'sɪti/",
+    "ukphone": "/'sɪti/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "a new city",
+    "trans": [
+      "一个新的城市"
+    ],
+    "usphone": "/ə/ /nu/ /'sɪti/",
+    "ukphone": "/ə/ /nu/ /'sɪti/"
+  },
+  {
+    "name": "they had moved to a new city",
+    "trans": [
+      "他们(过去已经)搬家到了一个新的城市"
+    ],
+    "usphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+    "ukphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+  },
+  {
+    "name": "to bear",
+    "trans": [
+      "出生"
+    ],
+    "usphone": "/tə/ /bɜːθ/",
+    "ukphone": "/tə/ /bɜːθ/"
+  },
+  {
+    "name": "born",
+    "trans": [
+      "出生(ed形式)"
+    ],
+    "usphone": "/bɔrn/",
+    "ukphone": "/bɔrn/"
+  },
+  {
+    "name": "be born",
+    "trans": [
+      "被出生"
+    ],
+    "usphone": "/bi/ /bɔrn/",
+    "ukphone": "/bi/ /bɔrn/"
+  },
+  {
+    "name": "the baby",
+    "trans": [
+      "那个婴儿"
+    ],
+    "usphone": "/ðə/ /'bebi/",
+    "ukphone": "/ðə/ /'bebi/"
+  },
+  {
+    "name": "the baby was born",
+    "trans": [
+      "那个婴儿(过去)出生"
+    ],
+    "usphone": "/ðə/ /'bebi/ /wəz/ /bɔrn/",
+    "ukphone": "/ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the baby was born",
+    "trans": [
+      "在那个婴儿(过去)出生之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "name": "they had moved to a new city",
+    "trans": [
+      "他们(过去已经)搬家到了一个新的城市"
+    ],
+    "usphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/",
+    "ukphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/"
+  },
+  {
+    "name": "they had moved to a new city before the baby was born",
+    "trans": [
+      "在那个婴儿(过去)出生之前他们,(过去已经)搬到了一个新的城市"
+    ],
+    "usphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/",
+    "ukphone": "/ðe/ /hæd/ /muvd/ /tə/ /ə/ /nu/ /'sɪti/ /bɪ'fɔr/ /ðə/ /'bebi/ /wəz/ /bɔrn/"
+  },
+  {
+    "name": "to plan",
+    "trans": [
+      "计划"
+    ],
+    "usphone": "/tə/ /plæn/",
+    "ukphone": "/tə/ /plæn/"
+  },
+  {
+    "name": "planned",
+    "trans": [
+      "计划(ed形式)"
+    ],
+    "usphone": "/plænd/",
+    "ukphone": "/plænd/"
+  },
+  {
+    "name": "they had planned",
+    "trans": [
+      "他们(过去已经)计划"
+    ],
+    "usphone": "/ðe/ /hæd/ /plænd/",
+    "ukphone": "/ðe/ /hæd/ /plænd/"
+  },
+  {
+    "name": "already",
+    "trans": [
+      "已经"
+    ],
+    "usphone": "/ɔl'rɛdi/",
+    "ukphone": "/ɔl'rɛdi/"
+  },
+  {
+    "name": "they had already planned",
+    "trans": [
+      "他们(过去)已经计划"
+    ],
+    "usphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/",
+    "ukphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/"
+  },
+  {
+    "name": "vacation",
+    "trans": [
+      "假期"
+    ],
+    "usphone": "/veˈkeʃn/",
+    "ukphone": "/veˈkeʃn/"
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "their vacation",
+    "trans": [
+      "他们的假期"
+    ],
+    "usphone": "/ðɛr/ /veˈkeʃn/",
+    "ukphone": "/ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "name": "they had already planned their vacation",
+    "trans": [
+      "他们(过去)已经计划了他们的假期"
+    ],
+    "usphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+    "ukphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /ɪn'vaɪt/",
+    "ukphone": "/tə/ /ɪn'vaɪt/"
+  },
+  {
+    "name": "invitation",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/ɪnvɪ'teʃən/",
+    "ukphone": "/ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "the invitation",
+    "trans": [
+      "那个邀请"
+    ],
+    "usphone": "/ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to receive",
+    "trans": [
+      "收到"
+    ],
+    "usphone": "/tə/ /rɪ'siv/",
+    "ukphone": "/tə/ /rɪ'siv/"
+  },
+  {
+    "name": "to receive the invitation",
+    "trans": [
+      "收到那个邀请"
+    ],
+    "usphone": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/tə/ /rɪ'siv/ /ði/ /ɪnvɪ'teʃən/ /(过去)收到 received/ /rɪ'sivd/ /(过去)收到那个邀请 received the invitation/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "they received the invitation",
+    "trans": [
+      "他们(过去)收到那个邀请"
+    ],
+    "usphone": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before they received the invitation",
+    "trans": [
+      "在他们(过去)收到那个邀请之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "they had already planned their vacation",
+    "trans": [
+      "他们(过去)已经计划了他们的假期"
+    ],
+    "usphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/",
+    "ukphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/"
+  },
+  {
+    "name": "they had already planned their vacation before they received the invitation",
+    "trans": [
+      "在他们(过去)收到那个邀请之前他们(过去)已经计划了他们的假期"
+    ],
+    "usphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/",
+    "ukphone": "/ðe/ /hæd/ /ɔl'rɛdi/ /plænd/ /ðɛr/ /veˈkeʃn/ /bɪ'fɔr/ /ðe/ /rɪ'sivd/ /ði/ /ɪnvɪ'teʃən/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "office",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "/ði/ /'ɑfɪs/",
+    "ukphone": "/ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "to leave the office",
+    "trans": [
+      "离开办公室"
+    ],
+    "usphone": "/tə/ /liv/ /ði/ /'ɑfɪs/",
+    "ukphone": "/tə/ /liv/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "left",
+    "trans": [
+      "离开(ed形式)"
+    ],
+    "usphone": "/lɛft/",
+    "ukphone": "/lɛft/"
+  },
+  {
+    "name": "she had left",
+    "trans": [
+      "她(过去已经)离开"
+    ],
+    "usphone": "/ʃi/ /hæd/ /lɛft/",
+    "ukphone": "/ʃi/ /hæd/ /lɛft/"
+  },
+  {
+    "name": "she had left the office",
+    "trans": [
+      "她(过去已经)离开办公室"
+    ],
+    "usphone": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ʃi/ /hæd/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "刚刚"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "she had just left the office",
+    "trans": [
+      "她(过去已经)刚刚离开办公室"
+    ],
+    "usphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "boss",
+    "trans": [
+      "老板"
+    ],
+    "usphone": "/bɔs/",
+    "ukphone": "/bɔs/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "her boss",
+    "trans": [
+      "她的老板"
+    ],
+    "usphone": "/hɚ/ /bɔs/",
+    "ukphone": "/hɚ/ /bɔs/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/",
+    "ukphone": "/tə/ /kɔl/ /(过去)打电话 called/ /kɔld/"
+  },
+  {
+    "name": "her boss called",
+    "trans": [
+      "她的老板(过去)打电话"
+    ],
+    "usphone": "/hɚ/ /bɔs/ /kɔld/",
+    "ukphone": "/hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when her boss called",
+    "trans": [
+      "当她的老板(过去)打电话的时候"
+    ],
+    "usphone": "/wɛn/ /hɚ/ /bɔs/ /kɔld/",
+    "ukphone": "/wɛn/ /hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "name": "she had just left the office",
+    "trans": [
+      "她(过去已经)刚刚离开办公室"
+    ],
+    "usphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "she had just left the office when her boss called",
+    "trans": [
+      "她(过去已经)刚刚离开办公室当她的老板(过去)打电话的时候"
+    ],
+    "usphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/",
+    "ukphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "name": "task",
+    "trans": [
+      "任务"
+    ],
+    "usphone": "/tæsk/",
+    "ukphone": "/tæsk/"
+  },
+  {
+    "name": "urgent",
+    "trans": [
+      "紧急的"
+    ],
+    "usphone": "/'ɝdʒənt/",
+    "ukphone": "/'ɝdʒənt/"
+  },
+  {
+    "name": "an urgent task",
+    "trans": [
+      "一项紧急的任务"
+    ],
+    "usphone": "/ən/ /'ɝdʒənt/ /tæsk/",
+    "ukphone": "/ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "name": "her boss called",
+    "trans": [
+      "她的老板(过去)打电话"
+    ],
+    "usphone": "/hɚ/ /bɔs/ /kɔld/",
+    "ukphone": "/hɚ/ /bɔs/ /kɔld/"
+  },
+  {
+    "name": "her boss called with an urgent task",
+    "trans": [
+      "她的老板(过去)打电话给她安排一项紧急的任务"
+    ],
+    "usphone": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+    "ukphone": "/hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "name": "when her boss called with an urgent task",
+    "trans": [
+      "当她的老板(过去)打电话给她安排一项紧急的任务的时候"
+    ],
+    "usphone": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+    "ukphone": "/wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "name": "she had just left the office",
+    "trans": [
+      "她(过去已经)刚刚离开办公室"
+    ],
+    "usphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "she had just left the office when her boss called with an urgent task",
+    "trans": [
+      "当她的老板(过去)打电话给她安排一项紧急任务的时候她刚刚离开办公室"
+    ],
+    "usphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/",
+    "ukphone": "/ʃi/ /hæd/ /dʒʌst/ /lɛft/ /ði/ /'ɑfɪs/ /wɛn/ /hɚ/ /bɔs/ /kɔld/ /wɪð/ /ən/ /'ɝdʒənt/ /tæsk/"
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "在国外"
+    ],
+    "usphone": "/ə'brɔd/",
+    "ukphone": "/ə'brɔd/"
+  },
+  {
+    "name": "I am abroad",
+    "trans": [
+      "我在国外"
+    ],
+    "usphone": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/",
+    "ukphone": "/aɪ/ /æm/ /ə'brɔd/ /be(ed形式) been/ /bɪn/"
+  },
+  {
+    "name": "I have been abroad",
+    "trans": [
+      "我(已经)去过国外"
+    ],
+    "usphone": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /hæv/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "haven't",
+    "trans": [
+      "还没有"
+    ],
+    "usphone": "/ˈhævnt/",
+    "ukphone": "/ˈhævnt/"
+  },
+  {
+    "name": "I haven't been abroad",
+    "trans": [
+      "我还没有去过国外"
+    ],
+    "usphone": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /ˈhævnt/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "never",
+    "trans": [
+      "从来没有"
+    ],
+    "usphone": "/'nɛvɚ/",
+    "ukphone": "/'nɛvɚ/"
+  },
+  {
+    "name": "I have never been abroad",
+    "trans": [
+      "我从来没有去过国外"
+    ],
+    "usphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /hæv/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "I had never been abroad",
+    "trans": [
+      "我(过去)从来没有去过国外"
+    ],
+    "usphone": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/aɪ/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "she had never been abroad",
+    "trans": [
+      "她(过去)从来没有去过国外"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "trip",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/trɪp/",
+    "ukphone": "/trɪp/"
+  },
+  {
+    "name": "her trip",
+    "trans": [
+      "她的旅行"
+    ],
+    "usphone": "/hɚ/ /trɪp/",
+    "ukphone": "/hɚ/ /trɪp/"
+  },
+  {
+    "name": "Spain",
+    "trans": [
+      "西班牙"
+    ],
+    "usphone": "/spen/",
+    "ukphone": "/spen/"
+  },
+  {
+    "name": "her trip to Spain",
+    "trans": [
+      "她的去西班牙的旅行"
+    ],
+    "usphone": "/hɚ/ /trɪp/ /tə/ /spen/",
+    "ukphone": "/hɚ/ /trɪp/ /tə/ /spen/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "year",
+    "trans": [
+      "年"
+    ],
+    "usphone": "/jɪr/",
+    "ukphone": "/jɪr/"
+  },
+  {
+    "name": "last year",
+    "trans": [
+      "去年"
+    ],
+    "usphone": "/læst/ /jɪr/",
+    "ukphone": "/læst/ /jɪr/"
+  },
+  {
+    "name": "her trip to Spain last year",
+    "trans": [
+      "去年她的去西班牙的旅行"
+    ],
+    "usphone": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+    "ukphone": "/hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before her trip to Spain last year",
+    "trans": [
+      "在去年她的去西班牙的旅行之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+    "ukphone": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "name": "she had never been abroad",
+    "trans": [
+      "她(过去)从来没有去过国外"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "she had never been abroad before her trip to Spain last year",
+    "trans": [
+      "在去年她的去西班牙的旅行之前她(过去)从来没有去过国外"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "name": "country",
+    "trans": [
+      "国家"
+    ],
+    "usphone": "/ˈkʌntri/",
+    "ukphone": "/ˈkʌntri/"
+  },
+  {
+    "name": "foreign",
+    "trans": [
+      "外国的"
+    ],
+    "usphone": "/ˈfɔrən/",
+    "ukphone": "/ˈfɔrən/"
+  },
+  {
+    "name": "a foreign country",
+    "trans": [
+      "外国"
+    ],
+    "usphone": "/ə/ /ˈfɔrən/ /ˈkʌntri/",
+    "ukphone": "/ə/ /ˈfɔrən/ /ˈkʌntri/"
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "在国外"
+    ],
+    "usphone": "/ə'brɔd/",
+    "ukphone": "/ə'brɔd/"
+  },
+  {
+    "name": "she had never been abroad",
+    "trans": [
+      "她(过去)从来没有去过国外"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /ə'brɔd/"
+  },
+  {
+    "name": "she had never been to a foreign country",
+    "trans": [
+      "她(过去)从来没有去过外国"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/"
+  },
+  {
+    "name": "before her trip to Spain last year",
+    "trans": [
+      "在去年她的去西班牙的旅行之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+    "ukphone": "/bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "name": "she had never been to a foreign country before her trip to Spain last year",
+    "trans": [
+      "在去年她的去西班牙的旅行之前她(过去)从来没有去过外国"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ə/ /ˈfɔrən/ /ˈkʌntri/ /bɪ'fɔr/ /hɚ/ /trɪp/ /tə/ /spen/ /læst/ /jɪr/"
+  },
+  {
+    "name": "she had never been",
+    "trans": [
+      "她(过去)从来没有去过"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/"
+  },
+  {
+    "name": "California",
+    "trans": [
+      "加州"
+    ],
+    "usphone": "/ˌkælɪˈfɔrnjə/",
+    "ukphone": "/ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "she had never been to California",
+    "trans": [
+      "她(过去)从来没有去过加州"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/"
+  },
+  {
+    "name": "summer",
+    "trans": [
+      "夏天"
+    ],
+    "usphone": "/'sʌmɚ/",
+    "ukphone": "/'sʌmɚ/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "last summer",
+    "trans": [
+      "去年夏天"
+    ],
+    "usphone": "/læst/ /'sʌmɚ/",
+    "ukphone": "/læst/ /'sʌmɚ/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before last summer",
+    "trans": [
+      "在去年夏天之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /læst/ /'sʌmɚ/",
+    "ukphone": "/bɪ'fɔr/ /læst/ /'sʌmɚ/"
+  },
+  {
+    "name": "she had never been to California before last summer",
+    "trans": [
+      "在去年夏天之前她(过去)从来没有去过加州"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /tə/ /ˌkælɪˈfɔrnjə/ /bɪ'fɔr/ /læst/ /'sʌmɚ/"
+  },
+  {
+    "name": "late",
+    "trans": [
+      "迟到"
+    ],
+    "usphone": "/let/",
+    "ukphone": "/let/"
+  },
+  {
+    "name": "she had never been late",
+    "trans": [
+      "她(过去)从来没有迟到过"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "she had never been late to work",
+    "trans": [
+      "她(过去)从来没有上班迟到过"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "天"
+    ],
+    "usphone": "/de/",
+    "ukphone": "/de/"
+  },
+  {
+    "name": "that day",
+    "trans": [
+      "那天"
+    ],
+    "usphone": "/ðæt/ /de/",
+    "ukphone": "/ðæt/ /de/"
+  },
+  {
+    "name": "before that day",
+    "trans": [
+      "在那天之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðæt/ /de/",
+    "ukphone": "/bɪ'fɔr/ /ðæt/ /de/"
+  },
+  {
+    "name": "she had never been late to work before that day",
+    "trans": [
+      "在那天之前她(过去)从来没有上班迟到过"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /bɪn/ /let/ /tə/ /wɝk/ /bɪ'fɔr/ /ðæt/ /de/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "driven",
+    "trans": [
+      "驾驶(ed形式)"
+    ],
+    "usphone": "/'drɪvn/",
+    "ukphone": "/'drɪvn/"
+  },
+  {
+    "name": "she had never driven",
+    "trans": [
+      "她(过去)从来没有驾驶过"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "she had never driven a car",
+    "trans": [
+      "她(过去)从来没有驾驶过一辆车"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "驾驶员"
+    ],
+    "usphone": "/'draɪvɚ/",
+    "ukphone": "/'draɪvɚ/"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "执照"
+    ],
+    "usphone": "/'laɪsns/",
+    "ukphone": "/'laɪsns/"
+  },
+  {
+    "name": "driver's license",
+    "trans": [
+      "驾照"
+    ],
+    "usphone": "/'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "her driver's license",
+    "trans": [
+      "她的驾照"
+    ],
+    "usphone": "/hɚ/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "拿到"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/",
+    "ukphone": "/tə/ /ɡɛt/ /(过去)拿到 got/ /ɡɑt/"
+  },
+  {
+    "name": "she got",
+    "trans": [
+      "她(过去)拿到"
+    ],
+    "usphone": "/ʃi/ /ɡɑt/",
+    "ukphone": "/ʃi/ /ɡɑt/"
+  },
+  {
+    "name": "she got her driver's license",
+    "trans": [
+      "她(过去)拿到她的驾照"
+    ],
+    "usphone": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "before she got her driver's license",
+    "trans": [
+      "在她(过去)拿到她的驾照之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "she had never driven a car",
+    "trans": [
+      "她(过去)从来没有驾驶过一辆车"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/"
+  },
+  {
+    "name": "she had never driven a car before she got her driver's license",
+    "trans": [
+      "在她(过去)拿到她的驾照之前她,(过去)从来没有驾驶过一辆车"
+    ],
+    "usphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ʃi/ /hæd/ /'nɛvɚ/ /'drɪvn/ /ə/ /kɑr/ /bɪ'fɔr/ /ʃi/ /ɡɑt/ /hɚ/ /'draɪvɚz/ /'laɪsns/"
+  }
+]

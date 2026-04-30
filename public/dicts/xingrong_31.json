@@ -1,0 +1,1234 @@
+[
+  {
+    "name": "to hand",
+    "trans": [
+      "递"
+    ],
+    "usphone": "/tə/ /hænd/",
+    "ukphone": "/tə/ /hænd/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to hand me",
+    "trans": [
+      "递给我"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/",
+    "ukphone": "/tə/ /hænd/ /mi/"
+  },
+  {
+    "name": "key",
+    "trans": [
+      "钥匙"
+    ],
+    "usphone": "/ki/",
+    "ukphone": "/ki/"
+  },
+  {
+    "name": "the key",
+    "trans": [
+      "那个钥匙"
+    ],
+    "usphone": "/ðə/ /ki/",
+    "ukphone": "/ðə/ /ki/"
+  },
+  {
+    "name": "to hand me the key",
+    "trans": [
+      "递给我那个钥匙"
+    ],
+    "usphone": "/tə/ /hænd/ /mi/ /ðə/ /ki/",
+    "ukphone": "/tə/ /hænd/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you hand me the key",
+    "trans": [
+      "你递给我那个钥匙"
+    ],
+    "usphone": "/ju/ /hænd/ /mi/ /ðə/ /ki/",
+    "ukphone": "/ju/ /hænd/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "name": "you hand the key",
+    "trans": [
+      "你递那个钥匙"
+    ],
+    "usphone": "/ju/ /hænd/ /ðə/ /ki/",
+    "ukphone": "/ju/ /hænd/ /ðə/ /ki/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "you hand the key to me",
+    "trans": [
+      "你递那个钥匙给我"
+    ],
+    "usphone": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/",
+    "ukphone": "/ju/ /hænd/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "name": "to give",
+    "trans": [
+      "给"
+    ],
+    "usphone": "/tə/ /ɡɪv/",
+    "ukphone": "/tə/ /ɡɪv/"
+  },
+  {
+    "name": "you give the key to me",
+    "trans": [
+      "你把那个钥匙给我"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+    "ukphone": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "name": "you give me the key",
+    "trans": [
+      "你给我那个钥匙"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/",
+    "ukphone": "/ju/ /ɡɪv/ /mi/ /ðə/ /ki/"
+  },
+  {
+    "name": "you give the key to me",
+    "trans": [
+      "你把那个钥匙给我"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/",
+    "ukphone": "/ju/ /ɡɪv/ /ðə/ /ki/ /tə/ /mi/"
+  },
+  {
+    "name": "the money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/ðə/ /'mʌni/",
+    "ukphone": "/ðə/ /'mʌni/"
+  },
+  {
+    "name": "you give me the money",
+    "trans": [
+      "你给我钱"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/",
+    "ukphone": "/ju/ /ɡɪv/ /mi/ /ðə/ /'mʌni/"
+  },
+  {
+    "name": "you give the money to me",
+    "trans": [
+      "你把钱给我"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/",
+    "ukphone": "/ju/ /ɡɪv/ /ðə/ /'mʌni/ /tə/ /mi/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "you give it to me",
+    "trans": [
+      "你把它给我"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/",
+    "ukphone": "/ju/ /ɡɪv/ /ɪt/ /tə/ /mi/"
+  },
+  {
+    "name": "back",
+    "trans": [
+      "往回"
+    ],
+    "usphone": "/bæk/",
+    "ukphone": "/bæk/"
+  },
+  {
+    "name": "you give it back to me",
+    "trans": [
+      "你把它还给我"
+    ],
+    "usphone": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+    "ukphone": "/ju/ /ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+  },
+  {
+    "name": "give it back to me",
+    "trans": [
+      "把它还给我"
+    ],
+    "usphone": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/",
+    "ukphone": "/ɡɪv/ /ɪt/ /bæk/ /tə/ /mi/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "to read her",
+    "trans": [
+      "读给她"
+    ],
+    "usphone": "/tə/ /rid/ /hɚ/",
+    "ukphone": "/tə/ /rid/ /hɚ/"
+  },
+  {
+    "name": "a story",
+    "trans": [
+      "一个故事"
+    ],
+    "usphone": "/ə/ /'stɔri/",
+    "ukphone": "/ə/ /'stɔri/"
+  },
+  {
+    "name": "to read her a story",
+    "trans": [
+      "读给她一个故事"
+    ],
+    "usphone": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/",
+    "ukphone": "/tə/ /rid/ /hɚ/ /ə/ /'stɔri/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I read her a story",
+    "trans": [
+      "我读给她一个故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/",
+    "ukphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "every night",
+    "trans": [
+      "每天晚上"
+    ],
+    "usphone": "/'ɛvri/ /naɪt/",
+    "ukphone": "/'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "I read her a story every night",
+    "trans": [
+      "我每天晚上读给她一个故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/",
+    "ukphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'stɔri/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "I read a story",
+    "trans": [
+      "我读一个故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /ə/ /'stɔri/",
+    "ukphone": "/aɪ/ /rid/ /ə/ /'stɔri/"
+  },
+  {
+    "name": "to her",
+    "trans": [
+      "给她"
+    ],
+    "usphone": "/tə/ /hɚ/",
+    "ukphone": "/tə/ /hɚ/"
+  },
+  {
+    "name": "I read a story to her",
+    "trans": [
+      "我给她读一个故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/",
+    "ukphone": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/"
+  },
+  {
+    "name": "every night",
+    "trans": [
+      "每天晚上"
+    ],
+    "usphone": "/'ɛvri/ /naɪt/",
+    "ukphone": "/'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "I read a story to her every night",
+    "trans": [
+      "我每天晚上为她读一个故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+    "ukphone": "/aɪ/ /rid/ /ə/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "bedtime",
+    "trans": [
+      "就寝时间"
+    ],
+    "usphone": "/'bɛdtaɪm/",
+    "ukphone": "/'bɛdtaɪm/"
+  },
+  {
+    "name": "bedtime story",
+    "trans": [
+      "睡前故事"
+    ],
+    "usphone": "/'bɛdtaɪm/ /'stɔri/",
+    "ukphone": "/'bɛdtaɪm/ /'stɔri/"
+  },
+  {
+    "name": "I read a bedtime story to her every night",
+    "trans": [
+      "我每天晚上给她读一个睡前故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/",
+    "ukphone": "/aɪ/ /rid/ /ə/ /'bɛdtaɪm/ /'stɔri/ /tə/ /hɚ/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "I read her a bedtime story every night",
+    "trans": [
+      "我每天晚上读给她一个睡前故事"
+    ],
+    "usphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/",
+    "ukphone": "/aɪ/ /rid/ /hɚ/ /ə/ /'bɛdtaɪm/ /'stɔri/ /'ɛvri/ /naɪt/"
+  },
+  {
+    "name": "to buy",
+    "trans": [
+      "买"
+    ],
+    "usphone": "/tə/ /baɪ/",
+    "ukphone": "/tə/ /baɪ/"
+  },
+  {
+    "name": "him",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hɪm/",
+    "ukphone": "/hɪm/"
+  },
+  {
+    "name": "to buy him",
+    "trans": [
+      "买给他"
+    ],
+    "usphone": "/tə/ /baɪ/ /hɪm/",
+    "ukphone": "/tə/ /baɪ/ /hɪm/"
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "/tɔɪ/",
+    "ukphone": "/tɔɪ/"
+  },
+  {
+    "name": "a toy",
+    "trans": [
+      "一个玩具"
+    ],
+    "usphone": "/ə/ /tɔɪ/",
+    "ukphone": "/ə/ /tɔɪ/"
+  },
+  {
+    "name": "car",
+    "trans": [
+      "汽车"
+    ],
+    "usphone": "/kɑr/",
+    "ukphone": "/kɑr/"
+  },
+  {
+    "name": "a toy car",
+    "trans": [
+      "一个玩具车"
+    ],
+    "usphone": "/ə/ /tɔɪ/ /kɑr/",
+    "ukphone": "/ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "name": "to buy him a toy car",
+    "trans": [
+      "买给他一个玩具车"
+    ],
+    "usphone": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+    "ukphone": "/tə/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "name": "I will",
+    "trans": [
+      "我将会"
+    ],
+    "usphone": "/aɪ/ /wɪl/",
+    "ukphone": "/aɪ/ /wɪl/"
+  },
+  {
+    "name": "I will buy him a toy car",
+    "trans": [
+      "我将会买给他一个玩具车"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/",
+    "ukphone": "/aɪ/ /wɪl/ /baɪ/ /hɪm/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "name": "I will buy a toy car",
+    "trans": [
+      "我将会买一个玩具车"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/",
+    "ukphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/"
+  },
+  {
+    "name": "for him",
+    "trans": [
+      "为他"
+    ],
+    "usphone": "/fɝ/ /hɪm/",
+    "ukphone": "/fɝ/ /hɪm/"
+  },
+  {
+    "name": "I will buy a toy car for him",
+    "trans": [
+      "我将会为他买一个玩具车"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/",
+    "ukphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "I will buy a toy car for him tomorrow",
+    "trans": [
+      "我明天将会为他买一个玩具车"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/",
+    "ukphone": "/aɪ/ /wɪl/ /baɪ/ /ə/ /tɔɪ/ /kɑr/ /fɝ/ /hɪm/ /tə'mɔro/"
+  },
+  {
+    "name": "birth",
+    "trans": [
+      "出生"
+    ],
+    "usphone": "/bɝθ/",
+    "ukphone": "/bɝθ/"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "日"
+    ],
+    "usphone": "/de/",
+    "ukphone": "/de/"
+  },
+  {
+    "name": "birthday",
+    "trans": [
+      "生日"
+    ],
+    "usphone": "/'bɝθde/",
+    "ukphone": "/'bɝθde/"
+  },
+  {
+    "name": "cake",
+    "trans": [
+      "蛋糕"
+    ],
+    "usphone": "/kek/",
+    "ukphone": "/kek/"
+  },
+  {
+    "name": "birthday cake",
+    "trans": [
+      "生日蛋糕"
+    ],
+    "usphone": "/'bɝθde/ /kek/",
+    "ukphone": "/'bɝθde/ /kek/"
+  },
+  {
+    "name": "a birthday cake",
+    "trans": [
+      "一个生日蛋糕"
+    ],
+    "usphone": "/ə/ /'bɝθde/ /kek/",
+    "ukphone": "/ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make a birthday cake",
+    "trans": [
+      "做一个生日蛋糕"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/",
+    "ukphone": "/tə/ /mek/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "we will",
+    "trans": [
+      "我们将会"
+    ],
+    "usphone": "/wi/ /wɪl/",
+    "ukphone": "/wi/ /wɪl/"
+  },
+  {
+    "name": "we will make a birthday cake",
+    "trans": [
+      "我们将会做一个生日蛋糕"
+    ],
+    "usphone": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/",
+    "ukphone": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "we will make her a birthday cake",
+    "trans": [
+      "我们将会做给她一个生日蛋糕"
+    ],
+    "usphone": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/",
+    "ukphone": "/wi/ /wɪl/ /mek/ /hɚ/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "for her",
+    "trans": [
+      "为她"
+    ],
+    "usphone": "/fɚ/ /hɚ/",
+    "ukphone": "/fɚ/ /hɚ/"
+  },
+  {
+    "name": "we will make a birthday cake for her",
+    "trans": [
+      "我们将会为她做一个生日蛋糕"
+    ],
+    "usphone": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+    "ukphone": "/wi/ /wɪl/ /mek/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+  },
+  {
+    "name": "making",
+    "trans": [
+      "做（ing形式）"
+    ],
+    "usphone": "/'mekɪŋ/",
+    "ukphone": "/'mekɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是;赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be making",
+    "trans": [
+      "正在做"
+    ],
+    "usphone": "/bi/ /'mekɪŋ/",
+    "ukphone": "/bi/ /'mekɪŋ/"
+  },
+  {
+    "name": "we are making",
+    "trans": [
+      "我们正在做"
+    ],
+    "usphone": "/wi/ /ɚ/ /'mekɪŋ/",
+    "ukphone": "/wi/ /ɚ/ /'mekɪŋ/"
+  },
+  {
+    "name": "a birthday cake",
+    "trans": [
+      "一个生日蛋糕"
+    ],
+    "usphone": "/ə/ /'bɝθde/ /kek/",
+    "ukphone": "/ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "we are making a birthday cake",
+    "trans": [
+      "我们正在做一个生日蛋糕"
+    ],
+    "usphone": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/",
+    "ukphone": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/"
+  },
+  {
+    "name": "for her",
+    "trans": [
+      "为她"
+    ],
+    "usphone": "/fɚ/ /hɚ/",
+    "ukphone": "/fɚ/ /hɚ/"
+  },
+  {
+    "name": "we are making a birthday cake for her",
+    "trans": [
+      "我们正在为她做一个生日蛋糕"
+    ],
+    "usphone": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/",
+    "ukphone": "/wi/ /ɚ/ /'mekɪŋ/ /ə/ /'bɝθde/ /kek/ /fɚ/ /hɚ/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "money",
+    "trans": [
+      "钱"
+    ],
+    "usphone": "/'mʌni/",
+    "ukphone": "/'mʌni/"
+  },
+  {
+    "name": "to make money",
+    "trans": [
+      "赚钱"
+    ],
+    "usphone": "/tə/ /mek/ /'mʌni/",
+    "ukphone": "/tə/ /mek/ /'mʌni/"
+  },
+  {
+    "name": "body",
+    "trans": [
+      "身体"
+    ],
+    "usphone": "/'bɑdi/",
+    "ukphone": "/'bɑdi/"
+  },
+  {
+    "name": "every",
+    "trans": [
+      "每一个"
+    ],
+    "usphone": "/'ɛvri/",
+    "ukphone": "/'ɛvri/"
+  },
+  {
+    "name": "everybody",
+    "trans": [
+      "每个人"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/",
+    "ukphone": "/'ɛvrɪbɑdi/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "everybody wants",
+    "trans": [
+      "每个人想要"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/ /wɑnts/",
+    "ukphone": "/'ɛvrɪbɑdi/ /wɑnts/"
+  },
+  {
+    "name": "everybody wants to make money",
+    "trans": [
+      "每个人想要赚钱"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/",
+    "ukphone": "/'ɛvrɪbɑdi/ /wɑnts/ /tə/ /mek/ /'mʌni/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "everybody needs to make money",
+    "trans": [
+      "每个人需要赚钱"
+    ],
+    "usphone": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/",
+    "ukphone": "/'ɛvrɪbɑdi/ /nidz/ /tə/ /mek/ /'mʌni/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "call",
+    "trans": [
+      "呼叫"
+    ],
+    "usphone": "/kɔl/",
+    "ukphone": "/kɔl/"
+  },
+  {
+    "name": "a call",
+    "trans": [
+      "一个呼叫"
+    ],
+    "usphone": "/ə/ /kɔl/",
+    "ukphone": "/ə/ /kɔl/"
+  },
+  {
+    "name": "to make a call",
+    "trans": [
+      "打一个电话"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /kɔl/",
+    "ukphone": "/tə/ /mek/ /ə/ /kɔl/"
+  },
+  {
+    "name": "video",
+    "trans": [
+      "视频"
+    ],
+    "usphone": "/'vɪdɪo/",
+    "ukphone": "/'vɪdɪo/"
+  },
+  {
+    "name": "to make a video call",
+    "trans": [
+      "打一个视频电话"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+    "ukphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛnd/",
+    "ukphone": "/frɛnd/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my friend",
+    "trans": [
+      "我的朋友"
+    ],
+    "usphone": "/maɪ/ /frɛnd/",
+    "ukphone": "/maɪ/ /frɛnd/"
+  },
+  {
+    "name": "best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/bɛst/",
+    "ukphone": "/bɛst/"
+  },
+  {
+    "name": "my best friend",
+    "trans": [
+      "我最好的朋友"
+    ],
+    "usphone": "/maɪ/ /bɛst/ /frɛnd/",
+    "ukphone": "/maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "name": "to make a video call",
+    "trans": [
+      "打一个视频电话"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+    "ukphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "name": "to make a video call to my best friend",
+    "trans": [
+      "打一个视频电话给我最好的朋友"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+    "ukphone": "/tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to make a video call",
+    "trans": [
+      "我想要打一个视频电话"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/"
+  },
+  {
+    "name": "I want to make a video call to my best friend",
+    "trans": [
+      "我想要打一个视频电话给我最好的朋友"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /kɔl/ /tə/ /maɪ/ /bɛst/ /frɛnd/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "a video",
+    "trans": [
+      "一个视频"
+    ],
+    "usphone": "/ə/ /'vɪdɪo/",
+    "ukphone": "/ə/ /'vɪdɪo/"
+  },
+  {
+    "name": "to make a video",
+    "trans": [
+      "做一个视频"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /'vɪdɪo/",
+    "ukphone": "/tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "name": "I want to make a video",
+    "trans": [
+      "我想要做一个视频"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "how to learn",
+    "trans": [
+      "如何学习"
+    ],
+    "usphone": "/haʊ/ /tə/ /lɝn/",
+    "ukphone": "/haʊ/ /tə/ /lɝn/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英语"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "how to learn English",
+    "trans": [
+      "如何学习英语"
+    ],
+    "usphone": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "about how to learn English",
+    "trans": [
+      "关于如何学习英语"
+    ],
+    "usphone": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "I want to make a video",
+    "trans": [
+      "我想要做一个视频"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/"
+  },
+  {
+    "name": "I want to make a video about how to learn English",
+    "trans": [
+      "我想要做一个关于如何学习英语的视频"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /mek/ /ə/ /'vɪdɪo/ /ə'baʊt/ /haʊ/ /tə/ /lɝn/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tə/ /tʃendʒ/",
+    "ukphone": "/tə/ /tʃendʒ/"
+  },
+  {
+    "name": "change",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "/tʃendʒ/",
+    "ukphone": "/tʃendʒ/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make a change",
+    "trans": [
+      "做改变"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /tʃendʒ/",
+    "ukphone": "/tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "to decide to make a change",
+    "trans": [
+      "决定做改变"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+    "ukphone": "/tə/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we decide to make a change",
+    "trans": [
+      "我们决定做改变"
+    ],
+    "usphone": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+    "ukphone": "/wi/ /dɪ'saɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "name": "we decided to make a change",
+    "trans": [
+      "我们（过去）决定做改变"
+    ],
+    "usphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/",
+    "ukphone": "/wi/ /dɪ'saɪdɪd/ /tə/ /mek/ /ə/ /tʃendʒ/"
+  },
+  {
+    "name": "to decide",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/tə/ /dɪ'saɪd/",
+    "ukphone": "/tə/ /dɪ'saɪd/"
+  },
+  {
+    "name": "decision",
+    "trans": [
+      "决定"
+    ],
+    "usphone": "/dɪ'sɪʒn/",
+    "ukphone": "/dɪ'sɪʒn/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make a decision",
+    "trans": [
+      "做决定"
+    ],
+    "usphone": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+    "ukphone": "/tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "we need",
+    "trans": [
+      "我们需要"
+    ],
+    "usphone": "/wi/ /nid/",
+    "ukphone": "/wi/ /nid/"
+  },
+  {
+    "name": "we need to make a decision",
+    "trans": [
+      "我们需要做决定"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/",
+    "ukphone": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "we need to make a decision now",
+    "trans": [
+      "我们现在需要做决定"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+    "ukphone": "/wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think we need to make a decision now",
+    "trans": [
+      "我认为我们现在需要做决定"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+    "ukphone": "/aɪ/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "I don't think we need to make a decision now",
+    "trans": [
+      "我不认为我们现在需要做决定"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /nid/ /tə/ /mek/ /ə/ /dɪ'sɪʒn/ /naʊ/"
+  },
+  {
+    "name": "friends",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frɛndz/",
+    "ukphone": "/frɛndz/"
+  },
+  {
+    "name": "to make",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /mek/",
+    "ukphone": "/tə/ /mek/"
+  },
+  {
+    "name": "to make friends",
+    "trans": [
+      "交朋友"
+    ],
+    "usphone": "/tə/ /mek/ /frɛndz/",
+    "ukphone": "/tə/ /mek/ /frɛndz/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "you can make friends",
+    "trans": [
+      "你可以交朋友"
+    ],
+    "usphone": "/ju/ /kæn/ /mek/ /frɛndz/",
+    "ukphone": "/ju/ /kæn/ /mek/ /frɛndz/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "them",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðəm/",
+    "ukphone": "/ðəm/"
+  },
+  {
+    "name": "with them",
+    "trans": [
+      "和他们"
+    ],
+    "usphone": "/wɪð/ /ðəm/",
+    "ukphone": "/wɪð/ /ðəm/"
+  },
+  {
+    "name": "you can make friends with them",
+    "trans": [
+      "你可以和他们交朋友"
+    ],
+    "usphone": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+    "ukphone": "/ju/ /kæn/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不可以"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "you can't make friends with them",
+    "trans": [
+      "你不可以和他们交朋友"
+    ],
+    "usphone": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/",
+    "ukphone": "/ju/ /kænt/ /mek/ /frɛndz/ /wɪð/ /ðəm/"
+  }
+]

@@ -1,0 +1,395 @@
+{
+  "id": "xingrong-zero",
+  "title": "星荣零基础学英语",
+  "description": "最适合零基础入门的课程",
+  "cover": "",
+  "isFree": true,
+  "category": "星荣英语",
+  "courses": [
+    {
+      "id": "xingrong_01",
+      "title": "第一",
+      "dictId": "xingrong_01",
+      "chapter": 0,
+      "order": 1
+    },
+    {
+      "id": "xingrong_02",
+      "title": "第二",
+      "dictId": "xingrong_02",
+      "chapter": 0,
+      "order": 2
+    },
+    {
+      "id": "xingrong_03",
+      "title": "第三",
+      "dictId": "xingrong_03",
+      "chapter": 0,
+      "order": 3
+    },
+    {
+      "id": "xingrong_04",
+      "title": "第四",
+      "dictId": "xingrong_04",
+      "chapter": 0,
+      "order": 4
+    },
+    {
+      "id": "xingrong_05",
+      "title": "第五",
+      "dictId": "xingrong_05",
+      "chapter": 0,
+      "order": 5
+    },
+    {
+      "id": "xingrong_06",
+      "title": "第六",
+      "dictId": "xingrong_06",
+      "chapter": 0,
+      "order": 6
+    },
+    {
+      "id": "xingrong_07",
+      "title": "第七",
+      "dictId": "xingrong_07",
+      "chapter": 0,
+      "order": 7
+    },
+    {
+      "id": "xingrong_08",
+      "title": "第八",
+      "dictId": "xingrong_08",
+      "chapter": 0,
+      "order": 8
+    },
+    {
+      "id": "xingrong_09",
+      "title": "第九",
+      "dictId": "xingrong_09",
+      "chapter": 0,
+      "order": 9
+    },
+    {
+      "id": "xingrong_10",
+      "title": "第十",
+      "dictId": "xingrong_10",
+      "chapter": 0,
+      "order": 10
+    },
+    {
+      "id": "xingrong_11",
+      "title": "第十一",
+      "dictId": "xingrong_11",
+      "chapter": 0,
+      "order": 11
+    },
+    {
+      "id": "xingrong_12",
+      "title": "第十二",
+      "dictId": "xingrong_12",
+      "chapter": 0,
+      "order": 12
+    },
+    {
+      "id": "xingrong_13",
+      "title": "第十三",
+      "dictId": "xingrong_13",
+      "chapter": 0,
+      "order": 13
+    },
+    {
+      "id": "xingrong_14",
+      "title": "第十四",
+      "dictId": "xingrong_14",
+      "chapter": 0,
+      "order": 14
+    },
+    {
+      "id": "xingrong_15",
+      "title": "第十五",
+      "dictId": "xingrong_15",
+      "chapter": 0,
+      "order": 15
+    },
+    {
+      "id": "xingrong_16",
+      "title": "第十六",
+      "dictId": "xingrong_16",
+      "chapter": 0,
+      "order": 16
+    },
+    {
+      "id": "xingrong_17",
+      "title": "第十七",
+      "dictId": "xingrong_17",
+      "chapter": 0,
+      "order": 17
+    },
+    {
+      "id": "xingrong_18",
+      "title": "第十八",
+      "dictId": "xingrong_18",
+      "chapter": 0,
+      "order": 18
+    },
+    {
+      "id": "xingrong_19",
+      "title": "第十九",
+      "dictId": "xingrong_19",
+      "chapter": 0,
+      "order": 19
+    },
+    {
+      "id": "xingrong_20",
+      "title": "第二十",
+      "dictId": "xingrong_20",
+      "chapter": 0,
+      "order": 20
+    },
+    {
+      "id": "xingrong_21",
+      "title": "第二十一",
+      "dictId": "xingrong_21",
+      "chapter": 0,
+      "order": 21
+    },
+    {
+      "id": "xingrong_22",
+      "title": "第二十二",
+      "dictId": "xingrong_22",
+      "chapter": 0,
+      "order": 22
+    },
+    {
+      "id": "xingrong_23",
+      "title": "第二十三",
+      "dictId": "xingrong_23",
+      "chapter": 0,
+      "order": 23
+    },
+    {
+      "id": "xingrong_24",
+      "title": "第二十四",
+      "dictId": "xingrong_24",
+      "chapter": 0,
+      "order": 24
+    },
+    {
+      "id": "xingrong_25",
+      "title": "第二十五",
+      "dictId": "xingrong_25",
+      "chapter": 0,
+      "order": 25
+    },
+    {
+      "id": "xingrong_26",
+      "title": "第二十六",
+      "dictId": "xingrong_26",
+      "chapter": 0,
+      "order": 26
+    },
+    {
+      "id": "xingrong_27",
+      "title": "第二十七",
+      "dictId": "xingrong_27",
+      "chapter": 0,
+      "order": 27
+    },
+    {
+      "id": "xingrong_28",
+      "title": "第二十八",
+      "dictId": "xingrong_28",
+      "chapter": 0,
+      "order": 28
+    },
+    {
+      "id": "xingrong_29",
+      "title": "第二十九",
+      "dictId": "xingrong_29",
+      "chapter": 0,
+      "order": 29
+    },
+    {
+      "id": "xingrong_30",
+      "title": "第三十",
+      "dictId": "xingrong_30",
+      "chapter": 0,
+      "order": 30
+    },
+    {
+      "id": "xingrong_31",
+      "title": "第三十一",
+      "dictId": "xingrong_31",
+      "chapter": 0,
+      "order": 31
+    },
+    {
+      "id": "xingrong_32",
+      "title": "第三十二",
+      "dictId": "xingrong_32",
+      "chapter": 0,
+      "order": 32
+    },
+    {
+      "id": "xingrong_33",
+      "title": "第三十三",
+      "dictId": "xingrong_33",
+      "chapter": 0,
+      "order": 33
+    },
+    {
+      "id": "xingrong_34",
+      "title": "第三十四",
+      "dictId": "xingrong_34",
+      "chapter": 0,
+      "order": 34
+    },
+    {
+      "id": "xingrong_35",
+      "title": "第三十五",
+      "dictId": "xingrong_35",
+      "chapter": 0,
+      "order": 35
+    },
+    {
+      "id": "xingrong_36",
+      "title": "第三十六",
+      "dictId": "xingrong_36",
+      "chapter": 0,
+      "order": 36
+    },
+    {
+      "id": "xingrong_37",
+      "title": "第三十七",
+      "dictId": "xingrong_37",
+      "chapter": 0,
+      "order": 37
+    },
+    {
+      "id": "xingrong_38",
+      "title": "第三十八",
+      "dictId": "xingrong_38",
+      "chapter": 0,
+      "order": 38
+    },
+    {
+      "id": "xingrong_39",
+      "title": "第三十九",
+      "dictId": "xingrong_39",
+      "chapter": 0,
+      "order": 39
+    },
+    {
+      "id": "xingrong_40",
+      "title": "第四十",
+      "dictId": "xingrong_40",
+      "chapter": 0,
+      "order": 40
+    },
+    {
+      "id": "xingrong_41",
+      "title": "第四十一",
+      "dictId": "xingrong_41",
+      "chapter": 0,
+      "order": 41
+    },
+    {
+      "id": "xingrong_42",
+      "title": "第四十二",
+      "dictId": "xingrong_42",
+      "chapter": 0,
+      "order": 42
+    },
+    {
+      "id": "xingrong_43",
+      "title": "第四十三",
+      "dictId": "xingrong_43",
+      "chapter": 0,
+      "order": 43
+    },
+    {
+      "id": "xingrong_44",
+      "title": "第四十四",
+      "dictId": "xingrong_44",
+      "chapter": 0,
+      "order": 44
+    },
+    {
+      "id": "xingrong_45",
+      "title": "第四十五",
+      "dictId": "xingrong_45",
+      "chapter": 0,
+      "order": 45
+    },
+    {
+      "id": "xingrong_46",
+      "title": "第四十六",
+      "dictId": "xingrong_46",
+      "chapter": 0,
+      "order": 46
+    },
+    {
+      "id": "xingrong_47",
+      "title": "第四十七",
+      "dictId": "xingrong_47",
+      "chapter": 0,
+      "order": 47
+    },
+    {
+      "id": "xingrong_48",
+      "title": "第四十八",
+      "dictId": "xingrong_48",
+      "chapter": 0,
+      "order": 48
+    },
+    {
+      "id": "xingrong_49",
+      "title": "第四十九",
+      "dictId": "xingrong_49",
+      "chapter": 0,
+      "order": 49
+    },
+    {
+      "id": "xingrong_50",
+      "title": "第五十",
+      "dictId": "xingrong_50",
+      "chapter": 0,
+      "order": 50
+    },
+    {
+      "id": "xingrong_51",
+      "title": "第五十一",
+      "dictId": "xingrong_51",
+      "chapter": 0,
+      "order": 51
+    },
+    {
+      "id": "xingrong_52",
+      "title": "第五十二",
+      "dictId": "xingrong_52",
+      "chapter": 0,
+      "order": 52
+    },
+    {
+      "id": "xingrong_53",
+      "title": "第五十三",
+      "dictId": "xingrong_53",
+      "chapter": 0,
+      "order": 53
+    },
+    {
+      "id": "xingrong_54",
+      "title": "第五十四",
+      "dictId": "xingrong_54",
+      "chapter": 0,
+      "order": 54
+    },
+    {
+      "id": "xingrong_55",
+      "title": "第五十五",
+      "dictId": "xingrong_55",
+      "chapter": 0,
+      "order": 55
+    }
+  ]
+}

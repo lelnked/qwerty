@@ -1,6 +1,8 @@
 import { infoPanelStateAtom, isOpenDarkModeAtom } from '@/store'
+import { db } from '@/utils/db'
+import { useLiveQuery } from 'dexie-react-hooks'
 import { useAtom, useSetAtom } from 'jotai'
-import { BarChart3, BookMarked, Bookmark, Coffee, Keyboard, Library, Link2, MessageSquare, Moon, Sun } from 'lucide-react'
+import { BarChart3, BookMarked, Bookmark, Coffee, GraduationCap, Keyboard, Library, Link2, MessageSquare, Moon, Sun } from 'lucide-react'
 import type React from 'react'
 import { useCallback } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
@@ -8,8 +10,16 @@ import IconXiaoHongShu from '~icons/my-icons/xiaohongshu'
 import IconGithub from '~icons/simple-icons/github'
 import IconWechat2 from '~icons/simple-icons/wechat'
 
-const menuItems = [
+type MenuItem = {
+  icon: typeof Keyboard
+  label: string
+  path: string
+  badge?: number
+}
+
+const baseMenuItems: MenuItem[] = [
   { icon: Keyboard, label: '单词练习', path: '/' },
+  { icon: GraduationCap, label: '我的课程包', path: '/course-pack' },
   { icon: Bookmark, label: '生词本', path: '/new-words' },
   { icon: Library, label: '词库选择', path: '/gallery' },
   { icon: BarChart3, label: '学习统计', path: '/analysis' },
@@ -22,6 +32,10 @@ const Sidebar: React.FC = () => {
   const navigate = useNavigate()
   const [darkMode, setDarkMode] = useAtom(isOpenDarkModeAtom)
   const setInfoPanelState = useSetAtom(infoPanelStateAtom)
+  const newWordsCount = useLiveQuery(() => db.newWords.count(), [], 0)
+  const menuItems: MenuItem[] = baseMenuItems.map((item) =>
+    item.path === '/new-words' ? { ...item, badge: newWordsCount } : item,
+  )
 
   const handleOpenInfoPanel = useCallback(
     (modalType: string) => {
@@ -67,6 +81,11 @@ const Sidebar: React.FC = () => {
                 >
                   <Icon size={20} strokeWidth={isActive ? 2.5 : 2} className={isActive ? 'text-indigo-500' : ''} />
                   <span className="text-[15px]">{item.label}</span>
+                  {typeof item.badge === 'number' && item.badge > 0 && (
+                    <span className="ml-auto rounded-full bg-indigo-100 px-2 py-0.5 text-[11px] font-bold text-indigo-600 dark:bg-indigo-500/20 dark:text-indigo-300">
+                      {item.badge}
+                    </span>
+                  )}
                 </button>
               </Link>
             )

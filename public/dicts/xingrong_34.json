@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am here",
+    "trans": [
+      "我在这里"
+    ],
+    "usphone": "/aɪ/ /æm/ /hɪr/",
+    "ukphone": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I am here",
+    "trans": [
+      "我在这里"
+    ],
+    "usphone": "/aɪ/ /æm/ /hɪr/",
+    "ukphone": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "I want to be here",
+    "trans": [
+      "我想要在这里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "I don't want to be here",
+    "trans": [
+      "我不想在这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "I don't want to be there",
+    "trans": [
+      "我不想去那里"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "I want to be there",
+    "trans": [
+      "我想要去那里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "I don't want to be here I want to be there",
+    "trans": [
+      "我不想在这里我想要去那里"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /bi/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "I am here",
+    "trans": [
+      "我在这里"
+    ],
+    "usphone": "/aɪ/ /æm/ /hɪr/",
+    "ukphone": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I am here",
+    "trans": [
+      "当我在这里的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /æm/ /hɪr/",
+    "ukphone": "/wɛn/ /aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "I want to be there",
+    "trans": [
+      "我想要去那里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "when I am here I want to be there",
+    "trans": [
+      "当我在这里的时候，我想要去那里"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/wɛn/ /aɪ/ /æm/ /hɪr/ /aɪ/ /wɑnt/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "when I was here I wanted to be there",
+    "trans": [
+      "当我(过去)在这里的时候，我(过去)想要去那里"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /aɪ/ /wɑntɪd/ /tə/ /bi/ /ðɛr/"
+  },
+  {
+    "name": "teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/'titʃɚ/",
+    "ukphone": "/'titʃɚ/"
+  },
+  {
+    "name": "I am a teacher",
+    "trans": [
+      "我是一名老师"
+    ],
+    "usphone": "/aɪ/ /æm/ /ə/ /'titʃɚ/",
+    "ukphone": "/aɪ/ /æm/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want to be a teacher",
+    "trans": [
+      "我想要成为一名老师"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /ə/ /'titʃɚ/"
+  },
+  {
+    "name": "rich",
+    "trans": [
+      "富有的"
+    ],
+    "usphone": "/rɪtʃ/",
+    "ukphone": "/rɪtʃ/"
+  },
+  {
+    "name": "I am rich",
+    "trans": [
+      "我是富有的"
+    ],
+    "usphone": "/aɪ/ /æm/ /rɪtʃ/",
+    "ukphone": "/aɪ/ /æm/ /rɪtʃ/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want to be rich",
+    "trans": [
+      "我想要变得富有"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /bi/ /rɪtʃ/"
+  },
+  {
+    "name": "I am here",
+    "trans": [
+      "我在这里"
+    ],
+    "usphone": "/aɪ/ /æm/ /hɪr/",
+    "ukphone": "/aɪ/ /æm/ /hɪr/"
+  },
+  {
+    "name": "I was here",
+    "trans": [
+      "我(过去)在这里"
+    ],
+    "usphone": "/aɪ/ /wəz/ /hɪr/",
+    "ukphone": "/aɪ/ /wəz/ /hɪr/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when I was here",
+    "trans": [
+      "当我(过去)在这里的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前；以前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "when I was here before",
+    "trans": [
+      "当我以前在这里的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "name": "to notice",
+    "trans": [
+      "注意到；察觉到"
+    ],
+    "usphone": "/tə/ /ˈnotɪs/",
+    "ukphone": "/tə/ /ˈnotɪs/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I notice",
+    "trans": [
+      "我注意到"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪs/",
+    "ukphone": "/aɪ/ /ˈnotɪs/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "I notice that",
+    "trans": [
+      "我注意到那个"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪs/ /ðæt/",
+    "ukphone": "/aɪ/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "name": "I noticed that",
+    "trans": [
+      "我(过去)注意到那个"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/ /ðæt/",
+    "ukphone": "/aɪ/ /ˈnotɪst/ /ðæt/"
+  },
+  {
+    "name": "I didn't notice that",
+    "trans": [
+      "我(过去)没有注意到那个"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/"
+  },
+  {
+    "name": "when I was here before",
+    "trans": [
+      "当我以前在这里的时候"
+    ],
+    "usphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+    "ukphone": "/wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "name": "I didn't notice that when I was here before",
+    "trans": [
+      "我(过去)没有注意那个当我以前在这里的时候"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /ˈnotɪs/ /ðæt/ /wɛn/ /aɪ/ /wəz/ /hɪr/ /bɪ'fɔr/"
+  },
+  {
+    "name": "I noticed",
+    "trans": [
+      "我(过去)注意到"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/",
+    "ukphone": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某个东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "wrong",
+    "trans": [
+      "错误的"
+    ],
+    "usphone": "/rɔŋ/",
+    "ukphone": "/rɔŋ/"
+  },
+  {
+    "name": "something wrong",
+    "trans": [
+      "错误的某个东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /rɔŋ/",
+    "ukphone": "/'sʌmθɪŋ/ /rɔŋ/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "something wrong is there",
+    "trans": [
+      "错误的某个东西在那里"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/",
+    "ukphone": "/'sʌmθɪŋ/ /rɔŋ/ /ɪz/ /ðɛr/"
+  },
+  {
+    "name": "there is",
+    "trans": [
+      "存在"
+    ],
+    "usphone": "/ðɛr/ /ɪz/",
+    "ukphone": "/ðɛr/ /ɪz/"
+  },
+  {
+    "name": "there is something wrong",
+    "trans": [
+      "存在错误的某个东西"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/",
+    "ukphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "there is something wrong here",
+    "trans": [
+      "这里有错误的某个东西"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+    "ukphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "name": "there was something wrong here",
+    "trans": [
+      "这里(过去)有错误的某个东西"
+    ],
+    "usphone": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+    "ukphone": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "name": "I noticed",
+    "trans": [
+      "我(过去)注意到"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/",
+    "ukphone": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "name": "I noticed there was something wrong here",
+    "trans": [
+      "我(过去)注意到这里(过去)有错误的某个东西"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+    "ukphone": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "I noticed that there was something wrong here",
+    "trans": [
+      "我(过去)注意到(那个)这里(过去)有错误的某个东西"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/",
+    "ukphone": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /rɔŋ/ /hɪr/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某个东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "something different",
+    "trans": [
+      "不同的某个东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /'dɪfrənt/",
+    "ukphone": "/'sʌmθɪŋ/ /'dɪfrənt/"
+  },
+  {
+    "name": "there is something different",
+    "trans": [
+      "存在不同的某个东西"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/",
+    "ukphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "there is something different here",
+    "trans": [
+      "这里有不同的某个东西"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+    "ukphone": "/ðɛr/ /ɪz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "name": "there was something different here",
+    "trans": [
+      "这里(过去)有不同的某个东西"
+    ],
+    "usphone": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+    "ukphone": "/ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "name": "I noticed",
+    "trans": [
+      "我(过去)注意到"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/",
+    "ukphone": "/aɪ/ /ˈnotɪst/"
+  },
+  {
+    "name": "I noticed there was something different here",
+    "trans": [
+      "我(过去)注意到这里(过去)存在不同的某个东西"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+    "ukphone": "/aɪ/ /ˈnotɪst/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那个"
+    ],
+    "usphone": "/ðæt/",
+    "ukphone": "/ðæt/"
+  },
+  {
+    "name": "I noticed that there was something different here",
+    "trans": [
+      "我(过去)注意到(那个)这里(过去)存在不同的某个东西"
+    ],
+    "usphone": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/",
+    "ukphone": "/aɪ/ /ˈnotɪst/ /ðæt/ /ðɛr/ /wəz/ /'sʌmθɪŋ/ /'dɪfrənt/ /hɪr/"
+  },
+  {
+    "name": "different",
+    "trans": [
+      "不同的"
+    ],
+    "usphone": "/'dɪfrənt/",
+    "ukphone": "/'dɪfrənt/"
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "不同之处"
+    ],
+    "usphone": "/'dɪfrəns/",
+    "ukphone": "/'dɪfrəns/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "和"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "you and me",
+    "trans": [
+      "你和我"
+    ],
+    "usphone": "/ju/ /ənd/ /mi/",
+    "ukphone": "/ju/ /ənd/ /mi/"
+  },
+  {
+    "name": "between you and me",
+    "trans": [
+      "在你和我之间"
+    ],
+    "usphone": "/bɪ'twin/ /ju/ /ənd/ /mi/",
+    "ukphone": "/bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "name": "difference between you and me",
+    "trans": [
+      "在你和我之间的不同"
+    ],
+    "usphone": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+    "ukphone": "/'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ],
+    "usphone": "/bɪɡ/",
+    "ukphone": "/bɪɡ/"
+  },
+  {
+    "name": "a big difference",
+    "trans": [
+      "一个大的不同"
+    ],
+    "usphone": "/ə/ /bɪɡ/ /'dɪfrəns/",
+    "ukphone": "/ə/ /bɪɡ/ /'dɪfrəns/"
+  },
+  {
+    "name": "a big difference between you and me",
+    "trans": [
+      "在你和我之间的一个大的不同"
+    ],
+    "usphone": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+    "ukphone": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "a big difference between you and me is there",
+    "trans": [
+      "在你和我之间的一个大的不同在那里"
+    ],
+    "usphone": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/",
+    "ukphone": "/ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/ /ɪz/ /ðɛr/"
+  },
+  {
+    "name": "there is",
+    "trans": [
+      "存在"
+    ],
+    "usphone": "/ðɛr/ /ɪz/",
+    "ukphone": "/ðɛr/ /ɪz/"
+  },
+  {
+    "name": "there is a big difference between you and me",
+    "trans": [
+      "存在在你和我之间的一个大的不同"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ju/ /ənd/ /mi/"
+  },
+  {
+    "name": "weapon",
+    "trans": [
+      "武器"
+    ],
+    "usphone": "/ˈwɛpən/",
+    "ukphone": "/ˈwɛpən/"
+  },
+  {
+    "name": "tool",
+    "trans": [
+      "工具"
+    ],
+    "usphone": "/tul/",
+    "ukphone": "/tul/"
+  },
+  {
+    "name": "a weapon and a tool",
+    "trans": [
+      "一个武器和一个工具"
+    ],
+    "usphone": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+    "ukphone": "/ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between a weapon and a tool",
+    "trans": [
+      "在一个武器和一个工具之间"
+    ],
+    "usphone": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+    "ukphone": "/bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "name": "there is a big difference",
+    "trans": [
+      "存在一个大的不同"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/"
+  },
+  {
+    "name": "there is a big difference between a weapon and a tool",
+    "trans": [
+      "存在在一个武器和一个工具之间的一个大的不同"
+    ],
+    "usphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/",
+    "ukphone": "/ðɛr/ /ɪz/ /ə/ /bɪɡ/ /'dɪfrəns/ /bɪ'twin/ /ə/ /ˈwɛpən/ /ənd/ /ə/ /tul/"
+  },
+  {
+    "name": "right",
+    "trans": [
+      "正确"
+    ],
+    "usphone": "/raɪt/",
+    "ukphone": "/raɪt/"
+  },
+  {
+    "name": "wrong",
+    "trans": [
+      "错误"
+    ],
+    "usphone": "/rɔŋ/",
+    "ukphone": "/rɔŋ/"
+  },
+  {
+    "name": "right and wrong",
+    "trans": [
+      "正确和错误"
+    ],
+    "usphone": "/raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between right and wrong",
+    "trans": [
+      "在对和错之间"
+    ],
+    "usphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "difference",
+    "trans": [
+      "不同之处"
+    ],
+    "usphone": "/'dɪfrəns/",
+    "ukphone": "/'dɪfrəns/"
+  },
+  {
+    "name": "the difference",
+    "trans": [
+      "那个不同之处(区别)"
+    ],
+    "usphone": "/ðə/ /'dɪfrəns/",
+    "ukphone": "/ðə/ /'dɪfrəns/"
+  },
+  {
+    "name": "the difference between right and wrong",
+    "trans": [
+      "在对和错之间的区别"
+    ],
+    "usphone": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know the difference between right and wrong",
+    "trans": [
+      "知道对与错的区别"
+    ],
+    "usphone": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we know",
+    "trans": [
+      "我们知道"
+    ],
+    "usphone": "/wi/ /no/",
+    "ukphone": "/wi/ /no/"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "所有；全部"
+    ],
+    "usphone": "/ɔl/",
+    "ukphone": "/ɔl/"
+  },
+  {
+    "name": "we all know",
+    "trans": [
+      "我们都知道"
+    ],
+    "usphone": "/wi/ /ɔl/ /no/",
+    "ukphone": "/wi/ /ɔl/ /no/"
+  },
+  {
+    "name": "we all know the difference between right and wrong",
+    "trans": [
+      "我们都知道对与错的区别"
+    ],
+    "usphone": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/wi/ /ɔl/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "you have to know",
+    "trans": [
+      "你必须知道"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /no/",
+    "ukphone": "/ju/ /hæv/ /tə/ /no/"
+  },
+  {
+    "name": "you have to know the difference between right and wrong",
+    "trans": [
+      "你必须知道对与错的区别"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /no/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "the difference",
+    "trans": [
+      "区别"
+    ],
+    "usphone": "/ðə/ /'dɪfrəns/",
+    "ukphone": "/ðə/ /'dɪfrəns/"
+  },
+  {
+    "name": "to tell the difference",
+    "trans": [
+      "分辨区别"
+    ],
+    "usphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+    "ukphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "right and wrong",
+    "trans": [
+      "正确和错误"
+    ],
+    "usphone": "/raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "between right and wrong",
+    "trans": [
+      "在对和错之间"
+    ],
+    "usphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "the difference between right and wrong",
+    "trans": [
+      "对与错的区别"
+    ],
+    "usphone": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "to tell the difference between right and wrong",
+    "trans": [
+      "分辨是非"
+    ],
+    "usphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "old",
+    "trans": [
+      "年龄大的；老的"
+    ],
+    "usphone": "/old/",
+    "ukphone": "/old/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "old enough",
+    "trans": [
+      "足够年龄大"
+    ],
+    "usphone": "/old/ /ɪ'nʌf/",
+    "ukphone": "/old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are old enough",
+    "trans": [
+      "你是足够年龄大的"
+    ],
+    "usphone": "/ju/ /ɚ/ /old/ /ɪ'nʌf/",
+    "ukphone": "/ju/ /ɚ/ /old/ /ɪ'nʌf/"
+  },
+  {
+    "name": "you are old enough to tell the difference between right and wrong",
+    "trans": [
+      "你是年龄大的足够分辨是非"
+    ],
+    "usphone": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/ju/ /ɚ/ /old/ /ɪ'nʌf/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "child",
+    "trans": [
+      "孩子"
+    ],
+    "usphone": "/tʃaɪld/",
+    "ukphone": "/tʃaɪld/"
+  },
+  {
+    "name": "children",
+    "trans": [
+      "孩子们"
+    ],
+    "usphone": "/'tʃɪldrən/",
+    "ukphone": "/'tʃɪldrən/"
+  },
+  {
+    "name": "our",
+    "trans": [
+      "我们的"
+    ],
+    "usphone": "/'aʊɚ/",
+    "ukphone": "/'aʊɚ/"
+  },
+  {
+    "name": "our children",
+    "trans": [
+      "我们的孩子们"
+    ],
+    "usphone": "/'aʊɚ/ /'tʃɪldrən/",
+    "ukphone": "/'aʊɚ/ /'tʃɪldrən/"
+  },
+  {
+    "name": "to teach",
+    "trans": [
+      "教"
+    ],
+    "usphone": "/tə/ /titʃ/",
+    "ukphone": "/tə/ /titʃ/"
+  },
+  {
+    "name": "we need",
+    "trans": [
+      "我们需要"
+    ],
+    "usphone": "/wi/ /nid/",
+    "ukphone": "/wi/ /nid/"
+  },
+  {
+    "name": "we need to teach",
+    "trans": [
+      "我们需要教"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /titʃ/",
+    "ukphone": "/wi/ /nid/ /tə/ /titʃ/"
+  },
+  {
+    "name": "we need to teach our children",
+    "trans": [
+      "我们需要教我们的孩子们"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/",
+    "ukphone": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/"
+  },
+  {
+    "name": "to tell the difference",
+    "trans": [
+      "分辨区别"
+    ],
+    "usphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/",
+    "ukphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/"
+  },
+  {
+    "name": "between right and wrong",
+    "trans": [
+      "在对和错之间"
+    ],
+    "usphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "to tell the difference between right and wrong",
+    "trans": [
+      "辨别是非"
+    ],
+    "usphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to tell the difference between right and wrong",
+    "trans": [
+      "如何辨别是非"
+    ],
+    "usphone": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  },
+  {
+    "name": "we need to teach our children how to tell the difference between right and wrong",
+    "trans": [
+      "我们需要教我们的孩子们如何辨别是非"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/",
+    "ukphone": "/wi/ /nid/ /tə/ /titʃ/ /'aʊɚ/ /'tʃɪldrən/ /haʊ/ /tə/ /tɛl/ /ðə/ /'dɪfrəns/ /bɪ'twin/ /raɪt/ /ənd/ /rɔŋ/"
+  }
+]

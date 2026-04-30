@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "famous",
+    "trans": [
+      "有名的"
+    ],
+    "usphone": "/'feməs/",
+    "ukphone": "/'feməs/"
+  },
+  {
+    "name": "he is famous",
+    "trans": [
+      "他是有名的"
+    ],
+    "usphone": "/hi/ /ɪz/ /'feməs/",
+    "ukphone": "/hi/ /ɪz/ /'feməs/"
+  },
+  {
+    "name": "more",
+    "trans": [
+      "更"
+    ],
+    "usphone": "/mɔr/",
+    "ukphone": "/mɔr/"
+  },
+  {
+    "name": "more famous",
+    "trans": [
+      "更有名的"
+    ],
+    "usphone": "/mɔr/ /'feməs/",
+    "ukphone": "/mɔr/ /'feməs/"
+  },
+  {
+    "name": "he is more famous",
+    "trans": [
+      "他是更有名的"
+    ],
+    "usphone": "/hi/ /ɪz/ /mɔr/ /'feməs/",
+    "ukphone": "/hi/ /ɪz/ /mɔr/ /'feməs/"
+  },
+  {
+    "name": "than me",
+    "trans": [
+      "比我"
+    ],
+    "usphone": "/ðæn/ /mi/",
+    "ukphone": "/ðæn/ /mi/"
+  },
+  {
+    "name": "he is more famous than me",
+    "trans": [
+      "他是比我更有名的"
+    ],
+    "usphone": "/hi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /mi/",
+    "ukphone": "/hi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /mi/"
+  },
+  {
+    "name": "nobody",
+    "trans": [
+      "没有人"
+    ],
+    "usphone": "/ˈnobɑdi/",
+    "ukphone": "/ˈnobɑdi/"
+  },
+  {
+    "name": "Michael Jackson",
+    "trans": [
+      "迈克尔杰克逊"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/"
+  },
+  {
+    "name": "nobody is more famous than Michael Jackson",
+    "trans": [
+      "没有人比迈克尔杰克逊是更有名的"
+    ],
+    "usphone": "/ˈnobɑdi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /ˈmaɪkəl/ /ˈdʒæksən/",
+    "ukphone": "/ˈnobɑdi/ /ɪz/ /mɔr/ /'feməs/ /ðæn/ /ˈmaɪkəl/ /ˈdʒæksən/"
+  },
+  {
+    "name": "the most",
+    "trans": [
+      "最"
+    ],
+    "usphone": "/ðə/ /most/",
+    "ukphone": "/ðə/ /most/"
+  },
+  {
+    "name": "the most famous",
+    "trans": [
+      "最有名的"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/",
+    "ukphone": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "Michael Jackson is the most famous",
+    "trans": [
+      "迈克尔杰克逊是最有名的"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "to sing",
+    "trans": [
+      "唱歌"
+    ],
+    "usphone": "/tə/ /sɪŋ/",
+    "ukphone": "/tə/ /sɪŋ/"
+  },
+  {
+    "name": "singer",
+    "trans": [
+      "歌手"
+    ],
+    "usphone": "/'sɪŋɚ/",
+    "ukphone": "/'sɪŋɚ/"
+  },
+  {
+    "name": "the most famous singer",
+    "trans": [
+      "最有名的歌手"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /'sɪŋɚ/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /'sɪŋɚ/"
+  },
+  {
+    "name": "Michael Jackson is the most famous singer",
+    "trans": [
+      "迈克尔杰克逊是最有名的歌手"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "Michael Jackson is the most famous singer in the world",
+    "trans": [
+      "迈克尔杰克逊是在世界上最有名的歌手"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /ɪz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "Michael Jackson was the most famous singer in the world",
+    "trans": [
+      "迈克尔杰克逊（过去）是在世界上最有名的歌手"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /ðə/ /most/ /'feməs/ /'sɪŋɚ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "singer",
+    "trans": [
+      "歌手"
+    ],
+    "usphone": "/'sɪŋɚ/",
+    "ukphone": "/'sɪŋɚ/"
+  },
+  {
+    "name": "two singers",
+    "trans": [
+      "两个歌手"
+    ],
+    "usphone": "/tu/ /'sɪŋɚz/",
+    "ukphone": "/tu/ /'sɪŋɚz/"
+  },
+  {
+    "name": "one",
+    "trans": [
+      "一个"
+    ],
+    "usphone": "/wʌn/",
+    "ukphone": "/wʌn/"
+  },
+  {
+    "name": "one of two singers",
+    "trans": [
+      "两个歌手之一"
+    ],
+    "usphone": "/wʌn/ /əv/ /tu/ /'sɪŋɚz/",
+    "ukphone": "/wʌn/ /əv/ /tu/ /'sɪŋɚz/"
+  },
+  {
+    "name": "the most famous singers",
+    "trans": [
+      "最有名的歌手们"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /'sɪŋɚz/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /'sɪŋɚz/"
+  },
+  {
+    "name": "one of the most famous singers",
+    "trans": [
+      "最有名的歌手们之一"
+    ],
+    "usphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/",
+    "ukphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/"
+  },
+  {
+    "name": "Michael Jackson was one of the most famous singers in the world",
+    "trans": [
+      "迈克尔杰克逊（过去）是在世界上最有名的歌手之一"
+    ],
+    "usphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ˈmaɪkəl/ /ˈdʒæksən/ /wəz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'sɪŋɚz/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "the most famous",
+    "trans": [
+      "最有名的"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/",
+    "ukphone": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "to paint",
+    "trans": [
+      "作画"
+    ],
+    "usphone": "/tə/ /pent/",
+    "ukphone": "/tə/ /pent/"
+  },
+  {
+    "name": "painting",
+    "trans": [
+      "画"
+    ],
+    "usphone": "/'pentɪŋ/",
+    "ukphone": "/'pentɪŋ/"
+  },
+  {
+    "name": "the most famous painting",
+    "trans": [
+      "最有名的画"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /'pentɪŋ/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /'pentɪŋ/"
+  },
+  {
+    "name": "The Mona Lisa",
+    "trans": [
+      "蒙娜丽莎"
+    ],
+    "usphone": "/ðə/ /'monə/ /ˈlisə/",
+    "ukphone": "/ðə/ /'monə/ /ˈlisə/"
+  },
+  {
+    "name": "The Mona Lisa is the most famous painting",
+    "trans": [
+      "蒙娜丽莎是最有名的画"
+    ],
+    "usphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/",
+    "ukphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "The Mona Lisa is the most famous painting in the world",
+    "trans": [
+      "蒙娜丽莎是世界上最有名的画"
+    ],
+    "usphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /ðə/ /most/ /'feməs/ /'pentɪŋ/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "painting",
+    "trans": [
+      "画"
+    ],
+    "usphone": "/'pentɪŋ/",
+    "ukphone": "/'pentɪŋ/"
+  },
+  {
+    "name": "paintings",
+    "trans": [
+      "画（复数）"
+    ],
+    "usphone": "/'pentɪŋz/",
+    "ukphone": "/'pentɪŋz/"
+  },
+  {
+    "name": "the most famous paintings",
+    "trans": [
+      "最有名的画（复数）"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /'pentɪŋz/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /'pentɪŋz/"
+  },
+  {
+    "name": "one of the most famous paintings",
+    "trans": [
+      "最有名的画（复数）之一"
+    ],
+    "usphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/",
+    "ukphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/"
+  },
+  {
+    "name": "The Mona Lisa",
+    "trans": [
+      "蒙娜丽莎"
+    ],
+    "usphone": "/ðə/ /'monə/ /ˈlisə/",
+    "ukphone": "/ðə/ /'monə/ /ˈlisə/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "The Mona Lisa is one of the most famous paintings in the world",
+    "trans": [
+      "蒙娜丽莎是世界上最有名的画之一"
+    ],
+    "usphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/ /in the world/",
+    "ukphone": "/ðə/ /'monə/ /ˈlisə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /'pentɪŋz/ /in the world/"
+  },
+  {
+    "name": "land",
+    "trans": [
+      "地"
+    ],
+    "usphone": "/lænd/",
+    "ukphone": "/lænd/"
+  },
+  {
+    "name": "mark",
+    "trans": [
+      "标志"
+    ],
+    "usphone": "/mɑrk/",
+    "ukphone": "/mɑrk/"
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "地标"
+    ],
+    "usphone": "/ˈlændmɑrk/",
+    "ukphone": "/ˈlændmɑrk/"
+  },
+  {
+    "name": "the most famous",
+    "trans": [
+      "最有名的"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/",
+    "ukphone": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "the most famous landmark",
+    "trans": [
+      "最有名的地标"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "tower",
+    "trans": [
+      "塔"
+    ],
+    "usphone": "/'taʊɚ/",
+    "ukphone": "/'taʊɚ/"
+  },
+  {
+    "name": "The Eiffel Tower",
+    "trans": [
+      "埃菲尔铁塔"
+    ],
+    "usphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/",
+    "ukphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/"
+  },
+  {
+    "name": "The Eiffel Tower is the most famous landmark",
+    "trans": [
+      "埃菲尔铁塔是最有名的地标"
+    ],
+    "usphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "Paris",
+    "trans": [
+      "巴黎"
+    ],
+    "usphone": "/ˈpærɪs/",
+    "ukphone": "/ˈpærɪs/"
+  },
+  {
+    "name": "in Paris",
+    "trans": [
+      "在巴黎"
+    ],
+    "usphone": "/ɪn/ /ˈpærɪs/",
+    "ukphone": "/ɪn/ /ˈpærɪs/"
+  },
+  {
+    "name": "The Eiffel Tower is the most famous landmark in Paris",
+    "trans": [
+      "埃菲尔铁塔是巴黎最有名的地标"
+    ],
+    "usphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ˈpærɪs/",
+    "ukphone": "/ði/ /ˈaɪfəl/ /'taʊɚ/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ˈpærɪs/"
+  },
+  {
+    "name": "the most famous",
+    "trans": [
+      "最有名的"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/",
+    "ukphone": "/ðə/ /most/ /'feməs/"
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "地标"
+    ],
+    "usphone": "/ˈlændmɑrk/",
+    "ukphone": "/ˈlændmɑrk/"
+  },
+  {
+    "name": "the most famous landmark",
+    "trans": [
+      "最有名的地标"
+    ],
+    "usphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "wall",
+    "trans": [
+      "墙"
+    ],
+    "usphone": "/wɔl/",
+    "ukphone": "/wɔl/"
+  },
+  {
+    "name": "great",
+    "trans": [
+      "伟大的"
+    ],
+    "usphone": "/ɡret/",
+    "ukphone": "/ɡret/"
+  },
+  {
+    "name": "The Great Wall",
+    "trans": [
+      "长城"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/"
+  },
+  {
+    "name": "China",
+    "trans": [
+      "中国"
+    ],
+    "usphone": "/ˈtʃaɪnə/",
+    "ukphone": "/ˈtʃaɪnə/"
+  },
+  {
+    "name": "The Great Wall of China",
+    "trans": [
+      "中国的长城"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/"
+  },
+  {
+    "name": "The Great Wall of China is the most famous landmark",
+    "trans": [
+      "中国的长城是最有名的地标"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/"
+  },
+  {
+    "name": "in the world",
+    "trans": [
+      "在世界上"
+    ],
+    "usphone": "/ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "The Great Wall of China is the most famous landmark in the world",
+    "trans": [
+      "中国的长城是世界上最有名的地标"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /ðə/ /most/ /'feməs/ /ˈlændmɑrk/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "landmark",
+    "trans": [
+      "地标"
+    ],
+    "usphone": "/ˈlændmɑrk/",
+    "ukphone": "/ˈlændmɑrk/"
+  },
+  {
+    "name": "landmarks",
+    "trans": [
+      "地标（复数）"
+    ],
+    "usphone": "/ˈlændmɑrks/",
+    "ukphone": "/ˈlændmɑrks/"
+  },
+  {
+    "name": "one of the most famous landmarks",
+    "trans": [
+      "最有名的地标之一"
+    ],
+    "usphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/",
+    "ukphone": "/wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/"
+  },
+  {
+    "name": "The Great Wall of China is one of the most famous landmarks in the world",
+    "trans": [
+      "中国的长城是世界上最有名的地标之一"
+    ],
+    "usphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/ /ɪn/ /ðə/ /wɝld/",
+    "ukphone": "/ðə/ /ɡret/ /wɔl/ /əv/ /ˈtʃaɪnə/ /ɪz/ /wʌn/ /əv/ /ðə/ /most/ /'feməs/ /ˈlændmɑrks/ /ɪn/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "better",
+    "trans": [
+      "更好的"
+    ],
+    "usphone": "/ˈbɛtɚ/",
+    "ukphone": "/ˈbɛtɚ/"
+  },
+  {
+    "name": "Chinese",
+    "trans": [
+      "中文"
+    ],
+    "usphone": "/tʃaɪˈniz/",
+    "ukphone": "/tʃaɪˈniz/"
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的"
+    ],
+    "usphone": "/jʊr/",
+    "ukphone": "/jʊr/"
+  },
+  {
+    "name": "your Chinese",
+    "trans": [
+      "你的中文"
+    ],
+    "usphone": "/jʊr/ /tʃaɪˈniz/",
+    "ukphone": "/jʊr/ /tʃaɪˈniz/"
+  },
+  {
+    "name": "English",
+    "trans": [
+      "英文"
+    ],
+    "usphone": "/ˈɪŋɡlɪʃ/",
+    "ukphone": "/ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my English",
+    "trans": [
+      "我的英文"
+    ],
+    "usphone": "/maɪ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/maɪ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "Your Chinese is better than my English",
+    "trans": [
+      "你的中文比我的英文是更好的"
+    ],
+    "usphone": "/jʊr/ /tʃaɪˈniz/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /maɪ/ /ˈɪŋɡlɪʃ/",
+    "ukphone": "/jʊr/ /tʃaɪˈniz/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /maɪ/ /ˈɪŋɡlɪʃ/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "done",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/dʌn/",
+    "ukphone": "/dʌn/"
+  },
+  {
+    "name": "done is better",
+    "trans": [
+      "完成是更好的"
+    ],
+    "usphone": "/dʌn/ /ɪz/ /ˈbɛtɚ/",
+    "ukphone": "/dʌn/ /ɪz/ /ˈbɛtɚ/"
+  },
+  {
+    "name": "perfect",
+    "trans": [
+      "完美的"
+    ],
+    "usphone": "/'pɝfɪkt/",
+    "ukphone": "/'pɝfɪkt/"
+  },
+  {
+    "name": "than",
+    "trans": [
+      "比"
+    ],
+    "usphone": "/ðæn/",
+    "ukphone": "/ðæn/"
+  },
+  {
+    "name": "done is better than perfect",
+    "trans": [
+      "完成比完美是更好的"
+    ],
+    "usphone": "/dʌn/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'pɝfɪkt/",
+    "ukphone": "/dʌn/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'pɝfɪkt/"
+  },
+  {
+    "name": "summer",
+    "trans": [
+      "夏天"
+    ],
+    "usphone": "/'sʌmɚ/",
+    "ukphone": "/'sʌmɚ/"
+  },
+  {
+    "name": "winter",
+    "trans": [
+      "冬天"
+    ],
+    "usphone": "/'wɪntɚ/",
+    "ukphone": "/'wɪntɚ/"
+  },
+  {
+    "name": "summer is better than winter",
+    "trans": [
+      "夏天比冬天是更好的"
+    ],
+    "usphone": "/'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/",
+    "ukphone": "/'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think summer is better than winter",
+    "trans": [
+      "我认为夏天比冬天是更好的"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/",
+    "ukphone": "/aɪ/ /θɪŋk/ /'sʌmɚ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'wɪntɚ/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某个东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "没有东西"
+    ],
+    "usphone": "/'nʌθɪŋ/",
+    "ukphone": "/'nʌθɪŋ/"
+  },
+  {
+    "name": "something is better than nothing",
+    "trans": [
+      "某个东西比没有东西是更好的"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'nʌθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/ /ɪz/ /ˈbɛtɚ/ /ðæn/ /'nʌθɪŋ/"
+  },
+  {
+    "name": "better",
+    "trans": [
+      "更好的"
+    ],
+    "usphone": "/ˈbɛtɚ/",
+    "ukphone": "/ˈbɛtɚ/"
+  },
+  {
+    "name": "the best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/ðə/ /bɛst/",
+    "ukphone": "/ðə/ /bɛst/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are the best",
+    "trans": [
+      "你是最好的"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /bɛst/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /bɛst/"
+  },
+  {
+    "name": "person",
+    "trans": [
+      "人"
+    ],
+    "usphone": "/'pɝsn/",
+    "ukphone": "/'pɝsn/"
+  },
+  {
+    "name": "you are the best person",
+    "trans": [
+      "你是最好的人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "认识"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我认识"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "the best person",
+    "trans": [
+      "最好的人"
+    ],
+    "usphone": "/ðə/ /bɛst/ /'pɝsn/",
+    "ukphone": "/ðə/ /bɛst/ /'pɝsn/"
+  },
+  {
+    "name": "the best person I know",
+    "trans": [
+      "我认识的最好的人"
+    ],
+    "usphone": "/ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/",
+    "ukphone": "/ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/"
+  },
+  {
+    "name": "you are the best person I know",
+    "trans": [
+      "你是我认识的最好的人"
+    ],
+    "usphone": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/",
+    "ukphone": "/ju/ /ɚ/ /ðə/ /bɛst/ /'pɝsn/ /aɪ/ /no/"
+  },
+  {
+    "name": "the best",
+    "trans": [
+      "最好的"
+    ],
+    "usphone": "/ðə/ /bɛst/",
+    "ukphone": "/ðə/ /bɛst/"
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ],
+    "usphone": "/frend/",
+    "ukphone": "/frend/"
+  },
+  {
+    "name": "the best friend",
+    "trans": [
+      "最好的朋友"
+    ],
+    "usphone": "/ðə/ /bɛst/ /frend/",
+    "ukphone": "/ðə/ /bɛst/ /frend/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my best friend",
+    "trans": [
+      "我的最好的朋友"
+    ],
+    "usphone": "/maɪ/ /bɛst/ /frend/",
+    "ukphone": "/maɪ/ /bɛst/ /frend/"
+  },
+  {
+    "name": "you are",
+    "trans": [
+      "你是"
+    ],
+    "usphone": "/ju/ /ɚ/",
+    "ukphone": "/ju/ /ɚ/"
+  },
+  {
+    "name": "you are my best friend",
+    "trans": [
+      "你是我最好的朋友"
+    ],
+    "usphone": "/ju/ /ɚ/ /maɪ/ /bɛst/ /frend/",
+    "ukphone": "/ju/ /ɚ/ /maɪ/ /bɛst/ /frend/"
+  },
+  {
+    "name": "they are",
+    "trans": [
+      "他们是"
+    ],
+    "usphone": "/ðe/ /ɚ/",
+    "ukphone": "/ðe/ /ɚ/"
+  },
+  {
+    "name": "they are my best friends",
+    "trans": [
+      "他们是我最好的朋友"
+    ],
+    "usphone": "/ðe/ /ɚ/ /maɪ/ /bɛst/ /frendz/",
+    "ukphone": "/ðe/ /ɚ/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "name": "my best friends",
+    "trans": [
+      "我最好的朋友们"
+    ],
+    "usphone": "/maɪ/ /bɛst/ /frendz/",
+    "ukphone": "/maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "name": "one of my best friends",
+    "trans": [
+      "我最好的朋友们之一"
+    ],
+    "usphone": "/wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/",
+    "ukphone": "/wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "name": "he is",
+    "trans": [
+      "他是"
+    ],
+    "usphone": "/hi/ /ɪz/",
+    "ukphone": "/hi/ /ɪz/"
+  },
+  {
+    "name": "he is one of my best friends",
+    "trans": [
+      "他是我最好的朋友们之一"
+    ],
+    "usphone": "/hi/ /ɪz/ /wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/",
+    "ukphone": "/hi/ /ɪz/ /wʌn/ /əv/ /maɪ/ /bɛst/ /frendz/"
+  },
+  {
+    "name": "my best",
+    "trans": [
+      "我的最佳"
+    ],
+    "usphone": "/maɪ/ /bɛst/",
+    "ukphone": "/maɪ/ /bɛst/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "to do my best",
+    "trans": [
+      "尽我的最大努力"
+    ],
+    "usphone": "/tə/ /du/ /maɪ/ /bɛst/",
+    "ukphone": "/tə/ /du/ /maɪ/ /bɛst/"
+  },
+  {
+    "name": "I do my best",
+    "trans": [
+      "我尽我的最大努力"
+    ],
+    "usphone": "/aɪ/ /du/ /maɪ/ /bɛst/",
+    "ukphone": "/aɪ/ /du/ /maɪ/ /bɛst/"
+  },
+  {
+    "name": "I did my best",
+    "trans": [
+      "我（过去）尽我最大努力"
+    ],
+    "usphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/",
+    "ukphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "name": "balance",
+    "trans": [
+      "平衡"
+    ],
+    "usphone": "/'bæləns/",
+    "ukphone": "/'bæləns/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "a good balance",
+    "trans": [
+      "一个好的平衡"
+    ],
+    "usphone": "/ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "to keep",
+    "trans": [
+      "保持"
+    ],
+    "usphone": "/tə/ /kip/",
+    "ukphone": "/tə/ /kip/"
+  },
+  {
+    "name": "to keep a good balance",
+    "trans": [
+      "保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "I did my best",
+    "trans": [
+      "我（过去）尽我最大努力"
+    ],
+    "usphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/",
+    "ukphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "name": "I did my best to keep a good balance",
+    "trans": [
+      "我（过去）尽我最大努力保持一个好的平衡"
+    ],
+    "usphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "work and life",
+    "trans": [
+      "工作和生活"
+    ],
+    "usphone": "/wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "between",
+    "trans": [
+      "在......之间"
+    ],
+    "usphone": "/bɪ'twin/",
+    "ukphone": "/bɪ'twin/"
+  },
+  {
+    "name": "between work and life",
+    "trans": [
+      "在工作和生活之间"
+    ],
+    "usphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "to keep a good balance",
+    "trans": [
+      "保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/"
+  },
+  {
+    "name": "to keep a good balance between work and life",
+    "trans": [
+      "在工作和生活之间保持一个好的平衡"
+    ],
+    "usphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  },
+  {
+    "name": "I did my best",
+    "trans": [
+      "我（过去）尽我最大努力"
+    ],
+    "usphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/",
+    "ukphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/"
+  },
+  {
+    "name": "I did my best to keep a good balance between work and life",
+    "trans": [
+      "我（过去）尽我最大努力在工作和生活之间保持一个好的平衡"
+    ],
+    "usphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/",
+    "ukphone": "/aɪ/ /dɪd/ /maɪ/ /bɛst/ /tə/ /kip/ /ə/ /ɡʊd/ /'bæləns/ /bɪ'twin/ /wɝk/ /ənd/ /laɪf/"
+  }
+]

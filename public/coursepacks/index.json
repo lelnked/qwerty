@@ -1,0 +1,32 @@
+[
+  {
+    "id": "xingrong-zero",
+    "title": "星荣零基础学英语",
+    "description": "最适合零基础入门的课程",
+    "cover": "",
+    "isFree": true,
+    "courseCount": 55,
+    "category": "星荣英语"
+  },
+  {
+    "id": "cet4-starter",
+    "title": "四级入门精选",
+    "description": "精选 CET-4 高频词汇，分章训练，适合打基础。",
+    "cover": "",
+    "isFree": true
+  },
+  {
+    "id": "cet6-advanced",
+    "title": "六级进阶冲刺",
+    "description": "面向已通过 CET-4 的学习者，覆盖六级核心词汇。",
+    "cover": "",
+    "isFree": true
+  },
+  {
+    "id": "premium-business",
+    "title": "商务英语精进（会员）",
+    "description": "面向职场人士的会员专享课程包。",
+    "cover": "",
+    "isFree": false
+  }
+]

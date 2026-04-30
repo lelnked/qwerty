@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "the party",
+    "trans": [
+      "聚会"
+    ],
+    "usphone": "/ðə/ /'pɑrti/",
+    "ukphone": "/ðə/ /'pɑrti/"
+  },
+  {
+    "name": "to join",
+    "trans": [
+      "参加；加入"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/",
+    "ukphone": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "name": "to join the party",
+    "trans": [
+      "参加聚会"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "to invite",
+    "trans": [
+      "邀请"
+    ],
+    "usphone": "/tə/ /'ɪnvaɪt/",
+    "ukphone": "/tə/ /'ɪnvaɪt/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "to invite her",
+    "trans": [
+      "邀请她"
+    ],
+    "usphone": "/tə/ /'ɪnvaɪt/ /hɚ/",
+    "ukphone": "/tə/ /'ɪnvaɪt/ /hɚ/"
+  },
+  {
+    "name": "to join the party",
+    "trans": [
+      "参加聚会"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "to invite her to join the party",
+    "trans": [
+      "邀请她参加聚会"
+    ],
+    "usphone": "/tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "we want",
+    "trans": [
+      "我们想要"
+    ],
+    "usphone": "/wi/ /wɑnt/",
+    "ukphone": "/wi/ /wɑnt/"
+  },
+  {
+    "name": "we want to invite her to join the party",
+    "trans": [
+      "我们想要邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "we don't want to invite her to join the party",
+    "trans": [
+      "我们不想邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "we wanted to invite her to join the party",
+    "trans": [
+      "我们（过去）想要邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "yesterday",
+    "trans": [
+      "昨天"
+    ],
+    "usphone": "/'jɛstɚde/",
+    "ukphone": "/'jɛstɚde/"
+  },
+  {
+    "name": "we wanted to invite her to join the party yesterday",
+    "trans": [
+      "我们昨天想要邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+    "ukphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "name": "we didn't want to invite her to join the party yesterday",
+    "trans": [
+      "我们昨天不想邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+    "ukphone": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "name": "we invite her to join the party",
+    "trans": [
+      "我们邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "often",
+    "trans": [
+      "经常"
+    ],
+    "usphone": "/'ɔfn/",
+    "ukphone": "/'ɔfn/"
+  },
+  {
+    "name": "we often invite her to join the party",
+    "trans": [
+      "我们经常邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /'ɔfn/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /'ɔfn/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "we invited her to join the party",
+    "trans": [
+      "我们（过去）邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /'ɪnvaɪtɪd/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /'ɪnvaɪtɪd/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "we didn't invite her to join the party",
+    "trans": [
+      "我们（过去）没有邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /ˈdɪdnt/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/wi/ /ˈdɪdnt/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "to join",
+    "trans": [
+      "参加；加入"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/",
+    "ukphone": "/tə/ /dʒɔɪn/"
+  },
+  {
+    "name": "us",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/ʌs/",
+    "ukphone": "/ʌs/"
+  },
+  {
+    "name": "to join us",
+    "trans": [
+      "加入我们"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she wants to join us",
+    "trans": [
+      "她想要加入我们"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "she wanted to join us",
+    "trans": [
+      "她（过去）想要加入我们"
+    ],
+    "usphone": "/ʃi/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/ʃi/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "really",
+    "trans": [
+      "真的"
+    ],
+    "usphone": "/'rili/",
+    "ukphone": "/'rili/"
+  },
+  {
+    "name": "she really wanted to join us",
+    "trans": [
+      "她真的（过去）想要加入我们"
+    ],
+    "usphone": "/ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "she didn't want to join us",
+    "trans": [
+      "她（过去）不想加入我们"
+    ],
+    "usphone": "/ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bət/",
+    "ukphone": "/bət/"
+  },
+  {
+    "name": "but she didn't want to join us",
+    "trans": [
+      "但是她（过去）不想加入我们"
+    ],
+    "usphone": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "we wanted to invite her to join the party yesterday",
+    "trans": [
+      "我们昨天想要邀请她参加聚会"
+    ],
+    "usphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/",
+    "ukphone": "/wi/ /wɑntɪd/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/"
+  },
+  {
+    "name": "but she didn't want to join us",
+    "trans": [
+      "但是她（过去）不想加入我们"
+    ],
+    "usphone": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/bət/ /ʃi/ /ˈdɪdnt/ /wɑnt/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "we didn't want to invite her to join the party yesterday but she really wanted to join us",
+    "trans": [
+      "我们昨天不想邀请她参加聚会但是她真的（过去）想要加入我们"
+    ],
+    "usphone": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/ /bət/ /ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/",
+    "ukphone": "/wi/ /ˈdɪdnt/ /wɑnt/ /tə/ /'ɪnvaɪt/ /hɚ/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /'jɛstɚde/ /bət/ /ʃi/ /'rili/ /wɑntɪd/ /tə/ /dʒɔɪn/ /ʌs/"
+  },
+  {
+    "name": "to refuse",
+    "trans": [
+      "拒绝"
+    ],
+    "usphone": "/tə/ /ri'fjuz/",
+    "ukphone": "/tə/ /ri'fjuz/"
+  },
+  {
+    "name": "she refused",
+    "trans": [
+      "她（过去）拒绝"
+    ],
+    "usphone": "/ʃi/ /ri'fjuzd/",
+    "ukphone": "/ʃi/ /ri'fjuzd/"
+  },
+  {
+    "name": "to join the party",
+    "trans": [
+      "参加聚会"
+    ],
+    "usphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "she refused to join the party",
+    "trans": [
+      "她（过去）拒绝参加聚会"
+    ],
+    "usphone": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "she didn't refuse to join the party",
+    "trans": [
+      "她（过去）没有拒绝参加聚会"
+    ],
+    "usphone": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/",
+    "ukphone": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "have",
+    "trans": [
+      "拥有"
+    ],
+    "usphone": "/hæv/",
+    "ukphone": "/hæv/"
+  },
+  {
+    "name": "she has time",
+    "trans": [
+      "她有时间"
+    ],
+    "usphone": "/ʃi/ /hæz/ /taɪm/",
+    "ukphone": "/ʃi/ /hæz/ /taɪm/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "she has enough time",
+    "trans": [
+      "她有足够的时间"
+    ],
+    "usphone": "/ʃi/ /hæz/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ʃi/ /hæz/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "she had enough time",
+    "trans": [
+      "她（过去）有足够的时间"
+    ],
+    "usphone": "/ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "she didn't have enough time",
+    "trans": [
+      "她（过去）没有足够的时间"
+    ],
+    "usphone": "/ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because she didn't have enough time",
+    "trans": [
+      "因为她（过去）没有足够的时间"
+    ],
+    "usphone": "/bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "she refused to join the party because she didn't have enough time",
+    "trans": [
+      "她（过去）拒绝参加聚会因为她（过去）没有足够的时间"
+    ],
+    "usphone": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ʃi/ /ri'fjuzd/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "she didn't refuse to join the party because she had enough time",
+    "trans": [
+      "她（过去）没有拒绝参加聚会因为她（过去）有足够的时间"
+    ],
+    "usphone": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ʃi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /dʒɔɪn/ /ðə/ /'pɑrti/ /bɪ'kɔz/ /ʃi/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "to accept",
+    "trans": [
+      "接受；承担"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/",
+    "ukphone": "/tə/ /ək'sɛpt/"
+  },
+  {
+    "name": "the responsibility",
+    "trans": [
+      "责任"
+    ],
+    "usphone": "/ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "to accept the responsibility",
+    "trans": [
+      "承担责任"
+    ],
+    "usphone": "/tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "to refuse",
+    "trans": [
+      "拒绝"
+    ],
+    "usphone": "/tə/ /ri'fjuz/",
+    "ukphone": "/tə/ /ri'fjuz/"
+  },
+  {
+    "name": "he refuses to accept the responsibility",
+    "trans": [
+      "他拒绝承担责任"
+    ],
+    "usphone": "/hi/ /ri'fjuzɪz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ri'fjuzɪz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "he refused to accept the responsibility",
+    "trans": [
+      "他（过去）拒绝承担责任"
+    ],
+    "usphone": "/hi/ /ri'fjuzd/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ri'fjuzd/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "he didn't refuse to accept the responsibility",
+    "trans": [
+      "他（过去）没有拒绝承担责任"
+    ],
+    "usphone": "/hi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ˈdɪdnt/ /ri'fjuz/ /tə/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "he accepts the responsibility",
+    "trans": [
+      "他承担责任"
+    ],
+    "usphone": "/hi/ /ək'sɛpts/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ək'sɛpts/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "accepted",
+    "trans": [
+      "承担了"
+    ],
+    "usphone": "/ək'sɛptɪd/",
+    "ukphone": "/ək'sɛptɪd/"
+  },
+  {
+    "name": "he accepted the responsibility",
+    "trans": [
+      "他承担了责任"
+    ],
+    "usphone": "/hi/ /ək'sɛptɪd/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ək'sɛptɪd/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "he didn't accept the responsibility",
+    "trans": [
+      "他（过去）没有承担责任"
+    ],
+    "usphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/",
+    "ukphone": "/hi/ /ˈdɪdnt/ /ək'sɛpt/ /ðə/ /rɪspɑnsə'bɪləti/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶；开车"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to drive",
+    "trans": [
+      "如何开车"
+    ],
+    "usphone": "/haʊ/ /tə/ /draɪv/",
+    "ukphone": "/haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "to learn",
+    "trans": [
+      "学习"
+    ],
+    "usphone": "/tə/ /lɝn/",
+    "ukphone": "/tə/ /lɝn/"
+  },
+  {
+    "name": "to learn how to drive",
+    "trans": [
+      "学习如何开车"
+    ],
+    "usphone": "/tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I want to learn how to drive",
+    "trans": [
+      "我想要学习如何开车"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "really",
+    "trans": [
+      "真的"
+    ],
+    "usphone": "/'rili/",
+    "ukphone": "/'rili/"
+  },
+  {
+    "name": "I really want to learn how to drive",
+    "trans": [
+      "我真的想要学习如何开车"
+    ],
+    "usphone": "/aɪ/ /'rili/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /'rili/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I really don't want to learn how to drive",
+    "trans": [
+      "我真的不想学习如何开车"
+    ],
+    "usphone": "/aɪ/ /'rili/ /dont/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /'rili/ /dont/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I really wanted to learn how to drive",
+    "trans": [
+      "我真的（过去）想要学习如何开车"
+    ],
+    "usphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I really didn't want to learn how to drive",
+    "trans": [
+      "我真的（过去）不想学习如何开车"
+    ],
+    "usphone": "/aɪ/ /'rili/ /ˈdɪdnt/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /'rili/ /ˈdɪdnt/ /wɑnt/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶；开车"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "driver",
+    "trans": [
+      "驾驶员"
+    ],
+    "usphone": "/'draɪvɚ/",
+    "ukphone": "/'draɪvɚ/"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "执照"
+    ],
+    "usphone": "/'laɪsns/",
+    "ukphone": "/'laɪsns/"
+  },
+  {
+    "name": "driver's license",
+    "trans": [
+      "驾照"
+    ],
+    "usphone": "/'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "a driver's license",
+    "trans": [
+      "一个驾照"
+    ],
+    "usphone": "/ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "达到；获得"
+    ],
+    "usphone": "/tə/ /gɛt/",
+    "ukphone": "/tə/ /gɛt/"
+  },
+  {
+    "name": "to get a driver's license",
+    "trans": [
+      "获得一个驾照"
+    ],
+    "usphone": "/tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to get a driver's license",
+    "trans": [
+      "我需要获得一个驾照"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "and I need to get a driver's license",
+    "trans": [
+      "而且我需要获得一个驾照"
+    ],
+    "usphone": "/ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "I really wanted to learn how to drive",
+    "trans": [
+      "我真的（过去）想要学习如何开车"
+    ],
+    "usphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/",
+    "ukphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/"
+  },
+  {
+    "name": "I really wanted to learn how to drive and I need to get a driver's license",
+    "trans": [
+      "我真的（过去）想要学习如何开车而且我需要获得一个驾照"
+    ],
+    "usphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/ /ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/",
+    "ukphone": "/aɪ/ /'rili/ /wɑntɪd/ /tə/ /lɝn/ /haʊ/ /tə/ /draɪv/ /ənd/ /aɪ/ /nid/ /tə/ /gɛt/ /ə/ /'draɪvɚz/ /'laɪsns/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/wɝk/",
+    "ukphone": "/wɝk/"
+  },
+  {
+    "name": "my work",
+    "trans": [
+      "我的工作"
+    ],
+    "usphone": "/maɪ/ /wɝk/",
+    "ukphone": "/maɪ/ /wɝk/"
+  },
+  {
+    "name": "to finish my work",
+    "trans": [
+      "完成我的工作"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to finish my work",
+    "trans": [
+      "我想要完成我的工作"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "I don't want to finish my work",
+    "trans": [
+      "我不想完成我的工作"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "I just want to finish my work",
+    "trans": [
+      "我只是想要完成我的工作"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "I just wanted to finish my work",
+    "trans": [
+      "我只是（过去）想要完成我的工作"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "准时"
+    ],
+    "usphone": "/ɑn/ /taɪm/",
+    "ukphone": "/ɑn/ /taɪm/"
+  },
+  {
+    "name": "I just wanted to finish my work on time",
+    "trans": [
+      "我只是（过去）想要准时完成我的工作"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑntɪd/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "I didn't want to finish my work on time",
+    "trans": [
+      "我（过去）不想准时完成我的工作"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "I finish my work on time",
+    "trans": [
+      "我准时完成我的工作"
+    ],
+    "usphone": "/aɪ/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "I don't finish my work on time",
+    "trans": [
+      "我没有准时完成我的工作"
+    ],
+    "usphone": "/aɪ/ /dont/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /dont/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "finished",
+    "trans": [
+      "完成了"
+    ],
+    "usphone": "/'fɪnɪʃt/",
+    "ukphone": "/'fɪnɪʃt/"
+  },
+  {
+    "name": "I finished my work on time",
+    "trans": [
+      "我准时完成了我的工作"
+    ],
+    "usphone": "/aɪ/ /'fɪnɪʃt/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /'fɪnɪʃt/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "I didn't finish my work on time",
+    "trans": [
+      "我没有准时（过去）完成我的工作"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /'fɪnɪʃ/ /maɪ/ /wɝk/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "to watch",
+    "trans": [
+      "看"
+    ],
+    "usphone": "/tə/ /wɔtʃ/",
+    "ukphone": "/tə/ /wɔtʃ/"
+  },
+  {
+    "name": "a movie",
+    "trans": [
+      "一个电影"
+    ],
+    "usphone": "/ə/ /'muvi/",
+    "ukphone": "/ə/ /'muvi/"
+  },
+  {
+    "name": "to watch a movie",
+    "trans": [
+      "看一个电影"
+    ],
+    "usphone": "/tə/ /wɔtʃ/ /ə/ /'muvi/",
+    "ukphone": "/tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "name": "I want to watch a movie",
+    "trans": [
+      "我想看一个电影"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /wɔtʃ/ /ə/ /'muvi/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "name": "I don't want to watch the movie",
+    "trans": [
+      "我不想看那个电影"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/"
+  },
+  {
+    "name": "I wanted to watch a movie",
+    "trans": [
+      "我（过去）想要看一个电影"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "周；星期"
+    ],
+    "usphone": "/wik/",
+    "ukphone": "/wik/"
+  },
+  {
+    "name": "weekend",
+    "trans": [
+      "周末"
+    ],
+    "usphone": "/'wikɛnd/",
+    "ukphone": "/'wikɛnd/"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "上一个"
+    ],
+    "usphone": "/læst/",
+    "ukphone": "/læst/"
+  },
+  {
+    "name": "last weekend",
+    "trans": [
+      "上周末"
+    ],
+    "usphone": "/læst/ /'wikɛnd/",
+    "ukphone": "/læst/ /'wikɛnd/"
+  },
+  {
+    "name": "I wanted to watch a movie last weekend",
+    "trans": [
+      "我上周末想看一个电影"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "name": "I didn't want to watch the movie last weekend",
+    "trans": [
+      "我上周末不想看那个电影"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/ /læst/ /'wikɛnd/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /wɑnt/ /tə/ /wɔtʃ/ /ðə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "enough",
+    "trans": [
+      "足够的"
+    ],
+    "usphone": "/ɪ'nʌf/",
+    "ukphone": "/ɪ'nʌf/"
+  },
+  {
+    "name": "enough time",
+    "trans": [
+      "足够的时间"
+    ],
+    "usphone": "/ɪ'nʌf/ /taɪm/",
+    "ukphone": "/ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "have",
+    "trans": [
+      "拥有"
+    ],
+    "usphone": "/hæv/",
+    "ukphone": "/hæv/"
+  },
+  {
+    "name": "I have enough time",
+    "trans": [
+      "我有足够的时间"
+    ],
+    "usphone": "/aɪ/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I don't have enough time",
+    "trans": [
+      "我没有足够的时间"
+    ],
+    "usphone": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I had enough time",
+    "trans": [
+      "我（过去）有足够的时间"
+    ],
+    "usphone": "/aɪ/ /hæd/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /hæd/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I didn't have enough time",
+    "trans": [
+      "我（过去）没有足够的时间"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bət/",
+    "ukphone": "/bət/"
+  },
+  {
+    "name": "but I didn't have enough time",
+    "trans": [
+      "但是我（过去）没有足够的时间"
+    ],
+    "usphone": "/bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I wanted to watch a movie last weekend",
+    "trans": [
+      "我上周末想看一个电影"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/"
+  },
+  {
+    "name": "I wanted to watch a movie last weekend but I didn't have enough time",
+    "trans": [
+      "我上周末想看一个电影但是我（过去）没有足够的时间"
+    ],
+    "usphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/ /bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /wɑntɪd/ /tə/ /wɔtʃ/ /ə/ /'muvi/ /læst/ /'wikɛnd/ /bət/ /aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "to finish",
+    "trans": [
+      "完成"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/",
+    "ukphone": "/tə/ /'fɪnɪʃ/"
+  },
+  {
+    "name": "my work",
+    "trans": [
+      "我的工作"
+    ],
+    "usphone": "/maɪ/ /wɝk/",
+    "ukphone": "/maɪ/ /wɝk/"
+  },
+  {
+    "name": "to finish my work",
+    "trans": [
+      "完成我的工作"
+    ],
+    "usphone": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  },
+  {
+    "name": "I don't have enough time",
+    "trans": [
+      "我没有足够的时间"
+    ],
+    "usphone": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /dont/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I didn't have enough time",
+    "trans": [
+      "我（过去）没有足够的时间"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/"
+  },
+  {
+    "name": "I didn't have enough time to finish my work",
+    "trans": [
+      "我（过去）没有足够的时间完成我的工作"
+    ],
+    "usphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/",
+    "ukphone": "/aɪ/ /ˈdɪdnt/ /hæv/ /ɪ'nʌf/ /taɪm/ /tə/ /'fɪnɪʃ/ /maɪ/ /wɝk/"
+  }
+]

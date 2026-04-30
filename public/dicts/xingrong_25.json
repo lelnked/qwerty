@@ -1,0 +1,1218 @@
+[
+  {
+    "name": "job",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/dʒɑb/",
+    "ukphone": "/dʒɑb/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作；付出劳动"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ],
+    "usphone": "/hi/",
+    "ukphone": "/hi/"
+  },
+  {
+    "name": "he needs",
+    "trans": [
+      "他需要"
+    ],
+    "usphone": "/hi/ /nidz/",
+    "ukphone": "/hi/ /nidz/"
+  },
+  {
+    "name": "he needs to work",
+    "trans": [
+      "他需要工作"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /wɝk/",
+    "ukphone": "/hi/ /nidz/ /tə/ /wɝk/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "his",
+    "trans": [
+      "他的"
+    ],
+    "usphone": "/hɪz/",
+    "ukphone": "/hɪz/"
+  },
+  {
+    "name": "his homework",
+    "trans": [
+      "他的家庭作业"
+    ],
+    "usphone": "/hɪz/ /'homwɝk/",
+    "ukphone": "/hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "在......上"
+    ],
+    "usphone": "/ɑn/",
+    "ukphone": "/ɑn/"
+  },
+  {
+    "name": "on his homework",
+    "trans": [
+      "在他的家庭作业上"
+    ],
+    "usphone": "/ɑn/ /hɪz/ /'homwɝk/",
+    "ukphone": "/ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "he needs to work on his homework",
+    "trans": [
+      "他需要在他的家庭作业上工作"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/",
+    "ukphone": "/hi/ /nidz/ /tə/ /wɝk/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "he works on his homework",
+    "trans": [
+      "他在他的家庭作业上工作"
+    ],
+    "usphone": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/",
+    "ukphone": "/hi/ /wɝks/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "working",
+    "trans": [
+      "工作(ing形式)"
+    ],
+    "usphone": "/'wɝkɪŋ/",
+    "ukphone": "/'wɝkɪŋ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be working",
+    "trans": [
+      "正在工作"
+    ],
+    "usphone": "/bi/ /'wɝkɪŋ/",
+    "ukphone": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "he is working",
+    "trans": [
+      "他(现在)正在工作"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wɝkɪŋ/",
+    "ukphone": "/hi/ /ɪz/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "on his homework",
+    "trans": [
+      "在他的家庭作业上"
+    ],
+    "usphone": "/ɑn/ /hɪz/ /'homwɝk/",
+    "ukphone": "/ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "he is working on his homework",
+    "trans": [
+      "他(现在)正在在他的家庭作业上工作"
+    ],
+    "usphone": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/",
+    "ukphone": "/hi/ /ɪz/ /'wɝkɪŋ/ /ɑn/ /hɪz/ /'homwɝk/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my homework",
+    "trans": [
+      "我的家庭作业"
+    ],
+    "usphone": "/maɪ/ /'homwɝk/",
+    "ukphone": "/maɪ/ /'homwɝk/"
+  },
+  {
+    "name": "be working",
+    "trans": [
+      "正在工作"
+    ],
+    "usphone": "/bi/ /'wɝkɪŋ/",
+    "ukphone": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "I am working",
+    "trans": [
+      "我(现在)正在工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɝkɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "on",
+    "trans": [
+      "在......上"
+    ],
+    "usphone": "/ɑn/",
+    "ukphone": "/ɑn/"
+  },
+  {
+    "name": "I am working on my homework",
+    "trans": [
+      "我(现在)正在在我的家庭作业上工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/",
+    "ukphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /maɪ/ /'homwɝk/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；那件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "I am working on it",
+    "trans": [
+      "我(现在)正在在那件事上工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+    "ukphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "name": "still",
+    "trans": [
+      "仍然"
+    ],
+    "usphone": "/stɪl/",
+    "ukphone": "/stɪl/"
+  },
+  {
+    "name": "I am still working on it",
+    "trans": [
+      "我(现在)仍然正在在那件事上工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+    "ukphone": "/aɪ/ /æm/ /stɪl/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ],
+    "usphone": "/wi/",
+    "ukphone": "/wi/"
+  },
+  {
+    "name": "we are working on it",
+    "trans": [
+      "我们(现在)正在在那件事上工作"
+    ],
+    "usphone": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+    "ukphone": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "name": "project",
+    "trans": [
+      "项目"
+    ],
+    "usphone": "/ˈprɑdʒɛkt/",
+    "ukphone": "/ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ],
+    "usphone": "/nu/",
+    "ukphone": "/nu/"
+  },
+  {
+    "name": "a new project",
+    "trans": [
+      "一个新的项目"
+    ],
+    "usphone": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "we are working on a new project",
+    "trans": [
+      "我们(现在)正在在一个新的项目上工作"
+    ],
+    "usphone": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+    "ukphone": "/wi/ /ɚ/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "will",
+    "trans": [
+      "将会"
+    ],
+    "usphone": "/wɪl/",
+    "ukphone": "/wɪl/"
+  },
+  {
+    "name": "be working",
+    "trans": [
+      "正在工作"
+    ],
+    "usphone": "/bi/ /'wɝkɪŋ/",
+    "ukphone": "/bi/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "will be working",
+    "trans": [
+      "将会正在工作"
+    ],
+    "usphone": "/wɪl/ /bi/ /'wɝkɪŋ/",
+    "ukphone": "/wɪl/ /bi/ /'wɝkɪŋ/"
+  },
+  {
+    "name": "a new project",
+    "trans": [
+      "一个新的项目"
+    ],
+    "usphone": "/ə/ /nu/ /ˈprɑdʒɛkt/",
+    "ukphone": "/ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "we will be working on a new project",
+    "trans": [
+      "我们将会正在在一个新的项目上工作"
+    ],
+    "usphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/",
+    "ukphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "周；星期"
+    ],
+    "usphone": "/wik/",
+    "ukphone": "/wik/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "下周"
+    ],
+    "usphone": "/nɛkst/ /wik/",
+    "ukphone": "/nɛkst/ /wik/"
+  },
+  {
+    "name": "we will be working on a new project next week",
+    "trans": [
+      "我们下周将会正在在一个新的项目上工作"
+    ],
+    "usphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/",
+    "ukphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ə/ /nu/ /ˈprɑdʒɛkt/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；那件事"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "we will be working on it next week",
+    "trans": [
+      "我们下周将会正在在那件事上工作"
+    ],
+    "usphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/",
+    "ukphone": "/wi/ /wɪl/ /bi/ /'wɝkɪŋ/ /ɑn/ /ɪt/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "I am working on it",
+    "trans": [
+      "我(现在)正在在那件事上工作"
+    ],
+    "usphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/",
+    "ukphone": "/aɪ/ /æm/ /'wɝkɪŋ/ /ɑn/ /ɪt/"
+  },
+  {
+    "name": "to look for",
+    "trans": [
+      "寻找"
+    ],
+    "usphone": "/tə/ /lʊk/ /fɝ/",
+    "ukphone": "/tə/ /lʊk/ /fɝ/"
+  },
+  {
+    "name": "looking for",
+    "trans": [
+      "寻找(ing形式)"
+    ],
+    "usphone": "/ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是；赋值(原型)"
+    ],
+    "usphone": "/bi/",
+    "ukphone": "/bi/"
+  },
+  {
+    "name": "be looking for",
+    "trans": [
+      "正在寻找"
+    ],
+    "usphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/bi/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is looking for",
+    "trans": [
+      "她(现在)正在寻找"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/",
+    "ukphone": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/"
+  },
+  {
+    "name": "her",
+    "trans": [
+      "她的"
+    ],
+    "usphone": "/hɚ/",
+    "ukphone": "/hɚ/"
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具"
+    ],
+    "usphone": "/tɔɪ/",
+    "ukphone": "/tɔɪ/"
+  },
+  {
+    "name": "her toy",
+    "trans": [
+      "她的玩具"
+    ],
+    "usphone": "/hɚ/ /tɔɪ/",
+    "ukphone": "/hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "she is looking for her toy",
+    "trans": [
+      "她(现在)正在寻找她的玩具"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+    "ukphone": "/ʃi/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "daughter",
+    "trans": [
+      "女儿"
+    ],
+    "usphone": "/'dɔtɚ/",
+    "ukphone": "/'dɔtɚ/"
+  },
+  {
+    "name": "my daughter",
+    "trans": [
+      "我的女儿"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "name": "my daughter is looking for her toy",
+    "trans": [
+      "我的女儿(现在)正在寻找她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "her toy",
+    "trans": [
+      "她的玩具"
+    ],
+    "usphone": "/hɚ/ /tɔɪ/",
+    "ukphone": "/hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "to find her toy",
+    "trans": [
+      "找到她的玩具"
+    ],
+    "usphone": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/",
+    "ukphone": "/tə/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "my daughter",
+    "trans": [
+      "我的女儿"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/"
+  },
+  {
+    "name": "my daughter finds her toy",
+    "trans": [
+      "我的女儿找到她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /faɪndz/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "能"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "my daughter can find her toy",
+    "trans": [
+      "我的女儿可以找到她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /kæn/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "can't",
+    "trans": [
+      "不能"
+    ],
+    "usphone": "/kænt/",
+    "ukphone": "/kænt/"
+  },
+  {
+    "name": "my daughter can't find her toy",
+    "trans": [
+      "我的女儿不能找到她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bʌt/",
+    "ukphone": "/bʌt/"
+  },
+  {
+    "name": "but my daughter can't find her toy",
+    "trans": [
+      "但是我的女儿不能找到她的玩具"
+    ],
+    "usphone": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+    "ukphone": "/bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "my daughter is looking for her toy",
+    "trans": [
+      "我的女儿(现在)正在寻找她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "my daughter is looking for her toy but my daughter can't find her toy",
+    "trans": [
+      "我的女儿(现在)正在寻找她的玩具但是我的女儿不能找到她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /maɪ/ /'dɔtɚ/ /kænt/ /faɪnd/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "but she can't find it",
+    "trans": [
+      "但是她不能找到它"
+    ],
+    "usphone": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+    "ukphone": "/bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "my daughter is looking for her toy but she can't find it",
+    "trans": [
+      "我的女儿(现在)正在寻找她的玩具但是她不能找到它"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /ɪz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kænt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "my daughter was looking for her toy",
+    "trans": [
+      "我的女儿(过去)正在寻找她的玩具"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/"
+  },
+  {
+    "name": "but she couldn't find it",
+    "trans": [
+      "但是她(过去)不能找到它"
+    ],
+    "usphone": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+    "ukphone": "/bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "my daughter was looking for her toy but she couldn't find it",
+    "trans": [
+      "我的女儿(过去)正在寻找她的玩具但是她(过去)不能找到它"
+    ],
+    "usphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/",
+    "ukphone": "/maɪ/ /'dɔtɚ/ /wəz/ /ˈlʊkɪŋ/ /fɝ/ /hɚ/ /tɔɪ/ /bʌt/ /ʃi/ /kʊdnt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听见；听说"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "to hear me",
+    "trans": [
+      "听见我"
+    ],
+    "usphone": "/tə/ /hɪr/ /mi/",
+    "ukphone": "/tə/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you hear me",
+    "trans": [
+      "你听见我"
+    ],
+    "usphone": "/ju/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "you can hear me",
+    "trans": [
+      "你可以听见我"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you can hear me",
+    "trans": [
+      "是否你可以听见我"
+    ],
+    "usphone": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "I want to know if you can hear me",
+    "trans": [
+      "我想要知道是否你可以听见我"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "I know",
+    "trans": [
+      "我知道"
+    ],
+    "usphone": "/aɪ/ /no/",
+    "ukphone": "/aɪ/ /no/"
+  },
+  {
+    "name": "I know you can hear me",
+    "trans": [
+      "我知道你可以听见我"
+    ],
+    "usphone": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/aɪ/ /no/ /ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "you can hear me",
+    "trans": [
+      "你可以听见我"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /mi/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /mi/"
+  },
+  {
+    "name": "can you hear me",
+    "trans": [
+      "你可以听见我吗？"
+    ],
+    "usphone": "/kæn/ /ju/ /hɪr/ /mi/",
+    "ukphone": "/kæn/ /ju/ /hɪr/ /mi/"
+  },
+  {
+    "name": "music",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "/'mjuzɪk/",
+    "ukphone": "/'mjuzɪk/"
+  },
+  {
+    "name": "you can hear music",
+    "trans": [
+      "你可以听见音乐"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /'mjuzɪk/"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "/səm/",
+    "ukphone": "/səm/"
+  },
+  {
+    "name": "you can hear some music",
+    "trans": [
+      "你可以听见一些音乐"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "name": "to listen",
+    "trans": [
+      "听"
+    ],
+    "usphone": "/tə/ /'lɪsn/",
+    "ukphone": "/tə/ /'lɪsn/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to listen",
+    "trans": [
+      "我想要听"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /'lɪsn/"
+  },
+  {
+    "name": "I listen",
+    "trans": [
+      "我听"
+    ],
+    "usphone": "/aɪ/ /'lɪsn/",
+    "ukphone": "/aɪ/ /'lɪsn/"
+  },
+  {
+    "name": "listening",
+    "trans": [
+      "听(ing形式)"
+    ],
+    "usphone": "/ˈlɪsnɪŋ/",
+    "ukphone": "/ˈlɪsnɪŋ/"
+  },
+  {
+    "name": "I am listening",
+    "trans": [
+      "我(现在)正在听"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈlɪsnɪŋ/",
+    "ukphone": "/aɪ/ /æm/ /ˈlɪsnɪŋ/"
+  },
+  {
+    "name": "music",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "/'mjuzɪk/",
+    "ukphone": "/'mjuzɪk/"
+  },
+  {
+    "name": "I am listening to music",
+    "trans": [
+      "我(现在)正在听音乐"
+    ],
+    "usphone": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/aɪ/ /æm/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "she is listening to music",
+    "trans": [
+      "她(现在)正在听音乐"
+    ],
+    "usphone": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/ʃi/ /ɪz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "she was listening to music",
+    "trans": [
+      "她(过去)正在听音乐"
+    ],
+    "usphone": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/ʃi/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I was listening to music",
+    "trans": [
+      "我(过去)正在听音乐"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "/səm/",
+    "ukphone": "/səm/"
+  },
+  {
+    "name": "I was listening to some music",
+    "trans": [
+      "我(过去)正在听一些音乐"
+    ],
+    "usphone": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/",
+    "ukphone": "/aɪ/ /wəz/ /ˈlɪsnɪŋ/ /tə/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "name": "you are listening",
+    "trans": [
+      "你(现在)正在听"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlɪsnɪŋ/",
+    "ukphone": "/ju/ /ɚ/ /ˈlɪsnɪŋ/"
+  },
+  {
+    "name": "you are listening to music",
+    "trans": [
+      "你(现在)正在听音乐"
+    ],
+    "usphone": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/ju/ /ɚ/ /ˈlɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "you listen",
+    "trans": [
+      "你听"
+    ],
+    "usphone": "/ju/ /'lɪsn/",
+    "ukphone": "/ju/ /'lɪsn/"
+  },
+  {
+    "name": "carefully",
+    "trans": [
+      "认真地"
+    ],
+    "usphone": "/'kɛrfəli/",
+    "ukphone": "/'kɛrfəli/"
+  },
+  {
+    "name": "you listen carefully",
+    "trans": [
+      "你认真地听"
+    ],
+    "usphone": "/ju/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you listen carefully",
+    "trans": [
+      "如果你认真地听"
+    ],
+    "usphone": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "you can hear some music",
+    "trans": [
+      "你可以听到一些音乐"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "name": "if you listen carefully you can hear some music",
+    "trans": [
+      "如果你认真地听你可以听到一些音乐"
+    ],
+    "usphone": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/",
+    "ukphone": "/ɪf/ /ju/ /'lɪsn/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /səm/ /'mjuzɪk/"
+  },
+  {
+    "name": "the music",
+    "trans": [
+      "这段音乐"
+    ],
+    "usphone": "/ðə/ /'mjuzɪk/",
+    "ukphone": "/ðə/ /'mjuzɪk/"
+  },
+  {
+    "name": "if you listen to the music carefully",
+    "trans": [
+      "如果你认真地听这段音乐"
+    ],
+    "usphone": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/",
+    "ukphone": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/"
+  },
+  {
+    "name": "guitar",
+    "trans": [
+      "吉他"
+    ],
+    "usphone": "/ɡɪ'tɑr/",
+    "ukphone": "/ɡɪ'tɑr/"
+  },
+  {
+    "name": "a guitar",
+    "trans": [
+      "一把吉他"
+    ],
+    "usphone": "/ə/ /ɡɪ'tɑr/",
+    "ukphone": "/ə/ /ɡɪ'tɑr/"
+  },
+  {
+    "name": "you can hear",
+    "trans": [
+      "你可以听见"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/",
+    "ukphone": "/ju/ /kæn/ /hɪr/"
+  },
+  {
+    "name": "you can hear a guitar",
+    "trans": [
+      "你可以听见一把吉他"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/"
+  },
+  {
+    "name": "back",
+    "trans": [
+      "后面的"
+    ],
+    "usphone": "/bæk/",
+    "ukphone": "/bæk/"
+  },
+  {
+    "name": "ground",
+    "trans": [
+      "场地"
+    ],
+    "usphone": "/ɡraʊnd/",
+    "ukphone": "/ɡraʊnd/"
+  },
+  {
+    "name": "background",
+    "trans": [
+      "背景"
+    ],
+    "usphone": "/'bækɡraʊnd/",
+    "ukphone": "/'bækɡraʊnd/"
+  },
+  {
+    "name": "in the background",
+    "trans": [
+      "在背景里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'bækɡraʊnd/",
+    "ukphone": "/ɪn/ /ðə/ /'bækɡraʊnd/"
+  },
+  {
+    "name": "you can hear a guitar in the background",
+    "trans": [
+      "你可以听见一把吉他在背景里"
+    ],
+    "usphone": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/",
+    "ukphone": "/ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /background/ /'bækɡraʊnd/"
+  },
+  {
+    "name": "if you listen to the music carefully you can hear a guitar in the background",
+    "trans": [
+      "如果你认真地听这段音乐你可以听见一把吉他在背景里"
+    ],
+    "usphone": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/",
+    "ukphone": "/ɪf/ /ju/ /'lɪsn/ /tə/ /ðə/ /'mjuzɪk/ /'kɛrfəli/ /ju/ /kæn/ /hɪr/ /ə/ /ɡɪ'tɑr/ /ɪn/ /ðə/ /'bækɡraʊnd/"
+  },
+  {
+    "name": "you listen carefully",
+    "trans": [
+      "你认真地听"
+    ],
+    "usphone": "/ju/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ju/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "don't",
+    "trans": [
+      "不"
+    ],
+    "usphone": "/dont/",
+    "ukphone": "/dont/"
+  },
+  {
+    "name": "you don't listen carefully",
+    "trans": [
+      "你不认真地听"
+    ],
+    "usphone": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you don't listen carefully",
+    "trans": [
+      "如果你不认真地听"
+    ],
+    "usphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "to hear",
+    "trans": [
+      "听见"
+    ],
+    "usphone": "/tə/ /hɪr/",
+    "ukphone": "/tə/ /hɪr/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you will hear",
+    "trans": [
+      "你将会听见"
+    ],
+    "usphone": "/ju/ /wɪl/ /hɪr/",
+    "ukphone": "/ju/ /wɪl/ /hɪr/"
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西"
+    ],
+    "usphone": "/θɪŋ/",
+    "ukphone": "/θɪŋ/"
+  },
+  {
+    "name": "nothing",
+    "trans": [
+      "没有东西"
+    ],
+    "usphone": "/'nʌθɪŋ/",
+    "ukphone": "/'nʌθɪŋ/"
+  },
+  {
+    "name": "you will hear nothing",
+    "trans": [
+      "你将会听见没有东西"
+    ],
+    "usphone": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+    "ukphone": "/ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+  },
+  {
+    "name": "if you don't listen carefully",
+    "trans": [
+      "如果你不认真地听"
+    ],
+    "usphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/",
+    "ukphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/"
+  },
+  {
+    "name": "if you don't listen carefully you will hear nothing",
+    "trans": [
+      "如果你不认真地听你将会什么都听不到"
+    ],
+    "usphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/",
+    "ukphone": "/ɪf/ /ju/ /dont/ /'lɪsn/ /'kɛrfəli/ /ju/ /wɪl/ /hɪr/ /'nʌθɪŋ/"
+  }
+]

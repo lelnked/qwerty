@@ -1,0 +1,33 @@
+{
+  "id": "cet4-starter",
+  "title": "四级入门精选",
+  "description": "精选 CET-4 高频词汇，分章训练，适合打基础。",
+  "cover": "",
+  "isFree": true,
+  "courses": [
+    {
+      "id": "cet4-0",
+      "title": "第 1 章：高频起步",
+      "description": "CET-4 词库第 1 章",
+      "dictId": "cet4",
+      "chapter": 0,
+      "coursePackId": "cet4-starter"
+    },
+    {
+      "id": "cet4-1",
+      "title": "第 2 章：基础积累",
+      "description": "CET-4 词库第 2 章",
+      "dictId": "cet4",
+      "chapter": 1,
+      "coursePackId": "cet4-starter"
+    },
+    {
+      "id": "cet4-2",
+      "title": "第 3 章：稳步提升",
+      "description": "CET-4 词库第 3 章",
+      "dictId": "cet4",
+      "chapter": 2,
+      "coursePackId": "cet4-starter"
+    }
+  ]
+}

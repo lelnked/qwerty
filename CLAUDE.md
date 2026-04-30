@@ -39,10 +39,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
   - `wordRecords`: 记录单词练习的表现数据。
   - `chapterRecords`: 记录章节练习的统计结果。
   - `newWords`: 用户收藏的生词本（包含单词、释义、发音、时间戳）。
+  - `activeCourseMap`: 每个课程包下用户最近一次进入的课程。
 - **数据管理**: 数据库定义位于 `src/utils/db/index.ts`，模型位于 `src/utils/db/record.ts`。
 
 ### 关键设计模式
 
 - **响应式路由**: 在 `src/index.tsx` 中根据 `window.innerWidth` 自动切换移动端页面 (`/mobile`)。
-- **生词管理**: 通过 `src/hooks/useNewWords.ts` 封装生词的增删改查逻辑，并在练习界面支持 `Ctrl+S` 快捷键收藏。
+- **生词管理**: 通过 `src/hooks/useNewWords.ts` 封装生词的增删改查逻辑，并在练习界面支持 `Ctrl+S` 快捷键收藏。已加入生词本的单词在 Typing 流中默认被跳过（见 `src/hooks/useSkipMasteredWord.ts`）。
+- **课程包**: `src/pages/CoursePack/` 提供"我的课程包"列表/详情，数据源在 `public/coursepacks/`，由 `src/api/coursePackProvider.ts` 提供抽象（预留远端实现）。
 - **样式规范**: 优先使用 Tailwind 类名，复杂组件配合 CSS Modules。侧边栏及部分组件采用 `backdrop-blur` (毛玻璃) 效果。
+
+<!-- SPECKIT START -->
+Active feature plan: [specs/001-course-package-vocabulary/plan.md](specs/001-course-package-vocabulary/plan.md)
+<!-- SPECKIT END -->

@@ -1,0 +1,4530 @@
+[
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；这件事情"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事情"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I like",
+    "trans": [
+      "我喜欢"
+    ],
+    "usphone": "/aɪ/ /laɪk/",
+    "ukphone": "/aɪ/ /laɪk/"
+  },
+  {
+    "name": "I like to do it",
+    "trans": [
+      "我喜欢做这件事情"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "don't like",
+    "trans": [
+      "不喜欢"
+    ],
+    "usphone": "/dont/ /laɪk/",
+    "ukphone": "/dont/ /laɪk/"
+  },
+  {
+    "name": "I don't like to do it",
+    "trans": [
+      "我不喜欢做这件事情"
+    ],
+    "usphone": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "I like to do it now",
+    "trans": [
+      "我喜欢现在做这件事情"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/aɪ/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "I don't like to do it now",
+    "trans": [
+      "我不喜欢现在做这件事情"
+    ],
+    "usphone": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/aɪ/ /dont/ /laɪk/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "to tell you",
+    "trans": [
+      "告诉你"
+    ],
+    "usphone": "/tə/ /tɛl/ /ju/",
+    "ukphone": "/tə/ /tɛl/ /ju/"
+  },
+  {
+    "name": "I need to tell you",
+    "trans": [
+      "我需要告诉你"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某物；某些事情"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "something important",
+    "trans": [
+      "重要的某些事情"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I need to tell you something",
+    "trans": [
+      "我需要告诉你某些事情"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "name": "I need to tell you something important",
+    "trans": [
+      "我需要告诉你重要的某些事情"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它；这件事情"
+    ],
+    "usphone": "/ɪt/",
+    "ukphone": "/ɪt/"
+  },
+  {
+    "name": "It is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "It is very important",
+    "trans": [
+      "它是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/mi/",
+    "ukphone": "/mi/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "对我来说"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "It is important for me",
+    "trans": [
+      "对我来说它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "It is very important for me",
+    "trans": [
+      "对我来说它是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ],
+    "usphone": "/ɡʊd/",
+    "ukphone": "/ɡʊd/"
+  },
+  {
+    "name": "It is good",
+    "trans": [
+      "它是好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɡʊd/",
+    "ukphone": "/ɪt/ /ɪz/ /ɡʊd/"
+  },
+  {
+    "name": "to be here",
+    "trans": [
+      "在这里；来到这里"
+    ],
+    "usphone": "/tə/ /bi/ /hɪr/",
+    "ukphone": "/tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "It is good to be here",
+    "trans": [
+      "来到这里（它）是好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/",
+    "ukphone": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "It is very good to be here",
+    "trans": [
+      "来到这里（它）是非常好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /bi/ /hɪr/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "to see you",
+    "trans": [
+      "见到你"
+    ],
+    "usphone": "/tə/ /si/ /ju/",
+    "ukphone": "/tə/ /si/ /ju/"
+  },
+  {
+    "name": "It is very good to see you",
+    "trans": [
+      "见到你（它）是非常好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "It is very good to see you every day",
+    "trans": [
+      "每天见到你（它）是非常好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/ /'ɛvri/ /de/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɡʊd/ /tə/ /si/ /ju/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道；认识"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I want to know if it is possible",
+    "trans": [
+      "我想要知道是否它是可能的"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /'pɑsəbl/"
+  },
+  {
+    "name": "It is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I want to know if it is important",
+    "trans": [
+      "我想要知道是否它是重要的"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "对我来说"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "It is important for me",
+    "trans": [
+      "对我来说它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "have to do",
+    "trans": [
+      "必须做"
+    ],
+    "usphone": "/hæv/ /tə/ /du/",
+    "ukphone": "/hæv/ /tə/ /du/"
+  },
+  {
+    "name": "I have to do it",
+    "trans": [
+      "我必须做这件事情"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I have to do it today",
+    "trans": [
+      "我今天必须做这件事情"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "所以"
+    ],
+    "usphone": "/so/",
+    "ukphone": "/so/"
+  },
+  {
+    "name": "It is important for me so I have to do it",
+    "trans": [
+      "它是重要的对我来说所以我必须做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "It is important for me so I have to do it today",
+    "trans": [
+      "它是重要的对我来说所以我今天必须做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "name": "every day",
+    "trans": [
+      "每天"
+    ],
+    "usphone": "/'ɛvri/ /de/",
+    "ukphone": "/'ɛvri/ /de/"
+  },
+  {
+    "name": "It is important for me so I have to do it every day",
+    "trans": [
+      "它是重要的对我来说所以我必须每天做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "It is very important for me so I have to do it every day",
+    "trans": [
+      "它是非常重要的对我来说所以我必须每天做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /'ɛvri/ /de/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "It is very important for me so I have to do it now",
+    "trans": [
+      "它是非常重要的对我来说所以我必须现在做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "not important",
+    "trans": [
+      "不重要的"
+    ],
+    "usphone": "/nɑt/ /ɪm'pɔrtnt/",
+    "ukphone": "/nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "It is not important",
+    "trans": [
+      "它是不重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "It is not important for me",
+    "trans": [
+      "它是不重要的对我来说"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "don't have to do",
+    "trans": [
+      "不必做"
+    ],
+    "usphone": "/dont/ /hæv/ /tə/ /du/",
+    "ukphone": "/dont/ /hæv/ /tə/ /du/"
+  },
+  {
+    "name": "I don't have to do it",
+    "trans": [
+      "我不必做这件事情"
+    ],
+    "usphone": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "I don't have to do it now",
+    "trans": [
+      "我现在不必做这件事情"
+    ],
+    "usphone": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "所以"
+    ],
+    "usphone": "/so/",
+    "ukphone": "/so/"
+  },
+  {
+    "name": "It is not important for me so I don't have to do it now",
+    "trans": [
+      "它不是重要的对我来说所以我不必现在做这件事情"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /so/ /aɪ/ /dont/ /hæv/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "I like to eat the food",
+    "trans": [
+      "我喜欢吃这个食物"
+    ],
+    "usphone": "/aɪ/ /laɪk/ /tə/ /it/ /ðə/ /fud/",
+    "ukphone": "/aɪ/ /laɪk/ /tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "I want to do it today",
+    "trans": [
+      "我想要今天做这件事"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "name": "I need to tell you something important",
+    "trans": [
+      "我需要告诉你重要的某些事情"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I have to know you soon",
+    "trans": [
+      "我必须尽快认识你"
+    ],
+    "usphone": "/aɪ/ /hæv/ /tə/ /no/ /ju/ /sun/",
+    "ukphone": "/aɪ/ /hæv/ /tə/ /no/ /ju/ /sun/"
+  },
+  {
+    "name": "It is good to be here",
+    "trans": [
+      "来到这里（它）是好的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/",
+    "ukphone": "/ɪt/ /ɪz/ /ɡʊd/ /tə/ /bi/ /hɪr/"
+  },
+  {
+    "name": "It is important for me",
+    "trans": [
+      "它是重要的对我来说"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "It is impossible to do it now",
+    "trans": [
+      "现在做这件事情（它）是不可能的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/ /tə/ /du/ /ɪt/ /naʊ/"
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ],
+    "usphone": "/aɪ/",
+    "ukphone": "/aɪ/"
+  },
+  {
+    "name": "I am",
+    "trans": [
+      "我是"
+    ],
+    "usphone": "/aɪ/ /æm/",
+    "ukphone": "/aɪ/ /æm/"
+  },
+  {
+    "name": "I am important",
+    "trans": [
+      "我是重要的"
+    ],
+    "usphone": "/aɪ/ /æm/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I want to know if I am important",
+    "trans": [
+      "我想要知道是否我是重要的"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "need to know",
+    "trans": [
+      "需要知道"
+    ],
+    "usphone": "/nid/ /tə/ /no/",
+    "ukphone": "/nid/ /tə/ /no/"
+  },
+  {
+    "name": "I need to know if I am important",
+    "trans": [
+      "我需要知道是否我是重要的"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /aɪ/ /æm/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "to tell me",
+    "trans": [
+      "告诉我"
+    ],
+    "usphone": "/tə/ /tɛl/ /mi/",
+    "ukphone": "/tə/ /tɛl/ /mi/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to tell me the truth",
+    "trans": [
+      "告诉我事实"
+    ],
+    "usphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "You want to tell me the truth",
+    "trans": [
+      "你想要告诉我事实"
+    ],
+    "usphone": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /wɑnt/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "You have to tell me the truth",
+    "trans": [
+      "你必须告诉我事实"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "It is important",
+    "trans": [
+      "它是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "You have to tell me the truth because it is important",
+    "trans": [
+      "你必须告诉我事实因为它是重要的"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ju/ /hæv/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某件事"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "something important",
+    "trans": [
+      "重要的某件事"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "to tell you",
+    "trans": [
+      "告诉你"
+    ],
+    "usphone": "/tə/ /tɛl/ /ju/",
+    "ukphone": "/tə/ /tɛl/ /ju/"
+  },
+  {
+    "name": "to tell you something important",
+    "trans": [
+      "告诉你重要的某件事"
+    ],
+    "usphone": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to tell you something important",
+    "trans": [
+      "我想要告诉你重要的某件事"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /tɛl/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "这个食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "to eat the food",
+    "trans": [
+      "吃这个食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "to eat the food now",
+    "trans": [
+      "现在吃这个食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/ /naʊ/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "name": "she needs",
+    "trans": [
+      "她需要"
+    ],
+    "usphone": "/ʃi/ /nidz/",
+    "ukphone": "/ʃi/ /nidz/"
+  },
+  {
+    "name": "she needs to eat the food now",
+    "trans": [
+      "她需要现在吃这个食物"
+    ],
+    "usphone": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+    "ukphone": "/ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "name": "to explain",
+    "trans": [
+      "解释"
+    ],
+    "usphone": "/tə/ /ɪk'splen/",
+    "ukphone": "/tə/ /ɪk'splen/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "to explain the reason",
+    "trans": [
+      "解释原因"
+    ],
+    "usphone": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+    "ukphone": "/tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "she wants",
+    "trans": [
+      "她想要"
+    ],
+    "usphone": "/ʃi/ /wɑnts/",
+    "ukphone": "/ʃi/ /wɑnts/"
+  },
+  {
+    "name": "she wants to explain the reason",
+    "trans": [
+      "她想要解释原因"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "she wants to explain the reason why she needs to eat the food now",
+    "trans": [
+      "她想要解释原因为什么她现在需要吃这个食物"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /nidz/ /tə/ /it/ /ðə/ /fud/ /naʊ/"
+  },
+  {
+    "name": "to read",
+    "trans": [
+      "阅读"
+    ],
+    "usphone": "/tə/ /rid/",
+    "ukphone": "/tə/ /rid/"
+  },
+  {
+    "name": "at home",
+    "trans": [
+      "在家里"
+    ],
+    "usphone": "/ət/ /hom/",
+    "ukphone": "/ət/ /hom/"
+  },
+  {
+    "name": "to read at home",
+    "trans": [
+      "在家里阅读"
+    ],
+    "usphone": "/tə/ /rid/ /ət/ /hom/",
+    "ukphone": "/tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "she likes to read at home",
+    "trans": [
+      "她喜欢在家里阅读"
+    ],
+    "usphone": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+    "ukphone": "/ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "she has to explain the reason why she likes to read at home",
+    "trans": [
+      "她必须解释原因为什么她喜欢在家里阅读"
+    ],
+    "usphone": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/",
+    "ukphone": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very important",
+    "trans": [
+      "它是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "she has to explain the reason why she likes to read at home because it is very important",
+    "trans": [
+      "她必须解释原因为什么她喜欢在家里阅读因为它是非常重要的"
+    ],
+    "usphone": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ʃi/ /hæz/ /tə/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /ʃi/ /laɪks/ /tə/ /rid/ /ət/ /hom/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to ask",
+    "trans": [
+      "问"
+    ],
+    "usphone": "/tə/ /æsk/",
+    "ukphone": "/tə/ /æsk/"
+  },
+  {
+    "name": "to ask me",
+    "trans": [
+      "问我"
+    ],
+    "usphone": "/tə/ /æsk/ /mi/",
+    "ukphone": "/tə/ /æsk/ /mi/"
+  },
+  {
+    "name": "a question",
+    "trans": [
+      "一个问题"
+    ],
+    "usphone": "/ə/ /'kwɛstʃən/",
+    "ukphone": "/ə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "to ask me a question",
+    "trans": [
+      "问我一个问题"
+    ],
+    "usphone": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+    "ukphone": "/tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "she wants",
+    "trans": [
+      "她想要"
+    ],
+    "usphone": "/ʃi/ /wɑnts/",
+    "ukphone": "/ʃi/ /wɑnts/"
+  },
+  {
+    "name": "she wants to ask me a question",
+    "trans": [
+      "她想要问我一个问题"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "这个食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "a question about the food",
+    "trans": [
+      "关于这个食物的一个问题"
+    ],
+    "usphone": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+    "ukphone": "/ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+  },
+  {
+    "name": "she wants to ask me a question about the food",
+    "trans": [
+      "她想要问我关于这个食物的一个问题"
+    ],
+    "usphone": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/",
+    "ukphone": "/ʃi/ /wɑnts/ /tə/ /æsk/ /mi/ /ə/ /'kwɛstʃən/ /ə'baʊt/ /ðə/ /fud/"
+  },
+  {
+    "name": "to fly",
+    "trans": [
+      "飞翔"
+    ],
+    "usphone": "/tə/ /flaɪ/",
+    "ukphone": "/tə/ /flaɪ/"
+  },
+  {
+    "name": "sky",
+    "trans": [
+      "天空"
+    ],
+    "usphone": "/skaɪ/",
+    "ukphone": "/skaɪ/"
+  },
+  {
+    "name": "in the sky",
+    "trans": [
+      "在天空中"
+    ],
+    "usphone": "/ɪn/ /ðə/ /skaɪ/",
+    "ukphone": "/ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "name": "to fly in the sky",
+    "trans": [
+      "在天空中飞翔"
+    ],
+    "usphone": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+    "ukphone": "/tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "name": "the bird",
+    "trans": [
+      "这个小鸟"
+    ],
+    "usphone": "/ðə/ /bɝd/",
+    "ukphone": "/ðə/ /bɝd/"
+  },
+  {
+    "name": "the bird wants",
+    "trans": [
+      "这个小鸟想要"
+    ],
+    "usphone": "/ðə/ /bɝd/ /wɑnts/",
+    "ukphone": "/ðə/ /bɝd/ /wɑnts/"
+  },
+  {
+    "name": "the bird wants to fly in the sky",
+    "trans": [
+      "这个小鸟想要在天空中飞翔"
+    ],
+    "usphone": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+    "ukphone": "/ðə/ /bɝd/ /wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "name": "Xingrong wants",
+    "trans": [
+      "星荣想要"
+    ],
+    "usphone": "/wɑnts/",
+    "ukphone": "/wɑnts/"
+  },
+  {
+    "name": "Xingrong wants to fly in the sky",
+    "trans": [
+      "星荣想要在天空中飞翔"
+    ],
+    "usphone": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/",
+    "ukphone": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/"
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是"
+    ],
+    "usphone": "/bət/",
+    "ukphone": "/bət/"
+  },
+  {
+    "name": "impossible",
+    "trans": [
+      "不可能的"
+    ],
+    "usphone": "/ɪm'pɑsəbl/",
+    "ukphone": "/ɪm'pɑsəbl/"
+  },
+  {
+    "name": "it is impossible",
+    "trans": [
+      "它是不可能的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "name": "Xingrong wants to fly in the sky but it is impossible",
+    "trans": [
+      "星荣想要在天空中飞翔但是它是不可能的"
+    ],
+    "usphone": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/",
+    "ukphone": "/wɑnts/ /tə/ /flaɪ/ /ɪn/ /ðə/ /skaɪ/ /bət/ /ɪt/ /ɪz/ /ɪm'pɑsəbl/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to tell me the truth",
+    "trans": [
+      "告诉我事实"
+    ],
+    "usphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "He has to tell me the truth",
+    "trans": [
+      "他必须告诉我事实"
+    ],
+    "usphone": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know it",
+    "trans": [
+      "知道这件事"
+    ],
+    "usphone": "/tə/ /no/ /ɪt/",
+    "ukphone": "/tə/ /no/ /ɪt/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to know it",
+    "trans": [
+      "我需要知道这件事"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /no/ /ɪt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /no/ /ɪt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "He has to tell me the truth because I need to know it",
+    "trans": [
+      "他必须告诉我事实因为我需要知道它"
+    ],
+    "usphone": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/",
+    "ukphone": "/hi/ /hæz/ /tə/ /tɛl/ /mi/ /ðə/ /trʊθ/ /bɪ'kɔz/ /aɪ/ /nid/ /tə/ /no/ /ɪt/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I don't need",
+    "trans": [
+      "我不需要"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/",
+    "ukphone": "/aɪ/ /dont/ /nid/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I don't need to do it",
+    "trans": [
+      "我不需要做这件事"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "today",
+    "trans": [
+      "今天"
+    ],
+    "usphone": "/tə'de/",
+    "ukphone": "/tə'de/"
+  },
+  {
+    "name": "I don't need to do it today",
+    "trans": [
+      "我今天不需要做这件事"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "not important",
+    "trans": [
+      "不重要的"
+    ],
+    "usphone": "/nɑt/ /ɪm'pɔrtnt/",
+    "ukphone": "/nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is not important",
+    "trans": [
+      "它是不重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "so",
+    "trans": [
+      "所以"
+    ],
+    "usphone": "/so/",
+    "ukphone": "/so/"
+  },
+  {
+    "name": "it is not important so I don't need to do it today",
+    "trans": [
+      "它是不重要的所以我今天不需要做这件事"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/",
+    "ukphone": "/ɪt/ /ɪz/ /nɑt/ /ɪm'pɔrtnt/ /so/ /aɪ/ /dont/ /nid/ /tə/ /du/ /ɪt/ /tə'de/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "I can",
+    "trans": [
+      "我可以"
+    ],
+    "usphone": "/aɪ/ /kæn/",
+    "ukphone": "/aɪ/ /kæn/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I can do it",
+    "trans": [
+      "我可以做这件事"
+    ],
+    "usphone": "/aɪ/ /kæn/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /kæn/ /du/ /ɪt/"
+  },
+  {
+    "name": "alone",
+    "trans": [
+      "单独"
+    ],
+    "usphone": "/ə'lon/",
+    "ukphone": "/ə'lon/"
+  },
+  {
+    "name": "I can do it alone",
+    "trans": [
+      "我可以单独做这件事"
+    ],
+    "usphone": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/",
+    "ukphone": "/aɪ/ /kæn/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "name": "I can not do it alone",
+    "trans": [
+      "我不可以单独做这件事"
+    ],
+    "usphone": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+    "ukphone": "/aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "name": "you have to help me",
+    "trans": [
+      "你必须帮助我"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/",
+    "ukphone": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "you have to help me because I can not do it alone",
+    "trans": [
+      "你必须帮助我因为我不可以单独做这件事"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/",
+    "ukphone": "/ju/ /hæv/ /tə/ /hɛlp/ /mi/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /du/ /ɪt/ /ə'lon/"
+  },
+  {
+    "name": "be here",
+    "trans": [
+      "在这里"
+    ],
+    "usphone": "/bi/ /hɪr/",
+    "ukphone": "/bi/ /hɪr/"
+  },
+  {
+    "name": "I can be here",
+    "trans": [
+      "我可以在这里"
+    ],
+    "usphone": "/aɪ/ /kæn/ /bi/ /hɪr/",
+    "ukphone": "/aɪ/ /kæn/ /bi/ /hɪr/"
+  },
+  {
+    "name": "tomorrow",
+    "trans": [
+      "明天"
+    ],
+    "usphone": "/tə'mɔro/",
+    "ukphone": "/tə'mɔro/"
+  },
+  {
+    "name": "I can be here tomorrow",
+    "trans": [
+      "我可以明天在这里"
+    ],
+    "usphone": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+    "ukphone": "/aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "name": "I can not be here tomorrow",
+    "trans": [
+      "我不可以明天在这里"
+    ],
+    "usphone": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/",
+    "ukphone": "/aɪ/ /kæn/ /nɑt/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "name": "he needs to know",
+    "trans": [
+      "他需要知道"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /no/",
+    "ukphone": "/hi/ /nidz/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "he needs to know if I can be here tomorrow",
+    "trans": [
+      "他需要知道是否我可以明天在这里"
+    ],
+    "usphone": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/",
+    "ukphone": "/hi/ /nidz/ /tə/ /no/ /ɪf/ /aɪ/ /kæn/ /bi/ /hɪr/ /tə'mɔro/"
+  },
+  {
+    "name": "you can",
+    "trans": [
+      "你可以"
+    ],
+    "usphone": "/ju/ /kæn/",
+    "ukphone": "/ju/ /kæn/"
+  },
+  {
+    "name": "tell me",
+    "trans": [
+      "告诉我"
+    ],
+    "usphone": "/tɛl/ /mi/",
+    "ukphone": "/tɛl/ /mi/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "tell me the truth",
+    "trans": [
+      "告诉我事实"
+    ],
+    "usphone": "/tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "you can tell me the truth",
+    "trans": [
+      "你可以告诉我事实"
+    ],
+    "usphone": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "you can not tell me the truth",
+    "trans": [
+      "你不可以告诉我事实"
+    ],
+    "usphone": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/ju/ /kæn/ /nɑt/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "I need to know",
+    "trans": [
+      "我需要知道"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /no/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I need to know if you can tell me the truth",
+    "trans": [
+      "我需要知道是否你可以告诉我事实"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /no/ /ɪf/ /ju/ /kæn/ /tɛl/ /mi/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "at home",
+    "trans": [
+      "在家里"
+    ],
+    "usphone": "/ət/ /hom/",
+    "ukphone": "/ət/ /hom/"
+  },
+  {
+    "name": "read at home",
+    "trans": [
+      "在家里阅读"
+    ],
+    "usphone": "/rid/ /ət/ /hom/",
+    "ukphone": "/rid/ /ət/ /hom/"
+  },
+  {
+    "name": "you can read at home",
+    "trans": [
+      "你可以在家里阅读"
+    ],
+    "usphone": "/ju/ /kæn/ /rid/ /ət/ /hom/",
+    "ukphone": "/ju/ /kæn/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "you can not read at home",
+    "trans": [
+      "你不可以在家里阅读"
+    ],
+    "usphone": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+    "ukphone": "/ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "you need to tell me",
+    "trans": [
+      "你需要告诉我"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/",
+    "ukphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "you need to tell me the reason",
+    "trans": [
+      "你需要告诉我原因"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/",
+    "ukphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "you need to tell me the reason why you can not read at home",
+    "trans": [
+      "你需要告诉我原因为什么你不可以在家里阅读"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/",
+    "ukphone": "/ju/ /nid/ /tə/ /tɛl/ /mi/ /ðə/ /ˈrizən/ /waɪ/ /ju/ /kæn/ /nɑt/ /rid/ /ət/ /hom/"
+  },
+  {
+    "name": "talk with me",
+    "trans": [
+      "和我说话"
+    ],
+    "usphone": "/tɔk/ /wɪð/ /mi/",
+    "ukphone": "/tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "name": "he can talk with me",
+    "trans": [
+      "他可以和我说话"
+    ],
+    "usphone": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/",
+    "ukphone": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/"
+  },
+  {
+    "name": "tonight",
+    "trans": [
+      "今晚"
+    ],
+    "usphone": "/tə'naɪt/",
+    "ukphone": "/tə'naɪt/"
+  },
+  {
+    "name": "he can talk with me tonight",
+    "trans": [
+      "他今晚可以和我说话"
+    ],
+    "usphone": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+    "ukphone": "/hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "he can not talk with me tonight",
+    "trans": [
+      "他今晚不可以和我说话"
+    ],
+    "usphone": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+    "ukphone": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I want to know if he can talk with me tonight",
+    "trans": [
+      "我想要知道是否他今晚可以和我说话"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /hi/ /kæn/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "she can",
+    "trans": [
+      "她可以"
+    ],
+    "usphone": "/ʃi/ /kæn/",
+    "ukphone": "/ʃi/ /kæn/"
+  },
+  {
+    "name": "explain",
+    "trans": [
+      "解释"
+    ],
+    "usphone": "/ɪk'splen/",
+    "ukphone": "/ɪk'splen/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "explain the reason",
+    "trans": [
+      "解释原因"
+    ],
+    "usphone": "/ɪk'splen/ /ðə/ /ˈrizən/",
+    "ukphone": "/ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "she can explain the reason",
+    "trans": [
+      "她可以解释原因"
+    ],
+    "usphone": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/",
+    "ukphone": "/ʃi/ /kæn/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "she can not explain the reason",
+    "trans": [
+      "她不可以解释原因"
+    ],
+    "usphone": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/",
+    "ukphone": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "he can not talk with me tonight",
+    "trans": [
+      "他今晚不可以和我说话"
+    ],
+    "usphone": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+    "ukphone": "/hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "she can explain the reason why he can not talk with me tonight",
+    "trans": [
+      "她可以解释原因为什么他今晚不可以和我说话"
+    ],
+    "usphone": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/",
+    "ukphone": "/ʃi/ /kæn/ /nɑt/ /ɪk'splen/ /ðə/ /ˈrizən/ /waɪ/ /hi/ /kæn/ /nɑt/ /tɔk/ /wɪð/ /mi/ /tə'naɪt/"
+  },
+  {
+    "name": "to dance",
+    "trans": [
+      "跳舞"
+    ],
+    "usphone": "/tə/ /dæns/",
+    "ukphone": "/tə/ /dæns/"
+  },
+  {
+    "name": "we like to dance",
+    "trans": [
+      "我们喜欢跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/"
+  },
+  {
+    "name": "we like to dance now",
+    "trans": [
+      "我们喜欢现在跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /naʊ/"
+  },
+  {
+    "name": "the street",
+    "trans": [
+      "街道"
+    ],
+    "usphone": "/ðə/ /strit/",
+    "ukphone": "/ðə/ /strit/"
+  },
+  {
+    "name": "in the street",
+    "trans": [
+      "在街头"
+    ],
+    "usphone": "/ɪn/ /ðə/ /strit/",
+    "ukphone": "/ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "we like to dance in the street",
+    "trans": [
+      "我们喜欢在街头跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/"
+  },
+  {
+    "name": "night",
+    "trans": [
+      "晚上"
+    ],
+    "usphone": "/naɪt/",
+    "ukphone": "/naɪt/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "we like to dance in the street at night",
+    "trans": [
+      "我们喜欢在晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "we don't like to dance in the street at night",
+    "trans": [
+      "我们不喜欢在晚上在街头跳舞"
+    ],
+    "usphone": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /dont/ /laɪk/ /tə/ /dæns/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ],
+    "usphone": "/ðe/",
+    "ukphone": "/ðe/"
+  },
+  {
+    "name": "they don't like to dance with you in the street at night",
+    "trans": [
+      "他们不喜欢在晚上和你一起在街头跳舞"
+    ],
+    "usphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/ðe/ /dont/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "want to know",
+    "trans": [
+      "想要知道"
+    ],
+    "usphone": "/wɑnt/ /tə/ /no/",
+    "ukphone": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "we want to know",
+    "trans": [
+      "我们想要知道"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "we just want to know",
+    "trans": [
+      "我们只是想要知道"
+    ],
+    "usphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "we just want to know if they like to dance with you in the street at night",
+    "trans": [
+      "我们只是想要知道是否他们喜欢在晚上和你一起在街头跳舞"
+    ],
+    "usphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/",
+    "ukphone": "/wi/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /ðe/ /laɪk/ /tə/ /dæns/ /wɪð/ /ju/ /ɪn/ /ðə/ /strit/ /ət/ /naɪt/"
+  },
+  {
+    "name": "the answer",
+    "trans": [
+      "答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/",
+    "ukphone": "/ði/ /'ænsɚ/"
+  },
+  {
+    "name": "we want to know the answer",
+    "trans": [
+      "我们想要知道答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we want to know the answer to the question",
+    "trans": [
+      "我们想要知道问题的答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we don't want to know the answer to the question",
+    "trans": [
+      "我们不想知道问题的答案"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "we want to know the answer to the question as soon as possible",
+    "trans": [
+      "我们想要尽快知道问题的答案"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "at the restaurant",
+    "trans": [
+      "在这个餐厅"
+    ],
+    "usphone": "/ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to work at the restaurant",
+    "trans": [
+      "在这个餐厅工作"
+    ],
+    "usphone": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we want to work at the restaurant",
+    "trans": [
+      "我们想要在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we don't want to work at the restaurant",
+    "trans": [
+      "我们不想在这个餐厅工作"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /wɝk/ /ət/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "/tə/ /'ænsɚ/",
+    "ukphone": "/tə/ /'ænsɚ/"
+  },
+  {
+    "name": "to answer the questions",
+    "trans": [
+      "回答问题"
+    ],
+    "usphone": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+    "ukphone": "/tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "name": "we need to answer the questions",
+    "trans": [
+      "我们需要回答问题"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/",
+    "ukphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "about the work",
+    "trans": [
+      "关于工作"
+    ],
+    "usphone": "/ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "we need to answer the questions about the work",
+    "trans": [
+      "我们需要回答关于工作的问题"
+    ],
+    "usphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/wi/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "we don't need to answer the questions about the work",
+    "trans": [
+      "我们不需要回答关于工作的问题"
+    ],
+    "usphone": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/wi/ /dont/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "you need to answer the questions about the work",
+    "trans": [
+      "你们需要回答关于工作的问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "you need to answer the questions about the work as soon as possible",
+    "trans": [
+      "你们需要尽快回答关于工作的问题"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "they are important",
+    "trans": [
+      "它们是重要的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ɪm'pɔrtnt/",
+    "ukphone": "/ðe/ /ɚ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "they are very important",
+    "trans": [
+      "它们是非常重要的"
+    ],
+    "usphone": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "you need to answer the questions about the work as soon as possible because they are very important",
+    "trans": [
+      "你们需要尽快回答关于工作的问题因为它们是非常重要的"
+    ],
+    "usphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ju/ /nid/ /tə/ /'ænsɚ/ /ðə/ /'kwestʃənz/ /ə'baʊt/ /ðə/ /wɝk/ /əz/ /sun/ /əz/ /'pɑsəbl/ /bɪ'kɔz/ /ðe/ /ɚ/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "we should",
+    "trans": [
+      "我们应该"
+    ],
+    "usphone": "/wi/ /ʃʊd/",
+    "ukphone": "/wi/ /ʃʊd/"
+  },
+  {
+    "name": "we should know",
+    "trans": [
+      "我们应该知道"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/",
+    "ukphone": "/wi/ /ʃʊd/ /no/"
+  },
+  {
+    "name": "the answer",
+    "trans": [
+      "答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/",
+    "ukphone": "/ði/ /'ænsɚ/"
+  },
+  {
+    "name": "we should know the answer",
+    "trans": [
+      "我们应该知道答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/",
+    "ukphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/"
+  },
+  {
+    "name": "the question",
+    "trans": [
+      "这个问题"
+    ],
+    "usphone": "/ðə/ /'kwɛstʃən/",
+    "ukphone": "/ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "这个问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should know the answer to the question",
+    "trans": [
+      "我们应该知道这个问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should not know the answer to the question",
+    "trans": [
+      "我们不应该知道这个问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think we should know the answer to the question",
+    "trans": [
+      "我认为我们应该知道这个问题的答案"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "I don't think we should know the answer to the question",
+    "trans": [
+      "我认为我们不应该知道这个问题的答案"
+    ],
+    "usphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /dont/ /θɪŋk/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "should know",
+    "trans": [
+      "应该知道"
+    ],
+    "usphone": "/ʃʊd/ /no/",
+    "ukphone": "/ʃʊd/ /no/"
+  },
+  {
+    "name": "you should know",
+    "trans": [
+      "你们应该知道"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/",
+    "ukphone": "/ju/ /ʃʊd/ /no/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "you should know the reason",
+    "trans": [
+      "你们应该知道原因"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/",
+    "ukphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "the restaurant",
+    "trans": [
+      "这个餐厅"
+    ],
+    "usphone": "/ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "the food from the restaurant",
+    "trans": [
+      "来自这个餐厅的食物"
+    ],
+    "usphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "to eat the food from the restaurant",
+    "trans": [
+      "吃来自这个餐厅的食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we want",
+    "trans": [
+      "我们想要"
+    ],
+    "usphone": "/wi/ /wɑnt/",
+    "ukphone": "/wi/ /wɑnt/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "we want to eat the food from the restaurant",
+    "trans": [
+      "我们想要吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "we don't want to eat the food from the restaurant",
+    "trans": [
+      "我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "you should know the reason why we don't want to eat the food from the restaurant",
+    "trans": [
+      "你应该知道原因为什么我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think you should know the reason why we don't want to eat the food from the restaurant",
+    "trans": [
+      "我认为你应该知道原因为什么我们不想吃来自这个餐厅的食物"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/",
+    "ukphone": "/aɪ/ /θɪŋk/ /ju/ /ʃʊd/ /no/ /ðə/ /ˈrizən/ /waɪ/ /wi/ /dont/ /wɑnt/ /tə/ /it/ /ðə/ /fud/ /frʌm/ /ðə/ /'rɛstrɑnt/"
+  },
+  {
+    "name": "plan",
+    "trans": [
+      "计划；打算"
+    ],
+    "usphone": "/plæn/",
+    "ukphone": "/plæn/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "to stay",
+    "trans": [
+      "待着；留下"
+    ],
+    "usphone": "/tə/ /ste/",
+    "ukphone": "/tə/ /ste/"
+  },
+  {
+    "name": "I plan to stay",
+    "trans": [
+      "我打算待着"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "I plan to stay here",
+    "trans": [
+      "我打算待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I plan to stay here with you",
+    "trans": [
+      "我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I don't plan to stay here with you",
+    "trans": [
+      "我不打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "want to know",
+    "trans": [
+      "想要知道"
+    ],
+    "usphone": "/wɑnt/ /tə/ /no/",
+    "ukphone": "/wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "they want to know",
+    "trans": [
+      "他们想要知道"
+    ],
+    "usphone": "/ðe/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/ðe/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是；仅仅"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "they just want to know",
+    "trans": [
+      "他们只是想要知道"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "they just want to know if I plan to stay here with you",
+    "trans": [
+      "他们只是想要知道是否我打算和你一起待在这里"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ɪf/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "the reason",
+    "trans": [
+      "原因"
+    ],
+    "usphone": "/ðə/ /ˈrizən/",
+    "ukphone": "/ðə/ /ˈrizən/"
+  },
+  {
+    "name": "they just want to know the reason",
+    "trans": [
+      "他们只是想要知道原因"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "they just want to know the reason why I don't plan to stay here with you",
+    "trans": [
+      "他们只是想要知道原因为什么我不打算和你一起待在这里"
+    ],
+    "usphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/ðe/ /dʒʌst/ /wɑnt/ /tə/ /no/ /ðə/ /ˈrizən/ /waɪ/ /aɪ/ /dont/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "she plans",
+    "trans": [
+      "她打算"
+    ],
+    "usphone": "/ʃi/ /plænz/",
+    "ukphone": "/ʃi/ /plænz/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "the country",
+    "trans": [
+      "这个国家"
+    ],
+    "usphone": "/ðə/ /'kʌntri/",
+    "ukphone": "/ðə/ /'kʌntri/"
+  },
+  {
+    "name": "to leave the country",
+    "trans": [
+      "离开这个国家"
+    ],
+    "usphone": "/tə/ /liv/ /ðə/ /'kʌntri/",
+    "ukphone": "/tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "name": "she plans to leave the country",
+    "trans": [
+      "她打算离开这个国家"
+    ],
+    "usphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/",
+    "ukphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "month",
+    "trans": [
+      "月"
+    ],
+    "usphone": "/mʌnθ/",
+    "ukphone": "/mʌnθ/"
+  },
+  {
+    "name": "next month",
+    "trans": [
+      "下个月"
+    ],
+    "usphone": "/nɛkst/ /mʌnθ/",
+    "ukphone": "/nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "she plans to leave the country next month",
+    "trans": [
+      "她打算下个月离开这个国家"
+    ],
+    "usphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+    "ukphone": "/ʃi/ /plænz/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "she doesn't plan to leave the country next month",
+    "trans": [
+      "她不打算下个月离开这个国家"
+    ],
+    "usphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/",
+    "ukphone": "/ʃi/ /ˈdʌznt/ /plæn/ /tə/ /liv/ /ðə/ /'kʌntri/ /nɛkst/ /mʌnθ/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to pay the bill",
+    "trans": [
+      "我需要支付账单"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I don't need to pay the bill",
+    "trans": [
+      "我不需要支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to pay the bill",
+    "trans": [
+      "我打算支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for you",
+    "trans": [
+      "为你"
+    ],
+    "usphone": "/fɝ/ /ju/",
+    "ukphone": "/fɝ/ /ju/"
+  },
+  {
+    "name": "I plan to pay the bill for you",
+    "trans": [
+      "我打算为你支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "name": "I don't plan to pay the bill for you",
+    "trans": [
+      "我不打算为你支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /ju/"
+  },
+  {
+    "name": "you plan to pay the bill",
+    "trans": [
+      "你打算支付账单"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for me",
+    "trans": [
+      "为我"
+    ],
+    "usphone": "/fɝ/ /mi/",
+    "ukphone": "/fɝ/ /mi/"
+  },
+  {
+    "name": "you plan to pay the bill for me",
+    "trans": [
+      "你打算为我支付账单"
+    ],
+    "usphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "you don't plan to pay the bill for me",
+    "trans": [
+      "你不打算为我支付账单"
+    ],
+    "usphone": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/ju/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "I want to know",
+    "trans": [
+      "我想要知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "是否"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "I want to know if you plan to pay the bill for me",
+    "trans": [
+      "我想要知道是否你打算为我支付账单"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /ɪf/ /ju/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I plan to pay the bill",
+    "trans": [
+      "我打算支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "for him",
+    "trans": [
+      "为他"
+    ],
+    "usphone": "/fɝ/ /hɪm/",
+    "ukphone": "/fɝ/ /hɪm/"
+  },
+  {
+    "name": "I plan to pay the bill for him",
+    "trans": [
+      "我打算为他支付账单"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "name": "I don't plan to pay the bill for him",
+    "trans": [
+      "我不打算为他支付账单"
+    ],
+    "usphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/",
+    "ukphone": "/aɪ/ /dont/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "it is important",
+    "trans": [
+      "这件事是重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very important",
+    "trans": [
+      "这件事是非常重要的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because it is very important",
+    "trans": [
+      "因为这件事是非常重要的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I plan to pay the bill for him because it is very important",
+    "trans": [
+      "我打算为他支付账单因为这件事是非常重要的"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "to do it",
+    "trans": [
+      "做这件事"
+    ],
+    "usphone": "/tə/ /du/ /ɪt/",
+    "ukphone": "/tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I need to do it",
+    "trans": [
+      "我需要做这件事"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "and I need to do it",
+    "trans": [
+      "而且我需要做这件事"
+    ],
+    "usphone": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "I plan to pay the bill for him because it is very important and I need to do it",
+    "trans": [
+      "我打算为他支付账单因为这件事是非常重要的而且我需要做这件事"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /pe/ /ðə/ /bɪl/ /fɝ/ /hɪm/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /ənd/ /aɪ/ /nid/ /tə/ /du/ /ɪt/"
+  },
+  {
+    "name": "to travel",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/tə/ /'trævl/",
+    "ukphone": "/tə/ /'trævl/"
+  },
+  {
+    "name": "the world",
+    "trans": [
+      "世界"
+    ],
+    "usphone": "/ðə/ /wɝld/",
+    "ukphone": "/ðə/ /wɝld/"
+  },
+  {
+    "name": "to travel the world",
+    "trans": [
+      "环游世界"
+    ],
+    "usphone": "/tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "would like",
+    "trans": [
+      "愿意；委婉地想要"
+    ],
+    "usphone": "/wʊd/ /laɪk/",
+    "ukphone": "/wʊd/ /laɪk/"
+  },
+  {
+    "name": "I would like to travel the world",
+    "trans": [
+      "我愿意环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/"
+  },
+  {
+    "name": "with her",
+    "trans": [
+      "和她一起"
+    ],
+    "usphone": "/wɪð/ /hɚ/",
+    "ukphone": "/wɪð/ /hɚ/"
+  },
+  {
+    "name": "I would like to travel the world with her",
+    "trans": [
+      "我愿意和她一起环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+    "ukphone": "/aɪ/ /wʊd/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "I would not like to travel the world with her",
+    "trans": [
+      "我不愿意和她一起环游世界"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/"
+  },
+  {
+    "name": "I plan",
+    "trans": [
+      "我打算"
+    ],
+    "usphone": "/aɪ/ /plæn/",
+    "ukphone": "/aɪ/ /plæn/"
+  },
+  {
+    "name": "I plan to stay here",
+    "trans": [
+      "我打算待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "with you",
+    "trans": [
+      "和你一起"
+    ],
+    "usphone": "/wɪð/ /ju/",
+    "ukphone": "/wɪð/ /ju/"
+  },
+  {
+    "name": "I plan to stay here with you",
+    "trans": [
+      "我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "because I plan to stay here with you",
+    "trans": [
+      "因为我打算和你一起待在这里"
+    ],
+    "usphone": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "I would not like to travel the world with her because I plan to stay here with you",
+    "trans": [
+      "我不愿意和她一起环游世界因为我打算和你一起待在这里"
+    ],
+    "usphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/",
+    "ukphone": "/aɪ/ /wʊd/ /nɑt/ /laɪk/ /tə/ /'trævl/ /ðə/ /wɝld/ /wɪð/ /hɚ/ /bɪ'kɔz/ /aɪ/ /plæn/ /tə/ /ste/ /hɪr/ /wɪð/ /ju/"
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ],
+    "usphone": "/ʃi/",
+    "ukphone": "/ʃi/"
+  },
+  {
+    "name": "to give",
+    "trans": [
+      "给"
+    ],
+    "usphone": "/tə/ /ɡɪv/",
+    "ukphone": "/tə/ /ɡɪv/"
+  },
+  {
+    "name": "to give us",
+    "trans": [
+      "给我们"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /ʌs/",
+    "ukphone": "/tə/ /ɡɪv/ /ʌs/"
+  },
+  {
+    "name": "she needs to give us",
+    "trans": [
+      "她需要给我们"
+    ],
+    "usphone": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/",
+    "ukphone": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "she needs to give us the answer to the question",
+    "trans": [
+      "她需要给我们问题的答案"
+    ],
+    "usphone": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ʃi/ /nidz/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "she doesn't need to give us the answer to the question",
+    "trans": [
+      "她不需要给我们问题的答案"
+    ],
+    "usphone": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ʃi/ /ˈdʌznt/ /nid/ /tə/ /ɡɪv/ /ʌs/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "a reason",
+    "trans": [
+      "一个理由；一个原因"
+    ],
+    "usphone": "/ə/ /ˈrizən/",
+    "ukphone": "/ə/ /ˈrizən/"
+  },
+  {
+    "name": "to give me a reason",
+    "trans": [
+      "给我一个理由"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "name": "I need you to give me a reason",
+    "trans": [
+      "我需要你给我一个理由"
+    ],
+    "usphone": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+    "ukphone": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "name": "I don't need you to give me a reason",
+    "trans": [
+      "我不需要你给我一个理由"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "we should know",
+    "trans": [
+      "我们应该知道"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/",
+    "ukphone": "/wi/ /ʃʊd/ /no/"
+  },
+  {
+    "name": "the answer to the question",
+    "trans": [
+      "问题的答案"
+    ],
+    "usphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should know the answer to the question",
+    "trans": [
+      "我们应该知道问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "we should not know the answer to the question",
+    "trans": [
+      "我们不应该知道问题的答案"
+    ],
+    "usphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/wi/ /ʃʊd/ /nɑt/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "why",
+    "trans": [
+      "为什么"
+    ],
+    "usphone": "/waɪ/",
+    "ukphone": "/waɪ/"
+  },
+  {
+    "name": "I need you to give me a reason why we should know the answer to the question",
+    "trans": [
+      "我需要你给我一个理由为什么我们应该知道问题的答案"
+    ],
+    "usphone": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/",
+    "ukphone": "/aɪ/ /nid/ /ju/ /tə/ /ɡɪv/ /mi/ /ə/ /ˈrizən/ /waɪ/ /wi/ /ʃʊd/ /no/ /ði/ /'ænsɚ/ /tə/ /ðə/ /'kwɛstʃən/"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "a hand",
+    "trans": [
+      "一只手"
+    ],
+    "usphone": "/ə/ /hænd/",
+    "ukphone": "/ə/ /hænd/"
+  },
+  {
+    "name": "to give me a hand",
+    "trans": [
+      "给我一只手（搭把手）"
+    ],
+    "usphone": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/",
+    "ukphone": "/tə/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "name": "you can give me a hand",
+    "trans": [
+      "你可以给我搭把手"
+    ],
+    "usphone": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/",
+    "ukphone": "/ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "name": "I hope",
+    "trans": [
+      "我希望"
+    ],
+    "usphone": "/aɪ/ /hop/",
+    "ukphone": "/aɪ/ /hop/"
+  },
+  {
+    "name": "I hope you can give me a hand",
+    "trans": [
+      "我希望你可以给我搭把手"
+    ],
+    "usphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/",
+    "ukphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "it is very important for me",
+    "trans": [
+      "它是非常重要的对我来说"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "because it is very important for me",
+    "trans": [
+      "因为它是非常重要的对我来说"
+    ],
+    "usphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "I hope you can give me a hand because it is very important for me",
+    "trans": [
+      "我希望你可以给我搭把手因为它是非常重要的对我来说"
+    ],
+    "usphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/",
+    "ukphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "to help",
+    "trans": [
+      "帮助"
+    ],
+    "usphone": "/tə/ /hɛlp/",
+    "ukphone": "/tə/ /hɛlp/"
+  },
+  {
+    "name": "I need you to help me",
+    "trans": [
+      "我需要你帮助我"
+    ],
+    "usphone": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/",
+    "ukphone": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/"
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ],
+    "usphone": "/naʊ/",
+    "ukphone": "/naʊ/"
+  },
+  {
+    "name": "I need you to help me now",
+    "trans": [
+      "我需要你现在帮助我"
+    ],
+    "usphone": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/",
+    "ukphone": "/aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+  },
+  {
+    "name": "I hope you can give me a hand because it is very important for me and I need you to help me now",
+    "trans": [
+      "我希望你可以给我搭把手因为它是非常重要的对我来说而且我需要你现在帮助我"
+    ],
+    "usphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/",
+    "ukphone": "/aɪ/ /hop/ /ju/ /kæn/ /ɡɪv/ /mi/ /ə/ /hænd/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /ɪm'pɔrtnt/ /fɝ/ /mi/ /ənd/ /aɪ/ /nid/ /ju/ /tə/ /hɛlp/ /mi/ /naʊ/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "the dictionary",
+    "trans": [
+      "字典"
+    ],
+    "usphone": "/ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my dictionary",
+    "trans": [
+      "我的字典"
+    ],
+    "usphone": "/maɪ/ /'dɪkʃənɛri/",
+    "ukphone": "/maɪ/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "I want",
+    "trans": [
+      "我想要"
+    ],
+    "usphone": "/aɪ/ /wɑnt/",
+    "ukphone": "/aɪ/ /wɑnt/"
+  },
+  {
+    "name": "I want to use my dictionary",
+    "trans": [
+      "我想要使用我的字典"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /juz/ /maɪ/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "to get there",
+    "trans": [
+      "到达那里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "I need to get there",
+    "trans": [
+      "我需要到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "I don't need to get there",
+    "trans": [
+      "我不需要到达那里"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快；马上"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "I need to get there soon",
+    "trans": [
+      "我需要马上到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "I need to get there as soon as possible",
+    "trans": [
+      "我需要尽快到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to get there",
+    "trans": [
+      "如何到达那里"
+    ],
+    "usphone": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know how to get there",
+    "trans": [
+      "知道如何到达那里"
+    ],
+    "usphone": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want to know how to get there",
+    "trans": [
+      "我想要知道如何到达那里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "I just want to know how to get there",
+    "trans": [
+      "我只是想要知道如何到达那里"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "准时"
+    ],
+    "usphone": "/ɑn/ /taɪm/",
+    "ukphone": "/ɑn/ /taɪm/"
+  },
+  {
+    "name": "I just want to know how to get there on time",
+    "trans": [
+      "我只是想要知道如何准时到达那里"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "you forget",
+    "trans": [
+      "你忘记"
+    ],
+    "usphone": "/ju/ /fɚ'ɡɛt/",
+    "ukphone": "/ju/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to lock",
+    "trans": [
+      "锁"
+    ],
+    "usphone": "/tə/ /lɑk/",
+    "ukphone": "/tə/ /lɑk/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you forget to lock the door",
+    "trans": [
+      "你忘记锁门"
+    ],
+    "usphone": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you don't forget to lock the door",
+    "trans": [
+      "你不要忘记锁门"
+    ],
+    "usphone": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "don't forget to lock the door",
+    "trans": [
+      "不要忘记锁门"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "the house",
+    "trans": [
+      "房子；家"
+    ],
+    "usphone": "/ðə/ /haʊs/",
+    "ukphone": "/ðə/ /haʊs/"
+  },
+  {
+    "name": "to leave the house",
+    "trans": [
+      "离开家"
+    ],
+    "usphone": "/tə/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/tə/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "you leave the house",
+    "trans": [
+      "你离开家"
+    ],
+    "usphone": "/ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you leave the house",
+    "trans": [
+      "当你离开家的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "don't forget to lock the door when you leave the house",
+    "trans": [
+      "不要忘记锁门当你离开家的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "to remember",
+    "trans": [
+      "记得"
+    ],
+    "usphone": "/tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you remember to lock the door",
+    "trans": [
+      "你记得锁门"
+    ],
+    "usphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "remember to lock the door",
+    "trans": [
+      "记得锁门"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "remember to lock the door when you leave the house",
+    "trans": [
+      "记得锁门当你离开家的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "the housework",
+    "trans": [
+      "家务"
+    ],
+    "usphone": "/ðə/ /'haʊswɝk/",
+    "ukphone": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "to do the housework",
+    "trans": [
+      "做家务"
+    ],
+    "usphone": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "don't forget to do the housework",
+    "trans": [
+      "不要忘记做家务"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "remember to do the housework",
+    "trans": [
+      "记得做家务"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "at home",
+    "trans": [
+      "在家里"
+    ],
+    "usphone": "/ət/ /hom/",
+    "ukphone": "/ət/ /hom/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are at home",
+    "trans": [
+      "你在家里"
+    ],
+    "usphone": "/ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you are at home",
+    "trans": [
+      "当你在家里的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "remember to do the housework when you are at home",
+    "trans": [
+      "记得做家务当你在家里的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "don't forget to do the housework when you are at home",
+    "trans": [
+      "不要忘记做家务当你在家里的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "to teach",
+    "trans": [
+      "教"
+    ],
+    "usphone": "/tə/ /titʃ/",
+    "ukphone": "/tə/ /titʃ/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某些事情；某些东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "something important",
+    "trans": [
+      "重要的某些东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I want to teach you something important",
+    "trans": [
+      "我想要教你重要的某些东西"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "anything",
+    "trans": [
+      "任何东西"
+    ],
+    "usphone": "/'ɛnɪθɪŋ/",
+    "ukphone": "/'ɛnɪθɪŋ/"
+  },
+  {
+    "name": "anything important",
+    "trans": [
+      "任何重要的东西"
+    ],
+    "usphone": "/'ɛnɪθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/'ɛnɪθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I don't want to teach you anything important",
+    "trans": [
+      "我不想教你任何重要的东西"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'ɛnɪθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /titʃ/ /ju/ /'ɛnɪθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "the dictionary",
+    "trans": [
+      "字典"
+    ],
+    "usphone": "/ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "to use the dictionary",
+    "trans": [
+      "使用字典"
+    ],
+    "usphone": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to use the dictionary",
+    "trans": [
+      "如何使用字典"
+    ],
+    "usphone": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "you have to teach me",
+    "trans": [
+      "你必须教我"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /titʃ/ /mi/",
+    "ukphone": "/ju/ /hæv/ /tə/ /titʃ/ /mi/"
+  },
+  {
+    "name": "you have to teach me how to use the dictionary",
+    "trans": [
+      "你必须教我如何使用字典"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/ju/ /hæv/ /tə/ /titʃ/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "to show",
+    "trans": [
+      "展示"
+    ],
+    "usphone": "/tə/ /ʃo/",
+    "ukphone": "/tə/ /ʃo/"
+  },
+  {
+    "name": "to show you",
+    "trans": [
+      "展示给你"
+    ],
+    "usphone": "/tə/ /ʃo/ /ju/",
+    "ukphone": "/tə/ /ʃo/ /ju/"
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某些东西"
+    ],
+    "usphone": "/'sʌmθɪŋ/",
+    "ukphone": "/'sʌmθɪŋ/"
+  },
+  {
+    "name": "to show you something",
+    "trans": [
+      "展示给你某些东西"
+    ],
+    "usphone": "/tə/ /ʃo/ /ju/ /'sʌmθɪŋ/",
+    "ukphone": "/tə/ /ʃo/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "name": "I want to show you something",
+    "trans": [
+      "我想要展示给你某些东西"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/"
+  },
+  {
+    "name": "important",
+    "trans": [
+      "重要的"
+    ],
+    "usphone": "/ɪm'pɔrtnt/",
+    "ukphone": "/ɪm'pɔrtnt/"
+  },
+  {
+    "name": "I want to show you something important",
+    "trans": [
+      "我想要展示给你重要的某些东西"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ʃo/ /ju/ /'sʌmθɪŋ/ /ɪm'pɔrtnt/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "to use the dictionary",
+    "trans": [
+      "使用字典"
+    ],
+    "usphone": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "how to use the dictionary",
+    "trans": [
+      "如何使用字典"
+    ],
+    "usphone": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "you have to show me how to use the dictionary",
+    "trans": [
+      "你必须展示给我如何使用字典"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ʃo/ /mi/ /haʊ/ /tə/ /juz/ /ðə/ /'dɪkʃənɛri/"
+  },
+  {
+    "name": "to let",
+    "trans": [
+      "让"
+    ],
+    "usphone": "/tə/ /lɛt/",
+    "ukphone": "/tə/ /lɛt/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "to let you",
+    "trans": [
+      "让你"
+    ],
+    "usphone": "/tə/ /lɛt/ /ju/",
+    "ukphone": "/tə/ /lɛt/ /ju/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to let you know",
+    "trans": [
+      "让你知道"
+    ],
+    "usphone": "/tə/ /lɛt/ /ju/ /no/",
+    "ukphone": "/tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "name": "I want to let you know",
+    "trans": [
+      "我想要让你知道"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "I want to let you know the truth",
+    "trans": [
+      "我想要让你知道事实"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "about",
+    "trans": [
+      "关于"
+    ],
+    "usphone": "/ə'baʊt/",
+    "ukphone": "/ə'baʊt/"
+  },
+  {
+    "name": "about me",
+    "trans": [
+      "关于我"
+    ],
+    "usphone": "/ə'baʊt/ /mi/",
+    "ukphone": "/ə'baʊt/ /mi/"
+  },
+  {
+    "name": "I want to let you know the truth about me",
+    "trans": [
+      "我想要让你知道关于我的事实"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/"
+  },
+  {
+    "name": "I will",
+    "trans": [
+      "我将会"
+    ],
+    "usphone": "/aɪ/ /wɪl/",
+    "ukphone": "/aɪ/ /wɪl/"
+  },
+  {
+    "name": "to let you know",
+    "trans": [
+      "让你知道"
+    ],
+    "usphone": "/tə/ /lɛt/ /ju/ /no/",
+    "ukphone": "/tə/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "name": "I will let you know",
+    "trans": [
+      "我将会让你知道"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/",
+    "ukphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/"
+  },
+  {
+    "name": "I will let you know the truth about me",
+    "trans": [
+      "我将会让你知道关于我的事实"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/",
+    "ukphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/"
+  },
+  {
+    "name": "next",
+    "trans": [
+      "下一个"
+    ],
+    "usphone": "/nɛkst/",
+    "ukphone": "/nɛkst/"
+  },
+  {
+    "name": "week",
+    "trans": [
+      "周"
+    ],
+    "usphone": "/wik/",
+    "ukphone": "/wik/"
+  },
+  {
+    "name": "next week",
+    "trans": [
+      "下周"
+    ],
+    "usphone": "/nɛkst/ /wik/",
+    "ukphone": "/nɛkst/ /wik/"
+  },
+  {
+    "name": "I will let you know the truth about me next week",
+    "trans": [
+      "我下周将会让你知道关于我的事实"
+    ],
+    "usphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/ /nɛkst/ /wik/",
+    "ukphone": "/aɪ/ /wɪl/ /lɛt/ /ju/ /no/ /ðə/ /trʊθ/ /ə'baʊt/ /mi/ /nɛkst/ /wik/"
+  },
+  {
+    "name": "to go",
+    "trans": [
+      "去"
+    ],
+    "usphone": "/tə/ /ɡo/",
+    "ukphone": "/tə/ /ɡo/"
+  },
+  {
+    "name": "out",
+    "trans": [
+      "外面"
+    ],
+    "usphone": "/aʊt/",
+    "ukphone": "/aʊt/"
+  },
+  {
+    "name": "to go out",
+    "trans": [
+      "去外面"
+    ],
+    "usphone": "/tə/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "I want to go out",
+    "trans": [
+      "我想要去外面"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "to let you",
+    "trans": [
+      "让你"
+    ],
+    "usphone": "/tə/ /lɛt/ /ju/",
+    "ukphone": "/tə/ /lɛt/ /ju/"
+  },
+  {
+    "name": "to let you go out",
+    "trans": [
+      "让你去外面"
+    ],
+    "usphone": "/tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+    "ukphone": "/tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "I want to let you go out",
+    "trans": [
+      "我想要让你去外面"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "I don't want to let you go out",
+    "trans": [
+      "我不想让你去外面"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/"
+  },
+  {
+    "name": "at night",
+    "trans": [
+      "在晚上"
+    ],
+    "usphone": "/ət/ /naɪt/",
+    "ukphone": "/ət/ /naɪt/"
+  },
+  {
+    "name": "I don't want to let you go out at night",
+    "trans": [
+      "我不想让你在晚上去外面"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "dangerous",
+    "trans": [
+      "危险的"
+    ],
+    "usphone": "/'dendʒərəs/",
+    "ukphone": "/'dendʒərəs/"
+  },
+  {
+    "name": "very",
+    "trans": [
+      "非常"
+    ],
+    "usphone": "/ˈvɛri/",
+    "ukphone": "/ˈvɛri/"
+  },
+  {
+    "name": "it is very dangerous",
+    "trans": [
+      "这件事是非常危险的"
+    ],
+    "usphone": "/ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+    "ukphone": "/ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "name": "because it is very dangerous",
+    "trans": [
+      "因为这件事是非常危险的"
+    ],
+    "usphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+    "ukphone": "/bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "name": "I don't want to let you go out at night because it is very dangerous",
+    "trans": [
+      "我不想让你在晚上去外面因为这件事是非常危险的"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/"
+  },
+  {
+    "name": "to stay",
+    "trans": [
+      "待在"
+    ],
+    "usphone": "/tə/ /ste/",
+    "ukphone": "/tə/ /ste/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "to stay here",
+    "trans": [
+      "待在这里"
+    ],
+    "usphone": "/tə/ /ste/ /hɪr/",
+    "ukphone": "/tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "I need you to stay here",
+    "trans": [
+      "我需要你待在这里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "and",
+    "trans": [
+      "而且"
+    ],
+    "usphone": "/ənd/",
+    "ukphone": "/ənd/"
+  },
+  {
+    "name": "and I need you to stay here",
+    "trans": [
+      "而且我需要你待在这里"
+    ],
+    "usphone": "/ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "I don't want to let you go out at night because it is very dangerous and I need you to stay here",
+    "trans": [
+      "我不想让你在晚上去外面因为这件事是非常危险的而且我需要你待在这里"
+    ],
+    "usphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/ /ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/",
+    "ukphone": "/aɪ/ /dont/ /wɑnt/ /tə/ /lɛt/ /ju/ /ɡo/ /aʊt/ /ət/ /naɪt/ /bɪ'kɔz/ /ɪt/ /ɪz/ /ˈvɛri/ /'dendʒərəs/ /ənd/ /aɪ/ /nid/ /tə/ /ste/ /hɪr/"
+  },
+  {
+    "name": "father",
+    "trans": [
+      "父亲"
+    ],
+    "usphone": "/'fɑðɚ/",
+    "ukphone": "/'fɑðɚ/"
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ],
+    "usphone": "/maɪ/",
+    "ukphone": "/maɪ/"
+  },
+  {
+    "name": "my father",
+    "trans": [
+      "我的父亲"
+    ],
+    "usphone": "/maɪ/ /'fɑðɚ/",
+    "ukphone": "/maɪ/ /'fɑðɚ/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话给"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call my father",
+    "trans": [
+      "打电话给我的父亲"
+    ],
+    "usphone": "/tə/ /kɔl/ /maɪ/ /'fɑðɚ/",
+    "ukphone": "/tə/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "name": "to let me",
+    "trans": [
+      "让我"
+    ],
+    "usphone": "/tə/ /lɛt/ /mi/",
+    "ukphone": "/tə/ /lɛt/ /mi/"
+  },
+  {
+    "name": "to let me call my father",
+    "trans": [
+      "让我打电话给我的父亲"
+    ],
+    "usphone": "/tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/",
+    "ukphone": "/tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "name": "to remember",
+    "trans": [
+      "记得"
+    ],
+    "usphone": "/tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "you have to remember",
+    "trans": [
+      "你必须记得"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "you have to remember to let me call my father",
+    "trans": [
+      "你必须记得让我打电话给我的父亲"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/",
+    "ukphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "to get there",
+    "trans": [
+      "到达那里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "we get there",
+    "trans": [
+      "我们到达那里"
+    ],
+    "usphone": "/wi/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/wi/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when we get there",
+    "trans": [
+      "当我们到达那里的时候"
+    ],
+    "usphone": "/wɛn/ /wi/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/wɛn/ /wi/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "you have to remember to let me call my father when we get there",
+    "trans": [
+      "你必须记得当我们到达那里的时候让我打电话给我的父亲"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/ /wɛn/ /wi/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/ju/ /hæv/ /tə/ /rɪ'mɛmbɚ/ /tə/ /lɛt/ /mi/ /kɔl/ /maɪ/ /'fɑðɚ/ /wɛn/ /wi/ /ɡɛt/ /ðɛr/"
+  }
+]

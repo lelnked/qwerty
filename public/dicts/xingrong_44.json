@@ -1,0 +1,1418 @@
+[
+  {
+    "name": "to ask",
+    "trans": [
+      "问"
+    ],
+    "usphone": "/tə/ /æsk/",
+    "ukphone": "/tə/ /æsk/"
+  },
+  {
+    "name": "questions",
+    "trans": [
+      "问题"
+    ],
+    "usphone": "/'kwɛstʃənz/",
+    "ukphone": "/'kwɛstʃənz/"
+  },
+  {
+    "name": "to ask questions",
+    "trans": [
+      "问问题"
+    ],
+    "usphone": "/tə/ /æsk/ /'kwɛstʃənz/",
+    "ukphone": "/tə/ /æsk/ /'kwɛstʃənz/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "any",
+    "trans": [
+      "任何"
+    ],
+    "usphone": "/'ɛni/",
+    "ukphone": "/'ɛni/"
+  },
+  {
+    "name": "any time",
+    "trans": [
+      "任何时间"
+    ],
+    "usphone": "/'ɛni/ /taɪm/",
+    "ukphone": "/'ɛni/ /taɪm/"
+  },
+  {
+    "name": "at any time",
+    "trans": [
+      "在任何时间"
+    ],
+    "usphone": "/ət/ /'ɛni/ /taɪm/",
+    "ukphone": "/ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "name": "to ask questions at any time",
+    "trans": [
+      "随时提问"
+    ],
+    "usphone": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+    "ukphone": "/tə/ /æsk/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "name": "asking questions at any time",
+    "trans": [
+      "随时提问(ing形式)"
+    ],
+    "usphone": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+    "ukphone": "/ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/",
+    "ukphone": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "name": "the teacher permits",
+    "trans": [
+      "老师允许"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the teacher permits asking questions at any time",
+    "trans": [
+      "老师允许随时提问"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /ˈæskɪŋ/ /'kwɛstʃənz/ /ət/ /'ɛni/ /taɪm/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从"
+    ],
+    "usphone": "/frʌm/",
+    "ukphone": "/frʌm/"
+  },
+  {
+    "name": "from home",
+    "trans": [
+      "从家里"
+    ],
+    "usphone": "/frʌm/ /hom/",
+    "ukphone": "/frʌm/ /hom/"
+  },
+  {
+    "name": "to work",
+    "trans": [
+      "工作"
+    ],
+    "usphone": "/tə/ /wɝk/",
+    "ukphone": "/tə/ /wɝk/"
+  },
+  {
+    "name": "to work from home",
+    "trans": [
+      "从家里工作"
+    ],
+    "usphone": "/tə/ /wɝk/ /frʌm/ /hom/",
+    "ukphone": "/tə/ /wɝk/ /frʌm/ /hom/"
+  },
+  {
+    "name": "Friday",
+    "trans": [
+      "周五"
+    ],
+    "usphone": "/ˈfraɪde/",
+    "ukphone": "/ˈfraɪde/"
+  },
+  {
+    "name": "on Friday",
+    "trans": [
+      "在周五"
+    ],
+    "usphone": "/ɑn/ /ˈfraɪde/",
+    "ukphone": "/ɑn/ /ˈfraɪde/"
+  },
+  {
+    "name": "to work from home on Fridays",
+    "trans": [
+      "在周五居家办公"
+    ],
+    "usphone": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+    "ukphone": "/tə/ /wɝk/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "name": "working from home on Fridays",
+    "trans": [
+      "在周五居家办公(ing形式)"
+    ],
+    "usphone": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+    "ukphone": "/ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the company",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "/ðə/ /ˈkʌmpəni/",
+    "ukphone": "/ðə/ /ˈkʌmpəni/"
+  },
+  {
+    "name": "the company permits",
+    "trans": [
+      "公司允许"
+    ],
+    "usphone": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the company permits working from home on Fridays",
+    "trans": [
+      "公司允许在周五居家办公"
+    ],
+    "usphone": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/",
+    "ukphone": "/ðə/ /ˈkʌmpəni/ /pɚˈmɪts/ /ˈwɝkɪŋ/ /frʌm/ /hom/ /ɑn/ /ˈfraɪdez/"
+  },
+  {
+    "name": "music",
+    "trans": [
+      "音乐"
+    ],
+    "usphone": "/'mjuzɪk/",
+    "ukphone": "/'mjuzɪk/"
+  },
+  {
+    "name": "to listen",
+    "trans": [
+      "听"
+    ],
+    "usphone": "/tə/ /'lɪsn/",
+    "ukphone": "/tə/ /'lɪsn/"
+  },
+  {
+    "name": "to listen to music",
+    "trans": [
+      "听音乐"
+    ],
+    "usphone": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/",
+    "ukphone": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "to break",
+    "trans": [
+      "打破"
+    ],
+    "usphone": "/tə/ /brek/",
+    "ukphone": "/tə/ /brek/"
+  },
+  {
+    "name": "break",
+    "trans": [
+      "休息"
+    ],
+    "usphone": "/brek/",
+    "ukphone": "/brek/"
+  },
+  {
+    "name": "during",
+    "trans": [
+      "在......期间"
+    ],
+    "usphone": "/'dʊrɪŋ/",
+    "ukphone": "/'dʊrɪŋ/"
+  },
+  {
+    "name": "during the break",
+    "trans": [
+      "在休息期间"
+    ],
+    "usphone": "/'dʊrɪŋ/ /ðə/ /brek/",
+    "ukphone": "/'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "name": "to listen to music during the break",
+    "trans": [
+      "在休息期间听音乐"
+    ],
+    "usphone": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+    "ukphone": "/tə/ /'lɪsn/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "name": "listening to music during the break",
+    "trans": [
+      "在休息期间听音乐(ing形式)"
+    ],
+    "usphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+    "ukphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/",
+    "ukphone": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "name": "the teacher permits",
+    "trans": [
+      "老师允许"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the teacher permits listening to music during the break",
+    "trans": [
+      "老师允许在休息期间听音乐"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "name": "to play",
+    "trans": [
+      "玩"
+    ],
+    "usphone": "/tə/ /ple/",
+    "ukphone": "/tə/ /ple/"
+  },
+  {
+    "name": "games",
+    "trans": [
+      "游戏"
+    ],
+    "usphone": "/ɡemz/",
+    "ukphone": "/ɡemz/"
+  },
+  {
+    "name": "to play games",
+    "trans": [
+      "玩游戏"
+    ],
+    "usphone": "/tə/ /ple/ /ɡemz/",
+    "ukphone": "/tə/ /ple/ /ɡemz/"
+  },
+  {
+    "name": "playing games",
+    "trans": [
+      "玩游戏(ing形式)"
+    ],
+    "usphone": "/ˈpleɪŋ/ /ɡemz/",
+    "ukphone": "/ˈpleɪŋ/ /ɡemz/"
+  },
+  {
+    "name": "listening to music",
+    "trans": [
+      "听音乐(ing形式)"
+    ],
+    "usphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/",
+    "ukphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/"
+  },
+  {
+    "name": "or",
+    "trans": [
+      "或者"
+    ],
+    "usphone": "/ɔr/",
+    "ukphone": "/ɔr/"
+  },
+  {
+    "name": "listening to music or playing games",
+    "trans": [
+      "听音乐或者玩游戏(ing形式)"
+    ],
+    "usphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/",
+    "ukphone": "/'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/"
+  },
+  {
+    "name": "the teacher permits listening to music or playing games during the break",
+    "trans": [
+      "老师允许在休息期间听音乐或者玩游戏"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'lɪsnɪŋ/ /tə/ /'mjuzɪk/ /ɔr/ /ˈpleɪŋ/ /ɡemz/ /'dʊrɪŋ/ /ðə/ /brek/"
+  },
+  {
+    "name": "during",
+    "trans": [
+      "在......期间"
+    ],
+    "usphone": "/'dʊrɪŋ/",
+    "ukphone": "/'dʊrɪŋ/"
+  },
+  {
+    "name": "test",
+    "trans": [
+      "测验"
+    ],
+    "usphone": "/tɛst/",
+    "ukphone": "/tɛst/"
+  },
+  {
+    "name": "during the test",
+    "trans": [
+      "在这个测验期间"
+    ],
+    "usphone": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "to use",
+    "trans": [
+      "使用"
+    ],
+    "usphone": "/tə/ /juz/",
+    "ukphone": "/tə/ /juz/"
+  },
+  {
+    "name": "calculator",
+    "trans": [
+      "计算器"
+    ],
+    "usphone": "/ˈkælkjuletɚ/",
+    "ukphone": "/ˈkælkjuletɚ/"
+  },
+  {
+    "name": "to use calculators",
+    "trans": [
+      "使用计算器"
+    ],
+    "usphone": "/tə/ /juz/ /ˈkælkjuletɚz/",
+    "ukphone": "/tə/ /juz/ /ˈkælkjuletɚz/"
+  },
+  {
+    "name": "using calculators",
+    "trans": [
+      "使用计算器(ing形式)"
+    ],
+    "usphone": "/'juzɪŋ/ /ˈkælkjuletɚz/",
+    "ukphone": "/'juzɪŋ/ /ˈkælkjuletɚz/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the teacher permits",
+    "trans": [
+      "老师允许"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the teacher permits using calculators",
+    "trans": [
+      "老师允许使用计算器"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/"
+  },
+  {
+    "name": "during the test",
+    "trans": [
+      "在这个测验期间"
+    ],
+    "usphone": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "the teacher permits using calculators during the test",
+    "trans": [
+      "老师允许在这个测验期间使用计算器"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/ðə/ /'titʃɚ/ /pɚˈmɪts/ /'juzɪŋ/ /ˈkælkjuletɚz/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "water",
+    "trans": [
+      "水"
+    ],
+    "usphone": "/'wɔtɚ/",
+    "ukphone": "/'wɔtɚ/"
+  },
+  {
+    "name": "to drink water",
+    "trans": [
+      "喝水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /'wɔtɚ/",
+    "ukphone": "/tə/ /drɪŋk/ /'wɔtɚ/"
+  },
+  {
+    "name": "test",
+    "trans": [
+      "测试"
+    ],
+    "usphone": "/tɛst/",
+    "ukphone": "/tɛst/"
+  },
+  {
+    "name": "blood",
+    "trans": [
+      "血液"
+    ],
+    "usphone": "/blʌd/",
+    "ukphone": "/blʌd/"
+  },
+  {
+    "name": "the blood test",
+    "trans": [
+      "血液测试"
+    ],
+    "usphone": "/ðə/ /blʌd/ /tɛst/",
+    "ukphone": "/ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before the blood test",
+    "trans": [
+      "在血液测试之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+    "ukphone": "/bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "name": "to drink water before the blood test",
+    "trans": [
+      "在血液测试之前喝水"
+    ],
+    "usphone": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+    "ukphone": "/tə/ /drɪŋk/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "name": "drinking water before the blood test",
+    "trans": [
+      "在血液测试之前喝水(ing形式)"
+    ],
+    "usphone": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+    "ukphone": "/'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "the doctor",
+    "trans": [
+      "医生"
+    ],
+    "usphone": "/ðə/ /'dɑktɚ/",
+    "ukphone": "/ðə/ /'dɑktɚ/"
+  },
+  {
+    "name": "the doctor permits",
+    "trans": [
+      "医生允许"
+    ],
+    "usphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the doctor permits drinking water",
+    "trans": [
+      "医生允许喝水"
+    ],
+    "usphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/",
+    "ukphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/"
+  },
+  {
+    "name": "the doctor permits drinking water before the blood test",
+    "trans": [
+      "医生允许在血液测试之前喝水"
+    ],
+    "usphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/",
+    "ukphone": "/ðə/ /'dɑktɚ/ /pɚˈmɪts/ /'drɪŋkɪŋ/ /'wɔtɚ/ /bɪ'fɔr/ /ðə/ /blʌd/ /tɛst/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/draɪv/",
+    "ukphone": "/draɪv/"
+  },
+  {
+    "name": "driving",
+    "trans": [
+      "驾驶(ing形式)"
+    ],
+    "usphone": "/'draɪvɪŋ/",
+    "ukphone": "/'draɪvɪŋ/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "政策"
+    ],
+    "usphone": "/ˈpɑləsi/",
+    "ukphone": "/ˈpɑləsi/"
+  },
+  {
+    "name": "the policy permits",
+    "trans": [
+      "政策允许"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the policy permits driving",
+    "trans": [
+      "政策允许驾驶"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "执照"
+    ],
+    "usphone": "/ˈlaɪsns/",
+    "ukphone": "/ˈlaɪsns/"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "有效的"
+    ],
+    "usphone": "/ˈvælɪd/",
+    "ukphone": "/ˈvælɪd/"
+  },
+  {
+    "name": "a valid license",
+    "trans": [
+      "一个有效的执照"
+    ],
+    "usphone": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "have",
+    "trans": [
+      "拥有"
+    ],
+    "usphone": "/hæv/",
+    "ukphone": "/hæv/"
+  },
+  {
+    "name": "you have",
+    "trans": [
+      "你拥有"
+    ],
+    "usphone": "/ju/ /hæv/",
+    "ukphone": "/ju/ /hæv/"
+  },
+  {
+    "name": "you have a valid license",
+    "trans": [
+      "你拥有一个有效的执照"
+    ],
+    "usphone": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "if",
+    "trans": [
+      "如果"
+    ],
+    "usphone": "/ɪf/",
+    "ukphone": "/ɪf/"
+  },
+  {
+    "name": "if you have a valid license",
+    "trans": [
+      "如果你拥有一个有效的执照"
+    ],
+    "usphone": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "the policy permits driving",
+    "trans": [
+      "政策允许驾驶"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/"
+  },
+  {
+    "name": "the policy permits driving if you have a valid license",
+    "trans": [
+      "政策允许开车如果你拥有一个有效的执照"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'draɪvɪŋ/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "to travel",
+    "trans": [
+      "旅行"
+    ],
+    "usphone": "/tə/ /'trævl/",
+    "ukphone": "/tə/ /'trævl/"
+  },
+  {
+    "name": "abroad",
+    "trans": [
+      "出国"
+    ],
+    "usphone": "/ə'brɔd/",
+    "ukphone": "/ə'brɔd/"
+  },
+  {
+    "name": "to travel abroad",
+    "trans": [
+      "出国旅行"
+    ],
+    "usphone": "/tə/ /'trævl/ /ə'brɔd/",
+    "ukphone": "/tə/ /'trævl/ /ə'brɔd/"
+  },
+  {
+    "name": "traveling abroad",
+    "trans": [
+      "出国旅行(ing形式)"
+    ],
+    "usphone": "/'trævlɪŋ/ /ə'brɔd/",
+    "ukphone": "/'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "policy",
+    "trans": [
+      "政策"
+    ],
+    "usphone": "/ˈpɑləsi/",
+    "ukphone": "/ˈpɑləsi/"
+  },
+  {
+    "name": "the policy permits",
+    "trans": [
+      "政策允许"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/"
+  },
+  {
+    "name": "the policy permits traveling abroad",
+    "trans": [
+      "政策允许出国旅行"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "name": "passport",
+    "trans": [
+      "护照"
+    ],
+    "usphone": "/'pæspɔrt/",
+    "ukphone": "/'pæspɔrt/"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "有效的"
+    ],
+    "usphone": "/ˈvælɪd/",
+    "ukphone": "/ˈvælɪd/"
+  },
+  {
+    "name": "a valid passport",
+    "trans": [
+      "一个有效的护照"
+    ],
+    "usphone": "/ə/ /ˈvælɪd/ /'pæspɔrt/",
+    "ukphone": "/ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "name": "you have",
+    "trans": [
+      "你拥有"
+    ],
+    "usphone": "/ju/ /hæv/",
+    "ukphone": "/ju/ /hæv/"
+  },
+  {
+    "name": "you have a valid passport",
+    "trans": [
+      "你拥有一个有效的护照"
+    ],
+    "usphone": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+    "ukphone": "/ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "name": "if you have a valid passport",
+    "trans": [
+      "如果你拥有一个有效的护照"
+    ],
+    "usphone": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+    "ukphone": "/ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "name": "the policy permits traveling abroad",
+    "trans": [
+      "政策允许出国旅行"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/"
+  },
+  {
+    "name": "the policy permits traveling abroad if you have a valid passport",
+    "trans": [
+      "政策允许出国旅行如果你拥有一个有效的护照"
+    ],
+    "usphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/",
+    "ukphone": "/ðə/ /ˈpɑləsi/ /pɚˈmɪts/ /'trævlɪŋ/ /ə'brɔd/ /ɪf/ /ju/ /hæv/ /ə/ /ˈvælɪd/ /'pæspɔrt/"
+  },
+  {
+    "name": "to smoke",
+    "trans": [
+      "抽烟"
+    ],
+    "usphone": "/tə/ /smok/",
+    "ukphone": "/tə/ /smok/"
+  },
+  {
+    "name": "smoking",
+    "trans": [
+      "抽烟(ing形式)"
+    ],
+    "usphone": "/ˈsmokɪŋ/",
+    "ukphone": "/ˈsmokɪŋ/"
+  },
+  {
+    "name": "to permit",
+    "trans": [
+      "允许"
+    ],
+    "usphone": "/tə/ /pɚˈmɪt/",
+    "ukphone": "/tə/ /pɚˈmɪt/"
+  },
+  {
+    "name": "we permit",
+    "trans": [
+      "我们允许"
+    ],
+    "usphone": "/wi/ /pɚˈmɪt/",
+    "ukphone": "/wi/ /pɚˈmɪt/"
+  },
+  {
+    "name": "we permit smoking",
+    "trans": [
+      "我们允许抽烟"
+    ],
+    "usphone": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+    "ukphone": "/wi/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+  },
+  {
+    "name": "we don't permit smoking",
+    "trans": [
+      "我们不允许抽烟"
+    ],
+    "usphone": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/",
+    "ukphone": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/"
+  },
+  {
+    "name": "office",
+    "trans": [
+      "办公室"
+    ],
+    "usphone": "/'ɑfɪs/",
+    "ukphone": "/'ɑfɪs/"
+  },
+  {
+    "name": "in the office",
+    "trans": [
+      "在办公室里"
+    ],
+    "usphone": "/ɪn/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "we don't permit smoking in the office",
+    "trans": [
+      "我们不允许在办公室里抽烟"
+    ],
+    "usphone": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+    "ukphone": "/wi/ /dont/ /pɚˈmɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "to prohibit",
+    "trans": [
+      "禁止"
+    ],
+    "usphone": "/tə/ /prəˈhɪbɪt/",
+    "ukphone": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "we prohibit",
+    "trans": [
+      "我们禁止"
+    ],
+    "usphone": "/wi/ /prəˈhɪbɪt/",
+    "ukphone": "/wi/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "smoking in the office",
+    "trans": [
+      "在办公室里抽烟(ing形式)"
+    ],
+    "usphone": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+    "ukphone": "/ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "we prohibit smoking in the office",
+    "trans": [
+      "我们禁止在办公室里抽烟"
+    ],
+    "usphone": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/",
+    "ukphone": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ði/ /'ɑfɪs/"
+  },
+  {
+    "name": "public",
+    "trans": [
+      "公共场所"
+    ],
+    "usphone": "/ˈpʌblɪk/",
+    "ukphone": "/ˈpʌblɪk/"
+  },
+  {
+    "name": "in public",
+    "trans": [
+      "在公共场所"
+    ],
+    "usphone": "/ɪn/ /ˈpʌblɪk/",
+    "ukphone": "/ɪn/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "we prohibit smoking in public",
+    "trans": [
+      "我们禁止在公共场所抽烟"
+    ],
+    "usphone": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/",
+    "ukphone": "/wi/ /prəˈhɪbɪt/ /ˈsmokɪŋ/ /ɪn/ /ˈpʌblɪk/"
+  },
+  {
+    "name": "to prohibit",
+    "trans": [
+      "禁止"
+    ],
+    "usphone": "/tə/ /prəˈhɪbɪt/",
+    "ukphone": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "the law",
+    "trans": [
+      "法律"
+    ],
+    "usphone": "/ðə/ /lɔ/",
+    "ukphone": "/ðə/ /lɔ/"
+  },
+  {
+    "name": "the law prohibits",
+    "trans": [
+      "法律禁止"
+    ],
+    "usphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "license",
+    "trans": [
+      "执照"
+    ],
+    "usphone": "/ˈlaɪsns/",
+    "ukphone": "/ˈlaɪsns/"
+  },
+  {
+    "name": "valid",
+    "trans": [
+      "有效的"
+    ],
+    "usphone": "/ˈvælɪd/",
+    "ukphone": "/ˈvælɪd/"
+  },
+  {
+    "name": "a valid license",
+    "trans": [
+      "一个有效的执照"
+    ],
+    "usphone": "/ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "to drive",
+    "trans": [
+      "驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/",
+    "ukphone": "/tə/ /draɪv/"
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和......一起"
+    ],
+    "usphone": "/wɪð/",
+    "ukphone": "/wɪð/"
+  },
+  {
+    "name": "to drive with a valid license",
+    "trans": [
+      "和一个有效的执照一起驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/tə/ /draɪv/ /wɪð/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "without",
+    "trans": [
+      "不和......一起"
+    ],
+    "usphone": "/wɪð'aʊt/",
+    "ukphone": "/wɪð'aʊt/"
+  },
+  {
+    "name": "to drive without a valid license",
+    "trans": [
+      "无证驾驶"
+    ],
+    "usphone": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/tə/ /draɪv/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "driving without a valid license",
+    "trans": [
+      "无证驾驶(ing形式)"
+    ],
+    "usphone": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "to prohibit",
+    "trans": [
+      "禁止"
+    ],
+    "usphone": "/tə/ /prəˈhɪbɪt/",
+    "ukphone": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "the law",
+    "trans": [
+      "法律"
+    ],
+    "usphone": "/ðə/ /lɔ/",
+    "ukphone": "/ðə/ /lɔ/"
+  },
+  {
+    "name": "the law prohibits",
+    "trans": [
+      "法律禁止"
+    ],
+    "usphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "the law prohibits driving without a valid license",
+    "trans": [
+      "法律禁止无证驾驶"
+    ],
+    "usphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/",
+    "ukphone": "/ðə/ /lɔ/ /prəˈhɪbɪts/ /'draɪvɪŋ/ /wɪð'aʊt/ /ə/ /ˈvælɪd/ /ˈlaɪsns/"
+  },
+  {
+    "name": "to prohibit",
+    "trans": [
+      "禁止"
+    ],
+    "usphone": "/tə/ /prəˈhɪbɪt/",
+    "ukphone": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "the teacher",
+    "trans": [
+      "老师"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/",
+    "ukphone": "/ðə/ /'titʃɚ/"
+  },
+  {
+    "name": "the teacher prohibits",
+    "trans": [
+      "老师禁止"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "homework",
+    "trans": [
+      "家庭作业"
+    ],
+    "usphone": "/'homwɝk/",
+    "ukphone": "/'homwɝk/"
+  },
+  {
+    "name": "to copy",
+    "trans": [
+      "复制"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/",
+    "ukphone": "/tə/ /ˈkɑpɪ/"
+  },
+  {
+    "name": "to copy homework",
+    "trans": [
+      "抄作业"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/ /'homwɝk/",
+    "ukphone": "/tə/ /ˈkɑpɪ/ /'homwɝk/"
+  },
+  {
+    "name": "others",
+    "trans": [
+      "其他人"
+    ],
+    "usphone": "/'ʌðɚz/",
+    "ukphone": "/'ʌðɚz/"
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从......那里"
+    ],
+    "usphone": "/frʌm/",
+    "ukphone": "/frʌm/"
+  },
+  {
+    "name": "from others",
+    "trans": [
+      "从其他人那里"
+    ],
+    "usphone": "/frʌm/ /'ʌðɚz/",
+    "ukphone": "/frʌm/ /'ʌðɚz/"
+  },
+  {
+    "name": "to copy homework from others",
+    "trans": [
+      "从其他人那里抄作业"
+    ],
+    "usphone": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+    "ukphone": "/tə/ /ˈkɑpɪ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "name": "copying homework from others",
+    "trans": [
+      "从其他人那里抄作业(ing形式)"
+    ],
+    "usphone": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+    "ukphone": "/ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "name": "the teacher prohibits",
+    "trans": [
+      "老师禁止"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "the teacher prohibits copying homework from others",
+    "trans": [
+      "老师禁止从其他人那里抄作业"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /ˈkɑpɪɪŋ/ /'homwɝk/ /frʌm/ /'ʌðɚz/"
+  },
+  {
+    "name": "the teacher prohibits",
+    "trans": [
+      "老师禁止"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "to talk",
+    "trans": [
+      "说话"
+    ],
+    "usphone": "/tə/ /tɔk/",
+    "ukphone": "/tə/ /tɔk/"
+  },
+  {
+    "name": "to laugh",
+    "trans": [
+      "笑"
+    ],
+    "usphone": "/tə/ /læf/",
+    "ukphone": "/tə/ /læf/"
+  },
+  {
+    "name": "or",
+    "trans": [
+      "或者"
+    ],
+    "usphone": "/ɔr/",
+    "ukphone": "/ɔr/"
+  },
+  {
+    "name": "to talk or to laugh",
+    "trans": [
+      "说话或者笑"
+    ],
+    "usphone": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/",
+    "ukphone": "/tə/ /tɔk/ /ɔr/ /tə/ /læf/"
+  },
+  {
+    "name": "talking or laughing",
+    "trans": [
+      "说笑(ing形式)"
+    ],
+    "usphone": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/",
+    "ukphone": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/"
+  },
+  {
+    "name": "test",
+    "trans": [
+      "测验"
+    ],
+    "usphone": "/tɛst/",
+    "ukphone": "/tɛst/"
+  },
+  {
+    "name": "during",
+    "trans": [
+      "在......期间"
+    ],
+    "usphone": "/'dʊrɪŋ/",
+    "ukphone": "/'dʊrɪŋ/"
+  },
+  {
+    "name": "during the test",
+    "trans": [
+      "在这个测验期间"
+    ],
+    "usphone": "/'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "talking or laughing during the test",
+    "trans": [
+      "在这个测验期间说笑(ing形式)"
+    ],
+    "usphone": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "the teacher prohibits",
+    "trans": [
+      "老师禁止"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "the teacher prohibits talking or laughing during the test",
+    "trans": [
+      "老师禁止在这个测验期间说笑"
+    ],
+    "usphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/",
+    "ukphone": "/ðə/ /'titʃɚ/ /prəˈhɪbɪts/ /'tɔkɪŋ/ /ɔr/ /'læfɪŋ/ /'dʊrɪŋ/ /ðə/ /tɛst/"
+  },
+  {
+    "name": "to prohibit",
+    "trans": [
+      "禁止"
+    ],
+    "usphone": "/tə/ /prəˈhɪbɪt/",
+    "ukphone": "/tə/ /prəˈhɪbɪt/"
+  },
+  {
+    "name": "the school",
+    "trans": [
+      "学校"
+    ],
+    "usphone": "/ðə/ /skul/",
+    "ukphone": "/ðə/ /skul/"
+  },
+  {
+    "name": "the school prohibits",
+    "trans": [
+      "学校禁止"
+    ],
+    "usphone": "/ðə/ /skul/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /skul/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "to drink",
+    "trans": [
+      "喝"
+    ],
+    "usphone": "/tə/ /drɪŋk/",
+    "ukphone": "/tə/ /drɪŋk/"
+  },
+  {
+    "name": "to eat or to drink",
+    "trans": [
+      "吃或者喝"
+    ],
+    "usphone": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/",
+    "ukphone": "/tə/ /it/ /ɔr/ /tə/ /drɪŋk/"
+  },
+  {
+    "name": "eating or drinking",
+    "trans": [
+      "吃喝(ing形式)"
+    ],
+    "usphone": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/",
+    "ukphone": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/"
+  },
+  {
+    "name": "class",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "/klæs/",
+    "ukphone": "/klæs/"
+  },
+  {
+    "name": "room",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "/rum/",
+    "ukphone": "/rum/"
+  },
+  {
+    "name": "classroom",
+    "trans": [
+      "教室"
+    ],
+    "usphone": "/'klæsrum/",
+    "ukphone": "/'klæsrum/"
+  },
+  {
+    "name": "in the classroom",
+    "trans": [
+      "在教室里"
+    ],
+    "usphone": "/ɪn/ /ðə/ /'klæsrum/",
+    "ukphone": "/ɪn/ /ðə/ /'klæsrum/"
+  },
+  {
+    "name": "eating or drinking in the classroom",
+    "trans": [
+      "在教室里吃喝(ing形式)"
+    ],
+    "usphone": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+    "ukphone": "/'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+  },
+  {
+    "name": "the school prohibits",
+    "trans": [
+      "学校禁止"
+    ],
+    "usphone": "/ðə/ /skul/ /prəˈhɪbɪts/",
+    "ukphone": "/ðə/ /skul/ /prəˈhɪbɪts/"
+  },
+  {
+    "name": "the school prohibits eating or drinking in the classroom",
+    "trans": [
+      "学校禁止在教室里吃喝"
+    ],
+    "usphone": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/",
+    "ukphone": "/ðə/ /skul/ /prəˈhɪbɪts/ /'itɪŋ/ /ɔr/ /'drɪŋkɪŋ/ /ɪn/ /ðə/ /'klæsrum/"
+  }
+]

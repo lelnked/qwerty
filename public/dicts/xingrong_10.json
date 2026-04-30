@@ -1,0 +1,1362 @@
+[
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "there",
+    "trans": [
+      "那里"
+    ],
+    "usphone": "/ðɛr/",
+    "ukphone": "/ðɛr/"
+  },
+  {
+    "name": "to get there",
+    "trans": [
+      "到达那里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "I need to get there",
+    "trans": [
+      "我需要到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "I don't need to get there",
+    "trans": [
+      "我不需要到达那里"
+    ],
+    "usphone": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /dont/ /nid/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "soon",
+    "trans": [
+      "很快；马上"
+    ],
+    "usphone": "/sun/",
+    "ukphone": "/sun/"
+  },
+  {
+    "name": "I need to get there soon",
+    "trans": [
+      "我需要马上到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /sun/"
+  },
+  {
+    "name": "possible",
+    "trans": [
+      "可能"
+    ],
+    "usphone": "/'pɑsəbl/",
+    "ukphone": "/'pɑsəbl/"
+  },
+  {
+    "name": "as soon as possible",
+    "trans": [
+      "尽快；尽可能地快"
+    ],
+    "usphone": "/əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "I need to get there as soon as possible",
+    "trans": [
+      "我需要尽快到达那里"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /ðɛr/ /əz/ /sun/ /əz/ /'pɑsəbl/"
+  },
+  {
+    "name": "how",
+    "trans": [
+      "如何"
+    ],
+    "usphone": "/haʊ/",
+    "ukphone": "/haʊ/"
+  },
+  {
+    "name": "how to get there",
+    "trans": [
+      "如何到达那里"
+    ],
+    "usphone": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "to know",
+    "trans": [
+      "知道"
+    ],
+    "usphone": "/tə/ /no/",
+    "ukphone": "/tə/ /no/"
+  },
+  {
+    "name": "to know how to get there",
+    "trans": [
+      "知道如何到达那里"
+    ],
+    "usphone": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ],
+    "usphone": "/wɑnt/",
+    "ukphone": "/wɑnt/"
+  },
+  {
+    "name": "I want to know how to get there",
+    "trans": [
+      "我想要知道如何到达那里"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "just",
+    "trans": [
+      "只是"
+    ],
+    "usphone": "/dʒʌst/",
+    "ukphone": "/dʒʌst/"
+  },
+  {
+    "name": "I just want to know how to get there",
+    "trans": [
+      "我只是想要知道如何到达那里"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "time",
+    "trans": [
+      "时间"
+    ],
+    "usphone": "/taɪm/",
+    "ukphone": "/taɪm/"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "准时"
+    ],
+    "usphone": "/ɑn/ /taɪm/",
+    "ukphone": "/ɑn/ /taɪm/"
+  },
+  {
+    "name": "I just want to know how to get there on time",
+    "trans": [
+      "我只是想要知道如何准时到达那里"
+    ],
+    "usphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /dʒʌst/ /wɑnt/ /tə/ /no/ /haʊ/ /tə/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "you have to get there",
+    "trans": [
+      "你必须到达那里"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "tonight",
+    "trans": [
+      "今晚"
+    ],
+    "usphone": "/tə'naɪt/",
+    "ukphone": "/tə'naɪt/"
+  },
+  {
+    "name": "you have to get there tonight",
+    "trans": [
+      "你必须今晚到达那里"
+    ],
+    "usphone": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+    "ukphone": "/ju/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+  },
+  {
+    "name": "you don't have to get there tonight",
+    "trans": [
+      "你不必今晚到达那里"
+    ],
+    "usphone": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/",
+    "ukphone": "/ju/ /dont/ /hæv/ /tə/ /ɡɛt/ /ðɛr/ /tə'naɪt/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "we can",
+    "trans": [
+      "我们可以"
+    ],
+    "usphone": "/wi/ /kæn/",
+    "ukphone": "/wi/ /kæn/"
+  },
+  {
+    "name": "to get there",
+    "trans": [
+      "到达那里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "we can get there",
+    "trans": [
+      "我们可以到达那里"
+    ],
+    "usphone": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/",
+    "ukphone": "/wi/ /kæn/ /tə/ /ɡɛt/ /ðɛr/"
+  },
+  {
+    "name": "on time",
+    "trans": [
+      "准时"
+    ],
+    "usphone": "/ɑn/ /taɪm/",
+    "ukphone": "/ɑn/ /taɪm/"
+  },
+  {
+    "name": "we can get there on time",
+    "trans": [
+      "我们可以准时到达那里"
+    ],
+    "usphone": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/wi/ /kæn/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "we can not get there on time",
+    "trans": [
+      "我们不可以准时到达那里"
+    ],
+    "usphone": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/wi/ /kæn/ /nɑt/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "we get there on time",
+    "trans": [
+      "我们准时到达那里"
+    ],
+    "usphone": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/wi/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "she gets there on time",
+    "trans": [
+      "她准时到达那里"
+    ],
+    "usphone": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/ʃi/ /ɡɛts/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "I get there on time",
+    "trans": [
+      "我准时到达那里"
+    ],
+    "usphone": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/aɪ/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "you get there on time",
+    "trans": [
+      "你准时到达那里"
+    ],
+    "usphone": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/",
+    "ukphone": "/ju/ /ɡɛt/ /ðɛr/ /ɑn/ /taɪm/"
+  },
+  {
+    "name": "to forget",
+    "trans": [
+      "忘记"
+    ],
+    "usphone": "/tə/ /fɚ'ɡɛt/",
+    "ukphone": "/tə/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "you forget",
+    "trans": [
+      "你忘记"
+    ],
+    "usphone": "/ju/ /fɚ'ɡɛt/",
+    "ukphone": "/ju/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "to lock",
+    "trans": [
+      "锁"
+    ],
+    "usphone": "/tə/ /lɑk/",
+    "ukphone": "/tə/ /lɑk/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you forget to lock the door",
+    "trans": [
+      "你忘记锁门"
+    ],
+    "usphone": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you don't forget to lock the door",
+    "trans": [
+      "你不要忘记锁门"
+    ],
+    "usphone": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "don't forget to lock the door",
+    "trans": [
+      "不要忘记锁门"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "to leave",
+    "trans": [
+      "离开"
+    ],
+    "usphone": "/tə/ /liv/",
+    "ukphone": "/tə/ /liv/"
+  },
+  {
+    "name": "the house",
+    "trans": [
+      "房子；家"
+    ],
+    "usphone": "/ðə/ /haʊs/",
+    "ukphone": "/ðə/ /haʊs/"
+  },
+  {
+    "name": "to leave the house",
+    "trans": [
+      "离开家"
+    ],
+    "usphone": "/tə/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/tə/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "you leave the house",
+    "trans": [
+      "你离开家"
+    ],
+    "usphone": "/ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you leave the house",
+    "trans": [
+      "当你离开家的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "don't forget to lock the door when you leave the house",
+    "trans": [
+      "不要忘记锁门当你离开家的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "to remember",
+    "trans": [
+      "记得"
+    ],
+    "usphone": "/tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "to lock the door",
+    "trans": [
+      "锁门"
+    ],
+    "usphone": "/tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "you remember to lock the door",
+    "trans": [
+      "你记得锁门"
+    ],
+    "usphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "remember to lock the door",
+    "trans": [
+      "记得锁门"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "remember to lock the door when you leave the house",
+    "trans": [
+      "记得锁门当你离开家的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /lɑk/ /ðə/ /dɔr/ /wɛn/ /ju/ /liv/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "to tell",
+    "trans": [
+      "告诉"
+    ],
+    "usphone": "/tə/ /tɛl/",
+    "ukphone": "/tə/ /tɛl/"
+  },
+  {
+    "name": "to tell her",
+    "trans": [
+      "告诉她"
+    ],
+    "usphone": "/tə/ /tɛl/ /hɚ/",
+    "ukphone": "/tə/ /tɛl/ /hɚ/"
+  },
+  {
+    "name": "the truth",
+    "trans": [
+      "事实"
+    ],
+    "usphone": "/ðə/ /trʊθ/",
+    "ukphone": "/ðə/ /trʊθ/"
+  },
+  {
+    "name": "to tell her the truth",
+    "trans": [
+      "告诉她事实"
+    ],
+    "usphone": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+    "ukphone": "/tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "remember to tell her the truth",
+    "trans": [
+      "记得告诉她事实"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/"
+  },
+  {
+    "name": "here",
+    "trans": [
+      "这里"
+    ],
+    "usphone": "/hɪr/",
+    "ukphone": "/hɪr/"
+  },
+  {
+    "name": "to get here",
+    "trans": [
+      "到达这里"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /hɪr/",
+    "ukphone": "/tə/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "name": "I get here",
+    "trans": [
+      "我到达这里"
+    ],
+    "usphone": "/aɪ/ /ɡɛt/ /hɪr/",
+    "ukphone": "/aɪ/ /ɡɛt/ /hɪr/"
+  },
+  {
+    "name": "she gets here",
+    "trans": [
+      "她到达这里"
+    ],
+    "usphone": "/ʃi/ /ɡɛts/ /hɪr/",
+    "ukphone": "/ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when she gets here",
+    "trans": [
+      "当她到达这里的时候"
+    ],
+    "usphone": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+    "ukphone": "/wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "name": "remember to tell her the truth when she gets here",
+    "trans": [
+      "记得告诉她事实当她到达这里的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "name": "don't forget to tell her the truth when she gets here",
+    "trans": [
+      "不要忘记告诉她事实当她到达这里的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /tɛl/ /hɚ/ /ðə/ /trʊθ/ /wɛn/ /ʃi/ /ɡɛts/ /hɪr/"
+  },
+  {
+    "name": "to pay",
+    "trans": [
+      "支付"
+    ],
+    "usphone": "/tə/ /pe/",
+    "ukphone": "/tə/ /pe/"
+  },
+  {
+    "name": "the bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "/ðə/ /bɪl/",
+    "ukphone": "/ðə/ /bɪl/"
+  },
+  {
+    "name": "to pay the bill",
+    "trans": [
+      "支付账单"
+    ],
+    "usphone": "/tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "remember to pay the bill",
+    "trans": [
+      "记得支付账单"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "don't forget to pay the bill",
+    "trans": [
+      "不要忘记支付账单"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you leave",
+    "trans": [
+      "当你离开的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /liv/",
+    "ukphone": "/wɛn/ /ju/ /liv/"
+  },
+  {
+    "name": "don't forget to pay the bill when you leave",
+    "trans": [
+      "不要忘记支付账单当你离开的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+  },
+  {
+    "name": "remember to pay the bill when you leave",
+    "trans": [
+      "记得支付账单当你离开的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /pe/ /ðə/ /bɪl/ /wɛn/ /ju/ /liv/"
+  },
+  {
+    "name": "to do",
+    "trans": [
+      "做"
+    ],
+    "usphone": "/tə/ /du/",
+    "ukphone": "/tə/ /du/"
+  },
+  {
+    "name": "the housework",
+    "trans": [
+      "家务"
+    ],
+    "usphone": "/ðə/ /'haʊswɝk/",
+    "ukphone": "/ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "to do the housework",
+    "trans": [
+      "做家务"
+    ],
+    "usphone": "/tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "don't forget to do the housework",
+    "trans": [
+      "不要忘记做家务"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "remember to do the housework",
+    "trans": [
+      "记得做家务"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/"
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ],
+    "usphone": "/hom/",
+    "ukphone": "/hom/"
+  },
+  {
+    "name": "at home",
+    "trans": [
+      "在家里"
+    ],
+    "usphone": "/ət/ /hom/",
+    "ukphone": "/ət/ /hom/"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你"
+    ],
+    "usphone": "/ju/",
+    "ukphone": "/ju/"
+  },
+  {
+    "name": "you are at home",
+    "trans": [
+      "你在家里"
+    ],
+    "usphone": "/ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you are at home",
+    "trans": [
+      "当你在家里的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "remember to do the housework when you are at home",
+    "trans": [
+      "记得做家务当你在家里的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "don't forget to do the housework when you are at home",
+    "trans": [
+      "不要忘记做家务当你在家里的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /du/ /ðə/ /'haʊswɝk/ /wɛn/ /ju/ /ɚ/ /ət/ /hom/"
+  },
+  {
+    "name": "hand",
+    "trans": [
+      "手"
+    ],
+    "usphone": "/hænd/",
+    "ukphone": "/hænd/"
+  },
+  {
+    "name": "hands",
+    "trans": [
+      "手（复数）"
+    ],
+    "usphone": "/hændz/",
+    "ukphone": "/hændz/"
+  },
+  {
+    "name": "your hands",
+    "trans": [
+      "你的手"
+    ],
+    "usphone": "/jʊr/ /hænds/",
+    "ukphone": "/jʊr/ /hænds/"
+  },
+  {
+    "name": "to wash",
+    "trans": [
+      "洗"
+    ],
+    "usphone": "/tə/ /wɑʃ/",
+    "ukphone": "/tə/ /wɑʃ/"
+  },
+  {
+    "name": "to wash your hands",
+    "trans": [
+      "洗你的手"
+    ],
+    "usphone": "/tə/ /wɑʃ/ /jʊr/ /hænds/",
+    "ukphone": "/tə/ /wɑʃ/ /jʊr/ /hænds/"
+  },
+  {
+    "name": "don't forget",
+    "trans": [
+      "不要忘记"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "don't forget to wash your hands",
+    "trans": [
+      "不要忘记洗你的手"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/"
+  },
+  {
+    "name": "to eat",
+    "trans": [
+      "吃"
+    ],
+    "usphone": "/tə/ /it/",
+    "ukphone": "/tə/ /it/"
+  },
+  {
+    "name": "the food",
+    "trans": [
+      "食物"
+    ],
+    "usphone": "/ðə/ /fud/",
+    "ukphone": "/ðə/ /fud/"
+  },
+  {
+    "name": "to eat the food",
+    "trans": [
+      "吃食物"
+    ],
+    "usphone": "/tə/ /it/ /ðə/ /fud/",
+    "ukphone": "/tə/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "you can eat the food",
+    "trans": [
+      "你可以吃食物"
+    ],
+    "usphone": "/ju/ /kæn/ /it/ /ðə/ /fud/",
+    "ukphone": "/ju/ /kæn/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "you eat the food",
+    "trans": [
+      "你吃食物"
+    ],
+    "usphone": "/ju/ /it/ /ðə/ /fud/",
+    "ukphone": "/ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "before",
+    "trans": [
+      "在......之前"
+    ],
+    "usphone": "/bɪ'fɔr/",
+    "ukphone": "/bɪ'fɔr/"
+  },
+  {
+    "name": "before you eat the food",
+    "trans": [
+      "在你吃食物之前"
+    ],
+    "usphone": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+    "ukphone": "/bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "don't forget to wash your hands before you eat the food",
+    "trans": [
+      "不要忘记洗你的手在你吃食物之前"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "remember to wash your hands before you eat the food",
+    "trans": [
+      "记得洗你的手在你吃食物之前"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /wɑʃ/ /jʊr/ /hænds/ /bɪ'fɔr/ /ju/ /it/ /ðə/ /fud/"
+  },
+  {
+    "name": "to get",
+    "trans": [
+      "到达"
+    ],
+    "usphone": "/tə/ /ɡɛt/",
+    "ukphone": "/tə/ /ɡɛt/"
+  },
+  {
+    "name": "to get home",
+    "trans": [
+      "到达家；回到家"
+    ],
+    "usphone": "/tə/ /ɡɛt/ /hom/",
+    "ukphone": "/tə/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "need",
+    "trans": [
+      "需要"
+    ],
+    "usphone": "/nid/",
+    "ukphone": "/nid/"
+  },
+  {
+    "name": "I need to get home",
+    "trans": [
+      "我需要回家"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "should",
+    "trans": [
+      "应该"
+    ],
+    "usphone": "/ʃʊd/",
+    "ukphone": "/ʃʊd/"
+  },
+  {
+    "name": "I should get home",
+    "trans": [
+      "我应该回家"
+    ],
+    "usphone": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/",
+    "ukphone": "/aɪ/ /ʃʊd/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "I get home",
+    "trans": [
+      "我回家"
+    ],
+    "usphone": "/aɪ/ /ɡɛt/ /hom/",
+    "ukphone": "/aɪ/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "you get home",
+    "trans": [
+      "你回家"
+    ],
+    "usphone": "/ju/ /ɡɛt/ /hom/",
+    "ukphone": "/ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "to call",
+    "trans": [
+      "打电话"
+    ],
+    "usphone": "/tə/ /kɔl/",
+    "ukphone": "/tə/ /kɔl/"
+  },
+  {
+    "name": "to call me",
+    "trans": [
+      "给我打电话"
+    ],
+    "usphone": "/tə/ /kɔl/ /mi/",
+    "ukphone": "/tə/ /kɔl/ /mi/"
+  },
+  {
+    "name": "remember to call me",
+    "trans": [
+      "记得给我打电话"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you get home",
+    "trans": [
+      "当你回到家的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "remember to call me when you get home",
+    "trans": [
+      "记得给我打电话当你回到家的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "don't forget",
+    "trans": [
+      "不要忘记"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "don't forget to call me when you get home",
+    "trans": [
+      "不要忘记给我打电话当你回到家的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kɔl/ /mi/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "to clean",
+    "trans": [
+      "清理；打扫"
+    ],
+    "usphone": "/tə/ /klin/",
+    "ukphone": "/tə/ /klin/"
+  },
+  {
+    "name": "the room",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "/ðə/ /rum/",
+    "ukphone": "/ðə/ /rum/"
+  },
+  {
+    "name": "to clean the room",
+    "trans": [
+      "打扫房间"
+    ],
+    "usphone": "/tə/ /klin/ /ðə/ /rum/",
+    "ukphone": "/tə/ /klin/ /ðə/ /rum/"
+  },
+  {
+    "name": "don't forget to clean the room",
+    "trans": [
+      "不要忘记打扫房间"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/"
+  },
+  {
+    "name": "when you get home",
+    "trans": [
+      "当你回到家的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "don't forget to clean the room when you get home",
+    "trans": [
+      "不要忘记打扫房间当你回到家的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "remember to clean the room when you get home",
+    "trans": [
+      "记得打扫房间当你回到家的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /klin/ /ðə/ /rum/ /wɛn/ /ju/ /ɡɛt/ /hom/"
+  },
+  {
+    "name": "to find",
+    "trans": [
+      "找到"
+    ],
+    "usphone": "/tə/ /faɪnd/",
+    "ukphone": "/tə/ /faɪnd/"
+  },
+  {
+    "name": "the key",
+    "trans": [
+      "钥匙"
+    ],
+    "usphone": "/ðə/ /ki/",
+    "ukphone": "/ðə/ /ki/"
+  },
+  {
+    "name": "to find the key",
+    "trans": [
+      "找到钥匙"
+    ],
+    "usphone": "/tə/ /faɪnd/ /ðə/ /ki/",
+    "ukphone": "/tə/ /faɪnd/ /ðə/ /ki/"
+  },
+  {
+    "name": "I need",
+    "trans": [
+      "我需要"
+    ],
+    "usphone": "/aɪ/ /nid/",
+    "ukphone": "/aɪ/ /nid/"
+  },
+  {
+    "name": "I need to find the key",
+    "trans": [
+      "我需要找到钥匙"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/"
+  },
+  {
+    "name": "the door",
+    "trans": [
+      "门"
+    ],
+    "usphone": "/ðə/ /dɔr/",
+    "ukphone": "/ðə/ /dɔr/"
+  },
+  {
+    "name": "the key to the door",
+    "trans": [
+      "门的钥匙"
+    ],
+    "usphone": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "the house",
+    "trans": [
+      "房子"
+    ],
+    "usphone": "/ðə/ /haʊs/",
+    "ukphone": "/ðə/ /haʊs/"
+  },
+  {
+    "name": "the key to the house",
+    "trans": [
+      "房子的钥匙"
+    ],
+    "usphone": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+    "ukphone": "/ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "I need to find the key to the door",
+    "trans": [
+      "我需要找到门的钥匙"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "I have to find the key to the house",
+    "trans": [
+      "我必须找到房子的钥匙"
+    ],
+    "usphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+    "ukphone": "/aɪ/ /nid/ /tə/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "can",
+    "trans": [
+      "可以；能"
+    ],
+    "usphone": "/kæn/",
+    "ukphone": "/kæn/"
+  },
+  {
+    "name": "I can find the key to the door",
+    "trans": [
+      "我能找到门的钥匙"
+    ],
+    "usphone": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/aɪ/ /kæn/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "I can not find the key to the door",
+    "trans": [
+      "我不能找到门的钥匙"
+    ],
+    "usphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "I can not find the key to the house",
+    "trans": [
+      "我不能找到房子的钥匙"
+    ],
+    "usphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/",
+    "ukphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ðə/ /ki/ /tə/ /ðə/ /haʊs/"
+  },
+  {
+    "name": "lost",
+    "trans": [
+      "弄丢了"
+    ],
+    "usphone": "/lɔst/",
+    "ukphone": "/lɔst/"
+  },
+  {
+    "name": "I lost the key",
+    "trans": [
+      "我弄丢了钥匙"
+    ],
+    "usphone": "/aɪ/ /lɔst/ /ðə/ /ki/",
+    "ukphone": "/aɪ/ /lɔst/ /ðə/ /ki/"
+  },
+  {
+    "name": "the key to the door",
+    "trans": [
+      "门的钥匙"
+    ],
+    "usphone": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "I lost the key to the door",
+    "trans": [
+      "我弄丢了门的钥匙"
+    ],
+    "usphone": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "I think",
+    "trans": [
+      "我觉得；我认为"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/",
+    "ukphone": "/aɪ/ /θɪŋk/"
+  },
+  {
+    "name": "I think I lost the key to the door",
+    "trans": [
+      "我觉得我丢掉了门的钥匙"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/",
+    "ukphone": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/"
+  },
+  {
+    "name": "because",
+    "trans": [
+      "因为"
+    ],
+    "usphone": "/bɪ'kɔz/",
+    "ukphone": "/bɪ'kɔz/"
+  },
+  {
+    "name": "I can not find it",
+    "trans": [
+      "我不能找到它"
+    ],
+    "usphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+    "ukphone": "/aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "I think I lost the key to the door because I can not find it",
+    "trans": [
+      "我觉得我丢掉了门的钥匙因为我不能找到它"
+    ],
+    "usphone": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/",
+    "ukphone": "/aɪ/ /θɪŋk/ /aɪ/ /lɔst/ /ðə/ /ki/ /tə/ /ðə/ /dɔr/ /bɪ'kɔz/ /aɪ/ /kæn/ /nɑt/ /faɪnd/ /ɪt/"
+  },
+  {
+    "name": "to close",
+    "trans": [
+      "关闭"
+    ],
+    "usphone": "/tə/ /kloz/",
+    "ukphone": "/tə/ /kloz/"
+  },
+  {
+    "name": "the window",
+    "trans": [
+      "窗户"
+    ],
+    "usphone": "/ðə/ /'wɪndo/",
+    "ukphone": "/ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to close the window",
+    "trans": [
+      "关闭窗户"
+    ],
+    "usphone": "/tə/ /kloz/ /ðə/ /'wɪndo/",
+    "ukphone": "/tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "I want to close the window",
+    "trans": [
+      "我想要关闭窗户"
+    ],
+    "usphone": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+    "ukphone": "/aɪ/ /wɑnt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "to remember",
+    "trans": [
+      "记得"
+    ],
+    "usphone": "/tə/ /rɪ'mɛmbɚ/",
+    "ukphone": "/tə/ /rɪ'mɛmbɚ/"
+  },
+  {
+    "name": "you remember to close the window",
+    "trans": [
+      "你记得关闭窗户"
+    ],
+    "usphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+    "ukphone": "/ju/ /rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "remember to close the window",
+    "trans": [
+      "记得关闭窗户"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "don't forget",
+    "trans": [
+      "不要忘记"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/"
+  },
+  {
+    "name": "don't forget to close the window",
+    "trans": [
+      "不要忘记关闭窗户"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/"
+  },
+  {
+    "name": "when",
+    "trans": [
+      "当......的时候"
+    ],
+    "usphone": "/wɛn/",
+    "ukphone": "/wɛn/"
+  },
+  {
+    "name": "when you leave",
+    "trans": [
+      "当你离开的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /liv/",
+    "ukphone": "/wɛn/ /ju/ /liv/"
+  },
+  {
+    "name": "the room",
+    "trans": [
+      "房间"
+    ],
+    "usphone": "/ðə/ /rum/",
+    "ukphone": "/ðə/ /rum/"
+  },
+  {
+    "name": "when you leave the room",
+    "trans": [
+      "当你离开房间的时候"
+    ],
+    "usphone": "/wɛn/ /ju/ /liv/ /ðə/ /rum/",
+    "ukphone": "/wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  },
+  {
+    "name": "don't forget to close the window when you leave the room",
+    "trans": [
+      "不要忘记关闭窗户当你离开房间的时候"
+    ],
+    "usphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+    "ukphone": "/dont/ /fɚ'ɡɛt/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  },
+  {
+    "name": "remember to close the window when you leave the room",
+    "trans": [
+      "记得关闭窗户当你离开房间的时候"
+    ],
+    "usphone": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/",
+    "ukphone": "/rɪ'mɛmbɚ/ /tə/ /kloz/ /ðə/ /'wɪndo/ /wɛn/ /ju/ /liv/ /ðə/ /rum/"
+  }
+]
