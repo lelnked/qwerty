@@ -1,13 +1,14 @@
 import type {
   IActiveCourseMapEntry,
   IChapterRecord,
+  IMasteredWord,
   INewWord,
   IReviewRecord,
   IRevisionDictRecord,
   IWordRecord,
   LetterMistakes,
 } from './record'
-import { ActiveCourseMapEntry, ChapterRecord, NewWord, ReviewRecord, WordRecord } from './record'
+import { ActiveCourseMapEntry, ChapterRecord, MasteredWord, NewWord, ReviewRecord, WordRecord } from './record'
 import { TypingContext, TypingStateActionType } from '@/pages/Typing/store'
 import type { TypingState } from '@/pages/Typing/store/type'
 import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom } from '@/store'
@@ -21,6 +22,7 @@ class RecordDB extends Dexie {
   chapterRecords!: Table<IChapterRecord, number>
   reviewRecords!: Table<IReviewRecord, number>
   newWords!: Table<INewWord, number>
+  masteredWords!: Table<IMasteredWord, number>
   activeCourseMap!: Table<IActiveCourseMapEntry, number>
 
   revisionDictRecords!: Table<IRevisionDictRecord, number>
@@ -54,6 +56,14 @@ class RecordDB extends Dexie {
       newWords: '++id,word,dictId,timeStamp',
       activeCourseMap: '++id,&coursePackId',
     })
+    this.version(6).stores({
+      wordRecords: '++id,word,timeStamp,dict,chapter,wrongCount,[dict+chapter]',
+      chapterRecords: '++id,timeStamp,dict,chapter,time,[dict+chapter]',
+      reviewRecords: '++id,dict,createTime,isFinished',
+      newWords: '++id,word,dictId,timeStamp',
+      masteredWords: '++id,word,dictId,timeStamp',
+      activeCourseMap: '++id,&coursePackId',
+    })
   }
 }
 
@@ -63,6 +73,7 @@ db.wordRecords.mapToClass(WordRecord)
 db.chapterRecords.mapToClass(ChapterRecord)
 db.reviewRecords.mapToClass(ReviewRecord)
 db.newWords.mapToClass(NewWord)
+db.masteredWords.mapToClass(MasteredWord)
 db.activeCourseMap.mapToClass(ActiveCourseMapEntry)
 
 export function useSaveChapterRecord() {

@@ -6,6 +6,7 @@ import Phonetic from './components/Phonetic'
 import PlayWord from './components/PlayWord'
 import Translation from './components/Translation'
 import WordComponent from './components/Word'
+import { useMasteredWords } from '@/hooks/useMasteredWords'
 import { useNewWords } from '@/hooks/useNewWords'
 import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
 import {
@@ -34,6 +35,7 @@ export default function WordPanel() {
   const currentWord = state.chapterData.words[state.chapterData.index]
   const nextWord = state.chapterData.words[state.chapterData.index + 1] as Word | undefined
   const { addNewWord } = useNewWords()
+  const { addMasteredWord } = useMasteredWords()
 
   const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
@@ -45,6 +47,18 @@ export default function WordPanel() {
       e.preventDefault()
       if (currentWord) {
         addNewWord(currentWord)
+      }
+    },
+    { enableOnFormTags: true },
+  )
+
+  // 快捷键加入掌握列表（后续不再出现在练习中）
+  useHotkeys(
+    'ctrl+m',
+    (e) => {
+      e.preventDefault()
+      if (currentWord) {
+        addMasteredWord(currentWord)
       }
     },
     { enableOnFormTags: true },

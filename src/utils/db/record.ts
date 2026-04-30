@@ -196,6 +196,32 @@ export class NewWord implements INewWord {
   }
 }
 
+export interface IMasteredWord {
+  id?: number
+  word: string
+  dictId: string
+  timeStamp: number
+  meaning: string
+  pronunciation: string
+}
+
+export class MasteredWord implements IMasteredWord {
+  id?: number
+  word: string
+  dictId: string
+  timeStamp: number
+  meaning: string
+  pronunciation: string
+
+  constructor(word: string, dictId: string, meaning: string, pronunciation: string) {
+    this.word = word
+    this.dictId = dictId
+    this.meaning = meaning
+    this.pronunciation = pronunciation
+    this.timeStamp = getUTCUnixTimestamp()
+  }
+}
+
 export interface IActiveCourseMapEntry {
   id?: number
   coursePackId: string

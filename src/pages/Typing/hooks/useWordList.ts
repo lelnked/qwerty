@@ -1,4 +1,5 @@
 import { CHAPTER_LENGTH } from '@/constants'
+import { useMasteredWordsSet } from '@/hooks/useMasteredWords'
 import { useSkipMasteredWord } from '@/hooks/useSkipMasteredWord'
 import { currentChapterAtom, currentDictInfoAtom, reviewModeInfoAtom } from '@/store'
 import type { Word, WordWithIndex } from '@/typings/index'
@@ -31,8 +32,14 @@ export function useWordList(): UseWordListResult {
   const isFirstChapter = !isReviewMode && currentDictInfo.id === 'cet4' && currentChapter === 0
   const { data: wordList, error, isLoading } = useSWR(currentDictInfo.url, wordListFetcher)
 
-  // 默认策略：练习中跳过已加入生词本的单词
-  const masteredSet = useSkipMasteredWord(currentDictInfo.id)
+  // 默认策略：练习中跳过已加入生词本和掌握列表的单词
+  const newWordsSet = useSkipMasteredWord(currentDictInfo.id)
+  const masteredOnlySet = useMasteredWordsSet(currentDictInfo.id)
+  const masteredSet = useMemo(() => {
+    const s = new Set<string>(newWordsSet)
+    masteredOnlySet.forEach((w) => s.add(w))
+    return s
+  }, [newWordsSet, masteredOnlySet])
 
   const sourceLength = useMemo(() => {
     if (isFirstChapter) return firstChapter.length
