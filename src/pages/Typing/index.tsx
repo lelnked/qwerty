@@ -14,7 +14,14 @@ import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import { currentChapterAtom, currentDictIdAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  currentChapterAtom,
+  currentDictIdAtom,
+  isPlayModeAtom,
+  isReviewModeAtom,
+  randomConfigAtom,
+  reviewModeInfoAtom,
+} from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
@@ -36,6 +43,7 @@ const App: React.FC = () => {
 
   const reviewModeInfo = useAtomValue(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
+  const isPlayMode = useAtomValue(isPlayModeAtom)
 
   useEffect(() => {
     // 检测用户设备
@@ -63,6 +71,9 @@ const App: React.FC = () => {
   }, [dispatch])
 
   useEffect(() => {
+    // 播放模式下切换标签页/失焦时不要暂停，保证后台继续播放
+    if (isPlayMode) return
+
     const onBlur = () => {
       dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: false })
     }
@@ -71,7 +82,14 @@ const App: React.FC = () => {
     return () => {
       window.removeEventListener('blur', onBlur)
     }
-  }, [dispatch])
+  }, [dispatch, isPlayMode])
+
+  // 播放模式开启后自动进入"输入中"状态，无需用户按键
+  useEffect(() => {
+    if (isPlayMode && !isLoading && !state.isFinished && !state.isTyping) {
+      dispatch({ type: TypingStateActionType.SET_IS_TYPING, payload: true })
+    }
+  }, [isPlayMode, isLoading, state.isFinished, state.isTyping, dispatch])
 
   useEffect(() => {
     if (state.chapterData.words?.length > 0 || isAllMastered) {

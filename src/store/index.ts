@@ -113,5 +113,17 @@ export const dismissStartCardDateAtom = atomWithStorage<Date | null>(DISMISS_STA
 // Enhanced version promotion popup state
 export const hasSeenEnhancedPromotionAtom = atomWithStorage('hasSeenEnhancedPromotion', false)
 
+// 播放模式：自动顺次播放单词发音，无需键盘输入；切换标签页后仍可继续播放
+export const isPlayModeAtom = atomWithStorage('isPlayMode', false)
+
+export const playModeConfigAtom = atomForConfig('playModeConfig', {
+  // 单词读完后到下一个单词的间隔（毫秒）
+  intervalMs: 1200,
+  // 每个单词朗读次数
+  repeatTimes: 1,
+  // 是否朗读释义
+  readTrans: false,
+})
+
 // for dev test
 //   dismissStartCardDateAtom = atom<Date | null>(new Date())

@@ -3,11 +3,19 @@ import type { TypingState } from '../../store/type'
 import PrevAndNextWord from '../PrevAndNextWord'
 import Progress from '../Progress'
 import Phonetic from './components/Phonetic'
+import PlayWord from './components/PlayWord'
 import Translation from './components/Translation'
 import WordComponent from './components/Word'
 import { useNewWords } from '@/hooks/useNewWords'
 import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
-import { isReviewModeAtom, isShowPrevAndNextWordAtom, loopWordConfigAtom, phoneticConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  isPlayModeAtom,
+  isReviewModeAtom,
+  isShowPrevAndNextWordAtom,
+  loopWordConfigAtom,
+  phoneticConfigAtom,
+  reviewModeInfoAtom,
+} from '@/store'
 import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
 import { Star } from 'lucide-react'
@@ -19,6 +27,7 @@ export default function WordPanel() {
   const { state, dispatch } = useContext(TypingContext)!
   const phoneticConfig = useAtomValue(phoneticConfigAtom)
   const isShowPrevAndNextWord = useAtomValue(isShowPrevAndNextWordAtom)
+  const isPlayMode = useAtomValue(isPlayModeAtom)
   const [wordComponentKey, setWordComponentKey] = useState(0)
   const [currentWordExerciseCount, setCurrentWordExerciseCount] = useState(0)
   const { times: loopWordTimes } = useAtomValue(loopWordConfigAtom)
@@ -193,11 +202,15 @@ export default function WordPanel() {
               >
                 <Star size={24} />
               </button>
-              <WordComponent word={currentWord} onFinish={onFinish} key={wordComponentKey} />
+              {isPlayMode ? (
+                <PlayWord word={currentWord} onFinish={onFinish} key={wordComponentKey} />
+              ) : (
+                <WordComponent word={currentWord} onFinish={onFinish} key={wordComponentKey} />
+              )}
               {phoneticConfig.isOpen && <Phonetic word={currentWord} />}
               <Translation
                 trans={currentWord.trans.join('；')}
-                showTrans={shouldShowTranslation}
+                showTrans={isPlayMode ? true : shouldShowTranslation}
                 onMouseEnter={() => handleShowTranslation(true)}
                 onMouseLeave={() => handleShowTranslation(false)}
               />

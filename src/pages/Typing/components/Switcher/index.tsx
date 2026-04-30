@@ -3,6 +3,7 @@ import AnalysisButton from '../AnalysisButton'
 import ErrorBookButton from '../ErrorBookButton'
 import HandPositionIllustration from '../HandPositionIllustration'
 import LoopWordSwitcher from '../LoopWordSwitcher'
+import PlayModeSwitcher from '../PlayModeSwitcher'
 import Setting from '../Setting'
 import SoundSwitcher from '../SoundSwitcher'
 import WordDictationSwitcher from '../WordDictationSwitcher'
@@ -48,6 +49,10 @@ export default function Switcher() {
 
       <Tooltip className="h-7 w-7" content="设置单个单词循环">
         <LoopWordSwitcher />
+      </Tooltip>
+
+      <Tooltip className="h-7 w-7" content="开关播放模式（自动顺次朗读，切换标签页仍可继续）">
+        <PlayModeSwitcher />
       </Tooltip>
 
       <Tooltip className="h-7 w-7" content={`开关默写模式（${CTRL} + V）`}>
