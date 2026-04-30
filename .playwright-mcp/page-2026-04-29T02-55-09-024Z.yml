@@ -1,4 +1,4 @@
 - generic [active] [ref=e1]:
-  - img "句乐部" [ref=e7]
-  - region "Notifications alt+T":
-    - list
+    - img "句乐部" [ref=e7]
+    - region "Notifications alt+T":
+        - list

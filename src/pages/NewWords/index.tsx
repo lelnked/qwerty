@@ -4,8 +4,9 @@ import { pronunciationConfigAtom } from '@/store'
 import { db } from '@/utils/db'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { useAtomValue } from 'jotai'
-import { Trash2, Volume2, Search, ExternalLink, BookMarked } from 'lucide-react'
-import React, { useState } from 'react'
+import { BookMarked, ExternalLink, Search, Trash2, Volume2 } from 'lucide-react'
+import type React from 'react'
+import { useState } from 'react'
 
 const NewWordsPage: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('')

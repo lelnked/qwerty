@@ -1,146 +1,146 @@
 - generic [ref=e2]:
-  - main [ref=e3]:
-    - generic [ref=e5]:
-      - link "Qwerty Learner Logo Qwerty Learner" [ref=e6] [cursor=pointer]:
-        - /url: https://qwerty.kaiyi.cool/
-        - img "Qwerty Learner Logo" [ref=e7]
-        - heading "Qwerty Learner" [level=1] [ref=e8]
-      - navigation [ref=e9]:
-        - generic [ref=e10]:
-          - link "CET-4" [ref=e12] [cursor=pointer]:
-            - /url: /gallery
-          - generic:
-            - generic: 词典切换
-        - generic [ref=e13]:
-          - button "第 1 章" [ref=e15] [cursor=pointer]
-          - generic:
-            - generic: 章节切换
-        - button "美音 发音及音标切换" [ref=e17] [cursor=pointer]:
-          - generic [ref=e18]:
-            - generic [ref=e19]: 美音
-            - generic:
-              - generic: 发音及音标切换
-        - generic [ref=e20]:
-          - generic [ref=e21]:
-            - button "音效设置" [ref=e24] [cursor=pointer]:
-              - img [ref=e25]
-            - generic:
-              - generic: 音效设置
-          - generic [ref=e29]:
-            - button "选择单词的循环次数" [ref=e32] [cursor=pointer]:
-              - img [ref=e34]
-            - generic:
-              - generic: 设置单个单词循环
-          - generic [ref=e36]:
-            - button "开关默写模式" [ref=e39] [cursor=pointer]:
-              - img [ref=e40]
-            - generic:
-              - generic: 开关默写模式（Ctrl + V）
-          - generic [ref=e45]:
-            - button "开关释义显示（Ctrl + Shift + V）" [ref=e47] [cursor=pointer]:
-              - img [ref=e48]
-            - generic:
-              - generic: 开关释义显示（Ctrl + Shift + V）
-          - generic [ref=e52]:
-            - button "查看错题本" [ref=e54] [cursor=pointer]:
-              - img [ref=e55]
-            - generic:
-              - generic: 错题本
-          - generic [ref=e57]:
-            - button "查看数据统计" [ref=e59] [cursor=pointer]:
-              - img [ref=e60]
-            - generic:
-              - generic: 查看数据统计
-          - generic [ref=e64]:
-            - button "开关深色模式" [ref=e66] [cursor=pointer]:
-              - img [ref=e67]
-            - generic:
-              - generic: 开关深色模式
-          - generic [ref=e69]:
-            - button [ref=e71] [cursor=pointer]:
-              - img [ref=e72]
-            - generic:
-              - generic: 指法图示
-          - generic [ref=e74]:
-            - button "打开设置对话框" [ref=e76] [cursor=pointer]:
-              - img [ref=e77]
-            - generic:
-              - generic: 设置
-        - generic [ref=e79]:
-          - button "开始" [ref=e81] [cursor=pointer]:
-            - generic [ref=e82]: Start
-          - generic:
-            - generic: 开始 （Enter）
-        - generic:
-          - generic:
-            - generic: 跳过该词
-    - generic [ref=e84]:
-      - generic [ref=e89]:
-        - paragraph [ref=e92]: 按任意键开始
-        - generic [ref=e93]:
-          - generic [ref=e95]:
-            - generic [ref=e96]:
-              - generic [ref=e97]: c
-              - generic [ref=e98]: a
-              - generic [ref=e99]: "n"
-              - generic [ref=e100]: c
-              - generic [ref=e101]: e
-              - generic [ref=e102]: l
-            - generic [ref=e104]:
-              - button [ref=e106] [cursor=pointer]:
-                - img [ref=e107]
-              - generic:
-                - generic: 快捷键Ctrl + J
-          - generic [ref=e109]: "AmE: ['kænsl]"
-          - generic [ref=e111]: 取消， 撤销； 删去
-      - generic [ref=e114]:
-        - generic [ref=e115]:
-          - generic [ref=e116]: 00:00
-          - generic [ref=e117]: 时间
-        - generic [ref=e118]:
-          - generic [ref=e119]: "0"
-          - generic [ref=e120]: 输入数
-        - generic [ref=e121]:
-          - generic [ref=e122]: "0"
-          - generic [ref=e123]: WPM
-        - generic [ref=e124]:
-          - generic [ref=e125]: "0"
-          - generic [ref=e126]: 正确数
-        - generic [ref=e127]:
-          - generic [ref=e128]: "0"
-          - generic [ref=e129]: 正确率
-    - generic [ref=e130]:
-      - link "前往 GitHub 项目主页" [ref=e131] [cursor=pointer]:
-        - /url: https://github.com/Kaiyiwing/qwerty-learner
-        - img [ref=e132]
-      - button "加入我们的小红书社群" [ref=e134] [cursor=pointer]:
-        - img [ref=e135]
-      - button "加入我们的微信用户群" [ref=e146] [cursor=pointer]:
-        - img [ref=e147]
-      - link "x" [ref=e149] [cursor=pointer]:
-        - /url: https://twitter.com/real_kai42
-        - img [ref=e150]
-      - button "考虑捐赠我们" [ref=e152] [cursor=pointer]:
-        - img [ref=e153]
-      - button "使用 Visual Studio Code 插件版 Qwerty Learner" [ref=e155] [cursor=pointer]:
-        - img [ref=e156]
-      - link "发送邮件到 me@kaiyi.cool" [ref=e158] [cursor=pointer]:
-        - /url: mailto:me@kaiyi.cool
-        - img [ref=e159]
-      - generic "查看友链" [ref=e161] [cursor=pointer]:
-        - img [ref=e162]
-      - generic [ref=e164]:
-        - link "前往中国大陆镜像" [ref=e166] [cursor=pointer]:
-          - /url: https://kaiyiwing.gitee.io/qwerty-learner
-          - img [ref=e167]
-        - generic:
-          - generic: 中国大陆镜像
-      - button "@ Qwerty Learner" [ref=e170] [cursor=pointer]
-      - link "鲁ICP备2022030649号" [ref=e171] [cursor=pointer]:
-        - /url: https://beian.miit.gov.cn
-      - generic [ref=e172]: Build 2498f75 (dev)
-  - generic:
-    - button [ref=e173] [cursor=pointer]:
-      - img [ref=e174]
+    - main [ref=e3]:
+        - generic [ref=e5]:
+            - link "Qwerty Learner Logo Qwerty Learner" [ref=e6] [cursor=pointer]:
+                - /url: https://qwerty.kaiyi.cool/
+                - img "Qwerty Learner Logo" [ref=e7]
+                - heading "Qwerty Learner" [level=1] [ref=e8]
+            - navigation [ref=e9]:
+                - generic [ref=e10]:
+                    - link "CET-4" [ref=e12] [cursor=pointer]:
+                        - /url: /gallery
+                    - generic:
+                        - generic: 词典切换
+                - generic [ref=e13]:
+                    - button "第 1 章" [ref=e15] [cursor=pointer]
+                    - generic:
+                        - generic: 章节切换
+                - button "美音 发音及音标切换" [ref=e17] [cursor=pointer]:
+                    - generic [ref=e18]:
+                        - generic [ref=e19]: 美音
+                        - generic:
+                            - generic: 发音及音标切换
+                - generic [ref=e20]:
+                    - generic [ref=e21]:
+                        - button "音效设置" [ref=e24] [cursor=pointer]:
+                            - img [ref=e25]
+                        - generic:
+                            - generic: 音效设置
+                    - generic [ref=e29]:
+                        - button "选择单词的循环次数" [ref=e32] [cursor=pointer]:
+                            - img [ref=e34]
+                        - generic:
+                            - generic: 设置单个单词循环
+                    - generic [ref=e36]:
+                        - button "开关默写模式" [ref=e39] [cursor=pointer]:
+                            - img [ref=e40]
+                        - generic:
+                            - generic: 开关默写模式（Ctrl + V）
+                    - generic [ref=e45]:
+                        - button "开关释义显示（Ctrl + Shift + V）" [ref=e47] [cursor=pointer]:
+                            - img [ref=e48]
+                        - generic:
+                            - generic: 开关释义显示（Ctrl + Shift + V）
+                    - generic [ref=e52]:
+                        - button "查看错题本" [ref=e54] [cursor=pointer]:
+                            - img [ref=e55]
+                        - generic:
+                            - generic: 错题本
+                    - generic [ref=e57]:
+                        - button "查看数据统计" [ref=e59] [cursor=pointer]:
+                            - img [ref=e60]
+                        - generic:
+                            - generic: 查看数据统计
+                    - generic [ref=e64]:
+                        - button "开关深色模式" [ref=e66] [cursor=pointer]:
+                            - img [ref=e67]
+                        - generic:
+                            - generic: 开关深色模式
+                    - generic [ref=e69]:
+                        - button [ref=e71] [cursor=pointer]:
+                            - img [ref=e72]
+                        - generic:
+                            - generic: 指法图示
+                    - generic [ref=e74]:
+                        - button "打开设置对话框" [ref=e76] [cursor=pointer]:
+                            - img [ref=e77]
+                        - generic:
+                            - generic: 设置
+                - generic [ref=e79]:
+                    - button "开始" [ref=e81] [cursor=pointer]:
+                        - generic [ref=e82]: Start
+                    - generic:
+                        - generic: 开始 （Enter）
+                - generic:
+                    - generic:
+                        - generic: 跳过该词
+        - generic [ref=e84]:
+            - generic [ref=e89]:
+                - paragraph [ref=e92]: 按任意键开始
+                - generic [ref=e93]:
+                    - generic [ref=e95]:
+                        - generic [ref=e96]:
+                            - generic [ref=e97]: c
+                            - generic [ref=e98]: a
+                            - generic [ref=e99]: 'n'
+                            - generic [ref=e100]: c
+                            - generic [ref=e101]: e
+                            - generic [ref=e102]: l
+                        - generic [ref=e104]:
+                            - button [ref=e106] [cursor=pointer]:
+                                - img [ref=e107]
+                            - generic:
+                                - generic: 快捷键Ctrl + J
+                    - generic [ref=e109]: "AmE: ['kænsl]"
+                    - generic [ref=e111]: 取消， 撤销； 删去
+            - generic [ref=e114]:
+                - generic [ref=e115]:
+                    - generic [ref=e116]: 00:00
+                    - generic [ref=e117]: 时间
+                - generic [ref=e118]:
+                    - generic [ref=e119]: '0'
+                    - generic [ref=e120]: 输入数
+                - generic [ref=e121]:
+                    - generic [ref=e122]: '0'
+                    - generic [ref=e123]: WPM
+                - generic [ref=e124]:
+                    - generic [ref=e125]: '0'
+                    - generic [ref=e126]: 正确数
+                - generic [ref=e127]:
+                    - generic [ref=e128]: '0'
+                    - generic [ref=e129]: 正确率
+        - generic [ref=e130]:
+            - link "前往 GitHub 项目主页" [ref=e131] [cursor=pointer]:
+                - /url: https://github.com/Kaiyiwing/qwerty-learner
+                - img [ref=e132]
+            - button "加入我们的小红书社群" [ref=e134] [cursor=pointer]:
+                - img [ref=e135]
+            - button "加入我们的微信用户群" [ref=e146] [cursor=pointer]:
+                - img [ref=e147]
+            - link "x" [ref=e149] [cursor=pointer]:
+                - /url: https://twitter.com/real_kai42
+                - img [ref=e150]
+            - button "考虑捐赠我们" [ref=e152] [cursor=pointer]:
+                - img [ref=e153]
+            - button "使用 Visual Studio Code 插件版 Qwerty Learner" [ref=e155] [cursor=pointer]:
+                - img [ref=e156]
+            - link "发送邮件到 me@kaiyi.cool" [ref=e158] [cursor=pointer]:
+                - /url: mailto:me@kaiyi.cool
+                - img [ref=e159]
+            - generic "查看友链" [ref=e161] [cursor=pointer]:
+                - img [ref=e162]
+            - generic [ref=e164]:
+                - link "前往中国大陆镜像" [ref=e166] [cursor=pointer]:
+                    - /url: https://kaiyiwing.gitee.io/qwerty-learner
+                    - img [ref=e167]
+                - generic:
+                    - generic: 中国大陆镜像
+            - button "@ Qwerty Learner" [ref=e170] [cursor=pointer]
+            - link "鲁ICP备2022030649号" [ref=e171] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn
+            - generic [ref=e172]: Build 2498f75 (dev)
     - generic:
-      - generic: List
+        - button [ref=e173] [cursor=pointer]:
+            - img [ref=e174]
+        - generic:
+            - generic: List
