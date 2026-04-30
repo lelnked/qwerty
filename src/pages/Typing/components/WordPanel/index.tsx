@@ -1,7 +1,9 @@
 import { TypingContext, TypingStateActionType } from '../../store'
 import type { TypingState } from '../../store/type'
+import KeyboardHints from '../KeyboardHints'
 import PrevAndNextWord from '../PrevAndNextWord'
 import Progress from '../Progress'
+import TopStats from '../TopStats'
 import Phonetic from './components/Phonetic'
 import PlayWord from './components/PlayWord'
 import Translation from './components/Translation'
@@ -187,8 +189,17 @@ export default function WordPanel() {
   }, [isShowTranslation, state.isTransVisible])
 
   return (
-    <div className="container flex h-full w-full flex-col items-center justify-center">
-      <div className="container flex h-24 w-full shrink-0 grow-0 justify-between px-12 pt-10">
+    <div className="container flex h-full w-full flex-col items-center justify-between">
+      <div className="w-full">
+        <Progress className={state.isTyping ? 'opacity-100' : 'opacity-40'} />
+        <div className="flex items-center justify-between px-6 pt-3">
+          <TopStats />
+          <div className="text-xs text-gray-400 dark:text-gray-500">
+            {state.chapterData.index + 1} / {state.chapterData.words.length}
+          </div>
+        </div>
+      </div>
+      <div className="container flex h-16 w-full shrink-0 grow-0 justify-between px-12">
         {isShowPrevAndNextWord && state.isTyping && (
           <>
             <PrevAndNextWord type="prev" />
@@ -232,7 +243,7 @@ export default function WordPanel() {
           </div>
         )}
       </div>
-      <Progress className={`mb-10 mt-auto ${state.isTyping ? 'opacity-100' : 'opacity-0'}`} />
+      <KeyboardHints />
     </div>
   )
 }

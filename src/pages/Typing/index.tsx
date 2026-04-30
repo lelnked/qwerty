@@ -2,7 +2,6 @@ import Layout from '../../components/Layout'
 import { DictChapterButton } from './components/DictChapterButton'
 import PronunciationSwitcher from './components/PronunciationSwitcher'
 import ResultScreen from './components/ResultScreen'
-import Speed from './components/Speed'
 import StartButton from './components/StartButton'
 import Switcher from './components/Switcher'
 import WordList from './components/WordList'
@@ -14,14 +13,7 @@ import { DonateCard } from '@/components/DonateCard'
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import {
-  currentChapterAtom,
-  currentDictIdAtom,
-  isPlayModeAtom,
-  isReviewModeAtom,
-  randomConfigAtom,
-  reviewModeInfoAtom,
-} from '@/store'
+import { currentChapterAtom, currentDictIdAtom, isPlayModeAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useMixPanelChapterLogUploader } from '@/utils/mixpanel'
@@ -174,13 +166,8 @@ const App: React.FC = () => {
             <div className="container flex flex-grow items-center justify-center">
               {isAllMastered ? (
                 <div className="flex flex-col items-center justify-center gap-4 px-6 text-center">
-                  <p className="text-lg text-gray-600 dark:text-gray-300">
-                    该章节内容已全部加入生词本，可前往生词本查看
-                  </p>
-                  <a
-                    href="/new-words"
-                    className="rounded-xl bg-indigo-500 px-4 py-2 text-sm font-bold text-white hover:bg-indigo-600"
-                  >
+                  <p className="text-lg text-gray-600 dark:text-gray-300">该章节内容已全部加入生词本，可前往生词本查看</p>
+                  <a href="/new-words" className="rounded-xl bg-indigo-500 px-4 py-2 text-sm font-bold text-white hover:bg-indigo-600">
                     打开生词本
                   </a>
                 </div>
@@ -195,7 +182,6 @@ const App: React.FC = () => {
                 !state.isFinished && <WordPanel />
               )}
             </div>
-            <Speed />
           </div>
         </div>
       </Layout>
