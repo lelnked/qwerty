@@ -31,13 +31,6 @@ export default function SoundSetting() {
     },
     [setPlayModeConfig],
   )
-  const onTogglePlayReadTrans = useCallback(
-    (checked: boolean) => {
-      setPlayModeConfig((prev) => ({ ...prev, readTrans: checked }))
-    },
-    [setPlayModeConfig],
-  )
-
   const onTogglePronunciation = useCallback(
     (checked: boolean) => {
       setPronunciationConfig((prev) => ({
@@ -230,14 +223,6 @@ export default function SoundSetting() {
 
           <div className={styles.section}>
             <span className={styles.sectionLabel}>播放模式</span>
-            <div className={styles.switchBlock}>
-              <Switch checked={playModeConfig.readTrans} onChange={onTogglePlayReadTrans} className="switch-root">
-                <span aria-hidden="true" className="switch-thumb" />
-              </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`朗读释义已${
-                playModeConfig.readTrans ? '开启' : '关闭'
-              }`}</span>
-            </div>
             <div className={styles.block}>
               <span className={styles.blockLabel}>朗读次数</span>
               <div className="flex h-5 w-full items-center justify-between">

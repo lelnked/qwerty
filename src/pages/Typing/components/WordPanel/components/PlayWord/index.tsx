@@ -3,7 +3,7 @@ import { isPlayModeAtom, playModeConfigAtom, pronunciationConfigAtom } from '@/s
 import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
 import { Pause, Play, SkipForward } from 'lucide-react'
-import { useCallback, useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 type Props = {
   word: Word
@@ -21,6 +21,16 @@ export default function PlayWord({ word, onFinish }: Props) {
   const onFinishRef = useRef(onFinish)
   onFinishRef.current = onFinish
 
+  // 把最新配置写入 ref，避免它们的变化触发 cycle 重启而打断当前播放
+  const volumeRef = useRef(pronunciationConfig.volume)
+  const rateRef = useRef(pronunciationConfig.rate)
+  const repeatTimesRef = useRef(playConfig.repeatTimes)
+  const intervalMsRef = useRef(playConfig.intervalMs)
+  volumeRef.current = pronunciationConfig.volume
+  rateRef.current = pronunciationConfig.rate
+  repeatTimesRef.current = playConfig.repeatTimes
+  intervalMsRef.current = playConfig.intervalMs
+
   const [isPaused, setIsPaused] = useState(false)
 
   const clearTimer = () => {
@@ -30,42 +40,6 @@ export default function PlayWord({ word, onFinish }: Props) {
     }
   }
 
-  const playAudio = useCallback(
-    (src: string) => {
-      return new Promise<void>((resolve) => {
-        if (!src) {
-          resolve()
-          return
-        }
-        // 释放上一个 audio 实例
-        if (audioRef.current) {
-          audioRef.current.pause()
-          audioRef.current.src = ''
-          audioRef.current = null
-        }
-        // 不要设置 crossOrigin，否则有道发音会因 CORS 失败导致无声
-        const audio = new Audio(src)
-        audio.volume = pronunciationConfig.volume
-        audio.playbackRate = pronunciationConfig.rate
-        audio.preload = 'auto'
-        audioRef.current = audio
-        let done = false
-        const finish = () => {
-          if (done) return
-          done = true
-          audio.removeEventListener('ended', finish)
-          audio.removeEventListener('error', finish)
-          resolve()
-        }
-        audio.addEventListener('ended', finish)
-        audio.addEventListener('error', finish)
-        audio.play().catch(() => finish())
-      })
-    },
-    [pronunciationConfig.volume, pronunciationConfig.rate],
-  )
-
-  // 单词或暂停状态变化时，重置并启动播放循环
   useEffect(() => {
     isPausedRef.current = isPaused
   }, [isPaused])
@@ -75,49 +49,64 @@ export default function PlayWord({ word, onFinish }: Props) {
     let playedTimes = 0
 
     const wordSrc = generateWordSoundSrc(word.name, pronunciationConfig.type)
-    const transSrc = playConfig.readTrans ? generateWordSoundSrc(word.trans.join('，'), 'zh') : ''
 
-    const waitWhilePaused = async () => {
-      while (!cancelled && isPausedRef.current) {
-        await new Promise<void>((resolve) => {
-          timerRef.current = window.setTimeout(resolve, 200)
-        })
-      }
-    }
+    const playOnce = (src: string) =>
+      new Promise<void>((resolve) => {
+        if (!src) {
+          resolve()
+          return
+        }
+        // 不要设置 crossOrigin，否则有道发音会因 CORS 失败导致无声
+        const audio = new Audio(src)
+        audio.volume = volumeRef.current
+        audio.playbackRate = rateRef.current
+        audio.preload = 'auto'
+        audioRef.current = audio
+        let done = false
+        const finish = () => {
+          if (done) return
+          done = true
+          audio.removeEventListener('ended', onEnd)
+          audio.removeEventListener('error', onErr)
+          resolve()
+        }
+        const onEnd = () => finish()
+        const onErr = () => finish()
+        audio.addEventListener('ended', onEnd)
+        audio.addEventListener('error', onErr)
+        audio.play().catch(() => finish())
+      })
 
     const wait = (ms: number) =>
       new Promise<void>((resolve) => {
         timerRef.current = window.setTimeout(resolve, ms)
       })
 
+    const waitWhilePaused = async () => {
+      while (!cancelled && isPausedRef.current) {
+        await wait(200)
+      }
+    }
+
     const cycle = async () => {
-      // 按设置朗读 N 遍后再切下一个
-      while (!cancelled && playedTimes < playConfig.repeatTimes) {
+      while (!cancelled && playedTimes < repeatTimesRef.current) {
         await waitWhilePaused()
         if (cancelled) return
 
-        await playAudio(wordSrc)
+        await playOnce(wordSrc)
         if (cancelled) return
-
-        if (playConfig.readTrans && transSrc) {
-          await wait(300)
-          if (cancelled) return
-          await waitWhilePaused()
-          if (cancelled) return
-          await playAudio(transSrc)
-          if (cancelled) return
-        }
 
         playedTimes += 1
 
-        if (playedTimes < playConfig.repeatTimes) {
+        if (playedTimes < repeatTimesRef.current) {
           // 同一单词不同遍之间的小间隔
-          await wait(Math.min(600, playConfig.intervalMs))
+          await wait(Math.min(600, intervalMsRef.current))
+          if (cancelled) return
         }
       }
       if (cancelled) return
       // 全部遍数读完后等待间隔再切到下一个
-      await wait(playConfig.intervalMs)
+      await wait(intervalMsRef.current)
       if (cancelled) return
       onFinishRef.current()
     }
@@ -127,13 +116,14 @@ export default function PlayWord({ word, onFinish }: Props) {
     return () => {
       cancelled = true
       clearTimer()
-      if (audioRef.current) {
-        audioRef.current.pause()
-        audioRef.current.src = ''
+      const audio = audioRef.current
+      if (audio) {
+        audio.pause()
+        audio.src = ''
         audioRef.current = null
       }
     }
-  }, [word, playConfig.intervalMs, playConfig.repeatTimes, playConfig.readTrans, pronunciationConfig.type, playAudio])
+  }, [word, pronunciationConfig.type])
 
   const togglePause = () => {
     setIsPaused((p) => {
