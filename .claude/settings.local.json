@@ -1,6 +1,20 @@
 {
   "permissions": {
-    "allow": ["WebSearch"],
+    "allow": [
+      "WebSearch",
+      "mcp__plugin_serena_serena__initial_instructions",
+      "mcp__plugin_serena_serena__check_onboarding_performed",
+      "Bash(yarn dev *)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_tabs",
+      "mcp__playwright__browser_snapshot",
+      "mcp__plugin_serena_serena__list_dir",
+      "mcp__plugin_serena_serena__activate_project",
+      "mcp__playwright__browser_evaluate",
+      "mcp__playwright__browser_take_screenshot",
+      "Bash(yarn add *)",
+      "Bash(node *)"
+    ],
     "deny": [],
     "ask": []
   }

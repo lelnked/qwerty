@@ -1,0 +1,2 @@
+[     753ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://securepubads.g.doubleclick.net/tag/js/gpt.js:0
+[    1786ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://cdn.ampproject.org/lts/v0.js:0

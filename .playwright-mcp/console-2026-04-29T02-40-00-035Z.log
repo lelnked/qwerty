@@ -1,0 +1,25 @@
+[    2831ms] [LOG] Initializing chunk error handler... @ https://keykey.cc/assets/js/index-374941df.js:359
+[    2832ms] [LOG] Chunk error handler initialized @ https://keykey.cc/assets/js/index-374941df.js:359
+[    2832ms] [LOG] Starting version check... @ https://keykey.cc/assets/js/index-374941df.js:360
+[    3558ms] [LOG] 📦 [迁移检查] 开始 FSRS 数据迁移... @ https://keykey.cc/assets/js/ebbinghaus-migration-978edf12.js:0
+[    3559ms] [LOG] ℹ️ [迁移检查] 没有数据需要迁移 @ https://keykey.cc/assets/js/ebbinghaus-migration-978edf12.js:0
+[    3787ms] [LOG] Version hash initialized: -f0n5k3 @ https://keykey.cc/assets/js/index-374941df.js:359
+[    3825ms] [LOG] [currentDictInfoAtom] 🔍 Looking for dict with id: cet4 @ https://keykey.cc/assets/js/index-374941df.js:46
+[    3825ms] [LOG] [currentDictInfoAtom] 📚 Found static dict: cet4 (CET-4) @ https://keykey.cc/assets/js/index-374941df.js:46
+[    3826ms] [LOG] [currentDictInfoAtom] 🎯 Returning dict: cet4 (CET-4), URL: /dicts/dicts/CET4_T.json @ https://keykey.cc/assets/js/index-374941df.js:46
+[    3866ms] [LOG] [wordListFetcher] 📦 Loading dictionary resource: /resources/dicts/file/CET4_T.json @ https://keykey.cc/assets/js/index-2ef2b85f.js:0
+[    3904ms] [LOG] [ResourceLoader] ⚠️ Blob URL cache miss for: /sounds/key-sound/Default.wav. Cache size: 0, Keys: [] @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3904ms] [LOG] [ResourceLoader] ⚠️ Blob URL cache miss for: /sounds/beep.wav. Cache size: 0, Keys: [] @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3905ms] [LOG] [ResourceLoader] ⚠️ Blob URL cache miss for: /sounds/correct.wav. Cache size: 0, Keys: [] @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3922ms] [LOG] [ResourceLoader] 🌐 Loading from network: /resources/dicts/file/CET4_T.json @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3923ms] [LOG] [ResourceLoader] 🌐 Loading from network: /sounds/key-sound/Default.wav @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3924ms] [LOG] [ResourceLoader] 🌐 Loading from network: /sounds/beep.wav @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3925ms] [LOG] [ResourceLoader] 🌐 Loading from network: /sounds/correct.wav @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    3992ms] [LOG] [Analytics] Umami 统计加载成功 @ https://keykey.cc/assets/js/index-374941df.js:295
+[    4365ms] [LOG] Version check started, will check every 300s @ https://keykey.cc/assets/js/index-374941df.js:360
+[    5494ms] [LOG] [ResourceLoader] 🔗 Created Blob URL from network: /sounds/beep.wav -> blob:https://keykey.cc/471eea6e-bc29-4e65-a55f-2c8b4c6d4e33 @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    5505ms] [LOG] [ResourceLoader] 🔗 Created Blob URL from network: /sounds/key-sound/Default.wav -> blob:https://keykey.cc/134fcd9f-841a-4ce3-b636-60a0a963f7bc @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[    5513ms] [LOG] [ResourceLoader] 🔗 Created Blob URL from network: /sounds/correct.wav -> blob:https://keykey.cc/d0922496-93c9-4c99-9f0a-4a5d1977a094 @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0
+[  106097ms] [LOG] 📱 用户进入应用，准备启动引导 @ https://keykey.cc/assets/js/index-fdfdc296.js:69
+[  107298ms] [WARNING] introJs() is deprecated. Please use introJs.tour() or introJs.hint() instead. @ https://keykey.cc/assets/js/index-fdfdc296.js:45
+[ 3789810ms] [LOG] [ResourceLoader] 🌐 Loading from network: /resources/courses/index @ https://keykey.cc/assets/js/resourceLoader-a072ea26.js:0

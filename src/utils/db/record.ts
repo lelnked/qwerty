@@ -170,16 +170,28 @@ export interface IRevisionWordRecord {
   errorCount: number
 }
 
-export class RevisionWordRecord implements IRevisionWordRecord {
+export interface INewWord {
+  id?: number
   word: string
+  dictId: string
   timeStamp: number
-  dict: string
-  errorCount: number
+  meaning: string
+  pronunciation: string
+}
 
-  constructor(word: string, dict: string, errorCount: number) {
+export class NewWord implements INewWord {
+  id?: number
+  word: string
+  dictId: string
+  timeStamp: number
+  meaning: string
+  pronunciation: string
+
+  constructor(word: string, dictId: string, meaning: string, pronunciation: string) {
     this.word = word
+    this.dictId = dictId
+    this.meaning = meaning
+    this.pronunciation = pronunciation
     this.timeStamp = getUTCUnixTimestamp()
-    this.dict = dict
-    this.errorCount = errorCount
   }
 }

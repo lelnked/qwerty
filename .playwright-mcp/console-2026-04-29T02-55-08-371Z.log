@@ -1,0 +1,15 @@
+[     530ms] [LOG] [APMPlus] 前端监控初始化完成 @ https://julebu.co/_nuxt/BbXoU772.js:1
+[     600ms] [WARNING] [Analytics] SDK 未启动，请先调用 start() @ https://julebu.co/_nuxt/BbXoU772.js:1
+[     643ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://julebu.co/login?callback=/home:0
+[     762ms] [LOG] 🔄 Retrying 🟨⬜️⬜️ @ https://julebu.co/_nuxt/BbXoU772.js:1
+[     763ms] [LOG] ⏲️ delaying attempt #1 by 1000ms @ https://julebu.co/_nuxt/BbXoU772.js:1
+[    1834ms] [LOG] 🔄 Retrying 🟨🟨⬜️ @ https://julebu.co/_nuxt/BbXoU772.js:1
+[    1834ms] [LOG] ⏲️ delaying attempt #2 by 2000ms @ https://julebu.co/_nuxt/BbXoU772.js:1
+[    1835ms] [ERROR] Error: User not authenticated
+    at Object.query (https://julebu.co/_nuxt/BbXoU772.js:2:625209) @ :0
+[    3900ms] [LOG] 🔄 Retrying 🟨🟨🟨 @ https://julebu.co/_nuxt/BbXoU772.js:1
+[    3900ms] [ERROR] Error: User not authenticated
+    at Object.query (https://julebu.co/_nuxt/BbXoU772.js:2:625209) @ :0
+[   61305ms] [WARNING] [PageSpy] 当前用户不在允许列表中，已禁用 @ https://julebu.co/_nuxt/BbXoU772.js:1
+[   72505ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://earthworm-prod-1312884695.cos.ap-beijing.myqcloud.com/course-packs/1762769499932_d24033c0-99bf-46aa-bc2e-b4a74f643771.avif:0
+[ 2433970ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://julebu.co/src/utils/db/index.ts:0

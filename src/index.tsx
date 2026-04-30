@@ -13,10 +13,12 @@ import process from 'process'
 import React, { Suspense, lazy, useEffect, useState } from 'react'
 import 'react-app-polyfill/stable'
 import { createRoot } from 'react-dom/client'
+import { Toaster } from 'react-hot-toast'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 
 const AnalysisPage = lazy(() => import('./pages/Analysis'))
 const GalleryPage = lazy(() => import('./pages/Gallery-N'))
+const NewWordsPage = lazy(() => import('./pages/NewWords'))
 
 if (process.env.NODE_ENV === 'production') {
   // for prod
@@ -49,6 +51,7 @@ function Root() {
 
   return (
     <React.StrictMode>
+      <Toaster position="top-right" />
       <BrowserRouter basename={REACT_APP_DEPLOY_ENV === 'pages' ? '/qwerty-learner' : ''}>
         <Suspense fallback={<Loading />}>
           <Routes>
@@ -57,6 +60,7 @@ function Root() {
             ) : (
               <>
                 <Route index element={<TypingPage />} />
+                <Route path="/new-words" element={<NewWordsPage />} />
                 <Route path="/gallery" element={<GalleryPage />} />
                 <Route path="/analysis" element={<AnalysisPage />} />
                 <Route path="/error-book" element={<ErrorBook />} />

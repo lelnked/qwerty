@@ -5,10 +5,12 @@ import Progress from '../Progress'
 import Phonetic from './components/Phonetic'
 import Translation from './components/Translation'
 import WordComponent from './components/Word'
+import { useNewWords } from '@/hooks/useNewWords'
 import { usePrefetchPronunciationSound } from '@/hooks/usePronunciation'
 import { isReviewModeAtom, isShowPrevAndNextWordAtom, loopWordConfigAtom, phoneticConfigAtom, reviewModeInfoAtom } from '@/store'
 import type { Word } from '@/typings'
 import { useAtomValue, useSetAtom } from 'jotai'
+import { Star } from 'lucide-react'
 import { useCallback, useContext, useMemo, useState } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 
@@ -22,9 +24,22 @@ export default function WordPanel() {
   const { times: loopWordTimes } = useAtomValue(loopWordConfigAtom)
   const currentWord = state.chapterData.words[state.chapterData.index]
   const nextWord = state.chapterData.words[state.chapterData.index + 1] as Word | undefined
+  const { addNewWord } = useNewWords()
 
   const setReviewModeInfo = useSetAtom(reviewModeInfoAtom)
   const isReviewMode = useAtomValue(isReviewModeAtom)
+
+  // 快捷键收藏单词
+  useHotkeys(
+    'ctrl+s',
+    (e) => {
+      e.preventDefault()
+      if (currentWord) {
+        addNewWord(currentWord)
+      }
+    },
+    { enableOnFormTags: true },
+  )
 
   const prevIndex = useMemo(() => {
     const newIndex = state.chapterData.index - 1
@@ -170,7 +185,14 @@ export default function WordPanel() {
                 </div>
               </div>
             )}
-            <div className="relative">
+            <div className="group relative">
+              <button
+                onClick={() => addNewWord(currentWord)}
+                className="absolute -right-12 top-0 p-2 text-gray-300 opacity-0 transition-all hover:text-amber-400 group-hover:opacity-100"
+                title="加入生词本 (Ctrl+S)"
+              >
+                <Star size={24} />
+              </button>
               <WordComponent word={currentWord} onFinish={onFinish} key={wordComponentKey} />
               {phoneticConfig.isOpen && <Phonetic word={currentWord} />}
               <Translation

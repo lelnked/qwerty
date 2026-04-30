@@ -1,0 +1,251 @@
+[     525ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[    1153ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[    1193ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[    1193ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[    1194ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[    1194ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[    1539ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://stats.g.doubleclick.net/g/collect?v=2&tid=G-3FTEQXFKNF&cid=1885915624.1777430394&gtm=45je64r1v879443818za200zd879443818&rcb=13&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=0~115938466~115938469~117266400~117512542~117884344:0
+[    1860ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[    1862ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777430394934} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[   84319ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[   84545ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[   84545ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777430477617} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[   84589ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[   84589ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[   84614ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[   84614ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  125151ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  125325ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  125326ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777430518398} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  125369ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  125369ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  125394ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  125394ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  280033ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  280033ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  280058ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  280059ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  621129ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  621269ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  621269ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431014342} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  621345ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[  621407ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  621407ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  621435ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  621435ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  622920ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431015982} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  624522ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/analysis color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/analysis, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431017586} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  624674ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/react-activity-calendar.js?v=43884625:0
+[  624683ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  624689ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_charts.js?v=43884625:0
+[  624690ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_components.js?v=43884625:0
+[  624691ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_core.js?v=43884625:0
+[  624696ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  624698ms] [ERROR] The above error occurred in the <Route.Provider> component:
+
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777430839699:56:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:14035
+[  624699ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  624699ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_features.js?v=43884625:0
+[  624699ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_renderers.js?v=43884625:0
+[  626709ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431019781} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  628275ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431021348} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  629964ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  630051ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  630052ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431023124} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  630144ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[  630166ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  630166ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  630193ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  630193ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  637121ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431030188} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  645981ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431039027} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  646085ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=zoom&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  646086ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=zoom&type=2:0
+[  646116ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=zoom&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  646116ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=zoom&type=2:0
+[  649059ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431042035} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  660857ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431053876} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  660981ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  660982ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  661010ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  661011ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  663443ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431056411} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  664857ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/analysis color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/analysis, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431057923} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  664893ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/react-activity-calendar.js?v=43884625:0
+[  664896ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  664900ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  664901ms] [ERROR] The above error occurred in the <Route.Provider> component:
+
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=43884625:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777430839699:56:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:14035
+[  664902ms] Failed to fetch dynamically imported module: http://localhost:5173/src/pages/Analysis/index.tsx
+[  664902ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_charts.js?v=43884625:0
+[  664905ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_components.js?v=43884625:0
+[  664906ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_core.js?v=43884625:0
+[  664907ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_features.js?v=43884625:0
+[  664907ms] [ERROR] Failed to load resource: the server responded with a status of 504 (Outdated Optimize Dep) @ http://localhost:5173/node_modules/.vite/deps/echarts_renderers.js?v=43884625:0
+[  667036ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431060109} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  677421ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  677520ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  677520ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/gallery color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/gallery, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431070593} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  691482ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  691666ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[  691677ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  691677ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431084749} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  691732ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  691732ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  691759ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  691759ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  692646ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:358
+[  692646ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:254
+[  692646ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:257
+[  693258ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  693435ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[  693445ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  693446ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431086518} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  693457ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  693457ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  693482ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  693483ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  694372ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:358
+[  694372ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:254
+[  694373ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:257
+[  695104ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[  695279ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:290
+[  695284ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  695284ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431088357} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[  695301ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  695301ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  695328ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[  695328ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[  695714ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:358
+[  695714ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:254
+[  695714ms] [WARNING] The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://developer.chrome.com/blog/autoplay/#web_audio @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=43884625:257
+[ 1131126ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[ 1131358ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 1131359ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431524431} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 1131504ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 1131504ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 1131541ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 1131541ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 1152856ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=43884625:21535
+[ 1152989ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 1152989ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777431546061} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 1153231ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 1153231ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 1153258ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 1153258ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 1172851ms] [ERROR] SyntaxError: The requested module '/node_modules/.vite/deps/lucide-react.js?v=43884625' does not provide an export named 'BookMark' @ http://localhost:5173/@vite/client:269
+[ 1172852ms] [ERROR] [hmr] Failed to reload /src/components/Sidebar/index.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:271
+[ 1191224ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/index.tsx?t=1777431584057:0
+[ 1191230ms] [ERROR] [hmr] Failed to reload /src/index.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:271
+[ 1191406ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/index.tsx?t=1777431584267:0
+[ 1313617ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/hooks/useNewWords.ts:0
+[ 2508796ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2631280ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2632969ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2633898ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2641485ms] [LOG] [vite] server connection lost. polling for restart... @ http://localhost:5173/@vite/client:261
+[ 2641491ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5173/:0
+[ 2642495ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5173/:0
+[ 2646630ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2652146ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2672959ms] The requested module '/node_modules/.vite/deps/lucide-react.js?v=b1858699' does not provide an export named 'BookMark'
+[ 2749640ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:21535
+[ 2749878ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 2749879ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433142951} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 2749979ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=b1858699:290
+[ 2750039ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 2750039ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 2750067ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 2750067ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 2752707ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/new-words color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/new-words, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433145767} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 2752740ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2752749ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2752752ms] [ERROR] The above error occurred in the <Route.Provider> component:
+
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777433095917:59:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:14035
+[ 2752753ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2757467ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:21535
+[ 2757667ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 2757668ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/new-words color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/new-words, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433150740} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 2757678ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2757685ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2757686ms] [ERROR] The above error occurred in one of your React components:
+
+    at Lazy
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777433095917:59:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:14035
+[ 2757687ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 2758966ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433152039} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3442979ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:21535
+[ 3443125ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3443125ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/ color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433836198} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3443202ms] [WARNING] HTML5 Audio pool exhausted, returning potentially locked audio object. @ http://localhost:5173/node_modules/.vite/deps/howler.js?v=b1858699:290
+[ 3443306ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 3443306ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 3443306ms] [ERROR] Access to audio at 'https://dict.youdao.com/dictvoice?audio=explosive&type=2' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ http://localhost:5173/:0
+[ 3443306ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://dict.youdao.com/dictvoice?audio=explosive&type=2:0
+[ 3444549ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/new-words color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/new-words, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433837617} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3445375ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 3445376ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 3445377ms] [ERROR] The above error occurred in the <Route.Provider> component:
+
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=b1858699:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777433791805:59:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=b1858699:14035
+[ 3445377ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 3447565ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=eaba391c:21535
+[ 3447712ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3447712ms] [LOG] %c[Vercel Web Analytics]%c [view] http://localhost:5173/new-words color: rgb(120, 120, 120) color: inherit {o: http://localhost:5173/new-words, sv: 0.1.3, sdkn: @vercel/analytics/react, sdkv: 1.5.0, ts: 1777433840785} /_vercel/insights/view @ https://va.vercel-scripts.com/v1/script.debug.js:0
+[ 3447726ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 3447729ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
+[ 3447731ms] [ERROR] The above error occurred in one of your React components:
+
+    at Lazy
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=eaba391c:3135:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=eaba391c:3544:5)
+    at Suspense
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=eaba391c:3491:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=eaba391c:3940:5)
+    at Root (http://localhost:5173/src/index.tsx?t=1777433791805:59:20)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-QJV3R4PZ.js?v=eaba391c:14035
+[ 3447732ms] The requested module '/src/hooks/usePronunciation.ts' does not provide an export named 'usePronunciation'
